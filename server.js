@@ -17,7 +17,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 // app.use('/api', proxy);
 
 // Import and Set Nuxt.js options
-let config = require('../nuxt.config.js')
+let config = require('./nuxt.config.js')
 config.dev = !(process.env.NODE_ENV === 'production')
 
 async function start() {
