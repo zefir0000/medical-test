@@ -3,11 +3,11 @@
     <el-col :span="6">
       <img id="header-logo" src="../static/logo.png">
       <nuxt-link to="/">
-        <el-button class="back-button" type="info" v-if="back" icon="el-icon-top" plain>Back to menu</el-button>
+        <el-button class="back-button" type="info" v-if="back" icon="el-icon-top" plain><span class="asd">Back to menu</span></el-button>
       </nuxt-link>
     </el-col>
     <el-col :span="24" :offset="0" class="head-title">
-      <br> Medical University - Tests 
+      <br> Medical University - Tests
     </el-col>
     <el-col :span="6"></el-col>
   </el-row>
@@ -58,5 +58,27 @@ export default {
   left: 10px;
   top: -10px;
   width: 180px;
+}
+@media only screen and (max-width: 875px) {
+#header-logo {
+  display: none;
+
+}
+.asd {
+  display: none;
+}
+.head-title {
+  margin-top: 10px;
+
+  font-size: 24px;
+  font-family: "Great Vibes", cursive;
+  margin-bottom: 10px;
+}
+.back-button {
+  position: absolute;
+  right: 10px;
+  height: 35px;
+  top: 3px;
+}
 }
 </style>

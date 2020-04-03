@@ -4,16 +4,17 @@
       <el-header class="service-header" style="height: auto">{{data.question}}
 
       </el-header>
-
       <el-main>
-        <div style="    justify-content: center;">
+        <div style=" justify-content: center;">
           <el-radio-group
             v-model="radio1"
             v-for="answer in data.answers"
             :key="answer.answer"
             style="display: block;"
           >
-            <el-radio-button style=" margin: 10px;" :label="answer">{{answer.answer}}</el-radio-button>
+
+            <el-radio-button style=" margin: 10px;
+" :label="answer">{{answer.answer}}</el-radio-button>
           </el-radio-group>
         </div>
       </el-main>
@@ -90,6 +91,11 @@ export default {
 </script>
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap');
+.el-radio-button__inner {
+  white-space: normal;
+
+}
 .check {
   display: block;
   justify-content: center;
@@ -112,8 +118,21 @@ export default {
 .service-description {
   height: auto;
   font-size: 42px;
+  font-family: 'Spicy Rice', cursive;
   color: aliceblue;
   border-radius: 12px;
   background-color: green;
+}
+@media only screen and (max-width: 875px) {
+  .service-header {
+      font-size: 14px;
+
+  }
+  .service-description {
+    font-size: 28px;
+  }
+  .el-radio-button__inner {
+    min-width: 320px;
+  }
 }
 </style>

@@ -1,9 +1,9 @@
 <template>
   <section class="container">
     <div style="width: 100%;" >
-      <el-row type="flex" justify="center" style="width: 100%;" >
+      <el-row type="flex-inline" justify="center" style="width: 100%; " >
         <nuxt-link to="/test/1" class="button-link" ><el-button type="success">Package 1</el-button></nuxt-link>
-        <nuxt-link to="/test/1" class="button-link" ><el-button type="success">Package 2</el-button></nuxt-link>
+        <nuxt-link to="/test/1" class="button-link" ><el-button type="success" style=" margin: 20px 0px">Package 2</el-button></nuxt-link>
         <nuxt-link to="/test/1" class="button-link" ><el-button type="success">Package 3</el-button></nuxt-link>
       </el-row>
       <br>
@@ -37,6 +37,9 @@ export default {
   color: red;
 }
 .button-link {
-  margin: 10px;
+  margin: 20px;
+}
+@media only screen and (max-width: 875px) {
+  
 }
 </style>

@@ -1,16 +1,16 @@
 <template>
-  <div style="background-color: white">
-    <br>
+  <div style="background-color: white; ">
+    <br class="asd">
     <el-row :gutter="20">
-      <el-col :span="4">
+      <el-col :span="4" class="asd">
         <div class="grid-content bg-purple"></div>
       </el-col>
-      <el-col :span="16" style="  box-shadow: 1px 1px 8px black; background-color: lightgrey">
+      <el-col :span="16" class="main-body">
         <Header/>
         <nuxt/>
       </el-col>
-      <el-col :span="4">
-        <div class="grid-content bg-purple"></div>
+      <el-col :span="4" class="asd">
+        <div class="grid-content bg-purple" ></div>
       </el-col>
     </el-row>
   </div>
@@ -35,6 +35,11 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+}
+.main-body {
+  box-shadow: 1px 1px 8px black;
+  background-color: lightgrey;
+  min-height: 100vh
 }
 
 *,
@@ -73,21 +78,33 @@ html {
   background-color: #35495e;
 }
 .el-row {
-    margin-bottom: 20px;
-  }
-  .el-col {
-    border-radius: 4px;
-  }
+  margin-bottom: 20px;
+}
+.el-col {
+  border-radius: 4px;
+}
 
-  .bg-purple-light {
-    background: #e5e9f2;
-  }
-  .grid-content {
-    border-radius: 4px;
-    min-height: 36px;
+.bg-purple-light {
+  background: #e5e9f2;
+}
+.grid-content {
+  border-radius: 4px;
+  min-height: 36px;
+}
+.row-bg {
+  padding: 10px 0;
+  background-color: #f9fafc;
+}
+@media only screen and (max-width: 875px) {
+  .main-body {
+    width: 100%;
+    box-shadow: 1px 1px 8px transparent;
   }
   .row-bg {
-    padding: 10px 0;
-    background-color: #f9fafc;
-  }
+  display: none
+}
+.asd {
+  display: none
+}
+}
 </style>
