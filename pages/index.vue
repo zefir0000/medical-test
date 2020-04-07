@@ -2,9 +2,9 @@
   <section class="container">
     <div style="width: 100%;" >
       <el-row type="flex-inline" justify="center" style="width: 100%; " >
-        <nuxt-link to="/test/1" class="button-link" ><el-button type="success">Package 1</el-button></nuxt-link>
-        <nuxt-link to="/test/1" class="button-link" ><el-button type="success" style=" margin: 20px 0px">Package 2</el-button></nuxt-link>
-        <nuxt-link to="/test/1" class="button-link" ><el-button type="success">Package 3</el-button></nuxt-link>
+        <nuxt-link to="/test/1" class="button-link" ><el-button type="success">Start lern</el-button></nuxt-link>
+        <!-- <nuxt-link to="/testRandom/1" class="button-link" ><el-button type="success" style=" margin: 20px 0px">Start Test</el-button></nuxt-link> -->
+        <nuxt-link to="/test-random/1" class="button-link" ><el-button type="success">Random Questions</el-button></nuxt-link>
       </el-row>
       <br>
       <hr>
@@ -40,6 +40,6 @@ export default {
   margin: 20px;
 }
 @media only screen and (max-width: 875px) {
-  
+
 }
 </style>

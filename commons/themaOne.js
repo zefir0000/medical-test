@@ -11000,7 +11000,7 @@ export const thema = [
     ]
   },
   {
-    "question": 'Patient 19  years old, appealed with complaints of bleeding gums and their overgrowth. Objectively: gingival papillae and gingival edge are hyperemic, swollen with cyanotic shade, cover crowns of teeth for 1/2 of height, bleeding during touching. What additional methods of examination should be used in order to put a diagnose?',
+    "question": "Patient 19  years old, appealed with complaints of bleeding gums and their overgrowth. Objectively: gingival papillae and gingival edge are hyperemic, swollen with cyanotic shade, cover crowns of teeth for 1/2 of height, bleeding during touching. What additional methods of examination should be used in order to put a diagnose?",
     "answers": [
       {
         "answer": "Electro-dental-diagnosis",
@@ -12375,7 +12375,7 @@ export const thema = [
     ]
   },
   {
-    "question": "A preventive examination of 34 years old patient revealed a cavity at the occlusal surface of 45. Objectively: cavity isn't deep, dentine is hard with brown coloration. The floor of the cavity is hard. Probing and percussion are painless. Temperature test is negative. What is the most likely diagnosis?",
+    "question": "A preventive examination of 34 years old patient revealed a cavity at the occlusal surface of 45. Objectively: cavity isn`t deep, dentine is hard with brown coloration. The floor of the cavity is hard. Probing and percussion are painless. Temperature test is negative. What is the most likely diagnosis?",
     "answers": [
       {
         "answer": "Acute initial caries",
@@ -17545,6 +17545,29932 @@ export const thema = [
       },
       {
         "answer": "Not to injure gums",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 45-year-old female patient complains about pain caused by thermal srtimuli and spontaneous pain in the 26 tooth. A week ago this tooth was treated for pulpitis. Objectively: the 26 tooth is ?lled, percussion is painful, thermal stimulus causes slowly intensifying long-lasting pain. X-ray picture shows that the palatine canal is ?lled by 2/3, buccal canals contain no ?lling material. What is the most probable cause of this complication?",
+    "answers": [
+      {
+        "answer": "Incomplete pulp extirpation",
+        "value": true
+      },
+      {
+        "answer": "Inadequate canal ?lling",
+        "value": false
+      },
+      {
+        "answer": "Infection",
+        "value": false
+      },
+      {
+        "answer": "In?ammation in the periodontium",
+        "value": false
+      },
+      {
+        "answer": "Trauma of periodontium tissue",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 48-year-old patient complains about itching gums. Objectively: gums are dense, of normal colour; cold water causes short-term toothache. X-ray picture shows osteosclerosis of interalveolar septa (?ne granular bone texture), height of interalveolar septa and integrity of compact substance on their tops is unchanged. Which diagnosis is the most likely?",
+    "answers": [
+      {
+        "answer": "Initial parodontosis",
+        "value": true
+      },
+      {
+        "answer": "Atrophic gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Initial periodontitis",
+        "value": false
+      },
+      {
+        "answer": "I degree periodontitis",
+        "value": false
+      },
+      {
+        "answer": "I degree parodontosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 26-year-old patient needs an inlay for a class V cavity of the 35 tooth. During the cavity preparation a prosthodontist has accidentally opened the pulp. What might be the most probable cause of this complication?",
+    "answers": [
+      {
+        "answer": "Forming a ?at ?oor",
+        "value": true
+      },
+      {
+        "answer": "Forming divergent walls",
+        "value": false
+      },
+      {
+        "answer": "Forming convergent walls",
+        "value": false
+      },
+      {
+        "answer": "Forming a bevel",
+        "value": false
+      },
+      {
+        "answer": "Absence of an additional cavity",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After removal of dental deposit an 18-year-old patient underwent preventive examination. It revealed painless chalky spots in the precervical area on the vestibular surface of the 22 and 41 teeth. Result of enamel resistance test is 7. What morphological changes are typical for this disease?",
+    "answers": [
+      {
+        "answer": "Subsurface enamel demineralization",
+        "value": true
+      },
+      {
+        "answer": "Changes in the mantle dentine",
+        "value": false
+      },
+      {
+        "answer": "Damage of dentinoenamel junction",
+        "value": false
+      },
+      {
+        "answer": "Super?cial enamel demineralization",
+        "value": false
+      },
+      {
+        "answer": "Degeneratic changes of odontoblasts",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 18-year-old patient complains about gingival haemorrhage and tooth mobility. He has been suffering from this since the age of 4. Objectively: gums around all the teeth are hyperemic and edematic, bleed during instrumental examination. Tooth roots are exposed by 1/3 and covered with whitish deposit. II degree tooth mobility is present. Dentogingival pocket are 4-5 mm deep. External examination revealed dryness and thickening of super?cial skin layer on the hands and feet, there are also some cracks. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Papillon-Lefevre syndrome",
+        "value": true
+      },
+      {
+        "answer": "Hand-Schuller-Christian disease",
+        "value": false
+      },
+      {
+        "answer": "Generalized periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Letterer-Siwe disease",
+        "value": false
+      },
+      {
+        "answer": "Localized periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 20-year-old patient complains about feeling spontaneous undurable localised pain in the 26 tooth for one day. Objectively: the 26 tooth has a deep Black’s class I carious cavity. Dentine of its walls and ?oor is unpigmented, softened, carious cavity is not communicating with the tooth cavity. Probing causes acute pain focused at a single point, cold test induces long-lasting pain. What method of treatment is the most appropriate in this case?",
+    "answers": [
+      {
+        "answer": "Biological method",
+        "value": true
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Vital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Devital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Devital amputation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 31-year-old patient consulted a dentist about teeth sanitation. Objectively: in the precervical region of the 13 and 23 teeth there are irregularly-shaped defects of hard tissues within deep layers of enamel. The ?oor of the defects is rough, their edges are chalky. What tactics should be chosen as to these defects?",
+    "answers": [
+      {
+        "answer": "Preparation and ?lling",
+        "value": true
+      },
+      {
+        "answer": "Filling with composite material without preparation",
+        "value": false
+      },
+      {
+        "answer": "Remineralizing therapy",
+        "value": false
+      },
+      {
+        "answer": "Grinding of the defects",
+        "value": false
+      },
+      {
+        "answer": "Silvering of the defects",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 51-year-old female patient complains about food sticking in a right inferior tooth. Objectively: distal masticatory surface of the 45 tooth has a deep carious cavity ?lled with dense pigmented dentin that doesn’t communicate with the tooth cavity. The patient was diagnosed with chronic deep caries. What method of examination allowed the dentist to eliminate chronic periodontitis?",
+    "answers": [
+      {
+        "answer": "Electro-odontometry",
+        "value": true
+      },
+      {
+        "answer": "Probing",
+        "value": false
+      },
+      {
+        "answer": "Palpation of projection of root apex",
+        "value": false
+      },
+      {
+        "answer": "Percussion",
+        "value": false
+      },
+      {
+        "answer": "Cold test",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 18-year-old patient complains about body temperature rise, weakness, pain induced by eating and deglutition. Objectively: mucous membrane of the oral cavity is erythematic with multiple petechia. Pharynx is hyperaemic. Regional lymph nodes are enlarged, mobile, painless. In blood: leukocytosis, monocytosis, atypic mononuclears, ESR is 30 mm/h. What is the leading factor of disease development?",
+    "answers": [
+      {
+        "answer": "Viral infection",
+        "value": true
+      },
+      {
+        "answer": "Bacterial infection",
+        "value": false
+      },
+      {
+        "answer": "Autoimmune disorders",
+        "value": false
+      },
+      {
+        "answer": "Immediate allergy",
+        "value": false
+      },
+      {
+        "answer": "Delayed allergy",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 50-year-old patient complains about increased sensibility of the exposed tooth cervixes, displacement of teeth, gum itch, pain in the region of the 43, 42, 41, 31, 32, 33 teeth caused by chemical and thermal stimuli. Objectively: the gums are dense and anemic. X-ray picture shows atrophy of the alveolar bone reaching 2/3 of interalveolar septa height. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "III degree parodontosis",
+        "value": true
+      },
+      {
+        "answer": "II degree parodontosis",
+        "value": false
+      },
+      {
+        "answer": "Chronic generalized III degree parodontosis",
+        "value": false
+      },
+      {
+        "answer": "Chronic generalized II degree parodontosis",
+        "value": false
+      },
+      {
+        "answer": "Atrophic gingivitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23-year-old patient complains about a small ulcer on the red border of her lower lip that has been irresponsive to self-treatment for two weeks. Objectively: unchanged red border of lower lip has a circular ulcer of 2 mm in diameter with raised regular edges, its ?oor is of meat-like colour, dense, shiny, with 'stearic ?lm', with cartilaginoid in?ltration, painless on palpation. Regional lymph node is enlarged, of tight elastic consistency, painless, mobile. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Primary syphilis",
+        "value": true
+      },
+      {
+        "answer": "Decubital ulcer",
+        "value": false
+      },
+      {
+        "answer": "Cancerous ulcer",
+        "value": false
+      },
+      {
+        "answer": "Lupus erythematosus",
+        "value": false
+      },
+      {
+        "answer": "Tuberculous ulcer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "X-ray picture depicts a circular well-de?ned area of bone tissue destruction 0,7х0,7 cm large in the projection of root apex. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Cystogranuloma",
+        "value": true
+      },
+      {
+        "answer": "Cyst",
+        "value": false
+      },
+      {
+        "answer": "Granuloma",
+        "value": false
+      },
+      {
+        "answer": "Odontoma",
+        "value": false
+      },
+      {
+        "answer": "Osteoma",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 29-year-old patient complains about acute attack-like pain in the region of his upper jaw on the left, as well as in the region of his left maxillary sinus, eye and temple. The pain is long-lasting (2-3 hours), it is getting worse at night. The patient has a history of recent acute respiratory disease. Objectively: the 26 tooth has a carious cavity, ?oor probing is painful, thermal stimuli cause long-lasting pain, percussion causes slight pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute focal pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute apical periodontitis",
+        "value": false
+      },
+      {
+        "answer": "In?ammation of maxillary sinus",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 20-year-old patient complains about a carious cavity in an upper right tooth. Objectively: the 16 tooth has a deep carious cavity communicating with the tooth cavity, probing at the opening point is painless, percussion of the 16 causes mild pain. There is a ?stula on the gingiva in the region of root apex projection of the 16 tooth. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic hypertrophic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 16-year-old patient complains about a cosmetic defect in form of white spots in the region of the upper frontal teeth. The defect was revealed long ago and doesn’t change with time. Objectively: white spots on the vestibular surfaces of the 11, 12, 21, 22 teeth close to the cutting edge and on the vestibular surfaces of the 16, 26, 36, 46 teeth close to the masticatory surface. On probing the spot surface was smooth, painless; cold stimulus produced no pain. The spots couldn’t be stained with 2% solution of methylene blue. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Systemic enamel hypoplasia",
+        "value": true
+      },
+      {
+        "answer": "Local enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Acute initial caries",
+        "value": false
+      },
+      {
+        "answer": "Fluorosis in form of spots",
+        "value": false
+      },
+      {
+        "answer": "Erosion of dental solid tissues",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-old patient complains about a cavity in a lower jaw tooth on the left, and the pain caused by sweet, sour and solid food. Examination of the 36 tooth revealed a deep carious cavity ?lled with light softened dentine. Probing of the carious cavity ?oor is painful, reaction to the cold stimulus is painful, undurable. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute deep caries",
+        "value": true
+      },
+      {
+        "answer": "Acute focal pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 31-year-old male patient complains of dryness and burning of tongue back that appeared for about a week ago and get worse when he eats irritating food. The patient has a history of recent pneumonia. He had been treated in the in-patient hospital for 2 weeks, the treatment program included antibiotics. Now he doesn’t take any drugs. Objectively: mucous membrane of the oral cavity is hyperemic, dry, glossy. Tongue back and palate have greyish-white plicae that can be easily removed. Threads of saliva trail behind the spatula. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute pseudomembranous candidiasis",
+        "value": true
+      },
+      {
+        "answer": "Chronic hyperplastic candidiasis",
+        "value": false
+      },
+      {
+        "answer": "Acute atrophic candidiasis",
+        "value": false
+      },
+      {
+        "answer": "Medicamental stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic atrophic candidiasis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient consulted an oral surgeon about pain in the region of his left upper jaw that appeared 3 days ago. After examination the patient was diagnosed with exacerbation of chronic periodontitis of the 17 tooth. It is indicated to extract the 17 tooth. What nerves should be blocked for painless extraction of the 17 tooth?",
+    "answers": [
+      {
+        "answer": "Posterior alveolar nerves and greater palatine nerve",
+        "value": true
+      },
+      {
+        "answer": "Greater palatine nerve",
+        "value": false
+      },
+      {
+        "answer": "Anterior alveolar nerves and incisor nerve",
+        "value": false
+      },
+      {
+        "answer": "Median alveolar nerves and greater palatine nerve",
+        "value": false
+      },
+      {
+        "answer": "Nasopalatine nerve",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 20-year-old patient complains about acute spontaneous spasmodic pain in an upper jaw tooth on the left. Objectively: distal contact surface of the 26 tooth exhibits a carious cavity ?lled with light softened dentine and localized within parapulpar dentine. Probing of the cavity ?oor causes acute pain, percussion is painless. Cold stimuli cause a long-standing pain attack. The patient has a history of lidocaine allergy. Choose an optimal paste to be used during the ?rst visit:",
+    "answers": [
+      {
+        "answer": "Paraformaldehyde",
+        "value": true
+      },
+      {
+        "answer": "Iodoform",
+        "value": false
+      },
+      {
+        "answer": "Thymol",
+        "value": false
+      },
+      {
+        "answer": "Formocresol",
+        "value": false
+      },
+      {
+        "answer": "Zinc oxide eugenol",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Preventive examination of an 8-year-old boy revealed some lusterless chalk-like spots on the vestibular surface of the 11 and 21 teeth, which are localised in the precervical region. Subjective complaints are absent. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute initial caries",
+        "value": true
+      },
+      {
+        "answer": "White-spotted ?uorosis",
+        "value": false
+      },
+      {
+        "answer": "Local enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Acute super?cial caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic initial caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 27- year-old patient complains about acute pain in the region of the 34 tooth that is getting worse when biting down on food. Roentgenographical survey revealed an ill-de?ned zone of bone tissue destruction in the periapical region of root of the 34 tooth. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic granulating periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent pulpitis complicated by periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacarbation of chronic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic granulomatous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute serous periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 47-year-old patient complains about permanent pain in the 27 tooth that is getting worse when biting down on food. Objectively: the patient’s face is symmetric, skin is of normal colouring, the mouth can be fully opened, mucous membrane of the alveolar process is edematic and hyperemic at a level of the 27 tooth. The 27 tooth has a deep carious cavity interconnecting with pulp chamber. Percussion of the 27 tooth causes acute pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbated chronic periodontitis of the 27tooth",
+        "value": true
+      },
+      {
+        "answer": "Chronic periodontitis of the 27 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute generalized purulent pulpitis of the27tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periostitis of the upper jaw beginning from the 27 tooth",
+        "value": false
+      },
+      {
+        "answer": "Chronic left-sided odontogenous highmoritis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 18-year-old patient complains of a cavity in a lower jaw tooth. Objectively: masticatory surface of the 34 tooth exhibits a carious cavity within mantle dentine. Dentine is softened, probing of the cavity walls is painful, percussion is painless. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute median caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic super?cial caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 64-year-old patient complains about a slightly painful ulcer on the lateral surface of his tongue that appeared over 2 months ago. Objectively: lateral surface of tongue has an ulcer with raised edges, tissues around it are in?ltrated. Submandibular lymph nodes are enlarged, adhering to each other and surrounding tissues. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Lingual cancer",
+        "value": true
+      },
+      {
+        "answer": "Syphilis (hard chancre)",
+        "value": false
+      },
+      {
+        "answer": "Tuberculous ulcer",
+        "value": false
+      },
+      {
+        "answer": "Decubital ulcer",
+        "value": false
+      },
+      {
+        "answer": "Ulcero-necrotic lesion associated withblood disorders",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 18-year-old student complains of roughness and dryness of mucous membrane of the oral cavity. He always bites uncontrolledly off mucous membrane along the line of teeth joining. The patient suffers from chronic cholecystitis, he is smoker. Hygiene index is 2,3. Objectively: mucous membrane along the line of teeth joining is quaggy, edematic, whitish. What is the leading factor of this disease development?",
+    "answers": [
+      {
+        "answer": "Habitual biting of mucous membrane of the oral cavity",
+        "value": true
+      },
+      {
+        "answer": "Unsatisfactory level of oral cavity hygiene",
+        "value": false
+      },
+      {
+        "answer": "Somatic pathology",
+        "value": false
+      },
+      {
+        "answer": "Xerostomia",
+        "value": false
+      },
+      {
+        "answer": "Smoking",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 57-year-old patient complains about dryness and burning of the lateral surface of her tongue. These sensations disappear during eating. She noted such sensations three months ago. She has a history of gastritis with reduced secretory function. Objectively: mucous membrane of tongue and oral cavity has no peculiarities. The back of tongue has thin white coating. Regional lymph nodes are unpalpable. Oral cavity is sanitized. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Glossodynia",
+        "value": true
+      },
+      {
+        "answer": "Lingual nerve neuritis",
+        "value": false
+      },
+      {
+        "answer": "Candidiasis",
+        "value": false
+      },
+      {
+        "answer": "Desquamative glossitis",
+        "value": false
+      },
+      {
+        "answer": "Hunter-Moeller glossitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23-year-old patient complains about a carious cavity in the 15 tooth that he noted a year ago. Examination revealed that approximal surface had a deep carious cavity not communicating with the tooth cavity and ?lled with dense pigmented dentine. Probing, cold test, percussion cause no pain. Electroodontodiagnosis is 10 microampere. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic deep caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 17-year-old, complains about spontaneous pain in the upper right molars. Both medial contact and masticatory surfaces of the 25 tooth have a carious cavitiy ?lled with clear softened dentin and localized within parapulpar dentin. Floor probing causes acute pain, tooth percussion is slightly painful. Mucous membrane of the alveolar process in the root projection of the 25 is intact, examination of this region revealed no roentgenological changes. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Deep acute caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 33-year-old patient complains about pain, gingival haemorrhage, halitosis, body temperature rise up to 37, 8oC. Objectively: gums are apparently hyperaemic, edematic, bleed easily, parodontal pouches are 3-4 mm deep, and contain purulent exudate. Orthopantomogram shows diffuse osteoporosis of alveolar process, resorption of interdental septa down to 1/3 of their height. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic generalized I degree periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic generalized I degree periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic generalized II degree periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic generalized II degree periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic catarrhal gingivitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 18-year-old boy complains about acute short-term pain in the 11 tooth caused by cold and sweet stimuli. Objectively: medial contact surface of the 11tooth has a carious cavity within dentino-enamel junction ?lled with softened moist dentine that can be easily removed. Enamel edges are white, undermined, friable. Super?cial probing is painless, thermal test is positive, percussion is negative. What is the ?lling material of choice?",
+    "answers": [
+      {
+        "answer": "Glass ionomer cement",
+        "value": true
+      },
+      {
+        "answer": "Silicophosphate cement",
+        "value": false
+      },
+      {
+        "answer": "Composite material",
+        "value": false
+      },
+      {
+        "answer": "Silver amalgam",
+        "value": false
+      },
+      {
+        "answer": "Silicate cement",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A female patient complains about pain in the 11 tooth caused by sour and sweet  food. Objectively: enamel changes in form of chalky appearance, a defect with light bottom within dentinoenamel junction on the vestibular surface in the precervical area of the 11 tooth. Probing was painless, percussion and cold stimulus caused no pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute super?cial caries",
+        "value": true
+      },
+      {
+        "answer": "Acute initial caries",
+        "value": false
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Fluorosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 32-year-old patient complains about mouth soreness, body temperature rise up to 38, 5oC, indisposition. Such condition has been occurring periodically for several years after the patient had had a cold. Objectively: lips are covered with haemorrhagic crusts, hyperaemic mucous membrane of lips and cheeks has erosions covered with ?brinous ?lms. Hypersalivation is present. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Multiform exudative erythema",
+        "value": true
+      },
+      {
+        "answer": "Pemphigus vulgaris",
+        "value": false
+      },
+      {
+        "answer": "Herpes recidivicus",
+        "value": false
+      },
+      {
+        "answer": "Herpetiform Duhring’s dermatitis",
+        "value": false
+      },
+      {
+        "answer": "Stevens-Johnson syndrome",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-old patient was diagnosed with chronic median caries of the 36 tooth. There is a Black’s class II cavity affecting masticatory surface. What material should be chosen for the tooth ?lling?",
+    "answers": [
+      {
+        "answer": "Light-cure microhybride composite",
+        "value": true
+      },
+      {
+        "answer": "Glass ionomer cement",
+        "value": false
+      },
+      {
+        "answer": "Silicophosphate cement",
+        "value": false
+      },
+      {
+        "answer": "Light-cure ?uid composite",
+        "value": false
+      },
+      {
+        "answer": "Light-cure micro?lled composite",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 56-year-old patient has an oval, smooth, bright-red erosion on the red border of her lower lip. Erosion is covered with haemorrhagic crusts that can be hardly removed. Crust removal induces slight haemorrhage. Light traumatization of crust-free surface of erosion induces no haemorrhage. Specify the type of lower lip precancer:",
+    "answers": [
+      {
+        "answer": "Abrasive precancerous Manganotti’s cheilitis",
+        "value": true
+      },
+      {
+        "answer": "Verrucous precancer of red border",
+        "value": false
+      },
+      {
+        "answer": "Localized precancerous hyperkeratosis of red border",
+        "value": false
+      },
+      {
+        "answer": "Bowen’s disease",
+        "value": false
+      },
+      {
+        "answer": "Erythroplasia",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 22-year-old patient complains about bleeding from the tooth socket during eating and tooth brushing. The tooth has hurt him before. Objectively: the 36 tooth has a deep cavity communicating with the tooth cavity and ?lled with red excrescences. Probing causes pain and slight haemorrhage; percussion is painless, thermal stimuli cause mild pain. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic hypertrophic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic granulating pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic papillitis",
+        "value": false
+      },
+      {
+        "answer": "Gingival polyp",
+        "value": false
+      },
+      {
+        "answer": "Chronic simple pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23-year-old patient complains about gingival haemorrhage during tooth brushing and eating solid food. Objectively: gingiva of the frontal part of mandible is hyperaemic, edematic, it bleeds on palpation. Mucous membrane of the oral cavity as well as gingiva in other regions present no changes. The patient has deep overbite. Teeth are stable except for the 41 and 31 (I degree of mobility). X-ray picture shows resorption of interalveolar septa by 1/3 of root length in the region of the 42, 41, 32, 31 teeth. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Localised periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Initial generalized periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Generalized I degree periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Catarrhal gingivitis",
+        "value": false
+      },
+      {
+        "answer": "I degree parodontosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23-year-old patient complains about gingival haemorrhage during tooth brushing. Objectively: gums around all the teeth are hyperemic and edematic, PMA index (papillary marginal alveolary index) is 46%, Greene-Vermillion hygiene index is 2,5. Provisional diagnosis: exacerbation of chronic generalized catarrhal gingivitis. This patient should be recommended to use a toothpaste with the following active component:",
+    "answers": [
+      {
+        "answer": "Chlorhexidine",
+        "value": true
+      },
+      {
+        "answer": "Calcium glycerophosphate",
+        "value": false
+      },
+      {
+        "answer": "Mono?uorophosphate",
+        "value": false
+      },
+      {
+        "answer": "Vitamins A, D, E",
+        "value": false
+      },
+      {
+        "answer": "Microelement complex",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 20-year-old patient undergoes sanitation of the oral cavity. The girl was found to have chalky spots on the vestibular surfaces in the precervical region of the 21 and 12 teeth. Enamel surface is dull, smooth. Pain reaction to the temperature stimuli is absent. What additional method of examination is expected to con?rm the diagnosis?",
+    "answers": [
+      {
+        "answer": "Vital staining",
+        "value": true
+      },
+      {
+        "answer": "Orthopantomography",
+        "value": false
+      },
+      {
+        "answer": "Intraoral roentgenography",
+        "value": false
+      },
+      {
+        "answer": "Electroodontodiagnostics",
+        "value": false
+      },
+      {
+        "answer": "Ultraviolet stomatoscopy",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 20-year-old patient complains about pain and haemorrhages in the region of the 36 tooth occuring during eating solid food. Objectively: medial masticatory surface of the 36 tooth has a large carious cavity occupied by a carneous tumour-like formation, probing induces haemorrhage and pain in the region of connection of the carious cavity with the pulp chamber. Percussion is painless. Electroodontodiagnosis is 40 microampere. Roentgenological changes are absent. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic hypertrophic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Epulis",
+        "value": false
+      },
+      {
+        "answer": "Hypertrophic papillitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-old patient complains about progressing throbbing pain in the 26 tooth. Objectively: the 26 tooth has a carious cavity ?lled with softened dentine, tooth cavity is closed, probing of the cavity ?oor is painless, percussion causes acute pain. There is I degree tooth mobility. Roentgenological changes are absent. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute serous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains of burning, itch and lower lip enlargement. He has been suffering from this for a long time. Objectively: the patient’s face is asymmetric due to the ?attening of nasolabial fold. His lower lip is edematic, of normal colour, painless on palpation. The patient has plicated tongue. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Melkersson-Rosenthal syndrome",
+        "value": true
+      },
+      {
+        "answer": "Quincke’s edema",
+        "value": false
+      },
+      {
+        "answer": "Lymphangioma",
+        "value": false
+      },
+      {
+        "answer": "Hemangioma",
+        "value": false
+      },
+      {
+        "answer": "Granulomatous Miescher’s cheilitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 30-year-old patient consulted a dentist about a cosmetic defect and slight pain in the 44 tooth during tooth brushing. Objectively: there is a Black’s class V carious cavity within mantle dentine. Probing of the cavity walls causes slight pain, thermal probe is positive. What ?lling material is to be chosen for restoration of this cavity?",
+    "answers": [
+      {
+        "answer": "Compomer restorative material",
+        "value": true
+      },
+      {
+        "answer": "Chemical-cure composite",
+        "value": false
+      },
+      {
+        "answer": "Amalgam",
+        "value": false
+      },
+      {
+        "answer": "Polycarboxylate cement",
+        "value": false
+      },
+      {
+        "answer": "Metal ceramics",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 18-year-old patient complains of short-term pain in the 37 tooth caused by sweet and cold stimuli. Objectively: masticatory surface of the 37 tooth has a carious cavity within mantle dentine. The cavity is ?lled with softened dentine. Probing of the cavity walls induces pain in the region of dentinoenamel junction, electroodontodiagnosis is 6 microampere. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute median caries",
+        "value": true
+      },
+      {
+        "answer": "Acute super?cial caries",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Pulp hyperaemia",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 49-year-old patient applied to the oral surgery department and complained about permanent intense dull pain in the region of the right upper jaw. It is known from the anamnesis that the 17 tooth has been repeatedly treated for exacerbation of chronic periodontitis but the treatment appeared to be ineffective. What kind of anesthesia should be applied for extraction of the 17 tooth?",
+    "answers": [
+      {
+        "answer": "Tuberal and palatinal",
+        "value": true
+      },
+      {
+        "answer": "Tuberal and incisor",
+        "value": false
+      },
+      {
+        "answer": "Tuberal, incisor and palatinal",
+        "value": false
+      },
+      {
+        "answer": "Incisor and paltinal",
+        "value": false
+      },
+      {
+        "answer": "Torus",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 50-year-old patient complains about problems with mastication, tooth mobility, halitosis, gingival haemorrhages. Objectively: gums are hyperemic with cyanotic colouring, there is dental calculus. Parodontal pouches of the superior molars are 8 mm deep, the pouches of other teeth are 6 mm deep. X-ray picture shows resorption of bone tissue by 2/3-1/2 of root length. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic generalized periodontitis of III degree",
+        "value": true
+      },
+      {
+        "answer": "Chronic generalized periodontitis of II degree",
+        "value": false
+      },
+      {
+        "answer": "Chronic generalized periodontitis of I degree",
+        "value": false
+      },
+      {
+        "answer": "Acute generalized periodontitis of III degree",
+        "value": false
+      },
+      {
+        "answer": "Acute generalized periodontitis of II Degree",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 18-year-old patient complains about gingival enlargement, pain and haemorrhage when eating solid food. Objectively: hyperaemia, gingival edema, hypertrophy of gingival edge up to ? of crown height by the 12, 13, 14 teeth. Formalin test is painless. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Hypertrophic gingivitis",
+        "value": true
+      },
+      {
+        "answer": "Generalized II degree periodontitis, chronic course",
+        "value": false
+      },
+      {
+        "answer": "Catarrhal gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Ulcero-necrotic gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of generalized I degree periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 60-year-old patient underwents sanitation of the oral cavity before an operation on account of cataract. After examination the patient was diagnosed with chronic median caries of the 22 tooth (Black’s class V). What ?lling material should not be used in this patient?",
+    "answers": [
+      {
+        "answer": "Light-cure microhybrid material",
+        "value": true
+      },
+      {
+        "answer": "Chemical-cure microhybrid material",
+        "value": false
+      },
+      {
+        "answer": "Chemical-cure glass ionomer cement",
+        "value": false
+      },
+      {
+        "answer": "Silicate cement",
+        "value": false
+      },
+      {
+        "answer": "Chemical-cure macro?lled composite",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 42-year-old patient complains about gingival pain, progressing gingival haemorrhage, increasing tooth mobility, halitosis. Objectively: gums are evidently hyperaemic, extremely edematic, they bleed easily on palpation. Tooth roots are exposed, parodontal pouches are 4-6 mm deep, and contain purulent exudate, there is also supragingival and subgingival dental calculus. II-III grade tooth mobility is present. Orthopantomogram shows resorption of interdental septa down to 1/2 of their height. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of generalized II degree periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of generalized I degree periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of generalized III degree periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic generalized II degree periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic generalized III degree periоdontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Renovation of a dental room involves installation of luminous tube lamps. Specify the required illuminance level in lux:",
+    "answers": [
+      {
+        "answer": "500 lux",
+        "value": true
+      },
+      {
+        "answer": "400 lux",
+        "value": false
+      },
+      {
+        "answer": "300 lux",
+        "value": false
+      },
+      {
+        "answer": "200 lux",
+        "value": false
+      },
+      {
+        "answer": "100 lux",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 28-year-old patient complains about a cosmetic defect in the frontal part of his upper jaw. Objectively: the crown part of the 11 tooth is decayed below the gum level. The root is stable, percussion is painless. It is planned to restore the tooth with a stump inlay and cover it with a metal-ceramic crown. What additional method of diagnostics should be applied in this clinical situation?",
+    "answers": [
+      {
+        "answer": "X-ray diagnostics",
+        "value": true
+      },
+      {
+        "answer": "Electromyography",
+        "value": false
+      },
+      {
+        "answer": "Masticatiography",
+        "value": false
+      },
+      {
+        "answer": "Gnathodynamometry",
+        "value": false
+      },
+      {
+        "answer": "Electroodontodiagnostics",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains about paroxysmal upper jaw toothache on the left that is getting worse at night. Toothache intensi?es also under stimulation and irradiates to the left eye and temple. Similar attacks were noted three months ago, the patient didn’t undergo any treatment. Objectively: the 25 tooth has a deep carious cavity communicating with the tooth cavity. Probing causes acute pain at the point of communication, vertical percussion is slightly painful, horizontal one is painless. Mucous membrane in the projection of root apex of the 25 tooth is unchanged, its palpation is painless. Thermal probe causes acute pain, the pain attack is long-lasting. Electroodontodiagnosis is 60 microampere. X-ray picture shows slight widening of periodontal ?ssure at the root apex of the 25 tooth. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute generalized pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23-year-old patient complains about gingival haemorrhage during tooth brushing, intensive formation of dental plaque despite thorough dental care. Objectively: gingival papillae are slightly edematic, congestively hyperemic, bleed when touched. Hygiene index according to Fedorov and Volodkina is 3,5. What toothpaste would you recommend this patient as a part of complex therapy?",
+    "answers": [
+      {
+        "answer": "Salt-containing toothpaste",
+        "value": true
+      },
+      {
+        "answer": "Toothpaste containing mineralizing components",
+        "value": false
+      },
+      {
+        "answer": "Fluorine-containing toothpaste",
+        "value": false
+      },
+      {
+        "answer": "Gel toothpaste with microelements",
+        "value": false
+      },
+      {
+        "answer": "Toothpaste with antifungal agents",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A pregnant 24-year-old woman complains about emergence of several new carious cavities, falling out of old ?llings. Objective examination revealed: index of decayed, missing and ?lled teeth (DMF) = 16, Feodorov-Volodkina hygiene index is 3,3. Choose the optimal material for carious cavity ?lling in this case:",
+    "answers": [
+      {
+        "answer": "Glass ionomer cement",
+        "value": true
+      },
+      {
+        "answer": "Silver amalgam",
+        "value": false
+      },
+      {
+        "answer": "Chemical-cure composite",
+        "value": false
+      },
+      {
+        "answer": "Light-cure composite",
+        "value": false
+      },
+      {
+        "answer": "Silicophosphate cement",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A group of specialists conducts an epidemiological survey of certain age groups of population aimed at evaluation of periodontal disease prevalence and treatment needs. These rates are studied by means of the following index:",
+    "answers": [
+      {
+        "answer": "CPITN (WHO index)",
+        "value": true
+      },
+      {
+        "answer": "OHI-S (Green-Vermillion index)",
+        "value": false
+      },
+      {
+        "answer": "PDI (Ramfjord index)",
+        "value": false
+      },
+      {
+        "answer": "PI (Russel index)",
+        "value": false
+      },
+      {
+        "answer": "PMA (Parma)",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 52-year-old patient complains about a nonhealing ulcer on his lower lip. The patient is smoker. He hasn’t ever consulted a doctor about it. In the region of red border of the lower lip a roundish ulcer is present. It is up to 2,0 cm in diameter. The ulcer edges are thickened and a little bit raised in form of a whitish swelling. In the left submandibular region palpation revealed enlarged, painless, dense lymph nodes with limited mobility. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Cancer of the lower lip",
+        "value": true
+      },
+      {
+        "answer": "Erosive verrucous leukoplakia",
+        "value": false
+      },
+      {
+        "answer": "Keratoacanthoma",
+        "value": false
+      },
+      {
+        "answer": "Fibroma of the lower lip",
+        "value": false
+      },
+      {
+        "answer": "Syphilitic ulcer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 25-year-old patient complains about acute pain in the mouth, headache, articular pain, body temperature rise up to 38, 6oC. Red border of lips is covered with haemorrhagic crusts, mucous membrane of the oral cavity has big erosions and ulcers coated with greyish incrustation. Hand skin exhibits erythematous spots 1- 1,5 cm in diameter with a vesicle in the middle. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Stevens-Johnson syndrome",
+        "value": true
+      },
+      {
+        "answer": "Behcet’s syndrome",
+        "value": false
+      },
+      {
+        "answer": "Lyell’s syndrome",
+        "value": false
+      },
+      {
+        "answer": "Multiform exudative erythema",
+        "value": false
+      },
+      {
+        "answer": "Medicamentous stomatitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 18-year-old patient complains about acute spontaneous spasmodic pain in an upper jaw tooth on the right. The pain has been lasting for 3 days, it is throbbing, irradiating to the temple, getting worse at night. Objectively: surface of the 15 tooth exhibits a carious cavity within parapulpar dentine. Dentine is softened, of greyish colour. Probing of the whole cavity ?oor is painful, percussion of the 15 tooth is painless. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute focal pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A dentist treats a 22-year-old patient on account of acute deep caries of the 26 tooth. As lining material the dentist chose calcium salicylate cement 'Life'. What material should be chosen for insulation of the lining?",
+    "answers": [
+      {
+        "answer": "Glass ionomer cement",
+        "value": true
+      },
+      {
+        "answer": "Insulating varnish",
+        "value": false
+      },
+      {
+        "answer": "Adhesive composite system",
+        "value": false
+      },
+      {
+        "answer": "Zinc phosphate cement",
+        "value": false
+      },
+      {
+        "answer": "Zinc oxide eugenol cement",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 62-year-old patient complains of a painless formation on his tongue that appeared several months ago. Objectively: the patient has a lot of carious and completely decayed teeth, lateral surface of tongue exhibits a painless whitish formation 10x5 mm large with irregular surface in form of verrucae. Histological examination revealed thickening of corneal epithelial layer of intermittent keratinization type. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Verrucous form of leukoplakia",
+        "value": true
+      },
+      {
+        "answer": "Verrucous precancer",
+        "value": false
+      },
+      {
+        "answer": "Hyperplastic form of candidiasis",
+        "value": false
+      },
+      {
+        "answer": "Hyperkeratotic form of lichen ruber planus",
+        "value": false
+      },
+      {
+        "answer": "Keratoacanthoma",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-old man has a medium deep carious cavity in the 37 tooth (Black’s class II). For its ?lling a dentist chose technique of layer-by-layer restoration. What composite should be coating the ?oor and walls of the carious cavity in order to form superadaptive initial layer?",
+    "answers": [
+      {
+        "answer": "Flowable",
+        "value": true
+      },
+      {
+        "answer": "Condensable",
+        "value": false
+      },
+      {
+        "answer": "Macro?lled",
+        "value": false
+      },
+      {
+        "answer": "Microhybrid",
+        "value": false
+      },
+      {
+        "answer": "Micro?lled",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 16-year-old teenager complains about halitosis, general weakness, body temperature rise up to 37,6oC.These symptoms turned up 2 days ago, the boy has a history of recent angina. Objectively: oral cavity hygiene is unsatisfactory, teeth are covered with soft white deposit. Gums are hyperaemic, gingival papillae are covered with greyish coating. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Ulcero-necrotic gingivitis",
+        "value": true
+      },
+      {
+        "answer": "Acute catarrhal gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Hypertrohic gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic catarrhal gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Desquamative gingivitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-old patient is at a dentist. He is anxious, complains of being afraid of the dentist, is unwilling to let the dentist examine him. Drugs of which group should be given the patient before stomatological manipulations?",
+    "answers": [
+      {
+        "answer": "Sedative",
+        "value": true
+      },
+      {
+        "answer": "Analgetics",
+        "value": false
+      },
+      {
+        "answer": "Hypotensive",
+        "value": false
+      },
+      {
+        "answer": "Cardiac glycosides",
+        "value": false
+      },
+      {
+        "answer": "Desensitizing",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 76-year-old patient has a roundish ulcer in the area of the right nasolabial sulcus. The ulcer has dense, rough ?oor covered with yellowish-grey crusts, and resembles of a cone. The ulcer edges are dense, crater-like; the ulcer grows both sidewards and deepwards. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Basalioma",
+        "value": true
+      },
+      {
+        "answer": "Tuberculous ulcer",
+        "value": false
+      },
+      {
+        "answer": "Actinomycotic ulcer",
+        "value": false
+      },
+      {
+        "answer": "Syphilitic ulcer",
+        "value": false
+      },
+      {
+        "answer": "Squamous cell carcinoma of skin",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 44-year-old patient complains about the astringent sensation in the upper jaw incisors, which appeared 1,5 years ago. Objectively: the most convex part of the vestibular surfaces of the 12, 11, 21, 22 crowns has roundish defects with smooth, shiny, dense surface, that reach dentine in depth. The depth of defects is gradually decreasing from the centre to the periphery. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Enamel erosion",
+        "value": true
+      },
+      {
+        "answer": "Wedge-shaped defect",
+        "value": false
+      },
+      {
+        "answer": "Systemic hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      },
+      {
+        "answer": "Destructive ?uorosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 17-year-old patient complains about swelling, reddening and itching of lips. She has a history of bronchial asthma. Such condition has been observed for 3 years in winter period. Objectively: red border of lips and adjacent skin exhibit a well-de?ned erythema and edema, small cracks. There are signs of lip licheni?cation. There are also marks of scratches on the skin of lips, cheeks and forehead in form of abrasions and crusts. Mucous membrane exhibits no pathological changes. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Atopic cheilitis",
+        "value": true
+      },
+      {
+        "answer": "Contact allergic cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Meteorological cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Exfoliative cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Microbal cheilitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 16-year-old patient noted irregular colour of the  back of tongue and consulted a dentist about this. Objectively: the oral cavity is sanitized, DF index = 4, dorsal and lateral surfaces of tongue have area of desquamating epithelium bordering upon areas of hypertrophy and increased corni?cation of ?liform papillae. The patient has a history of being allergic to some foodstuffs. What is the clinical diagnosis?",
+    "answers": [
+      {
+        "answer": "Desquamative glossitis",
+        "value": true
+      },
+      {
+        "answer": "Tuberculous glossitis",
+        "value": false
+      },
+      {
+        "answer": "Candidous glossitis",
+        "value": false
+      },
+      {
+        "answer": "Herpetic tongue lesion",
+        "value": false
+      },
+      {
+        "answer": "Acute catarrhal glossitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 17-year-old patient complains about permanent intense throbbing toothache that is getting worse when biting down on food. Objectively: the patient’s face is asymmetric because of a collateral edema of soft tissues, submandibular lymph nodes are enlarged and painful on palpation. The 26 tooth has a deep cavity not communicating with the tooth cavity. Thermal test is positive, probing is painless, percussion causes acute pain, the tooth is mobile. X-ray picture of the 26 tooth shows no changes in the periodontium. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Acute serous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Pulpitis complicated by periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23-year-old patient was delivered to a traumatology centre with a dirty cut wound of her right foot. A doctor performed initial surgical debridement and made an injection of anti-tetanus serum. Some time later the patient’s condition got abruptly worse: she developed extreme weakness, dizziness, palpitation. Objectively: the skin is pale, the patient has cold sweat, frequent pulse of poor volume at a rate of 100 bpm, AP is 90/40 mm Hg. What is the cause of such aggravation?",
+    "answers": [
+      {
+        "answer": "Anaphylactic shock",
+        "value": true
+      },
+      {
+        "answer": "Haemorrhagic shock",
+        "value": false
+      },
+      {
+        "answer": "Pain shock",
+        "value": false
+      },
+      {
+        "answer": "Infectious-toxic shock",
+        "value": false
+      },
+      {
+        "answer": "Drug disease (seroreaction)",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 34-year-old male patient consults a dentist about an ulcer on the hard palate. It appeared about a month ago. He has treated it by rinsing with herbal water, but the ulcer is gradually 'creeping'. Objectively: there is a shallow erethistic ulcer with uneven and undermined edges of soft consistency within the mucous membrane of hard palate. Granulations of the ulcer ?oor are also present. Yellowish granules are visible on the ulcer periphery. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Tuberculous ulcer",
+        "value": true
+      },
+      {
+        "answer": "Trophic ulcer",
+        "value": false
+      },
+      {
+        "answer": "Cancerous ulcer",
+        "value": false
+      },
+      {
+        "answer": "Syphilitic ulcer",
+        "value": false
+      },
+      {
+        "answer": "Actinomycosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 16-year-old male patient complains about pain in the oral cavity, ulceration, body temperatureup to 38oC, headache. Objectively: mucous membrane of the oral cavity is hyperemic and edematic. Therearealotofcon?uent erosions of polycyclic shape, covered with grey and white deposit, located on hard palate, gums, lips. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute herpetic stomatitis",
+        "value": true
+      },
+      {
+        "answer": "Erythema multiforme",
+        "value": false
+      },
+      {
+        "answer": "Pemphigus vulgaris",
+        "value": false
+      },
+      {
+        "answer": "Aphthous fever",
+        "value": false
+      },
+      {
+        "answer": "Allergic stomatitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 53-year-old patient was diagnosed with leucoplakia nicotinica Tappeiner. What pathohistological process predominates in histologic pattern of this disease?",
+    "answers": [
+      {
+        "answer": "Hyperkeratosis",
+        "value": true
+      },
+      {
+        "answer": "Acanthosis",
+        "value": false
+      },
+      {
+        "answer": "Dyskeratosis",
+        "value": false
+      },
+      {
+        "answer": "Parakeratosis",
+        "value": false
+      },
+      {
+        "answer": "Papillomatosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 37-year-old male patient complains about pain of the 46 tooth during food intake, especially hot food, offensive breath when he sucks his tooth. Objectively: the face is symmetrical, masticatory surface of the 48 tooth has a deep carious cavity communicating with the dental cavity. X-ray picture shows widening of periodontal ?ssure at the root apex of the 46 tooth. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "One minute after perfoming torus anaesthesia with 2% novocaine solution (4ml) during extraction of the 17 tooth the patient complained about respiration obstruction. Objectively: upper and lower lips are edematic, mucous membrane of larynx and oral cavity is edematic and extremely hyperemic. What complication turned up in this patient?",
+    "answers": [
+      {
+        "answer": "Quincke’s edema",
+        "value": true
+      },
+      {
+        "answer": "Anesthetic intoxication",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": false
+      },
+      {
+        "answer": "Collapse",
+        "value": false
+      },
+      {
+        "answer": "Acute pulmonary insuf?ciency",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 17-year-old patient complains about a cosmetic defect in the frontal teeth region. Objectively: enamel of the 11, 12, 21, 22, 31, 32, 41, 42 teeth is thin in the region of cutting edge, there is a sulcate enamel pit 1,5 mm wide which encircles the tooth and is parallel to the cutting edge. The cusps of the 16, 26, 36, 46 teeth are underdeveloped and have conical form. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Systemic hypoplasia",
+        "value": true
+      },
+      {
+        "answer": "Dentinogenesis imperfecta",
+        "value": false
+      },
+      {
+        "answer": "Enamel dysplasia",
+        "value": false
+      },
+      {
+        "answer": "Local hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Stainton-Capdepont dysplasia",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "It is planned to organize a dental room with three universal dental sets. The total area of the room must be:",
+    "answers": [
+      {
+        "answer": "No less than 28 square metres",
+        "value": true
+      },
+      {
+        "answer": "No less than 21 square metres",
+        "value": false
+      },
+      {
+        "answer": "No less than 30 square metres",
+        "value": false
+      },
+      {
+        "answer": "No less than 42 square metres",
+        "value": false
+      },
+      {
+        "answer": "No less than 18 square metres",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During pulpitis treatment of the 25 tooth a 30-year-old patient received an injection of 2% lidocaine as anaesthetic. A few minutes after the injection the patient presented with numb tongue, asphyxia, dry cough, cyanosis, anxiety, convulsions. Arterial pressure fell down to 90/60 mm Hg. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Anaphylactic shock",
+        "value": true
+      },
+      {
+        "answer": "Acute heart failure",
+        "value": false
+      },
+      {
+        "answer": "Syncope",
+        "value": false
+      },
+      {
+        "answer": "Quincke’s edema",
+        "value": false
+      },
+      {
+        "answer": "Epilepsy",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 19-year-old girl complains about having crusts, lip tenderness, especially at lip joining. Objectively: there are yellow-brown crusts on the lip red border from Klein zone to it’s middle, after their removal bright red smooth surface without erosions appears. Mucous membrane in Klein zone is slightly hyperemic and edematic. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exudative form of cheilitis exfoliativa",
+        "value": true
+      },
+      {
+        "answer": "Exudative form of cheilitis actinica",
+        "value": false
+      },
+      {
+        "answer": "Epidermolysis bullosa",
+        "value": false
+      },
+      {
+        "answer": "Meteorological cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Eczematous cheilitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A tooth with a dento - alveolar abscess is normally:",
+    "answers": [
+      {
+        "answer": "Sensitive to percussion.",
+        "value": true
+      },
+      {
+        "answer": "Sensitive to thermal change.",
+        "value": false
+      },
+      {
+        "answer": "Sensitive to sweet foods.",
+        "value": false
+      },
+      {
+        "answer": "Sensitive to cold air.",
+        "value": false
+      },
+      {
+        "answer": "Sensitive to cold water.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the initial layer that forms on the enamel shortly after brushing?",
+    "answers": [
+      {
+        "answer": "The pellicle.",
+        "value": true
+      },
+      {
+        "answer": "Calculus.",
+        "value": false
+      },
+      {
+        "answer": "Soft dental deposits.",
+        "value": false
+      },
+      {
+        "answer": "Cuticle.",
+        "value": false
+      },
+      {
+        "answer": "A tartar.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Juvenile periodontitis is typical for:",
+    "answers": [
+      {
+        "answer": "6-12 years",
+        "value": true
+      },
+      {
+        "answer": "12-17 years",
+        "value": false
+      },
+      {
+        "answer": "17-25 years",
+        "value": false
+      },
+      {
+        "answer": "25-35 years",
+        "value": false
+      },
+      {
+        "answer": "After 45 years",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Components of the gums are",
+    "answers": [
+      {
+        "answer": "Attached and free parts;",
+        "value": true
+      },
+      {
+        "answer": "Attached part and interdental papillae;",
+        "value": false
+      },
+      {
+        "answer": "Free part and interdental papillae;",
+        "value": false
+      },
+      {
+        "answer": "Attached and free parts, interdental papillae;",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of listed epithelium does cover the gums?",
+    "answers": [
+      {
+        "answer": "Stratified squamous epithelium keratinized",
+        "value": true
+      },
+      {
+        "answer": "Single flat layer keratinized",
+        "value": false
+      },
+      {
+        "answer": "Single flat layer non keratinized",
+        "value": false
+      },
+      {
+        "answer": "Stratified squamous epithelium nonkeratinized",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What does belong to alveolar part of the gum?",
+    "answers": [
+      {
+        "answer": "Gums covering alveolar bone",
+        "value": true
+      },
+      {
+        "answer": "Gums surrounding the tooth",
+        "value": false
+      },
+      {
+        "answer": "Gingival papilla and gums around the tooth",
+        "value": false
+      },
+      {
+        "answer": "Gingival groove",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The place of epithelium attachment of gingival grooves is:",
+    "answers": [
+      {
+        "answer": "Cementum of tooth",
+        "value": true
+      },
+      {
+        "answer": "No attached but forms a dense superficial ring",
+        "value": false
+      },
+      {
+        "answer": "Cuticle tooth enamel",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer",
+        "value": false
+      },
+      {
+        "answer": "Pellicle of tooth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The structure of marginal gums includes:",
+    "answers": [
+      {
+        "answer": "Gums surrounding the tooth",
+        "value": true
+      },
+      {
+        "answer": "Gingival papilla and gums around the tooth",
+        "value": false
+      },
+      {
+        "answer": "Gums covering alveolar bone",
+        "value": false
+      },
+      {
+        "answer": "Gingival groove",
+        "value": false
+      },
+      {
+        "answer": "There is no right",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The normal condition of gums mucosa is:",
+    "answers": [
+      {
+        "answer": "Pale pink color without visible lesions",
+        "value": true
+      },
+      {
+        "answer": "Slightly bleeding during probing",
+        "value": false
+      },
+      {
+        "answer": "Dark red, not painful at palpation",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer",
+        "value": false
+      },
+      {
+        "answer": "Hypertrophy",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The method of examination of conducting tap on the tooth by the probe or tweezers is:",
+    "answers": [
+      {
+        "answer": "Percussion",
+        "value": true
+      },
+      {
+        "answer": "Termodiagnostics",
+        "value": false
+      },
+      {
+        "answer": "Palpation",
+        "value": false
+      },
+      {
+        "answer": "Electroodontodiagnostics",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Submandibular lymph nodes can be examined by:",
+    "answers": [
+      {
+        "answer": "Palpation",
+        "value": true
+      },
+      {
+        "answer": "Percussion",
+        "value": false
+      },
+      {
+        "answer": "Auscultation",
+        "value": false
+      },
+      {
+        "answer": "Probe",
+        "value": false
+      },
+      {
+        "answer": "Radiography",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The value of satisfactory level of oral hygiene by Fedorov Volodkina is:",
+    "answers": [
+      {
+        "answer": "1,6-2,0",
+        "value": true
+      },
+      {
+        "answer": "2,1-2,5",
+        "value": false
+      },
+      {
+        "answer": "2,6-3,4",
+        "value": false
+      },
+      {
+        "answer": "1,1-1,5",
+        "value": false
+      },
+      {
+        "answer": "All answers are correct",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The index of hygiene by Green Vermillion is determined by",
+    "answers": [
+      {
+        "answer": "Visually using of dental forceps and probe",
+        "value": false
+      },
+      {
+        "answer": "Using a cotton swab with iodine-potassium solution",
+        "value": false
+      },
+      {
+        "answer": "Using a cotton swab with a Lugol solution",
+        "value": false
+      },
+      {
+        "answer": "Visually using a probe and mirror",
+        "value": true
+      },
+      {
+        "answer": "With special device",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Index PMA determines the severity of :",
+    "answers": [
+      {
+        "answer": "Periodontal Disease",
+        "value": false
+      },
+      {
+        "answer": "Gingivitis",
+        "value": true
+      },
+      {
+        "answer": "Periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Apex periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Index PI determines the severity of:",
+    "answers": [
+      {
+        "answer": "Periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Apex periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Caries",
+        "value": false
+      },
+      {
+        "answer": "Herpes",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The bottom of the clinical gingival pockets is:",
+    "answers": [
+      {
+        "answer": "The circular tooth ligament",
+        "value": true
+      },
+      {
+        "answer": "Oblique periodontal fibers",
+        "value": false
+      },
+      {
+        "answer": "Resorpted bone",
+        "value": false
+      },
+      {
+        "answer": "Gingival-bone ligament",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Tooth mobility in vestibular-oral and lateral directions can be described as",
+    "answers": [
+      {
+        "answer": "2 degree of mobility",
+        "value": true
+      },
+      {
+        "answer": "1 degree of mobility",
+        "value": false
+      },
+      {
+        "answer": "3 degrees of mobility",
+        "value": false
+      },
+      {
+        "answer": "4 degrees of mobility",
+        "value": false
+      },
+      {
+        "answer": "5 degrees of mobility",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The subjective examination is based on:",
+    "answers": [
+      {
+        "answer": "Patient complaints",
+        "value": true
+      },
+      {
+        "answer": "Local inspection",
+        "value": false
+      },
+      {
+        "answer": "Additional methods of examination",
+        "value": false
+      },
+      {
+        "answer": "Results of intraoral examination",
+        "value": false
+      },
+      {
+        "answer": "All answers are correct",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "First degree of teeth mobility is the mobility in",
+    "answers": [
+      {
+        "answer": "Vestibular - oral direction",
+        "value": true
+      },
+      {
+        "answer": "Vestibular - oral and medio-dystal directions",
+        "value": false
+      },
+      {
+        "answer": "Vestibular - oral and vertical directions",
+        "value": false
+      },
+      {
+        "answer": "Vertical and medio-dystal directions",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of the biologically active substance does make Shiller Pisarev test positive?",
+    "answers": [
+      {
+        "answer": "Glycogen",
+        "value": true
+      },
+      {
+        "answer": "Histamine",
+        "value": false
+      },
+      {
+        "answer": "Bradykinin",
+        "value": false
+      },
+      {
+        "answer": "There is not right answer",
+        "value": false
+      },
+      {
+        "answer": "All answers are correct",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "For a skin patch test, the allergen solution is placed on a pad that is taped to the skin for:",
+    "answers": [
+      {
+        "answer": "24-72 hours",
+        "value": true
+      },
+      {
+        "answer": "12-24 hours",
+        "value": false
+      },
+      {
+        "answer": "2-4 hours",
+        "value": false
+      },
+      {
+        "answer": "15-45 min",
+        "value": false
+      },
+      {
+        "answer": "5-10 min",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What skin allergy test do you know?",
+    "answers": [
+      {
+        "answer": "Patch test, intradermal test, blood test, prick test",
+        "value": false
+      },
+      {
+        "answer": "Patch test and prick test",
+        "value": false
+      },
+      {
+        "answer": "Blood test and intradermal test",
+        "value": false
+      },
+      {
+        "answer": "Patch test, scratch test , intradermal test, prick test",
+        "value": true
+      },
+      {
+        "answer": "Prick test, scratch test, intradermal test",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the technique of scratch test?",
+    "answers": [
+      {
+        "answer": "Test is done by placing a drop of a solution containing a possible allergen on the scratched skin.",
+        "value": true
+      },
+      {
+        "answer": "Test is done by injecting the allergen under the skin",
+        "value": false
+      },
+      {
+        "answer": "Test is done by a drop of a solution containing a possible allergen on the normal skin.",
+        "value": false
+      },
+      {
+        "answer": "Test is done by scratching the normal skin by infected tool.",
+        "value": false
+      },
+      {
+        "answer": "Test is done by taking the blood of the patient",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How is the intradermal test done?",
+    "answers": [
+      {
+        "answer": "By injecting the little drop of allergen under the skin.",
+        "value": true
+      },
+      {
+        "answer": "By injecting the allergen under the tongue.",
+        "value": false
+      },
+      {
+        "answer": "By injected the allergen into the blood.",
+        "value": false
+      },
+      {
+        "answer": "By placing the allergen on the skin.",
+        "value": false
+      },
+      {
+        "answer": "Test is done by taking the blood of the patient",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Allergy blood test look for:",
+    "answers": [
+      {
+        "answer": "Ig A and G",
+        "value": false
+      },
+      {
+        "answer": "Ig A",
+        "value": false
+      },
+      {
+        "answer": "Ig E",
+        "value": true
+      },
+      {
+        "answer": "Ig G",
+        "value": false
+      },
+      {
+        "answer": "Ig B",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Allergy blood tests are used for:",
+    "answers": [
+      {
+        "answer": "The people who are not able to have skin tests.",
+        "value": true
+      },
+      {
+        "answer": "Additional testing after skin tests.",
+        "value": false
+      },
+      {
+        "answer": "Finding the infection in the patients blood.",
+        "value": false
+      },
+      {
+        "answer": "Answer A and B",
+        "value": false
+      },
+      {
+        "answer": "No correct answer.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kinds of allergy tests do you know?",
+    "answers": [
+      {
+        "answer": "Patch test, intradermal test, blood test, prick test",
+        "value": false
+      },
+      {
+        "answer": "Skin tests and blood tests.",
+        "value": false
+      },
+      {
+        "answer": "Patch test, intradermal test and blood test",
+        "value": true
+      },
+      {
+        "answer": "Answer A and B",
+        "value": false
+      },
+      {
+        "answer": "Answer B and C",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 25 year old patient before caries treatment, doctor noticed the swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Idiopathic face edema",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": false
+      },
+      {
+        "answer": "Quincke’s edema (angioedema)",
+        "value": true
+      },
+      {
+        "answer": "Syncope",
+        "value": false
+      },
+      {
+        "answer": "Asthma",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 44 year old patient before caries treatment, doctor noticed the swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What mistake can cause this complication?",
+    "answers": [
+      {
+        "answer": "Incorrect anamnesis taking.",
+        "value": true
+      },
+      {
+        "answer": "Incorrect caries treatment.",
+        "value": false
+      },
+      {
+        "answer": "Incorrect patient choosing",
+        "value": false
+      },
+      {
+        "answer": "Incorrect injection",
+        "value": false
+      },
+      {
+        "answer": "Incorrect anaeshtetic",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 36 year old patient before pulpitis  treatment, doctor noticed the  swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What will be the key medication in the treatment of this disease?",
+    "answers": [
+      {
+        "answer": "Antibiotics",
+        "value": false
+      },
+      {
+        "answer": "Anti-inflammatory",
+        "value": false
+      },
+      {
+        "answer": "Antihistamines",
+        "value": true
+      },
+      {
+        "answer": "Corticosteroids",
+        "value": false
+      },
+      {
+        "answer": "Antiviral",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient complains about swelling of her upper lip, wheezing and voice change which started half an hour ago after bee bites.  What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Idiopathic face edema",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": false
+      },
+      {
+        "answer": "Quincke’s edema (angioedema)",
+        "value": true
+      },
+      {
+        "answer": "Syncope",
+        "value": false
+      },
+      {
+        "answer": "Melkersson-Rosenthal syndrome",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The most common food triggers of anaphylaxis are:",
+    "answers": [
+      {
+        "answer": "Bread",
+        "value": false
+      },
+      {
+        "answer": "Bee sting",
+        "value": false
+      },
+      {
+        "answer": "Anaesthetics",
+        "value": false
+      },
+      {
+        "answer": "Peanuts",
+        "value": true
+      },
+      {
+        "answer": "Latex gloves",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The most common triggers of anaphylaxis in dentist office are:",
+    "answers": [
+      {
+        "answer": "Antibiotics",
+        "value": false
+      },
+      {
+        "answer": "Anaesthetics",
+        "value": true
+      },
+      {
+        "answer": "Antihistamines",
+        "value": false
+      },
+      {
+        "answer": "Anti – inflammatory",
+        "value": false
+      },
+      {
+        "answer": "Corticosteroids",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During the examination of 32 year old patient the subcutaneous allergy test was made. 5 minutes later after injection small red spots on the foream was revealed. Patient feel itch at those areas. What does this reaction mean?",
+    "answers": [
+      {
+        "answer": "Erythema multiforme",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock – allergic reaction after injection",
+        "value": false
+      },
+      {
+        "answer": "Quincke’s edema – complication after injection",
+        "value": false
+      },
+      {
+        "answer": "Nettle rash – allergy reaction after injection",
+        "value": true
+      },
+      {
+        "answer": "Red idiopathic erythema",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "56-year-old male patient was waiting for her turn at the dentist’s. Suddenly he fell down, his respiration became hoarse, he got convulsive twitching in his upper and lower limbs, face and neck turned cyanotic, eye pupils became mydriatic, reaction of eye to light was absent. Arterial pressure and pulse couldn’t be measured. Heart sounds couldn’t be auscultated. Involuntary urination was noted. What condition is characterized by such symptoms?",
+    "answers": [
+      {
+        "answer": "Coma",
+        "value": false
+      },
+      {
+        "answer": "Epilepsy",
+        "value": false
+      },
+      {
+        "answer": "Shock",
+        "value": false
+      },
+      {
+        "answer": "Clinical death",
+        "value": true
+      },
+      {
+        "answer": "Collapse",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 38 year old patient, doctor noticed the swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What doctor`s mistake can cause this complication?",
+    "answers": [
+      {
+        "answer": "Incorrect anamnesis taking.",
+        "value": true
+      },
+      {
+        "answer": "Incorrect caries treatment.",
+        "value": false
+      },
+      {
+        "answer": "Incorrect patient choosing",
+        "value": false
+      },
+      {
+        "answer": "Incorrect anaesthetic injection",
+        "value": false
+      },
+      {
+        "answer": "There was no mistake",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 28 year old patient before pulpitis treatment, doctor noticed the swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What will be the key medication in the treatment of this disease?",
+    "answers": [
+      {
+        "answer": "Antibiotics",
+        "value": false
+      },
+      {
+        "answer": "Anti-inflammatory",
+        "value": false
+      },
+      {
+        "answer": "Antihistamines",
+        "value": false
+      },
+      {
+        "answer": "Corticosteroids",
+        "value": true
+      },
+      {
+        "answer": "Antiviral",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient complains about swelling of her upper lip, wheezing and voice changing which started half an hour ago after bee bites.  What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Idiopathic face edema",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": false
+      },
+      {
+        "answer": "Quincke’s edema (angioedema)",
+        "value": true
+      },
+      {
+        "answer": "Syncope",
+        "value": false
+      },
+      {
+        "answer": "Melkersson-Rosenthal syndrome",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 34-year-old patient was delivered to a traumatology centre with a dirty cut wound of her right foot. A doctor performed initial surgical d-bridement and made an injection of 	antitetanus serum. Some time later the patient’s condition got abruptly worse: she developed extreme weakness, dizziness, palpitation. Objectively: the skin is pale, the patient has cold sweat, frequent pulse of poor volume at a rate of 100 bpm, AP is 90/40 mm Hg. What is the cause of such aggravation?",
+    "answers": [
+      {
+        "answer": "Pain shock",
+        "value": false
+      },
+      {
+        "answer": "Haemorrhagic shock",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": true
+      },
+      {
+        "answer": "Infectious-toxic shock",
+        "value": false
+      },
+      {
+        "answer": "Drug disease (seroreaction)",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 77-year-old female patient was waiting for her turn at the dentist’s. Suddenly she fell down, her respiration became hoarse, she got convulsive twitching in her upper and lower limbs, face and neck turned cyanotic, eye pupils became mydriatic, reaction of eye to light was absent. Arterial pressure and pulse couldn’t be measured. Heart sounds couldn’t be auscultated. Involuntary urination was noted. What condition is characterized by such symptoms?",
+    "answers": [
+      {
+        "answer": "Coma",
+        "value": false
+      },
+      {
+        "answer": "Epilepsy",
+        "value": false
+      },
+      {
+        "answer": "Shock",
+        "value": false
+      },
+      {
+        "answer": "Clinical death",
+        "value": true
+      },
+      {
+        "answer": "Collapse",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 17-year-old patient attended a glasshouse in a botanic garden. After he had smelt at an orchid he turned pale and lost consciousness. Objectively: heart rate is 115/min, arterial pressure is 50/0 mm Hg. What drug should be injected to the patient in the first place?",
+    "answers": [
+      {
+        "answer": "Dimedrol",
+        "value": false
+      },
+      {
+        "answer": "Cordiamin",
+        "value": false
+      },
+      {
+        "answer": "Strophanthine",
+        "value": false
+      },
+      {
+        "answer": "Mesaton",
+        "value": false
+      },
+      {
+        "answer": "Prednisolone",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "For a patch test, the allergen is placed on a pad that is taped to the skin for:",
+    "answers": [
+      {
+        "answer": "24-72 hours",
+        "value": true
+      },
+      {
+        "answer": "22-44 hours",
+        "value": false
+      },
+      {
+        "answer": "2-8 hours",
+        "value": false
+      },
+      {
+        "answer": "25-45 min",
+        "value": false
+      },
+      {
+        "answer": "5-10 min",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During caries treatment of  24 y.o. patient  doctor decided to use an anaesthesia. What is the technique of scratch test which can be used for allergy detecting?",
+    "answers": [
+      {
+        "answer": "Test is done by placing a drop of a solution containing a possible allergen on the scratched skin.",
+        "value": true
+      },
+      {
+        "answer": "Test is done by injecting the allergen under the skin",
+        "value": false
+      },
+      {
+        "answer": "Test is done by a drop of a solution containing a possible allergen on the normal skin.",
+        "value": false
+      },
+      {
+        "answer": "Test is done by scratching the normal skin by infected tool.",
+        "value": false
+      },
+      {
+        "answer": "Test is done by taking the blood of the patient",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Before anaesthetic injection doctor decided to use skin allergy test. How is the intradermal test done?",
+    "answers": [
+      {
+        "answer": "By injecting the little drop of allergen under the skin.",
+        "value": true
+      },
+      {
+        "answer": "By injecting the allergen under the tongue.",
+        "value": false
+      },
+      {
+        "answer": "By injected the allergen into the blood.",
+        "value": false
+      },
+      {
+        "answer": "By placing the allergen on the skin.",
+        "value": false
+      },
+      {
+        "answer": "Test is done by taking the blood of the patient",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Before anaesthetic injection doctor decided to use blood allergy test, which looks for:",
+    "answers": [
+      {
+        "answer": "Ig A and G",
+        "value": false
+      },
+      {
+        "answer": "Ig A",
+        "value": false
+      },
+      {
+        "answer": "Ig E",
+        "value": true
+      },
+      {
+        "answer": "Ig G",
+        "value": false
+      },
+      {
+        "answer": "Ig B",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "It`s known, that there are skin and blood tests. Allergy blood tests are used for:",
+    "answers": [
+      {
+        "answer": "The people who are not able to have skin tests.",
+        "value": true
+      },
+      {
+        "answer": "Additional testing after skin tests.",
+        "value": false
+      },
+      {
+        "answer": "Finding the infection in the patients blood.",
+        "value": false
+      },
+      {
+        "answer": "Children only",
+        "value": false
+      },
+      {
+        "answer": "Adults only",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of allergy tests can we use for allergy detecting?",
+    "answers": [
+      {
+        "answer": "Patch test, intradermal test, blood test, prick test",
+        "value": false
+      },
+      {
+        "answer": "Skin tests and blood tests.",
+        "value": true
+      },
+      {
+        "answer": "intradermal test and blood test",
+        "value": false
+      },
+      {
+        "answer": "Blood tests",
+        "value": false
+      },
+      {
+        "answer": "Blood chemistry",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 19 year old patient before pulpitis treatment, doctor noticed the swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Idiopathic face edema",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": false
+      },
+      {
+        "answer": "Quincke’s edema (angioedema)",
+        "value": true
+      },
+      {
+        "answer": "Syncope",
+        "value": false
+      },
+      {
+        "answer": "Asthma",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 29 year old patient before caries treatment, doctor noticed the swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What doctor`s mistake can cause this complication?",
+    "answers": [
+      {
+        "answer": "Incorrect anamnesis taking.",
+        "value": true
+      },
+      {
+        "answer": "Incorrect caries treatment.",
+        "value": false
+      },
+      {
+        "answer": "Incorrect patient choosing",
+        "value": false
+      },
+      {
+        "answer": "Incorrect anaesthetic injection",
+        "value": false
+      },
+      {
+        "answer": "There was no mistake",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 48 year old patient complains about swelling of her upper lip, wheezing and voice change which started half an hour ago after bee bites.  What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Idiopathic face edema",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": false
+      },
+      {
+        "answer": "Quincke’s edema (angioedema)",
+        "value": true
+      },
+      {
+        "answer": "Syncope",
+        "value": false
+      },
+      {
+        "answer": "Melkersson-Rosenthal syndrome",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During the examination of 30 year old man the subcutaneous allergy test was made. 5 minutes later after injection small red spots on the foream was revealed. Patient feel itch at those areas. What does this reaction mean?",
+    "answers": [
+      {
+        "answer": "Erythema multiforme",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock – allergic reaction after injection",
+        "value": false
+      },
+      {
+        "answer": "Quincke’s edema – complication after injection",
+        "value": false
+      },
+      {
+        "answer": "Nettle rash – allergy reaction after injection",
+        "value": true
+      },
+      {
+        "answer": "Red idiopathic erythema",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During the examination of 23 year old patient the subcutaneous allergy test was made. 5 minutes later after injection small red spots on the foream was revealed. Patient feel itch at those areas. What will be your tactics at that case?",
+    "answers": [
+      {
+        "answer": "To try another syringe",
+        "value": false
+      },
+      {
+        "answer": "To do additional allergic test",
+        "value": false
+      },
+      {
+        "answer": "To choose another anaeathetic",
+        "value": true
+      },
+      {
+        "answer": "To use analgetic spray in that area",
+        "value": false
+      },
+      {
+        "answer": "To do nothing and to continue treatment",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient complains about painful mouth sores, which he noticed few days ago. From the parents words this sores comes periodically, thrice  a year. Objectively: on the tongue and lower lip there are  two sores (0,7 mm in diameter) with hyperemic membrane, covered with grey-whitish deposits. Food allergy in anamnesis. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute herpetic stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Erythema multiforme",
+        "value": false
+      },
+      {
+        "answer": "Chronic herpetic stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic aphthous stomatitis",
+        "value": true
+      },
+      {
+        "answer": "Pre-cancer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "57 year old patient complains about painful mouth sores, which he noticed few days ago. From the parents words this sores comes periodically, thrice a year. Objectively: on the tongue and lower lip there are two sores (0,7 mm in diameter) with hyperemic membrane, covered with grey-whitish deposits. Food allergy in anamnesis. What will be the treatment in that case?",
+    "answers": [
+      {
+        "answer": "Oral rinsing with antiseptics",
+        "value": true
+      },
+      {
+        "answer": "Antibiotics for 5 days",
+        "value": false
+      },
+      {
+        "answer": "Antibiotics for 7 days",
+        "value": false
+      },
+      {
+        "answer": "Surgical treatment",
+        "value": false
+      },
+      {
+        "answer": "Oral rinsing with corticosteroids",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 27 year old patient, doctor noticed the  swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What will be the key medication in the treatment of this disease?",
+    "answers": [
+      {
+        "answer": "Antibiotics",
+        "value": false
+      },
+      {
+        "answer": "Anti-inflammatory",
+        "value": false
+      },
+      {
+        "answer": "Antihistamines",
+        "value": true
+      },
+      {
+        "answer": "Corticosteroids",
+        "value": false
+      },
+      {
+        "answer": "Antiviral",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "48 year old patient was waiting for her turn at the dentist’s. Suddenly she fell down, her respiration became hoarse, she got convulsive twitching in her upper and lower limbs, face and neck turned cyanotic, eye pupils became mydriatic, reaction of eye to light was absent. Arterial pressure and pulse couldn’t be measured. Heart sounds couldn’t be auscultated. Involuntary urination was noted. What condition is characterized by such symptoms?",
+    "answers": [
+      {
+        "answer": "Epilepsy",
+        "value": false
+      },
+      {
+        "answer": "Shock",
+        "value": false
+      },
+      {
+        "answer": "Clinical death",
+        "value": true
+      },
+      {
+        "answer": "Collapse",
+        "value": false
+      },
+      {
+        "answer": "Coma",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 28 year old patient, doctor noticed the swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What will be the key medication in the treatment of this disease?",
+    "answers": [
+      {
+        "answer": "Antibiotics",
+        "value": false
+      },
+      {
+        "answer": "Anti-inflammatory",
+        "value": false
+      },
+      {
+        "answer": "Antihistamines",
+        "value": false
+      },
+      {
+        "answer": "Corticosteroids",
+        "value": true
+      },
+      {
+        "answer": "Antiviral",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient A., 39 y.o., complaines about swelling of her upper lip, wheezing and voice changing which started half an hour ago after bee bites.  What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Idiopathic face edema",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": false
+      },
+      {
+        "answer": "Quincke’s edema (angioedema)",
+        "value": true
+      },
+      {
+        "answer": "Syncope",
+        "value": false
+      },
+      {
+        "answer": "Melkersson-Rosenthal syndrome",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 38 years old patient came to the dentist for oral cavity sanitation. The doctor found signs of catarrhal gingivitis and the dark fringe on the gum free edge beside of front teeth' neck. From the anamnesis — the patient works in printing office for years. What disease we suspect?",
+    "answers": [
+      {
+        "answer": "Addison's disease",
+        "value": false
+      },
+      {
+        "answer": "Mercury stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Necrotizing stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Lead stomatitis",
+        "value": true
+      },
+      {
+        "answer": "Galvanosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mercury stomatitis develops due to:",
+    "answers": [
+      {
+        "answer": "Mercury vapor intoxication through accidental thermometer damage",
+        "value": false
+      },
+      {
+        "answer": "Mercury vapor intoxication while working in printing office",
+        "value": false
+      },
+      {
+        "answer": "Mercury vapor intoxication while working on mirror manufacturing",
+        "value": true
+      },
+      {
+        "answer": "Mercury vapor intoxication during taking toxic food",
+        "value": false
+      },
+      {
+        "answer": "Mercury vapor intoxication during drinking toxic water",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23 years old patient complains on gray-black spots in the red lip rim area and acompanying weakness and headache. Is treated at an endocrinologist about the violation of adrenal hormones. What disease can we suspect?",
+    "answers": [
+      {
+        "answer": "Addison's disease",
+        "value": true
+      },
+      {
+        "answer": "Lead stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Mercury stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Bismuth stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Cadmium stomatitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which metal, from the listed, is the most often cause of intoxication?",
+    "answers": [
+      {
+        "answer": "Argentum",
+        "value": false
+      },
+      {
+        "answer": "Ferum",
+        "value": false
+      },
+      {
+        "answer": "Zinc",
+        "value": true
+      },
+      {
+        "answer": "Manganese",
+        "value": false
+      },
+      {
+        "answer": "Aurum",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 48 years old patient who works at gas station complains on unpleasant metallic taste in a mouth, difficulty chewing, indigestion and feeling unwell. Objectively: there is a dark, grey-blue strip around bottom teeth necks and yellow spots in the sky. The skin is earthy-grey. What disease we suspect?",
+    "answers": [
+      {
+        "answer": "Addison's disease",
+        "value": false
+      },
+      {
+        "answer": "Lead stomatitis",
+        "value": true
+      },
+      {
+        "answer": "Zinc stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Mercury stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Aurum stomatitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient (35 y.o.) who works at mirror manufacturing complains on headache, malaise, feeling the heat, salivation violation, severe throbbing pain in mouth. There is grey-black border around teeth necks, hyperemic swollen gums. What metal will be detected after the urine analysis?",
+    "answers": [
+      {
+        "answer": "Lead",
+        "value": false
+      },
+      {
+        "answer": "Bismuth",
+        "value": false
+      },
+      {
+        "answer": "Mercury",
+        "value": true
+      },
+      {
+        "answer": "Zinc",
+        "value": false
+      },
+      {
+        "answer": "Aurum",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Symptomatic manifestations of mercury stomatitis are treated as:",
+    "answers": [
+      {
+        "answer": "Chronic catarrhal gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Ulcerative stomatitis",
+        "value": true
+      },
+      {
+        "answer": "Hypertrophic gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic generalized periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic trauma",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is a typical symptom after continuous lead intoxication?",
+    "answers": [
+      {
+        "answer": "Lead liver",
+        "value": false
+      },
+      {
+        "answer": "Lead lung",
+        "value": false
+      },
+      {
+        "answer": "Lead kidney",
+        "value": true
+      },
+      {
+        "answer": "Lead tongue",
+        "value": false
+      },
+      {
+        "answer": "Lead stomach",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The local treatment of bismuth stomatitis includes",
+    "answers": [
+      {
+        "answer": "Oral rinsing with 3% hydrogen peroxide",
+        "value": true
+      },
+      {
+        "answer": "Oral rinsing with bismoverol",
+        "value": false
+      },
+      {
+        "answer": "Oral application with metrogyl denta",
+        "value": false
+      },
+      {
+        "answer": "Oral rinsing with potassium permanganate",
+        "value": false
+      },
+      {
+        "answer": "Good oral hygiene with using fluorine containing paste",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 22 y.o. patient complains on increased salivation, headache, unpleasant metallic taste in a mouth, throbbing pain in gums. Man works at mirror manufacturing. What disease we suspect?",
+    "answers": [
+      {
+        "answer": "Galvanosis",
+        "value": false
+      },
+      {
+        "answer": "Mercury stomatitis",
+        "value": true
+      },
+      {
+        "answer": "Vegetative vascular dystonia",
+        "value": false
+      },
+      {
+        "answer": "Endemic parotitis",
+        "value": false
+      },
+      {
+        "answer": "Purulent necrotic angina of oral cavity bottom",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which injectable drug is prescribed for rapid mercury discharge?",
+    "answers": [
+      {
+        "answer": "Unithiolum",
+        "value": true
+      },
+      {
+        "answer": "Atropine",
+        "value": false
+      },
+      {
+        "answer": "Paracetamol",
+        "value": false
+      },
+      {
+        "answer": "Aspirin",
+        "value": false
+      },
+      {
+        "answer": "Smecta",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Bismuth stomatitis may develop as a result of receiving:",
+    "answers": [
+      {
+        "answer": "Isoniazid",
+        "value": false
+      },
+      {
+        "answer": "Pentalgin",
+        "value": false
+      },
+      {
+        "answer": "Amphotericin B",
+        "value": false
+      },
+      {
+        "answer": "Iruxol",
+        "value": false
+      },
+      {
+        "answer": "Biiochinolum",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What disease is accompanied by wrinkled kidney symptom, paraesthesia, indigestion and grey-ground color of skin?",
+    "answers": [
+      {
+        "answer": "Cadmium poisoning",
+        "value": false
+      },
+      {
+        "answer": "Simanovsky Plaut-Vincent angina",
+        "value": false
+      },
+      {
+        "answer": "Lead poisoning",
+        "value": true
+      },
+      {
+        "answer": "Acute leukemia",
+        "value": false
+      },
+      {
+        "answer": "Mercury poisoning",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Drug intoxications are caused by:",
+    "answers": [
+      {
+        "answer": "Drug overdose or accidental use",
+        "value": true
+      },
+      {
+        "answer": "Endogenous factors",
+        "value": false
+      },
+      {
+        "answer": "Accidental drug drop into mouth while receiving dental care",
+        "value": false
+      },
+      {
+        "answer": "Drops of salts and acids solutions into mouth",
+        "value": false
+      },
+      {
+        "answer": "Unknown reason",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mercury enters the body through:",
+    "answers": [
+      {
+        "answer": "Respiratory",
+        "value": false
+      },
+      {
+        "answer": "Digestion",
+        "value": false
+      },
+      {
+        "answer": "Skin in the form of vapor",
+        "value": false
+      },
+      {
+        "answer": "Drug injection",
+        "value": false
+      },
+      {
+        "answer": "Respiratory, digestion, drug injection and skin vapor",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A patient complains on unpleasant taste in the mouth, specific breath, dark spots on lips and tongue. Objectively: the skin is grey-ground. In the mouth - catarrhal gingivitis and there is a blue-black strip around front teeth necks from the vestibular side. Poisoning by which metal makes such changes?",
+    "answers": [
+      {
+        "answer": "Tin",
+        "value": false
+      },
+      {
+        "answer": "Zinc",
+        "value": false
+      },
+      {
+        "answer": "Lead",
+        "value": true
+      },
+      {
+        "answer": "Mercury",
+        "value": false
+      },
+      {
+        "answer": "Argentum",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mercury stomatitis was diagnosed at 23 y.o. patient. What should we prescribe for the treatment  of chronic intoxication?",
+    "answers": [
+      {
+        "answer": "D-penicillamine",
+        "value": false
+      },
+      {
+        "answer": "Vitamin C",
+        "value": false
+      },
+      {
+        "answer": "Potassium iodide",
+        "value": false
+      },
+      {
+        "answer": "Polyvitamins",
+        "value": false
+      },
+      {
+        "answer": "Complex of vitamins, potassium iodide and D-penicillamine",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Medications containing bismuth are used to treat",
+    "answers": [
+      {
+        "answer": "Tuberculous lupus",
+        "value": false
+      },
+      {
+        "answer": "Gonococcal stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Infectious mononucleosis",
+        "value": false
+      },
+      {
+        "answer": "Diphtheria",
+        "value": false
+      },
+      {
+        "answer": "Syphilis",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "The 28 y.o. patient complains on metallic taste, unpleasant specific taste, dark spots on lips and tongue, difficulty chewing. In the mouth - catarrhal gingivitis and there is a blue-black strip around front teeth necks from the vestibular side. Local treatment of this disease is carried by the scheme as:",
+    "answers": [
+      {
+        "answer": "Treatment of ulcerative necrotic stomatitis",
+        "value": true
+      },
+      {
+        "answer": "Treatment of catarrhal gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Treatment of chronic generalized periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Treatment of parotitis",
+        "value": false
+      },
+      {
+        "answer": "Treatment of acute pseudomembranous candidiasis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "38 y.o. woman complains on unpleasant specific taste, dark spots on lips and tongue, difficulty chewing. In the mouth - catarrhal gingivitis and there is a blue-black strip around front teeth necks from the vestibular side. What is one of the first symptoms of this disease?",
+    "answers": [
+      {
+        "answer": "Wrinkled kidney symptom",
+        "value": false
+      },
+      {
+        "answer": "Difficulty chewing and trismus",
+        "value": false
+      },
+      {
+        "answer": "Metallic taste and specific lead breath",
+        "value": true
+      },
+      {
+        "answer": "Optic atrophy",
+        "value": false
+      },
+      {
+        "answer": "Nervous system damage (paresthesia, anesthesia, paralysis)",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "General intoxication, weakness, dark-blue strips around front teeth, grey-ground color of skin, wrinkled kidney symptom indicate:",
+    "answers": [
+      {
+        "answer": "Mercury intoxication",
+        "value": false
+      },
+      {
+        "answer": "Lead intoxication",
+        "value": true
+      },
+      {
+        "answer": "Bismuth intoxication",
+        "value": false
+      },
+      {
+        "answer": "Fluorine intoxication",
+        "value": false
+      },
+      {
+        "answer": "Zinc intoxication",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mercury stomatitis is caused by:",
+    "answers": [
+      {
+        "answer": "Blood vessels blockage by mercury salts",
+        "value": false
+      },
+      {
+        "answer": "Tissue malnutrition associated with capillary injuries",
+        "value": true
+      },
+      {
+        "answer": "Epithelial cells of vessel walls burn",
+        "value": false
+      },
+      {
+        "answer": "Acute intoxication",
+        "value": false
+      },
+      {
+        "answer": "Connective tissue burn",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient (45 y.o., a painter) complains on metallic taste, difficulty chewing, weakness, indigestion. Objectively: the skin is fround-grey, dark-blue strips around teeth necks, yellow spots in the sky. What medication is used for this desease?",
+    "answers": [
+      {
+        "answer": "Dimercaprol",
+        "value": false
+      },
+      {
+        "answer": "EDTA",
+        "value": false
+      },
+      {
+        "answer": "Succimer",
+        "value": false
+      },
+      {
+        "answer": "Penicillamine",
+        "value": false
+      },
+      {
+        "answer": "Succimer, EDTA, Dimecaprol, Penicillamine",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Medications containing bismuth are contraindicated in the presence of systemic diseases:",
+    "answers": [
+      {
+        "answer": "Gastrointestinal tract",
+        "value": false
+      },
+      {
+        "answer": "Cardiovascular system",
+        "value": false
+      },
+      {
+        "answer": "Nervous system",
+        "value": true
+      },
+      {
+        "answer": "Bone trauma",
+        "value": false
+      },
+      {
+        "answer": "Infectional diseases",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In a case of termination of lead entering to the body and proper treatment, how long it takes for patient to become well?",
+    "answers": [
+      {
+        "answer": "6 month",
+        "value": false
+      },
+      {
+        "answer": "2-3 weeks",
+        "value": false
+      },
+      {
+        "answer": "12-14 days",
+        "value": true
+      },
+      {
+        "answer": "1 year",
+        "value": false
+      },
+      {
+        "answer": "18-32 days",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Bismuth stomatitis is the most often caused by:",
+    "answers": [
+      {
+        "answer": "Intoxication while working with paints",
+        "value": false
+      },
+      {
+        "answer": "Intoxication while working with combustibles",
+        "value": false
+      },
+      {
+        "answer": "Intoxication while working with plastics",
+        "value": false
+      },
+      {
+        "answer": "Intoxication while using of drugs against syphilis",
+        "value": true
+      },
+      {
+        "answer": "Intoxication while eating bog amount of seafood",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Heavy metals salts intoxication is often differentiated with:",
+    "answers": [
+      {
+        "answer": "Hemangioma",
+        "value": false
+      },
+      {
+        "answer": "Addison desease",
+        "value": true
+      },
+      {
+        "answer": "Ulcerative-necrotic gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Pigment spots",
+        "value": false
+      },
+      {
+        "answer": "Radiation exposure",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 35 years old patient came to the dentist for sanitation. The doctor found signs of catarrhal gingivitis and the dark fringe on the gum free edge beside of front teeth' neck. From the anamnesis — the patient works in printing office for years. What disease we suspect?",
+    "answers": [
+      {
+        "answer": "Addison's disease",
+        "value": false
+      },
+      {
+        "answer": "Mercury stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Necrotizing stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Lead stomatitis",
+        "value": true
+      },
+      {
+        "answer": "Galvanosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 28 years old patient complains on gray-black spots in the red lip rim area and acompanying weakness and headache. Is treated at an endocrinologist about the violation of adrenal hormones. What disease we suspect?",
+    "answers": [
+      {
+        "answer": "Addison's disease",
+        "value": true
+      },
+      {
+        "answer": "Lead stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Mercury stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Bismuth stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Cadmium stomatitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which metal most often cause intoxication?",
+    "answers": [
+      {
+        "answer": "Argentum",
+        "value": false
+      },
+      {
+        "answer": "Ferum",
+        "value": false
+      },
+      {
+        "answer": "Zinc",
+        "value": true
+      },
+      {
+        "answer": "Manganese",
+        "value": false
+      },
+      {
+        "answer": "Aurum",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient, who works at mirror manufacturing complains on headache, malaise, feeling the heat, salivation violation, severe throbbing pain in mouth. There is grey-black border around teeth necks, hyperemic swollen gums. What metal will be detected after the urine analysis?",
+    "answers": [
+      {
+        "answer": "Lead",
+        "value": false
+      },
+      {
+        "answer": "Bismuth",
+        "value": false
+      },
+      {
+        "answer": "Mercury",
+        "value": true
+      },
+      {
+        "answer": "Zinc",
+        "value": false
+      },
+      {
+        "answer": "Aurum",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which lead content in feces should be for diagnosing saturnism?",
+    "answers": [
+      {
+        "answer": "More than 1 mg",
+        "value": true
+      },
+      {
+        "answer": "More than 0,1 mg",
+        "value": false
+      },
+      {
+        "answer": "Not less than 2 mg",
+        "value": false
+      },
+      {
+        "answer": "Not less than 0,01 mg",
+        "value": false
+      },
+      {
+        "answer": "More than 0,2 mg",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mercury enters the body through",
+    "answers": [
+      {
+        "answer": "Respiratory",
+        "value": false
+      },
+      {
+        "answer": "Digestion",
+        "value": false
+      },
+      {
+        "answer": "Skin in the form of vapor",
+        "value": false
+      },
+      {
+        "answer": "Drug injection",
+        "value": false
+      },
+      {
+        "answer": "Skin, respiratory system, digestive system and injection",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Mercury stomatitis was diagnosed in 28 y.o. patient. What should we prescribe for treating chronic intoxication?",
+    "answers": [
+      {
+        "answer": "D-penicillamine",
+        "value": false
+      },
+      {
+        "answer": "Vitamin C",
+        "value": false
+      },
+      {
+        "answer": "Potassium iodide",
+        "value": false
+      },
+      {
+        "answer": "Polyvitamins",
+        "value": false
+      },
+      {
+        "answer": "Complex of listed drugs",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Patient complains on metallic taste, unpleasant specific taste, dark spots on lips and tongue, difficulty chewing. In the mouth - catarrhal gingivitis and there is a blue-black strip around front teeth necks from the vestibular side. Local treatment of this disease is carried by the scheme as:",
+    "answers": [
+      {
+        "answer": "Treatment of ulcerative necrotic stomatitis",
+        "value": true
+      },
+      {
+        "answer": "Treatment of catarrhal gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Treatment of chronic generalized periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Treatment of parotitis",
+        "value": false
+      },
+      {
+        "answer": "Treatment of acute pseudomembranous candidiasis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Woman complains on unpleasant specific taste, dark spots on lips and tongue, difficulty chewing. In the mouth - catarrhal gingivitis and there is a blue-black strip around front teeth necks from the vestibular side. What is one of the first symptoms of this desease?",
+    "answers": [
+      {
+        "answer": "Wrinkled kidney symptom",
+        "value": false
+      },
+      {
+        "answer": "Difficulty chewing andtrismus",
+        "value": false
+      },
+      {
+        "answer": "Metallic taste and specific lead breath",
+        "value": true
+      },
+      {
+        "answer": "Optic atrophy",
+        "value": false
+      },
+      {
+        "answer": "Nervous system damage (paresthesia, anesthesia, paralysis)",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient who is a painter complains on metallic taste, difficulty chewing, weakness, indigestion. Objectively: the skin is grey, dark-blue strips around teeth necks can be visible. What medication is used for this disease?",
+    "answers": [
+      {
+        "answer": "Dimercaprol",
+        "value": false
+      },
+      {
+        "answer": "EDTA",
+        "value": false
+      },
+      {
+        "answer": "Succimer",
+        "value": false
+      },
+      {
+        "answer": "Penicillamine",
+        "value": false
+      },
+      {
+        "answer": "Complex of listed drugs",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Most often,  bismuth stomatitis is caused by:",
+    "answers": [
+      {
+        "answer": "Intoxication while working with paints",
+        "value": false
+      },
+      {
+        "answer": "Intoxication while working with combustibles",
+        "value": false
+      },
+      {
+        "answer": "Intoxication while working with plastics",
+        "value": false
+      },
+      {
+        "answer": "Intoxication while using of drugs against syphilis",
+        "value": true
+      },
+      {
+        "answer": "Intoxication while eating bog amount of seafood",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "65-years old man is diagnosed with erosive form of leukoplakia. What kind of therapy should we apply?",
+    "answers": [
+      {
+        "answer": "Phototherapy",
+        "value": false
+      },
+      {
+        "answer": "Hydrotherapy",
+        "value": false
+      },
+      {
+        "answer": "Cryotherapy",
+        "value": true
+      },
+      {
+        "answer": "Radiotherapy",
+        "value": false
+      },
+      {
+        "answer": "Vacuum therapy",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Semispherical dense formation was found above the lower lip in the 68-years old patient. In the central part of it there is the crater filled with keratinized gray mass. The formation is grey-brown. Kerarinized mass is easy to remove, and we can see dry bottom with papillary excrescence and tight shaft on the edge of the crater. No bleeding after mass removal is observed. Formation is not soldered to the surrounding tissues. What is the diagnosis?",
+    "answers": [
+      {
+        "answer": "Syphilitic ulcer",
+        "value": false
+      },
+      {
+        "answer": "Squamous cell carcinoma",
+        "value": false
+      },
+      {
+        "answer": "Keratoakantoma",
+        "value": true
+      },
+      {
+        "answer": "limited hyperkeratosis",
+        "value": false
+      },
+      {
+        "answer": "red lip rims warty precancer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The presumptive diagnosis of 47-years old patient is diagnosed with hyperkeratosis of   lower lip red border. What method of diagnosis should we use in this case?",
+    "answers": [
+      {
+        "answer": "X-ray",
+        "value": false
+      },
+      {
+        "answer": "Biopsy",
+        "value": true
+      },
+      {
+        "answer": "Puncture",
+        "value": false
+      },
+      {
+        "answer": "Smear-mark",
+        "value": false
+      },
+      {
+        "answer": "Scraping of the surface formation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient K. (69 years old) two years ago found keratinized ledge on the chin. This ledge is conical, tapering top. Put diagnosis.",
+    "answers": [
+      {
+        "answer": "Warty leukoplakia",
+        "value": false
+      },
+      {
+        "answer": "Keratoakantoma",
+        "value": false
+      },
+      {
+        "answer": "Skin horn",
+        "value": true
+      },
+      {
+        "answer": "Nodular skin precancer",
+        "value": false
+      },
+      {
+        "answer": "Erythroplasia of Queyrat",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient (59 years old) complains on color change of the lower lip red rim. Changes have started 4 months ago. Objectively: missing 31, 32, 41, 42. On the center of lower lip red rim there is irregular shaped area (grey-white, 8x14 mm) which is on the same level as red rim. Palpation is painless, the surrounding tissue isn't changed. During scraping pellicle is not removing. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Leukoplakia",
+        "value": true
+      },
+      {
+        "answer": "Limited precancerous hyperkeratosis",
+        "value": false
+      },
+      {
+        "answer": "Red flat lichen",
+        "value": false
+      },
+      {
+        "answer": "Candida cheilitis",
+        "value": false
+      },
+      {
+        "answer": "lupus erythematosus",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "87-years old patient complains on ulcer on the lower lip red rim, which appeared three month ago. Objectively: there is irregular shaped erosion (8x12 mm) on the lower lip red rim. It's covered with bloody crust and lightly bleeding after removing it. Palpation is painless, no signs of inflammation around, regional lymph nodes are not enlarged. What additional research should be held?",
+    "answers": [
+      {
+        "answer": "Serological",
+        "value": false
+      },
+      {
+        "answer": "Histological",
+        "value": true
+      },
+      {
+        "answer": "Immunological",
+        "value": false
+      },
+      {
+        "answer": "fluorescent",
+        "value": false
+      },
+      {
+        "answer": "Bacterioscopic",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "54-years old patient complains on pathological changes of the lower lip. Objectively: the lip is purplish-red; there are erythematous spots and erosions on the red rim. Wasting areas in the center of affection, on the periphery-epithelium dimmed areas in the form of irregular white stripes. Oral mucosa is intact. What additional research should be appeal?",
+    "answers": [
+      {
+        "answer": "Histological",
+        "value": true
+      },
+      {
+        "answer": "Serological",
+        "value": false
+      },
+      {
+        "answer": "blood",
+        "value": false
+      },
+      {
+        "answer": "Immunological",
+        "value": false
+      },
+      {
+        "answer": "Cytological",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "49-years old patient, smokes excessively. The mouth cavity is not sanitated. Verrucous leukoplakia was diagnosed. How the mucous",
+    "answers": [
+      {
+        "answer": "presence of warty excrescence of the epithelium",
+        "value": true
+      },
+      {
+        "answer": "presence of epithelium atrophy",
+        "value": false
+      },
+      {
+        "answer": "presence of crack epithelium",
+        "value": false
+      },
+      {
+        "answer": "presence of whitish spot",
+        "value": false
+      },
+      {
+        "answer": "presence of limited swelling",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient (65 y.o.) has a rare warty globular neoplasm (diameter 8 mm) on the left cheek. It's clearly separated from the healthy skin. Surface is granular, grayish-brown, no hair. At the touch is soft, easily movable, relative to the skin. It has appeared 6 years ago. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "skin horn",
+        "value": false
+      },
+      {
+        "answer": "neurofibromas",
+        "value": false
+      },
+      {
+        "answer": "rodent ulcer",
+        "value": false
+      },
+      {
+        "answer": "skin papilloma",
+        "value": true
+      },
+      {
+        "answer": "erosion",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What changes can appear often on the oral mucosa in AIDS-patients before the main clinical symptoms?",
+    "answers": [
+      {
+        "answer": "Kaposi's sarcoma.",
+        "value": false
+      },
+      {
+        "answer": "Non-Hodgkin lymphoma.",
+        "value": false
+      },
+      {
+        "answer": "HIV-periodontitis.",
+        "value": false
+      },
+      {
+        "answer": "Herpetic lesions",
+        "value": false
+      },
+      {
+        "answer": "hairy leukoplakia",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Which disease is observed with morphological changes such as hyperkeratosis, parakeratosis, acanthosis?",
+    "answers": [
+      {
+        "answer": "leukoplakia",
+        "value": true
+      },
+      {
+        "answer": "Exudative erythema multiforme",
+        "value": false
+      },
+      {
+        "answer": "herpes simplex",
+        "value": false
+      },
+      {
+        "answer": "Sjogren's syndrome.",
+        "value": false
+      },
+      {
+        "answer": "ulcer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the most reasonable etiological factor of leukoplakia?",
+    "answers": [
+      {
+        "answer": "genetic",
+        "value": false
+      },
+      {
+        "answer": "Toxic-allergic",
+        "value": false
+      },
+      {
+        "answer": "Traumatic.",
+        "value": true
+      },
+      {
+        "answer": "infection",
+        "value": false
+      },
+      {
+        "answer": "viral",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What form of leukoplakia has the highest propensity to malignancy?",
+    "answers": [
+      {
+        "answer": "Erosive-ulcerative",
+        "value": true
+      },
+      {
+        "answer": "Flat",
+        "value": false
+      },
+      {
+        "answer": "Verrucous",
+        "value": false
+      },
+      {
+        "answer": "Leukoplakia of Tappeiner.",
+        "value": false
+      },
+      {
+        "answer": "Leukoplakia of Janisson",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which vitamins are the means of immunosuppressive therapy in case of leukoplakia?",
+    "answers": [
+      {
+        "answer": "Vinilin",
+        "value": false
+      },
+      {
+        "answer": "Rutin",
+        "value": false
+      },
+      {
+        "answer": "Retinol acetate",
+        "value": true
+      },
+      {
+        "answer": "Vitaftor",
+        "value": false
+      },
+      {
+        "answer": "riboflavin",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which tongue disease is observed in cause of Melkersson-Rosenthal syndrome?",
+    "answers": [
+      {
+        "answer": "Black hairy tongue",
+        "value": false
+      },
+      {
+        "answer": "fissured tongue",
+        "value": true
+      },
+      {
+        "answer": "rhomboid glossitis",
+        "value": false
+      },
+      {
+        "answer": "glossitis desquamativa",
+        "value": false
+      },
+      {
+        "answer": "There is no tongue changes",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "58 y.o. patient complains on formation appearance on the lower lip. After the examination, there was established diagnosis of precancerous hyperkeratosis. What treatment should we apply?",
+    "answers": [
+      {
+        "answer": "Keratoplastic means",
+        "value": false
+      },
+      {
+        "answer": "Antibiotic",
+        "value": false
+      },
+      {
+        "answer": "Anti-inflammatory therapy",
+        "value": false
+      },
+      {
+        "answer": "Surgical removal",
+        "value": true
+      },
+      {
+        "answer": "Medical observation without treatment",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient (47 y.o.) complains on feeling burning, tightness of buccal mucosa, roughness, uncomfortable feeling. Objectively: there is a dense grayish-white area on the lower lip red rim and hyperemic cheek mucosa. This area rises over the mucous membrane in the form of white warty growths. Dental plaque is also present. Put the most likely diagnosis:",
+    "answers": [
+      {
+        "answer": "Verrucous leukoplakia",
+        "value": false
+      },
+      {
+        "answer": "Red flat lichen",
+        "value": false
+      },
+      {
+        "answer": "Leukoplakia, flat shape",
+        "value": false
+      },
+      {
+        "answer": "Chronic hyperplastic candidiasis",
+        "value": true
+      },
+      {
+        "answer": "Galvanic stomatitis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Lesion is clearly limited in 10 mm diameter, from which conical protrusion rises not more than 10 mm. Lesion color is dirty or brownish gray. To what disease is it typically?",
+    "answers": [
+      {
+        "answer": "Bowen's disease",
+        "value": false
+      },
+      {
+        "answer": "Abrasive precancer cheilitis Manganotti",
+        "value": false
+      },
+      {
+        "answer": "Cutaneous (skin) horn",
+        "value": true
+      },
+      {
+        "answer": "Limited precancerous hyperkeratosis red lip rims",
+        "value": false
+      },
+      {
+        "answer": "Keratoakantoma",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of pathological process in the mucous membrane is the most common?",
+    "answers": [
+      {
+        "answer": "inflammation;",
+        "value": true
+      },
+      {
+        "answer": "dystrophy;",
+        "value": false
+      },
+      {
+        "answer": "tumor;",
+        "value": false
+      },
+      {
+        "answer": "allergy;",
+        "value": false
+      },
+      {
+        "answer": "atrophy",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the result of productive inflammation?",
+    "answers": [
+      {
+        "answer": "edema and infiltration of vessel walls, perivascular connective tissue with leukocytes;",
+        "value": false
+      },
+      {
+        "answer": "degenerative and necrotic processes in the cells of the epithelium and connective tissue;",
+        "value": false
+      },
+      {
+        "answer": "mucoid and fibrinoid degeneration of vessel walls and fiber component of mucous membrane;",
+        "value": false
+      },
+      {
+        "answer": "formation of nature connective tissue with signs of sclerosis and hyalinosis of vessels;",
+        "value": true
+      },
+      {
+        "answer": "swelling of endothelial cells, vasodilation.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Epithelial changes of oral mucosa, which are being caused by various pathological processes, are divided into the following three types:",
+    "answers": [
+      {
+        "answer": "para-,hyper-,dyskeratosis;",
+        "value": false
+      },
+      {
+        "answer": "violation of keratinization, exudative changes and hypertrophy;",
+        "value": true
+      },
+      {
+        "answer": "vacuole dystrophy, spongiosis, bolus dystrophy;",
+        "value": false
+      },
+      {
+        "answer": "acanthosis, papilomatosis, acantholis;",
+        "value": false
+      },
+      {
+        "answer": "atrophy, spongiosis, pigmentation.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of pathological process includes a violation of keratinization?",
+    "answers": [
+      {
+        "answer": "para-,hyper-,dyskeratosis;",
+        "value": true
+      },
+      {
+        "answer": "akantosis, papilomatosis, akantolis;",
+        "value": false
+      },
+      {
+        "answer": "vacuole dystrophy, spongiosis, bolus dystrophy;",
+        "value": false
+      },
+      {
+        "answer": "atrophy, spongiosis, pigmentation;",
+        "value": false
+      },
+      {
+        "answer": "erythema, xanthoma, exanthema.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Excessive thickening of the stratum corneum of the epithelium is:",
+    "answers": [
+      {
+        "answer": "acanthosis;",
+        "value": false
+      },
+      {
+        "answer": "spongiosis;",
+        "value": false
+      },
+      {
+        "answer": "parakeratosis;",
+        "value": false
+      },
+      {
+        "answer": "acantholis;",
+        "value": false
+      },
+      {
+        "answer": "hyperkeratosis.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Intercellular edema between the keratinocytes in the epidermis is:",
+    "answers": [
+      {
+        "answer": "vacuole dystrophy;",
+        "value": true
+      },
+      {
+        "answer": "spongiosis",
+        "value": false
+      },
+      {
+        "answer": "dyskeratosis;",
+        "value": false
+      },
+      {
+        "answer": "bolus dystrophy;",
+        "value": false
+      },
+      {
+        "answer": "hyperkaratosis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The accumulation of fluid within cells of basal and spiny (prickle) layers is :",
+    "answers": [
+      {
+        "answer": "vacuole dystrophy;",
+        "value": false
+      },
+      {
+        "answer": "spongiosis",
+        "value": true
+      },
+      {
+        "answer": "dyskeratosis;",
+        "value": false
+      },
+      {
+        "answer": "bolus dystrophy;",
+        "value": false
+      },
+      {
+        "answer": "hyperkaratosis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The focal changes cells of spiny (prickle) layer oral mucosa that increase, round up, acquiring the form of balls or small vesicles bullae are named:",
+    "answers": [
+      {
+        "answer": "vacuole dystrophy;",
+        "value": false
+      },
+      {
+        "answer": "spongiosis",
+        "value": false
+      },
+      {
+        "answer": "dyskeratosis;",
+        "value": false
+      },
+      {
+        "answer": "bolus dystrophy;",
+        "value": true
+      },
+      {
+        "answer": "hyperkaratosis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What does mean acanthosis?",
+    "answers": [
+      {
+        "answer": "the focal changes of cells of spiny (prickle) layer oral mucosa that increase, round up, acquiring the form of balls;",
+        "value": false
+      },
+      {
+        "answer": "excessive thickening of the stratum corneum of the epithelium;",
+        "value": false
+      },
+      {
+        "answer": "overgrowth of epithelial connective tissue papillae and growing them in the epithelial layer;",
+        "value": false
+      },
+      {
+        "answer": "accumulation of fluid within cells of basal and thorn layers;",
+        "value": false
+      },
+      {
+        "answer": "extension outgrowths of the epithelium between papillae as a result increased proliferation of basal and spiny layers.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "The main methods of examination oral mucosa are:",
+    "answers": [
+      {
+        "answer": "Schiller-Pisarev test, diascopy;",
+        "value": false
+      },
+      {
+        "answer": "main clinical blood exam, cytological exam of oral mucosa;",
+        "value": false
+      },
+      {
+        "answer": "stomatoscopy, diascopy;",
+        "value": false
+      },
+      {
+        "answer": "palpation, examination of the patient;",
+        "value": true
+      },
+      {
+        "answer": "stomatoscopy, auscultation.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kinds of examination methods are subjective?",
+    "answers": [
+      {
+        "answer": "palpation;",
+        "value": false
+      },
+      {
+        "answer": "overview of the patient;",
+        "value": false
+      },
+      {
+        "answer": "history of disease;",
+        "value": true
+      },
+      {
+        "answer": "microscopic examination;",
+        "value": false
+      },
+      {
+        "answer": "stomatoscopy.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The white or yellowish-white inclusions about the size of semolina grains or millet grain that normally occur on the surface of red lip fringe are:",
+    "answers": [
+      {
+        "answer": "pink acne;",
+        "value": false
+      },
+      {
+        "answer": "Mikulych aphthae;",
+        "value": false
+      },
+      {
+        "answer": "Fordyce’s spots;",
+        "value": true
+      },
+      {
+        "answer": "salivary gland;",
+        "value": false
+      },
+      {
+        "answer": "chronic recurrent herpes.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "From gums of the upper jaw lymph falls only in:",
+    "answers": [
+      {
+        "answer": "submandibular lymph nodes;",
+        "value": false
+      },
+      {
+        "answer": "submental lymph nodes",
+        "value": false
+      },
+      {
+        "answer": "deep cervical lymph nodes;",
+        "value": true
+      },
+      {
+        "answer": "superficial lymph nodes of the face;",
+        "value": false
+      },
+      {
+        "answer": "tongue nodes.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "From the middle part of lower lip lymph falls initially in:",
+    "answers": [
+      {
+        "answer": "submandibular lymph nodes;",
+        "value": false
+      },
+      {
+        "answer": "submental lymph nodes;",
+        "value": true
+      },
+      {
+        "answer": "deep cervical;",
+        "value": false
+      },
+      {
+        "answer": "superficial lymph nodes of the face;",
+        "value": false
+      },
+      {
+        "answer": "tongue nodes.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During examination of the patient with oral mucous pathology through the closing line of teeth on the cheeks mucous were detected inclusions. There are:",
+    "answers": [
+      {
+        "answer": "sweat glands;",
+        "value": false
+      },
+      {
+        "answer": "Mikulych aphthae;",
+        "value": false
+      },
+      {
+        "answer": "sebaceous glands;",
+        "value": false
+      },
+      {
+        "answer": "salivary gland;",
+        "value": true
+      },
+      {
+        "answer": "chronic recurrent herpes.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the color of the soft palate mucosa in smokers?",
+    "answers": [
+      {
+        "answer": "bluish;",
+        "value": false
+      },
+      {
+        "answer": "deep red;",
+        "value": false
+      },
+      {
+        "answer": "yellowish;",
+        "value": true
+      },
+      {
+        "answer": "pink;",
+        "value": false
+      },
+      {
+        "answer": "spotted pink.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kinds of exam methods are laboratory examination methods?",
+    "answers": [
+      {
+        "answer": "Schiller-Pisarev test, diascopy ;",
+        "value": false
+      },
+      {
+        "answer": "main clinical blood exam, cytological exam of oral mucosa;",
+        "value": true
+      },
+      {
+        "answer": "stomatoscopy, diascopy;",
+        "value": false
+      },
+      {
+        "answer": "palpation, overview of the patient;",
+        "value": false
+      },
+      {
+        "answer": "stomatoscopy, auscultation.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of following medical manipulations is not allergic skin test?",
+    "answers": [
+      {
+        "answer": "skin prick test(drop of solution on the skin);",
+        "value": false
+      },
+      {
+        "answer": "intradermal;",
+        "value": false
+      },
+      {
+        "answer": "skin patch test;",
+        "value": false
+      },
+      {
+        "answer": "blood test;",
+        "value": true
+      },
+      {
+        "answer": "scratch test.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The primary element lesion of oral mucosa is not:",
+    "answers": [
+      {
+        "answer": "vesicle;",
+        "value": false
+      },
+      {
+        "answer": "cyst;",
+        "value": false
+      },
+      {
+        "answer": "boil;",
+        "value": false
+      },
+      {
+        "answer": "erosion;",
+        "value": true
+      },
+      {
+        "answer": "tubercle.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The round or oval large hemorrhages are:",
+    "answers": [
+      {
+        "answer": "ecchymosis;",
+        "value": false
+      },
+      {
+        "answer": "petechiae;",
+        "value": false
+      },
+      {
+        "answer": "telangiectasia;",
+        "value": true
+      },
+      {
+        "answer": "roseola;",
+        "value": false
+      },
+      {
+        "answer": "erythema.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During oral exam was found discoloration of the oral mucosa in a limited area (diameter 6 mm) which is not above the mucous level. What kind of element damage is in the patient?",
+    "answers": [
+      {
+        "answer": "blisters;",
+        "value": false
+      },
+      {
+        "answer": "node;",
+        "value": false
+      },
+      {
+        "answer": "nodule;",
+        "value": false
+      },
+      {
+        "answer": "spot;",
+        "value": true
+      },
+      {
+        "answer": "aphtha.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Tubercle is:",
+    "answers": [
+      {
+        "answer": "limited to large size compaction (from hazelnut to chicken eggs) that reaches the submucosal base;",
+        "value": false
+      },
+      {
+        "answer": "infiltrative without cavity element is rounded up to pea that stands above the mucosa. Infiltration takes all layers of the mucous;",
+        "value": true
+      },
+      {
+        "answer": "without cavity element pointed, semicircular, circular, acting above the mucosa. Infiltrate located in the papillary layer of own plate mucous membrane;",
+        "value": false
+      },
+      {
+        "answer": "cavernous element with significant size filled with liquid;",
+        "value": false
+      },
+      {
+        "answer": "cavernous lesion with a wall and contents.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Pustule is:",
+    "answers": [
+      {
+        "answer": "small bubble with serous content, located on the mucosa;",
+        "value": false
+      },
+      {
+        "answer": "little bubble with purulent content placed on the skin and lips red border up to 5 mm;",
+        "value": true
+      },
+      {
+        "answer": "without cavity formation tends to suppurate, viral etiology;",
+        "value": false
+      },
+      {
+        "answer": "without cavity formation with hemorrhagic content larger than 5 mm;",
+        "value": false
+      },
+      {
+        "answer": "without cavity formation of purulent hemorrhagic content located intraepithelial.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Immunoglobulin that acts as a specific protection of saliva is:",
+    "answers": [
+      {
+        "answer": "Ig A;",
+        "value": true
+      },
+      {
+        "answer": "Ig G;",
+        "value": false
+      },
+      {
+        "answer": "Ig M;",
+        "value": false
+      },
+      {
+        "answer": "Ig E;",
+        "value": false
+      },
+      {
+        "answer": "Ig D.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In base of which process are acanthosis, papilomatosis?",
+    "answers": [
+      {
+        "answer": "exudative changes;",
+        "value": false
+      },
+      {
+        "answer": "violation of cornification;",
+        "value": false
+      },
+      {
+        "answer": "hypertrophy;",
+        "value": true
+      },
+      {
+        "answer": "atrophy;",
+        "value": false
+      },
+      {
+        "answer": "regenerative changes.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What does mean hyperkeratosis?",
+    "answers": [
+      {
+        "answer": "incomplete cornification associated with the loss of the ability of epithelial cells to produce keratohialin;",
+        "value": false
+      },
+      {
+        "answer": "excessive thickening of the stratum corneum of the epithelium;",
+        "value": true
+      },
+      {
+        "answer": "disturbances of cornification of individual epithelium cells;",
+        "value": false
+      },
+      {
+        "answer": "accumulation of fluid within cells of basal and spiny layers;",
+        "value": false
+      },
+      {
+        "answer": "intercellular edema between the keratinocytes in the epidermis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is typical for dyskeratosis?",
+    "answers": [
+      {
+        "answer": "excessive formation of keratin when the granular and spiny layers get thicker;",
+        "value": false
+      },
+      {
+        "answer": "granular layer is absent, the stratum corneum gets thicker and its cells contain bacilliform nucleus. Clinically it is manifested turbidity mucosal epithelium;",
+        "value": false
+      },
+      {
+        "answer": "individual epithelial cells are enlarged, rounded: nucleus intensely colored, cytoplasm is eosinophilic, slightly granular. These cells lose intercellular contacts and randomly arranged in most layers of the epithelium;",
+        "value": true
+      },
+      {
+        "answer": "as a result of fluid accumulation in spiny layer, the size of cells increases, the nucleus changes the shape and size and then splits to form single-cell cavity;",
+        "value": false
+      },
+      {
+        "answer": "the cavities filled with fluid are formed as a result of certain areas of colliquative necrosis of the epithelium in the mouth and have cells that resemble balloons.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Tzank cells were revealed during microscopic examination of mucous membrane. What is the diagnosis?",
+    "answers": [
+      {
+        "answer": "Vincent angina;",
+        "value": false
+      },
+      {
+        "answer": "foot and mouth disease;",
+        "value": false
+      },
+      {
+        "answer": "pemphigus;",
+        "value": true
+      },
+      {
+        "answer": "AIDS;",
+        "value": false
+      },
+      {
+        "answer": "Miescher cheilitis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "High frequency conversion process in malignant typical for:",
+    "answers": [
+      {
+        "answer": "benign tumors;",
+        "value": false
+      },
+      {
+        "answer": "facultative precancerous processes;",
+        "value": false
+      },
+      {
+        "answer": "obligate precancerous processes;",
+        "value": true
+      },
+      {
+        "answer": "chronic exogenous intoxication;",
+        "value": false
+      },
+      {
+        "answer": "chronic hypovitaminosis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of following exam methods are not laboratory examination?",
+    "answers": [
+      {
+        "answer": "clinical test of blood and urine;",
+        "value": false
+      },
+      {
+        "answer": "cytological exam, biopsy;",
+        "value": false
+      },
+      {
+        "answer": "bacteriological examination, bacterioscopy;",
+        "value": false
+      },
+      {
+        "answer": "fluorescent studies, diascopy;",
+        "value": true
+      },
+      {
+        "answer": "cytochemical serological studies.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Rotter test and “tongue” test are used for:",
+    "answers": [
+      {
+        "answer": "detection of hematoma;",
+        "value": false
+      },
+      {
+        "answer": "diagnosis of diphtheria;",
+        "value": false
+      },
+      {
+        "answer": "saturation of tissue ascorbic acid;",
+        "value": true
+      },
+      {
+        "answer": "identify allergies to medicine;",
+        "value": false
+      },
+      {
+        "answer": "diagnostic of capillary strength in mucosa.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which layer of the epithelium is a source of tumor growth?",
+    "answers": [
+      {
+        "answer": "basal cell layer;",
+        "value": true
+      },
+      {
+        "answer": "granular cell layer;",
+        "value": false
+      },
+      {
+        "answer": "spiny or prickle cell layer;",
+        "value": false
+      },
+      {
+        "answer": "cornified, horny layer;",
+        "value": false
+      },
+      {
+        "answer": "all layers",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the normal viscosity of saliva?",
+    "answers": [
+      {
+        "answer": "1-5;",
+        "value": false
+      },
+      {
+        "answer": "10-12;",
+        "value": false
+      },
+      {
+        "answer": "5-9;",
+        "value": false
+      },
+      {
+        "answer": "22-24;",
+        "value": true
+      },
+      {
+        "answer": "over 24.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A special technique for examination of erythematous skin lesions by using glass plate for pressing over the lesion is named:",
+    "answers": [
+      {
+        "answer": "biopsy;",
+        "value": false
+      },
+      {
+        "answer": "fluorescent study;",
+        "value": false
+      },
+      {
+        "answer": "diascopy;",
+        "value": true
+      },
+      {
+        "answer": "stomatoscopy;",
+        "value": false
+      },
+      {
+        "answer": "Schiller-Pisarev test.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Spots caused by violation of the integrity the vascular wall are named:",
+    "answers": [
+      {
+        "answer": "petechiae;",
+        "value": false
+      },
+      {
+        "answer": "telangiectasia;",
+        "value": false
+      },
+      {
+        "answer": "hemorrhage;",
+        "value": true
+      },
+      {
+        "answer": "roseola;",
+        "value": false
+      },
+      {
+        "answer": "erythema.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During exam of the patient was detected cavernous element of significant size, filled with liquid. What is the lesion?",
+    "answers": [
+      {
+        "answer": "blister;",
+        "value": true
+      },
+      {
+        "answer": "crack;",
+        "value": false
+      },
+      {
+        "answer": "aphthae;",
+        "value": false
+      },
+      {
+        "answer": "erosion;",
+        "value": false
+      },
+      {
+        "answer": "tubercle.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The secondary pathologic element of oral mucosa is:",
+    "answers": [
+      {
+        "answer": "blister;",
+        "value": false
+      },
+      {
+        "answer": "node;",
+        "value": false
+      },
+      {
+        "answer": "nodule;",
+        "value": false
+      },
+      {
+        "answer": "spot;",
+        "value": false
+      },
+      {
+        "answer": "lichenization.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Spots that belong to a group of non inflammatory origin are:",
+    "answers": [
+      {
+        "answer": "roseola;",
+        "value": false
+      },
+      {
+        "answer": "erythema;",
+        "value": false
+      },
+      {
+        "answer": "pigmented spots;",
+        "value": true
+      },
+      {
+        "answer": "xanthoma;",
+        "value": false
+      },
+      {
+        "answer": "exanthema.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is erosion?",
+    "answers": [
+      {
+        "answer": "area of connective tissue that replaces the defective mucosa occurred at damage;",
+        "value": false
+      },
+      {
+        "answer": "defect of the mucous membrane within the connective tissue layer;",
+        "value": false
+      },
+      {
+        "answer": "superficial epithelial defect round or oval shape with a diameter of 0.3-0.5 mm in the area of inflammatory mucous membrane covered with fibrinous white or yellow effusion;",
+        "value": true
+      },
+      {
+        "answer": "defect in the surface layer of the epithelium;",
+        "value": false
+      },
+      {
+        "answer": "plate with desquamation keratinized epithelial cells.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Lymph from palate falls into:",
+    "answers": [
+      {
+        "answer": "submandibular lymph nodes;",
+        "value": false
+      },
+      {
+        "answer": "deep cervical;",
+        "value": false
+      },
+      {
+        "answer": "deep lymph nodes of the face;",
+        "value": true
+      },
+      {
+        "answer": "tongue nodes.",
+        "value": false
+      },
+      {
+        "answer": "submental lymph nodes;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Papule or nodule is:",
+    "answers": [
+      {
+        "answer": "limited to large size compaction (from hazelnut to chicken eggs) that reaches the submucosal base;",
+        "value": false
+      },
+      {
+        "answer": "infiltrative, without cavity, element that stands above the mucosa. Infiltration takes all layers of the mucous;",
+        "value": false
+      },
+      {
+        "answer": "without cavity, element which is semicircular or  circular, acting above the mucosa. Infiltrate is  located in the papillary layer of own plate mucous membrane;",
+        "value": true
+      },
+      {
+        "answer": "cavernous element with significant size filled with liquid;",
+        "value": false
+      },
+      {
+        "answer": "cavernous lesion with a wall and contents.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is a scar?",
+    "answers": [
+      {
+        "answer": "area of connective tissue that replaces the defective mucosa occurred at damage;",
+        "value": true
+      },
+      {
+        "answer": "defect of the mucous membrane within the connective tissue layer;",
+        "value": false
+      },
+      {
+        "answer": "superficial epithelial defect round or oval shape with a diameter of 0.3-0.5 mm in the area of inflammatory mucous membrane covered with fibrinous white or yellow effusion;",
+        "value": false
+      },
+      {
+        "answer": "defect in the surface layer of the epithelium;",
+        "value": false
+      },
+      {
+        "answer": "plate with desquamation keratinized epithelial cells.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An overgrowth of epithelial connective tissue papillae and growing them in the epithelial layer is:",
+    "answers": [
+      {
+        "answer": "acanthosis;",
+        "value": true
+      },
+      {
+        "answer": "spongiosis;",
+        "value": false
+      },
+      {
+        "answer": "papillomatosis;",
+        "value": false
+      },
+      {
+        "answer": "acantholis;",
+        "value": false
+      },
+      {
+        "answer": "hyperkeratosis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of exam methods are additional?",
+    "answers": [
+      {
+        "answer": "palpation;",
+        "value": false
+      },
+      {
+        "answer": "overview of the patient;",
+        "value": false
+      },
+      {
+        "answer": "stomatoscopy;",
+        "value": true
+      },
+      {
+        "answer": "life history;",
+        "value": false
+      },
+      {
+        "answer": "complaints.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During exam of the patient with oral mucous pathology in the outer oral vestibule were detected symmetrical hillocks near maxillary molars. There are:",
+    "answers": [
+      {
+        "answer": "sweat glands;",
+        "value": false
+      },
+      {
+        "answer": "Mikulych aphthae;",
+        "value": false
+      },
+      {
+        "answer": "sebaceous glands;",
+        "value": false
+      },
+      {
+        "answer": "parotid duct;",
+        "value": true
+      },
+      {
+        "answer": "atsynoz glands.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A puncture conducted to identify:",
+    "answers": [
+      {
+        "answer": "aphthae, vesicle, ulcer;",
+        "value": false
+      },
+      {
+        "answer": "blister, hemangioma, erosion;",
+        "value": false
+      },
+      {
+        "answer": "bubble, crack, tubercle;",
+        "value": false
+      },
+      {
+        "answer": "papule, hematoma, petechiae;",
+        "value": false
+      },
+      {
+        "answer": "cyst, hematoma, limphohioma.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 48 year old patient complains about pain in the oral cavity induced by eating. He suffers from CHD. Objective examination revealed dyspnea, limb edema. Oral cavity isn't sanitated. On the mucous membrane, on the right, there is an ulcer with irregular edges covered with greyish-white necrotic deposit with low-grade inflammation around it. There is also halitosis. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Cancerous ulcer",
+        "value": false
+      },
+      {
+        "answer": "Traumatic ulcer",
+        "value": false
+      },
+      {
+        "answer": "Tuberculous ulcer",
+        "value": false
+      },
+      {
+        "answer": "Trophic ulcer",
+        "value": true
+      },
+      {
+        "answer": "Ulcero-necrotic stomatitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 20 year old homeless and unemployed patient complains about body temperature rise up to 39oC, pain during eating and deglutition, nasal haemorrhages. He has been suffering from this for 10 days. Objectively: herpetic rash on the lips, irregular-shaped erosions covered with fibrinous deposit on the mucous membrane of oral cavity; filmy deposits on the tonsils. Liver is enlarged and sclerotic. Blood count: erythrocytes - 4,5*1012l; hemoglobin - 120 g/l; ESR - 25 mm/h; leukocytes – 10*109l; eosinophils - 0; rod nuclear cells - 2; segmentonuclear leukocytes - 31, lymphocytes - 41; monocytes - 10; atypical mononuclears - 14%, plasmatic cells - 2. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute leukosis",
+        "value": false
+      },
+      {
+        "answer": "Acute herpetic stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Oropharyngal diphtheria",
+        "value": false
+      },
+      {
+        "answer": "AIDS",
+        "value": false
+      },
+      {
+        "answer": "Infectious mononucleosis",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 36-year-old male patient consults a dentist about an ulcer on the hard palate. It appeared about a month ago. He has treated it by rinsing with herbal water, but the ulcer is gradually 'creeping'. Objectively: there is a shallow erethistic ulcer with uneven and undermined edges of soft consistency within the mucous membrane of hard palate. Granulations of the ulcer floor are also present. Yellowish granules are visible on the ulcer periphery. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Tuberculous ulcer",
+        "value": true
+      },
+      {
+        "answer": "Trophic ulcer",
+        "value": false
+      },
+      {
+        "answer": "Cancerous ulcer",
+        "value": false
+      },
+      {
+        "answer": "Syphilitic ulcer",
+        "value": false
+      },
+      {
+        "answer": "Actinomycosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 48 year old patient applied to a dental clinic for oral cavity sanation. Anamnesis data: mild case of diabetes. Objectively: mucous membrane of cheeks is unchanged, mainly in retromolar area there are symmetrically placed whitish papulae protruding over the mucous membrane and forming a lace-like pattern. On the upper jaw there are two soldered bridge dentures, the 47 tooth has an amalgam filling, the 46 tooth has a steel crown. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Leukoplakia",
+        "value": false
+      },
+      {
+        "answer": "Secondary syphilis",
+        "value": false
+      },
+      {
+        "answer": "Lichen ruber planus",
+        "value": true
+      },
+      {
+        "answer": "Chronic atrophic candidosis",
+        "value": false
+      },
+      {
+        "answer": "Lupus erythematosus",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 16-year-old male patient complains about pain in the oral cavity, ulceration, body temperature up to 38oC, headache. Objectively: mucous membrane of the oral cavity is hyperemic and edematic. There are a lot of confluent erosions of polycyclic shape, covered with grey and white deposit, located on hard palate, gums, lips. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute herpetic stomatitis",
+        "value": true
+      },
+      {
+        "answer": "Erythema multiforme",
+        "value": false
+      },
+      {
+        "answer": "Pemphigus vulgaris",
+        "value": false
+      },
+      {
+        "answer": "Aphthous fever",
+        "value": false
+      },
+      {
+        "answer": "Allergic stomatitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 38-year-old patient complains about body temperature rise, weakness, pain induced by 	eating and deglutition. Objectively: mucous membrane of the oral cavity is erythematic with multiple petechia. Pharynx is hyperaemic. Regional lymph nodes are enlarged, mobile, painless. In blood: leukocytosis, monocytosis, atypic mononuclears, ESR is 30 mm/h. What is the leading factor of disease development?",
+    "answers": [
+      {
+        "answer": "Immediate allergy",
+        "value": false
+      },
+      {
+        "answer": "Bacterial infection",
+        "value": false
+      },
+      {
+        "answer": "Autoimmune disorders",
+        "value": false
+      },
+      {
+        "answer": "Delayed allergy",
+        "value": false
+      },
+      {
+        "answer": "Viral infection",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 23-year-old patient complains about a small ulcer on the red border of her lower lip that has been irresponsive to self-treatment for two weeks. Objectively: unchanged red border of lower lip has a circular ulcer of 2 mm in diameter with raised regular edges, its floor is of meat-like colour, dense, shiny, with 'stearic film', with cartilaginoid infiltration, painless on palpation. Regional lymph node is enlarged, of tight elastic consistency, painless, mobile.",
+    "answers": [
+      {
+        "answer": "Primary syphilis",
+        "value": true
+      },
+      {
+        "answer": "Decubital ulcer",
+        "value": false
+      },
+      {
+        "answer": "Cancerous ulcer",
+        "value": false
+      },
+      {
+        "answer": "Lupus erythematosus",
+        "value": false
+      },
+      {
+        "answer": "Tuberculous ulcer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 33-year-old male patient complains of dryness and burning of tongue back that appeared for about a week ago and get worse when he eats irritating food. The patient has a history of recent pneumonia. He had been treated in the in-patient hospital for 2 weeks, the treatment program included antibiotics. Now he doesn't take any drugs. Objectively: mucous membrane of the oral cavity is hyperemic, dry, glossy. Tongue back and palate have greyish-white plicae that can be easily removed. Threads of saliva trail behind the spatula. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic atrophic candidiasis",
+        "value": false
+      },
+      {
+        "answer": "Chronic hyperplastic candidiasis",
+        "value": false
+      },
+      {
+        "answer": "Acute atrophic candidiasis",
+        "value": false
+      },
+      {
+        "answer": "Medicamental stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Acute pseudomembranous candidiasis",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 18-year-old girl complains about having crusts, lip tenderness, especially at lip joining. Objectively: there are yellow-brown crusts on the lip red border from Klein zone to its middle, after their removal bright red smooth surface without erosions appears. Mucous membrane in Klein zone is slightly hyperemic and edematic. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exudative form of cheilitis exfoliativa",
+        "value": false
+      },
+      {
+        "answer": "Epidermolysis bullosa",
+        "value": false
+      },
+      {
+        "answer": "Exudative form of cheilitis actinica",
+        "value": true
+      },
+      {
+        "answer": "Meteorological cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Eczematous cheilitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 74-year-old female patient was waiting for her turn at the dentist’s. Suddenly she fell down, her respiration became hoarse, she got convulsive twitching in her upper and lower limbs, face and neck turned cyanotic, eye pupils became mydriatic, reaction of eye to light was absent. Arterial pressure and pulse couldn’t be measured. Heart sounds couldn’t be auscultated. Involuntary urination was noted. What condition is characterized by such symptoms?",
+    "answers": [
+      {
+        "answer": "Coma",
+        "value": false
+      },
+      {
+        "answer": "Epilepsy",
+        "value": false
+      },
+      {
+        "answer": "Shock",
+        "value": false
+      },
+      {
+        "answer": "Clinical death",
+        "value": true
+      },
+      {
+        "answer": "Collapse",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 51-year-old female patient complains about sensation of tightness of buccal mucosa and roughness of the lateral surface of tongue. The patient undergoes regular check-up at a dispensary department for compensated form of diabetes mellitus. Objectively: there are white and grey areas in form of lacy pattern on the buccal mucosa on the right and on the lateral surface of tongue. The surface of affected region cannot be scraped off. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Lupus erythematosus",
+        "value": false
+      },
+      {
+        "answer": "Secondary syphilis",
+        "value": false
+      },
+      {
+        "answer": "Lichen ruber planus",
+        "value": true
+      },
+      {
+        "answer": "Pseudomembranous candidiasis",
+        "value": false
+      },
+      {
+        "answer": "Leukoplakia",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 38-year-old patient suffers from a disease without prodromal manifestations that declares  itself through oral mucosa lesion consisting of 1-2 roundish elements 5-8 mm large which are circumscribed by a hyperemic rim and covered with yellow-grey coating. The disaese  recurrence is observed quite regularly 3-4 times a year. These presentations are typical for the following disease:",
+    "answers": [
+      {
+        "answer": "Papular syphilis",
+        "value": false
+      },
+      {
+        "answer": "Lichen ruber planus",
+        "value": false
+      },
+      {
+        "answer": "Chronic herpes recidivicus",
+        "value": false
+      },
+      {
+        "answer": "Erythema multiforme",
+        "value": false
+      },
+      {
+        "answer": "Chronic recurrent aphthous stomatitis",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 59-year-old patient complains about dryness and burning of the lateral surface of her tongue. These sensations disappear during eating. She noted such sensations three months ago. She has a history of gastritis with reduced secretory function. Objectively: mucous membrane of tongue and oral cavity has no peculiarities. The back of tongue has thin white coating. Regional lymph nodes are unpalpable. Oral cavity is sanitized. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Lingual nerve neuritis",
+        "value": false
+      },
+      {
+        "answer": "Glossodynia",
+        "value": true
+      },
+      {
+        "answer": "Candidiasis",
+        "value": false
+      },
+      {
+        "answer": "Desquamative glossitis",
+        "value": false
+      },
+      {
+        "answer": "Hunter-Moeller glossitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 36-year-old woman complains about experiencing lip dryness and desquamation for a month. Application of indifferent ointments is ineffective. Objectively: red border of lower lip is of rich red color, it is moderately infiltrated, covered with closely adhering greyish scales, it bleeds and hurts in the attempt to remove them. Opacification of epithelium in form of white stripes is present in the nodus periphery, there is also an area of depression in the center. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Cheilitis exfoliativa",
+        "value": false
+      },
+      {
+        "answer": "Commissural cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Lichen ruber planus",
+        "value": false
+      },
+      {
+        "answer": "Leukoplakia",
+        "value": false
+      },
+      {
+        "answer": "Lupus erythematosus",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 57-year-old patient complains about a sensation of foreign body on his tongue, discomfort during talking, oral cavity dryness. Objectively: there are dark filiform papillae up to 5 mm long on the back of tongue. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Benign migratory glossitis",
+        "value": false
+      },
+      {
+        "answer": "Median rhomboid glossitis",
+        "value": false
+      },
+      {
+        "answer": "Glossophytia",
+        "value": true
+      },
+      {
+        "answer": "Fissured tongue",
+        "value": false
+      },
+      {
+        "answer": "Acute glossitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 34 year old woman complains about periodical appearance of small ulcers in the oral cavity. She has been suffering from this for 5 years, recurrences happen 4-5 times a year. The ulcer healing lasts for 10 days. Objectively: on a mucous membrane of lower lip there is a roundish lesion element 0,5 cm large covered with white deposit and surrounded  by hyperemia border, very painful when touched. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic recurrent aphthous stomatitis",
+        "value": true
+      },
+      {
+        "answer": "Traumatic erosion",
+        "value": false
+      },
+      {
+        "answer": "Secondary syphilis",
+        "value": false
+      },
+      {
+        "answer": "Chronic recurrent herpes",
+        "value": false
+      },
+      {
+        "answer": "Duhring's herpetiform dermatitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 66 year old patient complains of pain in the area of mucous membrane of hard palate on the left that is getting worse during eating with use of a complete removable denture. He has been suffering from this for 1,5 month. Objectively: left-sided hyperemia and edema of mucous membrane of hard palate; at the border of distal denture edge there is an ulcer with dense walls and fundus, surrounding tissues are infiltrated. The ulcer floor is tuberous,",
+    "answers": [
+      {
+        "answer": "Cytology",
+        "value": false
+      },
+      {
+        "answer": "Bacterioscopy",
+        "value": false
+      },
+      {
+        "answer": "Biopsy",
+        "value": true
+      },
+      {
+        "answer": "Allergic contact plastic test",
+        "value": false
+      },
+      {
+        "answer": "Serological reactions",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 32-year-old patient complains about mouth soreness, body temperature rise up to 38,5oC, indisposition. Such condition has been occurring periodically for several years after the patient had had a cold. Objectively: lips are covered with haemorrhagic crusts, hyperaemic mucous membrane of lips and cheeks has erosions covered with fibrinous films. Hypersalivation is present. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Multiform exudative erythema",
+        "value": true
+      },
+      {
+        "answer": "Pemphigus vulgaris",
+        "value": false
+      },
+      {
+        "answer": "Herpes recidivicus",
+        "value": false
+      },
+      {
+        "answer": "Herpetiform Duhring's dermatitis",
+        "value": false
+      },
+      {
+        "answer": "Stevens-Johnson syndrome",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 39-year-old male patient complains about tongue pain that is getting worse during eating and talking. Objectively: there is a painful ulcer 0,6 cm large on the lateral surface of tongue. The floor is covered with grey deposit. The crown of the 47 tooth is destroyed. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Trophic ulcer",
+        "value": false
+      },
+      {
+        "answer": "Decubital ulcer",
+        "value": true
+      },
+      {
+        "answer": "Hard chancre",
+        "value": false
+      },
+      {
+        "answer": "Tuberculous ulcer",
+        "value": false
+      },
+      {
+        "answer": "Cancerous ulcer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 32 y.o. patient complains of burning, itch and lower lip enlargement. He has been suffering from this for a long time. Objectively: the patient's face is asymmetric due to the flattening of nasolabial fold. His lower lip is edematic, of normal colour, painless on palpation. The patient has plicated tongue. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Granulomatous Miescher's cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Quincke's edema",
+        "value": false
+      },
+      {
+        "answer": "Lymphangioma",
+        "value": false
+      },
+      {
+        "answer": "Hemangioma",
+        "value": false
+      },
+      {
+        "answer": "Melkersson-Rosenthal syndrome",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "An 28 year old patient complains of gingival painfulness and haemorrhage, halitosis, temperature rise up to 38,6oC, general weakness, appetite loss. Objectively: mucous membrane of oral cavity is hyperemic and dry; tongue is covered with white fur, gingival papillae are edematic, their apices have areas of necrotic deposit that can be easily removed leaving bleeding surface beneath. Submaxillary lymph nodes are enlarged, palpatory painful. What is the causative agent of this disease?",
+    "answers": [
+      {
+        "answer": "Virus of herpes simplex",
+        "value": false
+      },
+      {
+        "answer": "Streptostaphylococci",
+        "value": false
+      },
+      {
+        "answer": "Pale treponema",
+        "value": false
+      },
+      {
+        "answer": "Fusospirochetal symbiosis",
+        "value": true
+      },
+      {
+        "answer": "Candida fungi",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 65-year-old patient complains about a rapidly growing formation on his lower lip. Examination of the red border of lips revealed a greyish-red nodule with a hollow in the center which is filled with corneous masses that can be easily removed. The nodule is painless, mobile. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Basal cell carcinoma",
+        "value": false
+      },
+      {
+        "answer": "Papilloma",
+        "value": false
+      },
+      {
+        "answer": "Nodulous verrucous precancer of red border",
+        "value": false
+      },
+      {
+        "answer": "Keratoacanthoma",
+        "value": true
+      },
+      {
+        "answer": "Localized precancerous hyperkeratosis of red border",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 34 y.o. steeplejack with a long record of service consults a dentist about dryness, burning and insignificant lip edema. The same symptoms were noted one year ago in autumn. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Cheilitis glandularis",
+        "value": false
+      },
+      {
+        "answer": "Contact cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Meteorogical cheilitis",
+        "value": true
+      },
+      {
+        "answer": "Manganotti's cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Cheilitis exfoliativa",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 42 year old patient applied to a dentist and complained about white caseous deposit on the dorsum of his tongue and burning sensation. It is known from the patient's anamnesis	that he underwent treatment in an in-patient hospital on account of pneumonia. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Lupus erythematosus",
+        "value": false
+      },
+      {
+        "answer": "Typical form of leukoplakia",
+        "value": false
+      },
+      {
+        "answer": "Lichen ruber planus",
+        "value": false
+      },
+      {
+        "answer": "Scarlet fever",
+        "value": false
+      },
+      {
+        "answer": "Acute pseudomembranous candidosis",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A patient complained about frequent haemorrhages from the mucous membrane of oral and nasal cavities, he mentioned also that his father had the same problems. Objectively: there are multiple telangiectasias and angimatous formations on face skin as well as on mucous membrane of nose, cheeks and lips. Blood count is normal. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Vaquez disease",
+        "value": false
+      },
+      {
+        "answer": "Werlhof's disease",
+        "value": false
+      },
+      {
+        "answer": "Rendu-Osler-Weber disease",
+        "value": true
+      },
+      {
+        "answer": "Cushing's basophilism",
+        "value": false
+      },
+      {
+        "answer": "Addison-Biermer disease",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 42-year-old builder complains about a condyloma on his lower lip. It appeared 1,5 month ago. It has been significantly growing throughout the last week. Objectively: the red border of the lower lip is cyanotic and infiltrated, it has some isolated closly adhering squamae. There is a well-defined hemispherical formation 8 mm in diameter and 4 mm high in the centre. The formation is of grey-and-blue-and-red colour, it has rough surface formed by",
+    "answers": [
+      {
+        "answer": "Viral wart",
+        "value": false
+      },
+      {
+        "answer": "Verruciform precancer",
+        "value": false
+      },
+      {
+        "answer": "Pyogenic granuloma",
+        "value": false
+      },
+      {
+        "answer": "Keratoacanthoma",
+        "value": false
+      },
+      {
+        "answer": "Lower lip cancer",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Examination of a 23 year old patient revealed chronic candidosis of oral mucous membrane, generalized lymphadenopathy. Anamnesis data: the patient has been suffering from herpes for a year. Body temperature persistently rises up to 37,4-37,5oC, body weight has reduced by 8 kg over the last month. What disease can be indicated by this symptom group?",
+    "answers": [
+      {
+        "answer": "Acute leukosis",
+        "value": false
+      },
+      {
+        "answer": "Infectious mononucleosis",
+        "value": false
+      },
+      {
+        "answer": "AIDS",
+        "value": true
+      },
+      {
+        "answer": "Chronic leukosis",
+        "value": false
+      },
+      {
+        "answer": "Candidosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 25-year-old patient complains about acute pain in the mouth, headache, articular pain, body temperature rise up to 38,6oC. Red border of lips is covered with haemorrhagic crusts, mucous membrane of the oral cavity has big erosions and ulcers coated with greyish incrustation. Hand skin exhibits erythematous spots 1-1,5 cm in diameter with a vesicle in the middle. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Lyell's syndrome",
+        "value": false
+      },
+      {
+        "answer": "Behcet's syndrome",
+        "value": false
+      },
+      {
+        "answer": "Stevens-Johnson syndrome",
+        "value": true
+      },
+      {
+        "answer": "Multiform exudative erythema",
+        "value": false
+      },
+      {
+        "answer": "Medicamentous stomatitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 38-year-old patient complains about ulceration in the oral cavity, spontaneous bleeding of mucous membrane, pain during food intake and talking, nosebleeds. He has a history of: aggravation of general condition, weakness, body temperature rise up to 39oC, headache, joint pain. What method of diagnostics should be applied to confirm the diagnosis?",
+    "answers": [
+      {
+        "answer": "HIV test",
+        "value": false
+      },
+      {
+        "answer": "Blood sugar test",
+        "value": false
+      },
+      {
+        "answer": "Immunogram",
+        "value": false
+      },
+      {
+        "answer": "Clinical blood analysis",
+        "value": true
+      },
+      {
+        "answer": "Allergy test",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 25 year old patient applied to a clinic for the purpose of oral cavity sanitation. During preparation of the 45 tooth on account of chronic median caries the patient turned pale, there appeared cold clammy sweat on her forehead, nausea, ear noise. The patient lost consciousness. Objectively: pulse - 50 bpm, AP - 80/60 mm Hg, shallow breath, miotic pupils. Make a diagnosis of this state:",
+    "answers": [
+      {
+        "answer": "Syncope",
+        "value": true
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": false
+      },
+      {
+        "answer": "Stenocardia",
+        "value": false
+      },
+      {
+        "answer": "Collapse",
+        "value": false
+      },
+      {
+        "answer": "Quincke's edema",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23-year-old patient was delivered to a traumatology centre with a dirty cut wound of  her right foot. A doctor performed initial surgical d-bridement and made an injection of antitetanus serum. Some time later the patient’s condition got abruptly worse: she developed extreme weakness, dizziness, palpitation. Objectively: the skin is pale, the patient has cold sweat, frequent pulse of poor volume at a rate of 100 bpm, AP is 90/40 mm Hg. What is the cause of such aggravation?",
+    "answers": [
+      {
+        "answer": "Pain shock",
+        "value": false
+      },
+      {
+        "answer": "Haemorrhagic shock",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": true
+      },
+      {
+        "answer": "Infectious-toxic shock",
+        "value": false
+      },
+      {
+        "answer": "Drug disease (seroreaction)",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The method of registering changes in electrical resistance of periodontal tissues, caused by pulse dynamics of blood supply as a result of cardiac activity is called:",
+    "answers": [
+      {
+        "answer": "Kulazhenko test (determination of capillary resistance of parodontium);",
+        "value": false
+      },
+      {
+        "answer": "reoparodontographia;",
+        "value": true
+      },
+      {
+        "answer": "transillumination;",
+        "value": false
+      },
+      {
+        "answer": "polarographia;",
+        "value": false
+      },
+      {
+        "answer": "ortopantomographia.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Method, which is used for cytological study:",
+    "answers": [
+      {
+        "answer": "smear-mark;",
+        "value": false
+      },
+      {
+        "answer": "biopsy;",
+        "value": true
+      },
+      {
+        "answer": "histamine test;",
+        "value": false
+      },
+      {
+        "answer": "mucous samples;",
+        "value": false
+      },
+      {
+        "answer": "thrombocytopenic index.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "For differential diagnosis of precancerous disease, tumors, ulcers that do not heal for a long time, should be used:",
+    "answers": [
+      {
+        "answer": "general blood count;",
+        "value": false
+      },
+      {
+        "answer": "cytological method of study;",
+        "value": true
+      },
+      {
+        "answer": "serological studies;",
+        "value": false
+      },
+      {
+        "answer": "bacteriological examination;",
+        "value": false
+      },
+      {
+        "answer": "bio microscopic research;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Laboratory research methods include:",
+    "answers": [
+      {
+        "answer": "functional methods;",
+        "value": false
+      },
+      {
+        "answer": "histamine test;",
+        "value": false
+      },
+      {
+        "answer": "blister test;",
+        "value": false
+      },
+      {
+        "answer": "microscopic methods of research;",
+        "value": false
+      },
+      {
+        "answer": "research of gingiva fluid;",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "To determine the intensity of gums inflammation, such method   is used:",
+    "answers": [
+      {
+        "answer": "Yasinovkij’s  test;",
+        "value": false
+      },
+      {
+        "answer": "Kravetskij’s test;",
+        "value": false
+      },
+      {
+        "answer": "Shiller-Pisarev test;",
+        "value": true
+      },
+      {
+        "answer": "histamine test;",
+        "value": false
+      },
+      {
+        "answer": "Blister test;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A set of dental survey instruments consists of:",
+    "answers": [
+      {
+        "answer": "mirror, probe, excavator, spatula;",
+        "value": false
+      },
+      {
+        "answer": "mirror, tweezers, probe, spatula;",
+        "value": true
+      },
+      {
+        "answer": "probe, excavator, spatula, tweezers;",
+        "value": false
+      },
+      {
+        "answer": "excavator, tweezers, tube, spatula;",
+        "value": false
+      },
+      {
+        "answer": "mirror, excavator, probe, trowel.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "For conducting necroectomia the following tool is used:",
+    "answers": [
+      {
+        "answer": "probe;",
+        "value": false
+      },
+      {
+        "answer": "excavator;",
+        "value": true
+      },
+      {
+        "answer": "spatula;",
+        "value": false
+      },
+      {
+        "answer": "excavator  and  round-shaped bur;",
+        "value": false
+      },
+      {
+        "answer": "fissure’s  bur.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Gingival sulcus in the norm is:",
+    "answers": [
+      {
+        "answer": "1-2 mm;",
+        "value": true
+      },
+      {
+        "answer": "1-3 mm;",
+        "value": false
+      },
+      {
+        "answer": "0-1 mm;",
+        "value": false
+      },
+      {
+        "answer": "2-3 mm.",
+        "value": false
+      },
+      {
+        "answer": "3-4 mm.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Form № 0.43 / У - a document, required for conducting of the dentists is:",
+    "answers": [
+      {
+        "answer": "Chart of daily records of the dentist",
+        "value": false
+      },
+      {
+        "answer": "outpatient medical records;",
+        "value": false
+      },
+      {
+        "answer": "History of illness (medical card);",
+        "value": true
+      },
+      {
+        "answer": "hospital sheet;",
+        "value": false
+      },
+      {
+        "answer": "reporting statement of dentist dental clinic.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "To organize the dentist's office for two workplaces, allocated room with good natural lighting, provided with purge ventilation, sanitation and artificial lighting, with the area of -",
+    "answers": [
+      {
+        "answer": "14 m 2",
+        "value": false
+      },
+      {
+        "answer": "20 m2",
+        "value": false
+      },
+      {
+        "answer": "21m2",
+        "value": true
+      },
+      {
+        "answer": "З0 m2",
+        "value": false
+      },
+      {
+        "answer": "25 m2",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "For examination of the oral cavity such set of tools is used:",
+    "answers": [
+      {
+        "answer": "Dental mirror, probe, spatula, tweezers",
+        "value": true
+      },
+      {
+        "answer": "Dental mirror, probe, tweezers, excavators",
+        "value": false
+      },
+      {
+        "answer": "Dental mirror, probe, forceps, syringe for water",
+        "value": false
+      },
+      {
+        "answer": "Dental mirror, forceps, syringe for water, puster.",
+        "value": false
+      },
+      {
+        "answer": "Dental mirror, excavator",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "For disclosure of  carious cavities such burs are used:",
+    "answers": [
+      {
+        "answer": "Round-shaped  and  fissure’s ones",
+        "value": true
+      },
+      {
+        "answer": "Fissure’s and cone-shaped ones",
+        "value": false
+      },
+      {
+        "answer": "Cone-shaped one",
+        "value": false
+      },
+      {
+        "answer": "Wheel-shaped  and round-shaped ones",
+        "value": false
+      },
+      {
+        "answer": "Fissure bur one",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The average length of fully formed permanent upper central incisor is:",
+    "answers": [
+      {
+        "answer": "25 mm",
+        "value": false
+      },
+      {
+        "answer": "22 mm",
+        "value": false
+      },
+      {
+        "answer": "20 mm",
+        "value": false
+      },
+      {
+        "answer": "24 mm.",
+        "value": true
+      },
+      {
+        "answer": "34mm",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In dentinal tubules are located protoplasmatic processes of odontoblasts, so-called fibers of :",
+    "answers": [
+      {
+        "answer": "Korf",
+        "value": true
+      },
+      {
+        "answer": "Ebner",
+        "value": false
+      },
+      {
+        "answer": "Toms",
+        "value": false
+      },
+      {
+        "answer": "Korf’ and Ebner’.",
+        "value": false
+      },
+      {
+        "answer": "Toms and Ebner",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Peripheral layer of pulp (flesh) of the tooth is represented by:",
+    "answers": [
+      {
+        "answer": "Great number of stellate cells that can differentiate and move to odontoblasts",
+        "value": true
+      },
+      {
+        "answer": "Processes of cells like fibroblasts",
+        "value": false
+      },
+      {
+        "answer": "Great number of histiocytes and fibroblasts",
+        "value": false
+      },
+      {
+        "answer": "Histiocytes",
+        "value": false
+      },
+      {
+        "answer": "Cell - odontoblasts.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What cavities belong to class II by Black?",
+    "answers": [
+      {
+        "answer": "Cavities in the area of the necks of all teeth",
+        "value": false
+      },
+      {
+        "answer": "Cavities located on the contact surfaces of molars and premolars",
+        "value": true
+      },
+      {
+        "answer": "Cavities located on the contact surfaces of incisors and canines",
+        "value": false
+      },
+      {
+        "answer": "Cavities located at contact surfaces of incisors and canines with violation of the whole angle and cutting edge.",
+        "value": false
+      },
+      {
+        "answer": "Cavities, located on cutting edge of tooth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The bottom of the cavity of  V class by Black may be convex:",
+    "answers": [
+      {
+        "answer": "For better adhesion of the seal",
+        "value": false
+      },
+      {
+        "answer": "For cosmetic reasons",
+        "value": false
+      },
+      {
+        "answer": "Because of difficult access to the cavity",
+        "value": false
+      },
+      {
+        "answer": "Due to the proximity of the pulp and risk of disclosure of  tooth cavity",
+        "value": true
+      },
+      {
+        "answer": "It should not be convex",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Dissection and cutting of enamel edges (without dentin) is done:",
+    "answers": [
+      {
+        "answer": "For a better marginal adjoining",
+        "value": false
+      },
+      {
+        "answer": "For cosmetic use",
+        "value": false
+      },
+      {
+        "answer": "To increase the mechanical retention",
+        "value": false
+      },
+      {
+        "answer": "To prevent the fracture of enamel edges",
+        "value": true
+      },
+      {
+        "answer": "To remove more tissues",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The upper incisor is depulped, the tooth crown is destroyed. What additional devices for fixing the seal can be recommended?",
+    "answers": [
+      {
+        "answer": "Supporting points",
+        "value": false
+      },
+      {
+        "answer": "Parapulp pins",
+        "value": false
+      },
+      {
+        "answer": "Anchors (inside canal pins)",
+        "value": true
+      },
+      {
+        "answer": "Additional platforms.",
+        "value": false
+      },
+      {
+        "answer": "Implant",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Carious cavity is located on the distal contact on the upper canine, the fourth tooth is missing. Indicate ways of conducting a rational cavity form.",
+    "answers": [
+      {
+        "answer": "The approach to the cavity created by the disclosure of oral surface",
+        "value": false
+      },
+      {
+        "answer": "The approach to the cavity created by the disclosure of vestibular surface",
+        "value": false
+      },
+      {
+        "answer": "The cavity is prepared from the side of the fourth missing tooth",
+        "value": true
+      },
+      {
+        "answer": "The cavity formed after removal of vestibular and oral walls.",
+        "value": false
+      },
+      {
+        "answer": "The cavity is formed after vestibular, oral and occlusial surfaces are removed",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "To the dentist clinic appealed patient (20 years old), with the aim of oral rehabilitation. There are main and additional methods of examination of patients. What methods of examination in therapeutic dentistry are main?",
+    "answers": [
+      {
+        "answer": "examination, palpation, percussion, probing",
+        "value": true
+      },
+      {
+        "answer": "percussion, probing",
+        "value": false
+      },
+      {
+        "answer": "X-ray",
+        "value": false
+      },
+      {
+        "answer": "Termo-test",
+        "value": false
+      },
+      {
+        "answer": "Blood test",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "It is necessary to carry out endodontic treatment of 34-th tooth in 34 y.o. patient. Among the tools is a spreader. Describe this instrument?",
+    "answers": [
+      {
+        "answer": "instrument with smooth sharpened part, intended for lateral condensation of gutta-percha in the root canal.",
+        "value": true
+      },
+      {
+        "answer": "Tools with working part in the form of a centered conical spiral that resembles the anatomic form of the root canal.",
+        "value": false
+      },
+      {
+        "answer": "The tool that has a small number of turns only at the tip.",
+        "value": false
+      },
+      {
+        "answer": "The tool intended to remove the dental pulp.",
+        "value": false
+      },
+      {
+        "answer": "This is instrument for tooth preparation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient, 35 year old, complains of a constant aching pain in the 25tooth, which enhanced while biting. Objectively: the chewing surface of the cavity of 25-th communicates with the cavity of the tooth.The folder in the transition area   above 25-th tooth are edematous, hiperemic, painful at palpation, percussion of 25-th is sharply painful. What method of research is necessary to conduct for the diagnosis?",
+    "answers": [
+      {
+        "answer": "X - ray",
+        "value": true
+      },
+      {
+        "answer": "Kulazhenko’ test",
+        "value": false
+      },
+      {
+        "answer": "blister test",
+        "value": false
+      },
+      {
+        "answer": "reoparodontographia",
+        "value": false
+      },
+      {
+        "answer": "Provocative tests.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient, 19 years old, complains of heartburn in the mouth, pain when eating. In anamnesis treatment of pneumonia with large doses of antibiotics. On hiperemic mucosa of tongue and cheeks there are white patches, which can be easily removed. What research method is used for diagnosis?",
+    "answers": [
+      {
+        "answer": "X- ray",
+        "value": false
+      },
+      {
+        "answer": "Kulazhenko’ test",
+        "value": false
+      },
+      {
+        "answer": "blister test",
+        "value": false
+      },
+      {
+        "answer": "reoparodontographia",
+        "value": false
+      },
+      {
+        "answer": "microbiological investigation.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Patient K., 38 years old, complains of dryness and edema of oral mucosa. She took antibiotics becouse of the treatment of somatic pathology. On the back of the tongue there are white-yellowish plaques that are difficult to remove. What examination is necessary to conduct for clarifing the diagnosis?",
+    "answers": [
+      {
+        "answer": "X- ray",
+        "value": false
+      },
+      {
+        "answer": "Kulazhenko’ test",
+        "value": false
+      },
+      {
+        "answer": "blister test",
+        "value": false
+      },
+      {
+        "answer": "reoparodontographia",
+        "value": false
+      },
+      {
+        "answer": "microbiological investigation.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What instrument is needed to remove the pulp:",
+    "answers": [
+      {
+        "answer": "drylbor;",
+        "value": false
+      },
+      {
+        "answer": "rashpil;",
+        "value": false
+      },
+      {
+        "answer": "pulp extractor;",
+        "value": true
+      },
+      {
+        "answer": "root needle;",
+        "value": false
+      },
+      {
+        "answer": "reamer.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the implementation of the arsenical paste:",
+    "answers": [
+      {
+        "answer": "mummifying;",
+        "value": false
+      },
+      {
+        "answer": "analgesic;",
+        "value": false
+      },
+      {
+        "answer": "antimicrobial",
+        "value": false
+      },
+      {
+        "answer": "necrotizing;",
+        "value": true
+      },
+      {
+        "answer": "anti-inflammatory",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Pulp extractor in the root canal for  the pulp extracting  should be turned:",
+    "answers": [
+      {
+        "answer": "only at 90 0C;",
+        "value": false
+      },
+      {
+        "answer": "it turns for 1-2 times;",
+        "value": true
+      },
+      {
+        "answer": "to the appearance of significant efforts at the movement;",
+        "value": false
+      },
+      {
+        "answer": "absolutely no return;",
+        "value": false
+      },
+      {
+        "answer": "for that long till it will not stop movement.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Normal pulp is:",
+    "answers": [
+      {
+        "answer": "muscular tissue;",
+        "value": false
+      },
+      {
+        "answer": "soft connective tissue;",
+        "value": true
+      },
+      {
+        "answer": "tissue of epitelial origin;",
+        "value": false
+      },
+      {
+        "answer": "Granulation fiber;",
+        "value": false
+      },
+      {
+        "answer": "nerve fibers.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient A., 66 years old appealed to the dentist with complaints of pain and the presence of ulcers under the tongue. The patient uses removable prostheses(dentures), 3 months ago he noticed a tumor under the tongue. On examination - at the bottom of the oral mucosa is infiltrated ulcer. Regional lymph nodes are not changed. What auxiliary investigation should be conducted?",
+    "answers": [
+      {
+        "answer": "A biopsy of the tumor",
+        "value": true
+      },
+      {
+        "answer": "Clinical analysis of blood",
+        "value": false
+      },
+      {
+        "answer": "X-ray of the mandible",
+        "value": false
+      },
+      {
+        "answer": "Puncture of the tumor",
+        "value": false
+      },
+      {
+        "answer": "Ultrasonography of the neck",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient L., 36 years old, appealed to the dentist with complaints of pain in 37 tooth, which amplifies while biting and irradiates over the course of the trigeminal nerve. The tooth was treated previously. Examination: the crown of 37 is destroyed at 1/3, percussion is positive, oral mucosa above 37 tooth is hyperemic, edematous, painful on palpation. What kind of investigation is needed for the setting of the final diagnosis?",
+    "answers": [
+      {
+        "answer": "Probing of the 37-th tooth cavity",
+        "value": false
+      },
+      {
+        "answer": "Determination of the degree of 37-th tooth mobility",
+        "value": false
+      },
+      {
+        "answer": "X-ray of 37-th tooth",
+        "value": true
+      },
+      {
+        "answer": "Determine the depth of gum pockets in 37-th tooth",
+        "value": false
+      },
+      {
+        "answer": "Electroodontodiagnosis of  37-th  tooth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient F., 19 years old, complains on increased sensitivity to sweet and sour. Objectively: on the cervical parts of 14, 13, 12, 23, 24 are chalky-liked, dull spots with indistinct edges. What additional method of examination should be undertaken to clarify the diagnosis?",
+    "answers": [
+      {
+        "answer": "Elektroodontodiagnosis",
+        "value": false
+      },
+      {
+        "answer": "Thermometry",
+        "value": false
+      },
+      {
+        "answer": "methylene blue coloring",
+        "value": true
+      },
+      {
+        "answer": "Probing",
+        "value": false
+      },
+      {
+        "answer": "X-ray",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "70 year old patient appealed to the clinic with complains of the pain in the lower right lip, which amplifies while taking food and during conversation. The first symptoms appeared about a month ago. On examination: on the lower lip in the region of  42.43  is a deep mucosal defect rounded 0.8 cm in diameter, on the basis it is infiltrated, with elevated edges, flat bottom, covered with fibrinous plaque, coarsen on the edge, painful. Crowns of 41,42,43 are destroyed, have sharp edges. What additional examination is necessary to conduct to determine the tactics of the treatment?",
+    "answers": [
+      {
+        "answer": "allergological",
+        "value": false
+      },
+      {
+        "answer": "Cytological",
+        "value": true
+      },
+      {
+        "answer": "Biochemical",
+        "value": false
+      },
+      {
+        "answer": "Microbial",
+        "value": false
+      },
+      {
+        "answer": "Immunological",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient A., 34 year old, complains of  burn of the tongue tip, which increases during meals and dryness of oral mucosa. In the anamnesis -  pneumonia 2 months ago. OBJECTIVE: dryness, hyperemia and edema of the mucous membrane of mouth, on the back of the tongue yellowish caseous layers are revealed. Sharp edges of the cavities of  26, 34,35 and 46 teeth are visible. Hygiene index by Fedorov - Volodkina - 2.6 points. What investigation should be conducted to establish the final diagnosis?",
+    "answers": [
+      {
+        "answer": "Microbial",
+        "value": true
+      },
+      {
+        "answer": "General blood test",
+        "value": false
+      },
+      {
+        "answer": "Blood test for glucose",
+        "value": false
+      },
+      {
+        "answer": "Biomicroscopic",
+        "value": false
+      },
+      {
+        "answer": "Analysis of immunological parameters of mixed saliva",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During examination the 46 year old patient there were noticed mild edema and hyperemia of the marginal gum throughout. Periodontal pocket with the depth of 3-6 mm with a purulent exudate. GI-2,1 points. Traumatic occlusion in the area of lateral teeth. Radiologically: resorption of interdental membranes from 1/3 to 1/2 lengths of the tooth root. What should be considered, when causal therapy is assigned?",
+    "answers": [
+      {
+        "answer": "Microbiological investigation of contents of  periodontal pockets",
+        "value": true
+      },
+      {
+        "answer": "Age of the patients",
+        "value": false
+      },
+      {
+        "answer": "Concomitant somatic disease",
+        "value": false
+      },
+      {
+        "answer": "Data Kulazhenko test",
+        "value": false
+      },
+      {
+        "answer": "General blood test",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient U., 29 years old complains of pain in the gums that amplifies when eating, foul odor from mouth, bad state of health. Temperature -  38.8 C. Consider himself ill for 2 days, after the removal of 28 teeth. OBJECTIVE: mucosa of gums is hiperemic, swollen, bleeds easily when probing. Gum region in 23, 24, 25, 26 and 27 teeth covered with gray necrotic bloom. Significant dental deposits. Regional lymph nodes are enlarged, painful on palpation. At what additional investigation it is necessary to direct the patient?",
+    "answers": [
+      {
+        "answer": "X-ray of 28 tooth",
+        "value": true
+      },
+      {
+        "answer": "Fluorescent",
+        "value": false
+      },
+      {
+        "answer": "Microscopy",
+        "value": false
+      },
+      {
+        "answer": "Transillumination",
+        "value": false
+      },
+      {
+        "answer": "Serological",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient V., 47 year old, complaints of bleeding gums. OBJECTIVE: gums edge is swollen, hiperemic, bleeding of the mild touch.  It is defined periodontal pockets of 3-3.5 mm. On the neck of the teeth – hard dental deposits. At what additional investigation it is necessary to direct the patient?",
+    "answers": [
+      {
+        "answer": "X-ray of jaws",
+        "value": true
+      },
+      {
+        "answer": "Schiller-Pisarev test",
+        "value": false
+      },
+      {
+        "answer": "Assessment of tooth mobility",
+        "value": false
+      },
+      {
+        "answer": "Determination of capillary resistance",
+        "value": false
+      },
+      {
+        "answer": "Determination of periodontal index",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What additional research is required in detecting blister diseases of the oral mucosa?",
+    "answers": [
+      {
+        "answer": "Cytological",
+        "value": false
+      },
+      {
+        "answer": "Histological",
+        "value": false
+      },
+      {
+        "answer": "Shyllyer-Pisarev test",
+        "value": false
+      },
+      {
+        "answer": "Bacteriological",
+        "value": false
+      },
+      {
+        "answer": "Nikolskyy sign",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the diagnostic indices do you consider the most useful for the diagnosis of gingival inflammation in children (its prevalence and degree of intensity)?",
+    "answers": [
+      {
+        "answer": "РМА",
+        "value": false
+      },
+      {
+        "answer": "СPITN",
+        "value": true
+      },
+      {
+        "answer": "Schiller-Pisaryev",
+        "value": false
+      },
+      {
+        "answer": "Fedorov-Volodkina",
+        "value": false
+      },
+      {
+        "answer": "Green-Vermilon",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient K., 19, applied with household face trauma. On examination, the trauma of 21-st tooth on 1/3 of the crown, probing through fracture is painful, reaction to cold causes intermittent pain, percussion painless. What research is primarily to hold for the diagnosis and selection of treatment?",
+    "answers": [
+      {
+        "answer": "EPT",
+        "value": false
+      },
+      {
+        "answer": "X-ray",
+        "value": true
+      },
+      {
+        "answer": "Palpation of the apex of the root projection",
+        "value": false
+      },
+      {
+        "answer": "Metulen- blue coloring",
+        "value": false
+      },
+      {
+        "answer": "Termotest",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A dental clinic was built in the city. What square is needed for 3 universal dental units? What is the depth of space required for dental office?",
+    "answers": [
+      {
+        "answer": "Square not less than 20 m2, depth of the room - 8 m",
+        "value": false
+      },
+      {
+        "answer": "Square - 18 m2, depth - 4 m",
+        "value": false
+      },
+      {
+        "answer": "Not less than 34 m2, depth - up to 6 m",
+        "value": false
+      },
+      {
+        "answer": "Square not less than 30 m2 ,depth of the room - 7 m",
+        "value": true
+      },
+      {
+        "answer": "Square not less than 40 m2 , depth of room - 2 m",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In the dental clinic six dental therapists are receiving patients. How many of nursing staff (nurse) should be in the office?",
+    "answers": [
+      {
+        "answer": "3 nurses",
+        "value": false
+      },
+      {
+        "answer": "1 nurse",
+        "value": false
+      },
+      {
+        "answer": "2 nurses",
+        "value": true
+      },
+      {
+        "answer": "4  nurses",
+        "value": false
+      },
+      {
+        "answer": "1,5  nurses",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the shelf life in the organizational and methodological cabinet of the clinic, form № 039-2/0, a monthly journal of the dentist, after a report during the reporting period?",
+    "answers": [
+      {
+        "answer": "1 year",
+        "value": false
+      },
+      {
+        "answer": "3 year",
+        "value": true
+      },
+      {
+        "answer": "5 year",
+        "value": false
+      },
+      {
+        "answer": "0,5 year",
+        "value": false
+      },
+      {
+        "answer": "2 year",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient L., 27 years old, complains of sharp pain in the gums, inability to eat, bad smell from the mouth, raising the temperature to 38oC, general weakness. On examination: the patient is pale, with enlarged lymph nodes. Edema, hyperemia of gum papillae, some ulcers are covered  with necrotic bloom. What additional research is necessary to clarify the diagnosis?",
+    "answers": [
+      {
+        "answer": "General blood test",
+        "value": false
+      },
+      {
+        "answer": "urine test",
+        "value": false
+      },
+      {
+        "answer": "Panoramic X-ray",
+        "value": true
+      },
+      {
+        "answer": "allergological tests",
+        "value": false
+      },
+      {
+        "answer": "serological tests",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Caries lesions developing in ?ssures and aproximal surfaces are more dif?cult to detect and diagnosis usually involves indirect methods. What is the most commonly used diagnostic technique on the surfaces hidden from direct visual examination?",
+    "answers": [
+      {
+        "answer": "radiographic examination",
+        "value": false
+      },
+      {
+        "answer": "visual appearance of the surface",
+        "value": false
+      },
+      {
+        "answer": "Transillumination",
+        "value": false
+      },
+      {
+        "answer": "Electronic caries meter",
+        "value": false
+      },
+      {
+        "answer": "DIAGNOdent",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "The oral cavity can be subdivided broadly into areas consisting of:",
+    "answers": [
+      {
+        "answer": "Vestibule, oral cavity proper, and oropharynx",
+        "value": true
+      },
+      {
+        "answer": "Vestibule and oral cavity",
+        "value": false
+      },
+      {
+        "answer": "Vestibule, oral cavity and lips",
+        "value": false
+      },
+      {
+        "answer": "Oral cavity and oropharynx",
+        "value": false
+      },
+      {
+        "answer": "Vestibule, oral cavity proper, lips and oropharynx",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Firs part of case history is:",
+    "answers": [
+      {
+        "answer": "Complains of the patient",
+        "value": false
+      },
+      {
+        "answer": "General information of the patient",
+        "value": true
+      },
+      {
+        "answer": "Intraoral examination",
+        "value": false
+      },
+      {
+        "answer": "Extraoral examination",
+        "value": false
+      },
+      {
+        "answer": "History of disease",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The last part of case history is:",
+    "answers": [
+      {
+        "answer": "Extraoral examination",
+        "value": false
+      },
+      {
+        "answer": "Treatment",
+        "value": false
+      },
+      {
+        "answer": "History of disease",
+        "value": false
+      },
+      {
+        "answer": "History of life",
+        "value": false
+      },
+      {
+        "answer": "Epicrisis",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Oral mucous membrane consists of:",
+    "answers": [
+      {
+        "answer": "Epithelium, lamina proper, basement membrane and submucous layer",
+        "value": true
+      },
+      {
+        "answer": "Epithelium and basement membrane",
+        "value": false
+      },
+      {
+        "answer": "Basement membrane, submucous layer and lamina proper",
+        "value": false
+      },
+      {
+        "answer": "Epithelium, nerves, vessels",
+        "value": false
+      },
+      {
+        "answer": "Basement membrane and vessels",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In which year was proposed the classification of diseases of oral mucosa by Lukomski?",
+    "answers": [
+      {
+        "answer": "1964;",
+        "value": false
+      },
+      {
+        "answer": "1945;",
+        "value": true
+      },
+      {
+        "answer": "1978;",
+        "value": false
+      },
+      {
+        "answer": "1979;",
+        "value": false
+      },
+      {
+        "answer": "1947.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "ICD-10 has a list of dental diseases and syndromes that occur in the mouth with some systemic diseases. This list is constructed by:",
+    "answers": [
+      {
+        "answer": "clinical and morphological features;",
+        "value": false
+      },
+      {
+        "answer": "pathomorphological signs;",
+        "value": false
+      },
+      {
+        "answer": "character of exist microorganisms;",
+        "value": false
+      },
+      {
+        "answer": "Pathomorphological and clinical features and character of presence of microorganisms",
+        "value": true
+      },
+      {
+        "answer": "Clinical features",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "According to the classification of P.T. Maksymenko secondary (symptomatic) diseases in the mucous membrane are:",
+    "answers": [
+      {
+        "answer": "bacterial infections;",
+        "value": false
+      },
+      {
+        "answer": "viral infections;",
+        "value": false
+      },
+      {
+        "answer": "diseases of blood and blood forming organs;",
+        "value": false
+      },
+      {
+        "answer": "exogenous intoxication;",
+        "value": false
+      },
+      {
+        "answer": "Diseases, caused by viral and bacterial infection, exogenous intoxications and diseases of blood and blood forming organs",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "The causes of primary traumatic stomatitis are:",
+    "answers": [
+      {
+        "answer": "mechanical trauma;",
+        "value": false
+      },
+      {
+        "answer": "thermal injury;",
+        "value": false
+      },
+      {
+        "answer": "chemical damage of mucous membrane;",
+        "value": false
+      },
+      {
+        "answer": "radiation damage of mucous membrane;",
+        "value": false
+      },
+      {
+        "answer": "mechanical, chemical of physical cause",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Acute mechanical trauma comes from:",
+    "answers": [
+      {
+        "answer": "biting of oral mucosa;",
+        "value": false
+      },
+      {
+        "answer": "injury by disk;",
+        "value": false
+      },
+      {
+        "answer": "injury by burr;",
+        "value": false
+      },
+      {
+        "answer": "iatrogenic injury by sharp instruments;",
+        "value": false
+      },
+      {
+        "answer": "one time injury caused by accident or jatrogenic reason",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "The primary herpetic stomatitis should be differentiated with:",
+    "answers": [
+      {
+        "answer": "Vincent ulcerative-necrotic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "allergic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "erosive-ulcerative form of lupus erythematosus;",
+        "value": false
+      },
+      {
+        "answer": "Candidiasis",
+        "value": false
+      },
+      {
+        "answer": "CRAS",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What is priority in medical treatment of acute mechanical trauma?",
+    "answers": [
+      {
+        "answer": "antiseptic treatment of wounds;",
+        "value": false
+      },
+      {
+        "answer": "eliminate a traumatic factor;",
+        "value": true
+      },
+      {
+        "answer": "irrigation of anesthetic solution;",
+        "value": false
+      },
+      {
+        "answer": "relieve swelling;",
+        "value": false
+      },
+      {
+        "answer": "treatment of the wound surface with ointment.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The acute mechanical trauma can be diagnosed on:",
+    "answers": [
+      {
+        "answer": "blood tests;",
+        "value": false
+      },
+      {
+        "answer": "anamnesis that has the cause of disease;",
+        "value": true
+      },
+      {
+        "answer": "biopsy;",
+        "value": false
+      },
+      {
+        "answer": "microbiological examination;",
+        "value": false
+      },
+      {
+        "answer": "cytology.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A burn of oral mucosa caused by bases must be neutralized with:",
+    "answers": [
+      {
+        "answer": "antiseptic;",
+        "value": false
+      },
+      {
+        "answer": "0.5% solution of acetic or citric acid (1/4 tea spoon of acid on one cup of water);",
+        "value": true
+      },
+      {
+        "answer": "5% solution of unitiol;",
+        "value": false
+      },
+      {
+        "answer": "antibiotic;",
+        "value": false
+      },
+      {
+        "answer": "sorbents.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The treatment of physical injuries of oral mucosa includes:",
+    "answers": [
+      {
+        "answer": "using of anesthetics locally;",
+        "value": false
+      },
+      {
+        "answer": "using of antiseptics;",
+        "value": false
+      },
+      {
+        "answer": "binding drugs;",
+        "value": false
+      },
+      {
+        "answer": "anti-inflammatory, antimicrobial remedies;",
+        "value": false
+      },
+      {
+        "answer": "complex of listed drugs",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Galvanosis is:",
+    "answers": [
+      {
+        "answer": "catarrhal inflammation;",
+        "value": false
+      },
+      {
+        "answer": "pathological changes that occur as  result of electrochemical interaction between the metal inclusions in the mouth;",
+        "value": true
+      },
+      {
+        "answer": "secondary inflammation;",
+        "value": false
+      },
+      {
+        "answer": "radiation stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "physical injury.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Radiation stomatitis occurs in the case of:",
+    "answers": [
+      {
+        "answer": "presence metallic inclusions in the mouth;",
+        "value": false
+      },
+      {
+        "answer": "X-rays treatment or radiotherapy;",
+        "value": true
+      },
+      {
+        "answer": "action of high temperatures;",
+        "value": false
+      },
+      {
+        "answer": "action of low temperatures;",
+        "value": false
+      },
+      {
+        "answer": "acute mechanical trauma.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Usually, the location of decubital ulcer is :",
+    "answers": [
+      {
+        "answer": "on the lateral tongue surface;",
+        "value": false
+      },
+      {
+        "answer": "on the lips mucosa;",
+        "value": false
+      },
+      {
+        "answer": "on the buccal mucosa along the line of contact teeth;",
+        "value": false
+      },
+      {
+        "answer": "within the prosthetic bed;",
+        "value": false
+      },
+      {
+        "answer": "in the area of chronic trauma",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Prosthetic stomatitis are:",
+    "answers": [
+      {
+        "answer": "acute and chronic;",
+        "value": false
+      },
+      {
+        "answer": "local and diffuse;",
+        "value": false
+      },
+      {
+        "answer": "early and late;",
+        "value": false
+      },
+      {
+        "answer": "primary, secondary;",
+        "value": false
+      },
+      {
+        "answer": "caused by trauma or allergy.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A burn by acids leads to coagulation necrosis, dense film in the mouth. After sulfuric acid burn the film is:",
+    "answers": [
+      {
+        "answer": "yellow;",
+        "value": false
+      },
+      {
+        "answer": "gray-whitish;",
+        "value": false
+      },
+      {
+        "answer": "brownish;",
+        "value": true
+      },
+      {
+        "answer": "bright red;",
+        "value": false
+      },
+      {
+        "answer": "green color.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mucosal injury by acids must be neutralized by:",
+    "answers": [
+      {
+        "answer": "Iodine solution;",
+        "value": false
+      },
+      {
+        "answer": "burnt magnesia;",
+        "value": false
+      },
+      {
+        "answer": "Sodium hypochloride",
+        "value": false
+      },
+      {
+        "answer": "Alkaline solution;",
+        "value": false
+      },
+      {
+        "answer": "Fluorine gel",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Clinical picture of chemical damage the oral mucosa DO NOT depends on:",
+    "answers": [
+      {
+        "answer": "nature of the chemical;",
+        "value": false
+      },
+      {
+        "answer": "quantity of chemical;",
+        "value": false
+      },
+      {
+        "answer": "concentration;",
+        "value": false
+      },
+      {
+        "answer": "time of action the chemical;",
+        "value": false
+      },
+      {
+        "answer": "localization in oral cavity",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Physical injury is NOT caused by:",
+    "answers": [
+      {
+        "answer": "action of high temperatures;",
+        "value": false
+      },
+      {
+        "answer": "action low temperatures;",
+        "value": false
+      },
+      {
+        "answer": "action of ionizing radiation",
+        "value": false
+      },
+      {
+        "answer": "electric shock;",
+        "value": false
+      },
+      {
+        "answer": "chemical substances",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What is priority task in the treatment of acute mechanical trauma for rapid epithelialization and healing wounded surface?",
+    "answers": [
+      {
+        "answer": "Aerosol 'Panthenol';",
+        "value": true
+      },
+      {
+        "answer": "0.05% solution of chlorhexidine;",
+        "value": false
+      },
+      {
+        "answer": "10% solution of lidocaine;",
+        "value": false
+      },
+      {
+        "answer": "infusion of chamomile.",
+        "value": false
+      },
+      {
+        "answer": "0.5% solution of hydrogen peroxide;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of food should be used during treatment of acute mechanical injury of oral mucosa?",
+    "answers": [
+      {
+        "answer": "roughly, unsalted;",
+        "value": false
+      },
+      {
+        "answer": "salty;",
+        "value": false
+      },
+      {
+        "answer": "grained and mild;",
+        "value": true
+      },
+      {
+        "answer": "do not eat any food;",
+        "value": false
+      },
+      {
+        "answer": "spicy food.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Chronic mechanical trauma occurs in case of:",
+    "answers": [
+      {
+        "answer": "poorly made dentures;",
+        "value": false
+      },
+      {
+        "answer": "absence of teeth and malocclusion;",
+        "value": false
+      },
+      {
+        "answer": "sharp edges affected by caries or pathological tooth wear;",
+        "value": false
+      },
+      {
+        "answer": "dental deposits and bad habits;",
+        "value": false
+      },
+      {
+        "answer": "absense of teeth and malocclusion, sharp ages of dental restorations and dentures or bad habits of the patient.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Decubital ulcer should be differentiated with following nosological units:",
+    "answers": [
+      {
+        "answer": "pulpitis;",
+        "value": false
+      },
+      {
+        "answer": "candidiasis;",
+        "value": false
+      },
+      {
+        "answer": "cancerous ulcer;",
+        "value": true
+      },
+      {
+        "answer": "stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "lichen planus.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The main goal in the treatment of chronic injuries oral mucosa is:",
+    "answers": [
+      {
+        "answer": "required elimination of traumatic agent;",
+        "value": true
+      },
+      {
+        "answer": "treatment of ulcers and mucous with antiseptics;",
+        "value": false
+      },
+      {
+        "answer": "mucous treatment with proteolytic enzymes;",
+        "value": false
+      },
+      {
+        "answer": "wound surface treatment with agents that accelerate epithelization;",
+        "value": false
+      },
+      {
+        "answer": "To remove the infected tissues",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of medical drugs are strictly prohibited in the treatment of chronic mechanical injury?",
+    "answers": [
+      {
+        "answer": "antiseptics;",
+        "value": false
+      },
+      {
+        "answer": "keratoplastics;",
+        "value": false
+      },
+      {
+        "answer": "keratolitycs;",
+        "value": false
+      },
+      {
+        "answer": "vitamins;",
+        "value": false
+      },
+      {
+        "answer": "antibiotics",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Specific complains of acute mechanical trauma are:",
+    "answers": [
+      {
+        "answer": "Swelling;",
+        "value": false
+      },
+      {
+        "answer": "pain that is worse during eating spicy food and speech;",
+        "value": false
+      },
+      {
+        "answer": "increase salivation;",
+        "value": false
+      },
+      {
+        "answer": "increase the body temperature;",
+        "value": false
+      },
+      {
+        "answer": "Pain, swelling, bleeding and increasing of salivation",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Secondary infected ulcers in caseof  acute mechanical trauma complications  are treated with:",
+    "answers": [
+      {
+        "answer": "0.5% solution of hydrogen peroxide;",
+        "value": false
+      },
+      {
+        "answer": "1% alcohol solution of chlorophyllipt in a dilution of 1:5 with enzymes;",
+        "value": true
+      },
+      {
+        "answer": "0.05% solution of chlorhexidine;",
+        "value": false
+      },
+      {
+        "answer": "0.01% solution of potassium permanganate;",
+        "value": false
+      },
+      {
+        "answer": "Listerine",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Chemical injury of oral mucosa  can appear:",
+    "answers": [
+      {
+        "answer": "by ingestion of the mucous chemicals sufficiently high concentration;",
+        "value": false
+      },
+      {
+        "answer": "under the mistaken use of chemicals in everyday life;",
+        "value": false
+      },
+      {
+        "answer": "under the mistaken use of chemicals at work;",
+        "value": false
+      },
+      {
+        "answer": "in case of contact with acids during treatment, work or jatrogenic resons",
+        "value": true
+      },
+      {
+        "answer": "during a visit to the dentist;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "At the chemical damage, to reduce the absortion of concentrated solutions of silver nitrate, the place of lesions should be treated by:",
+    "answers": [
+      {
+        "answer": "2-3% sodium chloride;",
+        "value": true
+      },
+      {
+        "answer": "0.05% chlorhexidine solution;",
+        "value": false
+      },
+      {
+        "answer": "water;",
+        "value": false
+      },
+      {
+        "answer": "Hyppophae oil;",
+        "value": false
+      },
+      {
+        "answer": "5% suspension of metyluratsyl.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Galvanosis should NOT be differentiated with:",
+    "answers": [
+      {
+        "answer": "acute catarrhal stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "fungal stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "glosodynya;",
+        "value": false
+      },
+      {
+        "answer": "allergic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "leukoplakia",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "At the burns of mucous membrane caused by hot water or steam can develope:",
+    "answers": [
+      {
+        "answer": "hypertrophic gingivitis;",
+        "value": false
+      },
+      {
+        "answer": "acute catarrhal stomatitis;",
+        "value": true
+      },
+      {
+        "answer": "ulcerative gingivitis;",
+        "value": false
+      },
+      {
+        "answer": "localized paradontitis;",
+        "value": false
+      },
+      {
+        "answer": "atrophic gingivitis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Chronic mechanical trauma can be caused by:",
+    "answers": [
+      {
+        "answer": "Unproprerly done dentures, bad habits",
+        "value": true
+      },
+      {
+        "answer": "Orthopedic devices;",
+        "value": false
+      },
+      {
+        "answer": "Biting the cheeks;",
+        "value": false
+      },
+      {
+        "answer": "Damage the mucous membrane by burs;",
+        "value": false
+      },
+      {
+        "answer": "Damage the mucous membrane by disk.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patients’ complains during galvanosis are:",
+    "answers": [
+      {
+        "answer": "metallic taste in the mouth;",
+        "value": false
+      },
+      {
+        "answer": "distortion of taste;",
+        "value": false
+      },
+      {
+        "answer": "burning, tingling and pain in the tongue;",
+        "value": false
+      },
+      {
+        "answer": "hypersalivation, headache;",
+        "value": false
+      },
+      {
+        "answer": "metallic taste in the mouth, distiortion of taste, burning sensation and hypersalivation",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "At acute mechanical trauma, on the mucous lesion occurs:",
+    "answers": [
+      {
+        "answer": "swelling;",
+        "value": false
+      },
+      {
+        "answer": "hyperemia;",
+        "value": false
+      },
+      {
+        "answer": "desquamation;",
+        "value": false
+      },
+      {
+        "answer": "necrosis of the epithelium;",
+        "value": false
+      },
+      {
+        "answer": "swelling, hyperemia, pain, bleeding, desquamation and necrosis",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "The main differential sign of traumatic ulcer is:",
+    "answers": [
+      {
+        "answer": "healing after removal a traumatic factor in 5-7 days;",
+        "value": true
+      },
+      {
+        "answer": "healing after removal a traumatic factor in one month;",
+        "value": false
+      },
+      {
+        "answer": "continued its existence;",
+        "value": false
+      },
+      {
+        "answer": "not reactive character of existence.",
+        "value": false
+      },
+      {
+        "answer": "it doesn’t heal after removal a traumatic factor;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The decubital ulcers should NOT be differentiated with:",
+    "answers": [
+      {
+        "answer": "cancer;",
+        "value": false
+      },
+      {
+        "answer": "trophic ulcer;",
+        "value": false
+      },
+      {
+        "answer": "miliary-ulcerative tuberculosis;",
+        "value": false
+      },
+      {
+        "answer": "primary syphilis;",
+        "value": false
+      },
+      {
+        "answer": "herperic stomatitis",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "The classification of Borovskiy and Mashkilson is based on:",
+    "answers": [
+      {
+        "answer": "etiological factors;",
+        "value": false
+      },
+      {
+        "answer": "clinical signs of pathological processes;",
+        "value": false
+      },
+      {
+        "answer": "on the localization of the pathological process;",
+        "value": false
+      },
+      {
+        "answer": "etiological and clinical signs of pathological processes;",
+        "value": true
+      },
+      {
+        "answer": "laboratory methods.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A first serious manifestation of chronic mechanical injury is:",
+    "answers": [
+      {
+        "answer": "cancer ulcer;",
+        "value": false
+      },
+      {
+        "answer": "decubital(traumatic) ulcer;",
+        "value": true
+      },
+      {
+        "answer": "trophic ulcer;",
+        "value": false
+      },
+      {
+        "answer": "chancre;",
+        "value": false
+      },
+      {
+        "answer": "tuberculosis ulcer.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The clinical picture of decubital ulcer is:",
+    "answers": [
+      {
+        "answer": "acute pain ulcers which edges are compacted, bottom – hilly, covered with necrotic or fibrinous coating;",
+        "value": true
+      },
+      {
+        "answer": "ulcers edges are compacted like cartilage, sometimes keratinized;",
+        "value": false
+      },
+      {
+        "answer": "very acute pain ulcers with rough edges, bottom is covered with yellow-gray coating, sometimes granular;",
+        "value": false
+      },
+      {
+        "answer": "oval or round ulcer with smooth bottom that has red-meaty color and greasy shine;",
+        "value": false
+      },
+      {
+        "answer": "Ulcer is painless, with round smooth edges",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mucosal injury by arsenic anhydride must be neutralized by:",
+    "answers": [
+      {
+        "answer": "2-5% potassium iodide;",
+        "value": true
+      },
+      {
+        "answer": "3-5% copper sulfate;",
+        "value": false
+      },
+      {
+        "answer": "1% calcium carbonate;",
+        "value": false
+      },
+      {
+        "answer": "castor oil;",
+        "value": false
+      },
+      {
+        "answer": "1% sodium bicarbonate.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mucosal injury by phosphorus must be neutralized by:",
+    "answers": [
+      {
+        "answer": "2-5% potassium iodide;",
+        "value": false
+      },
+      {
+        "answer": "3-5% copper sulfate;",
+        "value": true
+      },
+      {
+        "answer": "1% calcium carbonate;",
+        "value": false
+      },
+      {
+        "answer": "castor oil;",
+        "value": false
+      },
+      {
+        "answer": "1% sodium bicarbonate.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A girl, 18 year old, complains about deterioration and appearance of rashes on the lips. From history: the same rashes occurred one year ago in the same place. Objectively: body temperature is 37.1C, on the edge of the red border of the upper lip and the skin are grouped vesicles with a diameter of 1-3 mm with clear contents. Indicate the likely diagnosis.",
+    "answers": [
+      {
+        "answer": "herpes zoster;",
+        "value": false
+      },
+      {
+        "answer": "acute herpetic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "stomatitis at measles;",
+        "value": false
+      },
+      {
+        "answer": "stomatitis at chicken pox;",
+        "value": false
+      },
+      {
+        "answer": "chronic recurrent aphthous stomatitis.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What is the cause of candidiasis?",
+    "answers": [
+      {
+        "answer": "bacillus Leffler;",
+        "value": false
+      },
+      {
+        "answer": "filter virus;",
+        "value": false
+      },
+      {
+        "answer": "herpes simplex virus;",
+        "value": false
+      },
+      {
+        "answer": "yeast of fungus;",
+        "value": true
+      },
+      {
+        "answer": "coxsackievirus.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of emergency aid can be used on the burning surface of the oral mucosa by natrium hydroxide?",
+    "answers": [
+      {
+        "answer": "0.1% solution of ammonia;",
+        "value": false
+      },
+      {
+        "answer": "50% ethyl alcohol;",
+        "value": false
+      },
+      {
+        "answer": "0.5% solution of acetic acid;",
+        "value": true
+      },
+      {
+        "answer": "3% solution of sodium chloride;",
+        "value": false
+      },
+      {
+        "answer": "2% solution of etoniy.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient, 58 year old, has symptoms of galvanosis. Objectively: there are gold, metal crowns on the teeth and couple amalgam fillings in the mouth; the oral mucosa is hyperemic and swollen. Which way can prevent the occurrence of galvanosis?",
+    "answers": [
+      {
+        "answer": "replacement of amalgam fillings;",
+        "value": false
+      },
+      {
+        "answer": "using of homogeneous metal for prosthesis;",
+        "value": true
+      },
+      {
+        "answer": "taking of vitamins A and E;",
+        "value": false
+      },
+      {
+        "answer": "rinsing with antiseptics;",
+        "value": false
+      },
+      {
+        "answer": "desensitization  drugs.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 18 year old boy was under treatment in the infectious disease department. He was taking ampicillin. On the 6th day of treatment the white deposits similar of caseous films were revealed on the hyperemic mucous membrane in the area of gingival torus, cheeks and on the tongue. The films can be removed leaving hyperemic surface underneath. General condition is satisfactory. Body temperature is 36,7oC. What is the provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "acute candidiasis stomatitis;",
+        "value": true
+      },
+      {
+        "answer": "drug-induced stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "chronic candidiasis stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "acute herpetic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "mild form of leukoplakia.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 67 year old patient has a complete removable denture and complains of pain in the area of mucous membrane of hard palate on the left that is getting worse during eating. He has been suffering from this for 1,5 month. Objectively: left-sided hyperemia and edema of mucous membrane of hard palate; at the border of distal denture edge there is an ulcer with dense walls, surrounding tissues are infiltrated. The ulcer floor is tuberous, covered with fibrinous deposit; ulcer palpation is painful. What kind of examination methods will be applied in the first place?",
+    "answers": [
+      {
+        "answer": "allergic contact plastic test;",
+        "value": false
+      },
+      {
+        "answer": "cytology;",
+        "value": false
+      },
+      {
+        "answer": "serological reactions;",
+        "value": false
+      },
+      {
+        "answer": "bacterioscopy;",
+        "value": true
+      },
+      {
+        "answer": "biopsy.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 24 year old patient complains about high body temperature, halitosis. Objectively: gingiva is swollen, easy bleeds by touching, apexes of interdental papillae affected by necrosis and remind beheaded cones. At cytology detected fuzo-spirochetes symbiosis. The diagnosis is:",
+    "answers": [
+      {
+        "answer": "leukemia;",
+        "value": false
+      },
+      {
+        "answer": "Vincent’s ulcer-necrotic stomatitis;",
+        "value": true
+      },
+      {
+        "answer": "allergic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "secondary syphilis;",
+        "value": false
+      },
+      {
+        "answer": "avitaminosis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 65 year old patient complains of fever to 38C, burning pain, presence of vesicles on the tongue to the left. Objectively: there are bubbles on the hyperemic edematous mucosa of the tongue on the left as a chain filled with serous fluid, regional lymphadenitis. What is a diagnosis?",
+    "answers": [
+      {
+        "answer": "blister-vascular syndrome;",
+        "value": false
+      },
+      {
+        "answer": "primary herpetic infection;",
+        "value": false
+      },
+      {
+        "answer": "recurrent herpes;",
+        "value": false
+      },
+      {
+        "answer": "multiform exudative erythema;",
+        "value": false
+      },
+      {
+        "answer": "shingles.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What oral conditions does coxsackievirus cause?",
+    "answers": [
+      {
+        "answer": "hand-foot-mouth disease;",
+        "value": true
+      },
+      {
+        "answer": "erosive stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "exudative erythema multiforme;",
+        "value": false
+      },
+      {
+        "answer": "shingles;",
+        "value": false
+      },
+      {
+        "answer": "herpetic stomatitis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The indicative for herpes simplex virus infection is:",
+    "answers": [
+      {
+        "answer": "just multiple painful lesions;",
+        "value": false
+      },
+      {
+        "answer": "ulcers;",
+        "value": false
+      },
+      {
+        "answer": "perioral, palatal and gingival location;",
+        "value": false
+      },
+      {
+        "answer": "availability the virus culture in saliva and mucous membrane;",
+        "value": false
+      },
+      {
+        "answer": "multiple painful blisters with next ulceration, perioral, palatal and gingival location .",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Herpes simplex virus (HSV) has two types: HSV-1 and HSV-2. The second type usually causes infection of:",
+    "answers": [
+      {
+        "answer": "the lips;",
+        "value": false
+      },
+      {
+        "answer": "the eyes;",
+        "value": false
+      },
+      {
+        "answer": "the genital organs;",
+        "value": true
+      },
+      {
+        "answer": "the hands and feet;",
+        "value": false
+      },
+      {
+        "answer": "the oral mucosa.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the cause of acute herpetic stomatitis?",
+    "answers": [
+      {
+        "answer": "hemolytic streptococcus;",
+        "value": false
+      },
+      {
+        "answer": "filter virus;",
+        "value": true
+      },
+      {
+        "answer": "pallidum Vincent;",
+        "value": false
+      },
+      {
+        "answer": "colli Leffler;",
+        "value": false
+      },
+      {
+        "answer": "treponema pallidum.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An occurrence of coagulative necrosis is caused by burning of:",
+    "answers": [
+      {
+        "answer": "acids;",
+        "value": true
+      },
+      {
+        "answer": "boil;",
+        "value": false
+      },
+      {
+        "answer": "ionizing radiation;",
+        "value": false
+      },
+      {
+        "answer": "electric shock;",
+        "value": false
+      },
+      {
+        "answer": "alkalis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Diagnosis: Vincent's necrotizing stomatitis. During medical treatment of the ulcer surface the plaque difficulty removes. Which drugs should be used?",
+    "answers": [
+      {
+        "answer": "antifungal;",
+        "value": false
+      },
+      {
+        "answer": "enzymes;",
+        "value": true
+      },
+      {
+        "answer": "antiseptics;",
+        "value": false
+      },
+      {
+        "answer": "kerato plastic products;",
+        "value": false
+      },
+      {
+        "answer": "antiviral.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 20 year old man complains about presence of painful ulcers in the mouth. Similar symptoms were noted six months ago. Objectively: on the lateral surface of the tongue and at the bottom of the oral cavity were detected two erosions of circular form, covered with grayish-white bloom, which has hyperemic border.  The edges slightly raised above the mucosa. What is the likely diagnosis?",
+    "answers": [
+      {
+        "answer": "syndrome of Behchet;",
+        "value": false
+      },
+      {
+        "answer": "exudative erythema multiforme",
+        "value": false
+      },
+      {
+        "answer": "chronic recurrent aphthous stomatitis;",
+        "value": true
+      },
+      {
+        "answer": "Stevens-Johnson syndrome;",
+        "value": false
+      },
+      {
+        "answer": "recurrent herpetic stomatitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 52 year old patient complains of burning and dryness of the tongue that appeared about 10 days ago and intensified when taking spicy food. Two weeks ago was in the hospital and received large dose antibiotics. On the hyperemic and edematous cheeks and tongue mucosa --- gray-white color crumbs like plaque that are easily removed by erasure. What was found on smears from lesions during microscopy?",
+    "answers": [
+      {
+        "answer": "giant multinuclear cells;",
+        "value": false
+      },
+      {
+        "answer": "single cell fungi form;",
+        "value": false
+      },
+      {
+        "answer": "threads of mycelium;",
+        "value": false
+      },
+      {
+        "answer": "giant cells of Lanhans;",
+        "value": false
+      },
+      {
+        "answer": "numerous cells of fungi.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 22 year old man notes a wound, localized on the palate that appeared after the session of intracannel electrophoresis of 26 tooth by 5% solution of iodine. Objectively: on the hard palate mucosa to the left is the lesion area dashed form with whitish-gray surface. What is the probable cause of lesions?",
+    "answers": [
+      {
+        "answer": "chemical injury;",
+        "value": false
+      },
+      {
+        "answer": "mechanical trauma;",
+        "value": false
+      },
+      {
+        "answer": "thermal damage;",
+        "value": false
+      },
+      {
+        "answer": "electrical injury;",
+        "value": true
+      },
+      {
+        "answer": "galvanism.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 78 year old patient complains about appearance of rash on the face and oral mucosa, severe neuralgic pains. After examination was determined diagnosis  - shingles. What is the typical clinical picture for this disease?",
+    "answers": [
+      {
+        "answer": "sharply painful blisters and erosions in a chain over the course of the branches of the trigeminal nerve;",
+        "value": true
+      },
+      {
+        "answer": "rash blisters and vesicles in different parts of the skin, lips red border and the mouth;",
+        "value": false
+      },
+      {
+        "answer": "rash with blisters and bubbles with serous and serous-hemorrhagic exudates;",
+        "value": false
+      },
+      {
+        "answer": "polymorphism of elements lesions;",
+        "value": false
+      },
+      {
+        "answer": "single painful round erosions with red border and fibrous plaque.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A chronic mechanical trauma never look like:",
+    "answers": [
+      {
+        "answer": "solitary ulcer;",
+        "value": false
+      },
+      {
+        "answer": "bleeding wounds;",
+        "value": true
+      },
+      {
+        "answer": "increased epithelial cornification;",
+        "value": false
+      },
+      {
+        "answer": "growths gingival margin;",
+        "value": false
+      },
+      {
+        "answer": "fibroma.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 45 year old patient complains regarding low-grade fever, malaise, bleeding gums, difficult meal. Objectively: gum edge and top of interdental papillae are covered with dirty-gray plaque, edge of ulcers rough under dig, bad breath, increased regional nodes. The diagnosis is:",
+    "answers": [
+      {
+        "answer": "scarlet fever;",
+        "value": false
+      },
+      {
+        "answer": "diphtheria;",
+        "value": false
+      },
+      {
+        "answer": "measles;",
+        "value": false
+      },
+      {
+        "answer": "herpangina;",
+        "value": false
+      },
+      {
+        "answer": "Vincent’s ulcer-necrotic stomatitis.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 78 year old patient complains about appearance of rash on the face and oral mucosa, severe neuralgic pains. After examination was determined diagnosis--- shingles. In the absence of complications the disease continues average:",
+    "answers": [
+      {
+        "answer": "1-3 days;",
+        "value": false
+      },
+      {
+        "answer": "8-12 days;",
+        "value": false
+      },
+      {
+        "answer": "2-3 months;",
+        "value": false
+      },
+      {
+        "answer": "2-3 weeks;",
+        "value": true
+      },
+      {
+        "answer": "1-2 weeks.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 36 year old patient complains about appearance of ulcer under the tongue. From history: pathology of the gastrointestinal tract. Objectively: under his tongue is a round aphthae 5-7 mm in diameter, surrounded by a rim of inflammatory hyperemia covered with fibrinous plaque, sharply painful to the touch. What is a diagnosis?",
+    "answers": [
+      {
+        "answer": "Syndrome of  Behchet;",
+        "value": false
+      },
+      {
+        "answer": "recurrent herpes;",
+        "value": false
+      },
+      {
+        "answer": "stomatitis of Setton;",
+        "value": false
+      },
+      {
+        "answer": "secondary syphilis;",
+        "value": false
+      },
+      {
+        "answer": "chronic recurrent aphthous stomatitis.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 23 year old patient complains of fever to 38C, burning pain, the presence of vesicles on the tongue to the left. Objectively: on the hyperemic edematous mucosa of the tongue on the left are bubbles as a chain filled with serous fluid, regional lymphadenitis. What is a diagnosis?",
+    "answers": [
+      {
+        "answer": "blister-vascular syndrome;",
+        "value": false
+      },
+      {
+        "answer": "primary herpetic infection;",
+        "value": false
+      },
+      {
+        "answer": "recurrent herpes;",
+        "value": false
+      },
+      {
+        "answer": "shingles;",
+        "value": true
+      },
+      {
+        "answer": "exudative erythema multiforme.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 63 year old patient complains about pain, appearance of ulcer in the mouth. During 12 years the patient used a mandible partial denture and suffering from ischemic heart disease. After examination was determined diagnosis: decubital ulcer of mouth floor. Which of the following will help to eliminate the cause of the disease?",
+    "answers": [
+      {
+        "answer": "treatment in cardiology;",
+        "value": false
+      },
+      {
+        "answer": "production of a new partial denture;",
+        "value": true
+      },
+      {
+        "answer": "cutting sores;",
+        "value": false
+      },
+      {
+        "answer": "application of kerato plastic products;",
+        "value": false
+      },
+      {
+        "answer": "improve the oral hygiene.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 32 year old patient complains about appearance of painful ulcer on lower lip mucosa that appeared before. The patient suffers from chronic enterocolitis. On the lower lip mucosa (right side) is a surface rounded defect tissue surrounded by the whisk of hyperemia covered with fibrous plaque, palpation painful. The diagnosis is:",
+    "answers": [
+      {
+        "answer": "chronic recurrent aphthous stomatitis;",
+        "value": true
+      },
+      {
+        "answer": "traumatic erosion;",
+        "value": false
+      },
+      {
+        "answer": "recurrent herpes;",
+        "value": false
+      },
+      {
+        "answer": "stomatitis Settona;",
+        "value": false
+      },
+      {
+        "answer": "secondary syphilis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 55 year old patient complains of mouth burning, pain during meal, whitish patches on the cheeks and tongue. From history the patient for a long time treated with antibiotics regarding pneumonia. On hyperemic buccal and tongue mucosa is a white film that is difficult to be removed. What kind of the additional methods can clarify the diagnosis?",
+    "answers": [
+      {
+        "answer": "histological;",
+        "value": false
+      },
+      {
+        "answer": "bacterioscopic;",
+        "value": true
+      },
+      {
+        "answer": "serological;",
+        "value": false
+      },
+      {
+        "answer": "allergological tests;",
+        "value": false
+      },
+      {
+        "answer": "stomatoskopy.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What properties of vitamin B are used in the treatment of radiation ulcers?",
+    "answers": [
+      {
+        "answer": "protection for the skin and mucous membrane;",
+        "value": false
+      },
+      {
+        "answer": "normalization of metabolism;",
+        "value": true
+      },
+      {
+        "answer": "normalization of permeability and resistance vessels;",
+        "value": false
+      },
+      {
+        "answer": "improve the reparative processes;",
+        "value": false
+      },
+      {
+        "answer": "It can not be used for that",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A girl is ill for couple days, her body temperature is normal. Objectively: on the hyperemic edematous mucosa of cheeks and tongue dorsum is a white film like a cottege cheese. After its removal remains bright hyperemic surface with hemorrhages. The patient was treated with antibiotics. What is a previous diagnosis?",
+    "answers": [
+      {
+        "answer": "mild form of leukoplakia;",
+        "value": false
+      },
+      {
+        "answer": "acute herpetic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "chronic candidiasis stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "recurrent aphthous stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "acute candidiasis stomatitis.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 48 year old patient appealed to the dentist with complaints of rash on the face and oral mucosa, severe neuralgic pains. After examination was diagnosed—shingles. For local treatment of the disease are used:",
+    "answers": [
+      {
+        "answer": "metronidazole;",
+        "value": false
+      },
+      {
+        "answer": "ointments: nistatynova, levorinov;",
+        "value": false
+      },
+      {
+        "answer": "Solcoseryl-jelly, aerosol “Livian”;",
+        "value": false
+      },
+      {
+        "answer": "bonafton, acyclovir, Zovirax-ointments;",
+        "value": true
+      },
+      {
+        "answer": "nysoral, suprastin, multivitamins.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient in 55 year old with diabetes mellitus uses removable dentures and complains of heartburn, dry mouth, pain during eating. At survey on buccal and tongue mucosa, hard palate is lean hyperemic plaque that taking off hardly. After its removal appears a visible erosive surface. What is a probable diagnosis?",
+    "answers": [
+      {
+        "answer": "acute aphthous stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "acute pseudomembranous candidiasis;",
+        "value": false
+      },
+      {
+        "answer": "erosive form of leuckoplakiy;",
+        "value": false
+      },
+      {
+        "answer": "red lichen planus, erosive form;",
+        "value": false
+      },
+      {
+        "answer": "chronic atrophic candidiasis.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "In the study of smears taken from the surface of the ulcer in a patient with ulcerative necrotizing gingivitis are:",
+    "answers": [
+      {
+        "answer": "Staphylococci and spirochetes;",
+        "value": false
+      },
+      {
+        "answer": "Spirochetes and fuzobacilli;",
+        "value": true
+      },
+      {
+        "answer": "Fuzobakterii and lactobacilli;",
+        "value": false
+      },
+      {
+        "answer": "Spirochetes and lactobacilli;",
+        "value": false
+      },
+      {
+        "answer": "Lactobacilli and staphylococci.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What conditions and diseases will not cause blistering (vesiculobullous lesions) in the mouth?",
+    "answers": [
+      {
+        "answer": "Herpes disease;",
+        "value": false
+      },
+      {
+        "answer": "pemphigoid;",
+        "value": false
+      },
+      {
+        "answer": "lichen planus;",
+        "value": false
+      },
+      {
+        "answer": "erythema multiforme;",
+        "value": false
+      },
+      {
+        "answer": "leukoplakia",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Shingles can be differentiated in character of pain with:",
+    "answers": [
+      {
+        "answer": "pemphigus;",
+        "value": false
+      },
+      {
+        "answer": "allergic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "exudative erythema multiforme;",
+        "value": false
+      },
+      {
+        "answer": "trigeminal neuralgia;",
+        "value": true
+      },
+      {
+        "answer": "syphilis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 25 patient complains of a painful rash on the mucosa of the upper and lower lip, raising body temperature to 39C. Easy bleeding, hyperemic swollen gums are painful. The mucous has rash blisters and erosions. What is a diagnosis?",
+    "answers": [
+      {
+        "answer": "measles;",
+        "value": false
+      },
+      {
+        "answer": "ulcer-necrotic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "chronic recurrent herpetic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "acute herpetic stomatitis, mild form;",
+        "value": true
+      },
+      {
+        "answer": "scarlet fever.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 68 year old patient appealed to the dentist with complaints of rash on the face and oral mucosa, severe neuralgic pains. After examination was diagnosed—shingles. What kind of an additional methods can clarify the diagnosis?",
+    "answers": [
+      {
+        "answer": "histological;",
+        "value": true
+      },
+      {
+        "answer": "bacterioscopic;",
+        "value": false
+      },
+      {
+        "answer": "virus isolation;",
+        "value": false
+      },
+      {
+        "answer": "determination of immunity;",
+        "value": false
+      },
+      {
+        "answer": "biopsy.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 18 year old girl complains about  pain in the mouth, increasing the body temperature until 38,5C. After the exam was diagnosed with acute herpetic stomatitis. What will to be found in the cytological study of erosion surface?",
+    "answers": [
+      {
+        "answer": "elements of the reticuloendothelial system;",
+        "value": false
+      },
+      {
+        "answer": "akantolityc cells;",
+        "value": false
+      },
+      {
+        "answer": "atypical cells;",
+        "value": false
+      },
+      {
+        "answer": "cells of Pirogov-Lanhansa;",
+        "value": false
+      },
+      {
+        "answer": "giant multinuclear cells.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 23 year old patient applied on the second day from the disease beginning and was diagnosed with acute herpetic stomatitis. Which ointment is necessary to apply the first for treatment of elements lesions?",
+    "answers": [
+      {
+        "answer": "ointment with corticosteroids;",
+        "value": false
+      },
+      {
+        "answer": "ointment with antibiotics;",
+        "value": false
+      },
+      {
+        "answer": "antiviral;",
+        "value": true
+      },
+      {
+        "answer": "ointment wityh sulfonamides;",
+        "value": false
+      },
+      {
+        "answer": "ointment with proteolytic enzymes.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the typical clinical picture of acute herpetic stomatitis?",
+    "answers": [
+      {
+        "answer": "erosions covered with yellowish fibrinous plaque;",
+        "value": false
+      },
+      {
+        "answer": "increased salivation, halitosis;",
+        "value": false
+      },
+      {
+        "answer": "catarrhal gingivitis, papules rash on the background of hyperemic mucosa;",
+        "value": false
+      },
+      {
+        "answer": "white patches on the mucous;",
+        "value": false
+      },
+      {
+        "answer": "bright red erosions with tiny scalloped shape covered with plaque, body temperature 37 -40C.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 52 year old patient complains about mouth dryness and white plaque on the tongue, cheeks, what appeared after taking of antibiotics high dose. The dry oral mucosa has bright red color and covered with white color crumbs like plaque that removed by cotton roll. What is a probable diagnosis?",
+    "answers": [
+      {
+        "answer": "lupus erythematosus;",
+        "value": false
+      },
+      {
+        "answer": "leukoplakia of the mucous;",
+        "value": false
+      },
+      {
+        "answer": "red plane lichen;",
+        "value": false
+      },
+      {
+        "answer": "syphilitic papules;",
+        "value": false
+      },
+      {
+        "answer": "chronic candidiasis stomatitis.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 27 year old patient complains of headache, fever to 39C and appearance on the lips mucosa cruel painful erosions. Objectively: on the edge of a red border and skin of the upper lip there are multiple group erosions 1-3mm in diameter with serous fluid, covers of some bubbles have destroyed. The surrounding mucosa is hyperemic, regional lymph nodes are enlarged, painful on palpation. At cytology identified giant multinuclear cells. Which drug of local action should be used for the treatment?",
+    "answers": [
+      {
+        "answer": "phenylbutazone;",
+        "value": false
+      },
+      {
+        "answer": "klotrimazol;",
+        "value": false
+      },
+      {
+        "answer": "zovirax;",
+        "value": true
+      },
+      {
+        "answer": "lorinden A;",
+        "value": false
+      },
+      {
+        "answer": "solcoseryl.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 55 year old patient complains about dryness, burning of the mouth that increase during meal. Objectively: partial denture in upper jaw, tongue is swollen and smooth, there are prints of teeth on the lateral tongue surfaces, atrophied papillae. The tongue folds have baldly plaque that removes with efforts. What is the final diagnosis?",
+    "answers": [
+      {
+        "answer": "chronic atrophic candidiasis;",
+        "value": true
+      },
+      {
+        "answer": "acute atrophic candidosis;",
+        "value": false
+      },
+      {
+        "answer": "diamond-shaped glossitis;",
+        "value": false
+      },
+      {
+        "answer": "desqumative glossitis;",
+        "value": false
+      },
+      {
+        "answer": "leukoplakia.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After flu, a 32 year old patient complains about general weakness, gums pain, their bleeding and halitosis. Objectively: regional lymph nodes are enlarged, painful on palpation, the hyperemic, swollen gingiva has numerous necrotic ulcers covered with grayish-green plaque. What will be found on smears from lesions during microscopy?",
+    "answers": [
+      {
+        "answer": "neuthrophils, epithelial cells, cocci;",
+        "value": false
+      },
+      {
+        "answer": "erythrocytes, leukocytes, fungi Candida;",
+        "value": false
+      },
+      {
+        "answer": "neyseriyi, veylonely bacteria collie;",
+        "value": false
+      },
+      {
+        "answer": "significant number of fuzobacterias, spirochetes;",
+        "value": true
+      },
+      {
+        "answer": "lactobacilli, gonococci, erythrocytes.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What additional method will be used to confirm the diagnosis of herpetic stomatitis?",
+    "answers": [
+      {
+        "answer": "immunofluorescence;",
+        "value": true
+      },
+      {
+        "answer": "biochemical analysis of blood;",
+        "value": false
+      },
+      {
+        "answer": "functional;",
+        "value": false
+      },
+      {
+        "answer": "electroodontodiagnosis;",
+        "value": false
+      },
+      {
+        "answer": "stomatoskopy.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains about pain in the tongue during eating, talking. Felt sick 2 weeks ago. The lateral surface of the tongue mucosa represents irregular ulcer with hyperemic edges covered with necrotic plaque. Its palpation is painful. Crowns of 46 and 47 teeth are destroyed. What are the priority actions of dentist in treatment course?",
+    "answers": [
+      {
+        "answer": "removal of traumatic factors;",
+        "value": true
+      },
+      {
+        "answer": "analgesia lesions;",
+        "value": false
+      },
+      {
+        "answer": "application of anti-inflammatory drugs;",
+        "value": false
+      },
+      {
+        "answer": "application of keratoplastic drugs;",
+        "value": false
+      },
+      {
+        "answer": "surgery.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 26 year old patient complains of fever to 38,5C, pain duiring meal. There are small vesicles with clear fluid and bright red erosions with scalloped outlines covered with plaque on the lips and cheecks mucosa. Regional nodes are painful. The diagnosis is:",
+    "answers": [
+      {
+        "answer": "erosive stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "exudative erythema multiforme;",
+        "value": false
+      },
+      {
+        "answer": "shingles;",
+        "value": false
+      },
+      {
+        "answer": "herpetic stomatitis;",
+        "value": true
+      },
+      {
+        "answer": "malignant pemphigus.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains about an ulcer that appears periodically on the mucous membrane of the mouth. He is sick on pancreatitis, enterocolitis. On the left surface of the tongue is defined oval ulcer covered with whitish-yellow plaque surrounded by edge of hyperemia, painful on palpation. What is most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "chronic recurrent herpetic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "chronic recurrent aphthous stomatitis;",
+        "value": true
+      },
+      {
+        "answer": "secondary syphilis;",
+        "value": false
+      },
+      {
+        "answer": "traumatic errosion.",
+        "value": false
+      },
+      {
+        "answer": "aphtha of Setton;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A girl complains about deterioration and appearance of rashes on the lips. From history: the same rashes occurred one year ago in the same place. Objectively: body temperature is 37.1C, on the edge of the red border of the upper lip and the skin are grouped vesicles with a diameter of 1-3 mm with clear contents. Indicate the likely diagnosis.",
+    "answers": [
+      {
+        "answer": "herpes zoster;",
+        "value": false
+      },
+      {
+        "answer": "acute herpetic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "stomatitis at measles;",
+        "value": false
+      },
+      {
+        "answer": "stomatitis at chicken pox;",
+        "value": false
+      },
+      {
+        "answer": "chronic recurrent aphthous stomatitis.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A patient, 58 year old, has symptoms of galvanosis. Objectively: there are gold, metal crowns on the teeth and couple amalgam fillings in the mouth; the oral mucosa is hyperemic and swollen. Which method can prevent the occurrence of galvanosis?",
+    "answers": [
+      {
+        "answer": "replacement of amalgam fillings;",
+        "value": false
+      },
+      {
+        "answer": "using of homogeneous metal for prosthesis;",
+        "value": true
+      },
+      {
+        "answer": "taking of vitamins A and E;",
+        "value": false
+      },
+      {
+        "answer": "rinsing with antiseptics;",
+        "value": false
+      },
+      {
+        "answer": "teeth removing",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 65 year old patient has a complete removable denture and complains of pain in the area of mucous membrane of hard palate on the left that is getting worse during eating. He has been suffering from this for 1,5 month. Objectively: left-sided hyperemia and edema of mucous membrane of hard palate; at the border of distal denture edge there is an ulcer with dense walls, surrounding tissues are infiltrated. The ulcer floor is tuberous, covered with fibrinous deposit; ulcer palpation is painful. What kind of examination methods will be applied in the first place?",
+    "answers": [
+      {
+        "answer": "allergic contact plastic test;",
+        "value": false
+      },
+      {
+        "answer": "cytology;",
+        "value": false
+      },
+      {
+        "answer": "serological reactions;",
+        "value": false
+      },
+      {
+        "answer": "bacterioscopy;",
+        "value": true
+      },
+      {
+        "answer": "biopsy.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 63 year old patient complains of fever to 38C, burning pain, presence of vesicles on the tongue to the left. Objectively: there are bubbles on the hyperemic edematous mucosa of the tongue on the left as a chain filled with serous fluid, regional lymphadenitis. What is a diagnosis?",
+    "answers": [
+      {
+        "answer": "blister-vascular syndrome;",
+        "value": false
+      },
+      {
+        "answer": "primary herpetic infection;",
+        "value": false
+      },
+      {
+        "answer": "recurrent herpes;",
+        "value": false
+      },
+      {
+        "answer": "multiform exudative erythema;",
+        "value": false
+      },
+      {
+        "answer": "shingles.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What is the reason of collagen diseases?",
+    "answers": [
+      {
+        "answer": "Diffuse lesions of connective tissue and blood vessels, which is characterized by generalized alteration of non-cellular components of connective tissue, primarily collagen fibers and collagen protein that enters into their composition.",
+        "value": false
+      },
+      {
+        "answer": "Vascular disease, associated with congenital deficiency of the vascular endothelium, with the gradual replacement of connective tissue.",
+        "value": false
+      },
+      {
+        "answer": "Hereditary disease that is transmitted by recessive type associated with pathology of oxyprolyn synthesis.",
+        "value": true
+      },
+      {
+        "answer": "Diffuse damage of internal organs as a result of disease of the immune system.",
+        "value": false
+      },
+      {
+        "answer": "Replacement of epithelial tissue by connective, as a result of loss of antigenic properties by first one.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient , 43 year old, complaines  of cracks in the corners of his mouth , also of photophobia, lacrimation, weakness, loss of appetite, burning sensation in the tongue. OBJECTIVE: lips are red, swollen, cracked in the corners of the mouth (which are covered with crusts). Red border of  lips are dry, scaly, similar to peeling of the skin around the lips. Tongue  is red, shiny, filiform papillae are atrophied. What can be the cause of this disease:",
+    "answers": [
+      {
+        "answer": "Hypovitaminosis PP",
+        "value": false
+      },
+      {
+        "answer": "Hypovitaminosis B6",
+        "value": false
+      },
+      {
+        "answer": "Hypovitaminosis A",
+        "value": true
+      },
+      {
+        "answer": "Hypovitaminosis B12",
+        "value": false
+      },
+      {
+        "answer": "Hypovitaminosis B1",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following drugs should we use for hypovitaminosis  A treatment?",
+    "answers": [
+      {
+        "answer": "ACC.",
+        "value": false
+      },
+      {
+        "answer": "Festal.",
+        "value": false
+      },
+      {
+        "answer": "Cyanocobalamin.",
+        "value": false
+      },
+      {
+        "answer": "Askorutin.",
+        "value": false
+      },
+      {
+        "answer": "Aevit",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "42 y.o.woman complains of pain, burning the tongue tip, taste disturbances. Also, fatigue, headache, tinnitus, dyspnea. Skin and mucous membranes are pale, with a lemon-yellow colour. Henter-Miller tongue.  What will be the diagnosis?",
+    "answers": [
+      {
+        "answer": "Hypovitaminosis of vitamin B1",
+        "value": false
+      },
+      {
+        "answer": "desquamative glossitis",
+        "value": false
+      },
+      {
+        "answer": "hairy tongue",
+        "value": false
+      },
+      {
+        "answer": "decubital ulcer of the tongue",
+        "value": false
+      },
+      {
+        "answer": "Pernicious anemia",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "During the 42 y.o. patient examination, doctor found symmetrical erythema on exposed areas of the body, dark pigmentation and keratinization. Oral mucous is hyperemic, with hyperemic swollen tongue, filiform papillae are atrophied. The patient complains of headache, insomnia, loss of appetite and loose stools. Deficiency of what vitamin can cause this changes?",
+    "answers": [
+      {
+        "answer": "Riboflavin.",
+        "value": false
+      },
+      {
+        "answer": "Ascorbic acid.",
+        "value": false
+      },
+      {
+        "answer": "Retinol.",
+        "value": false
+      },
+      {
+        "answer": "Nicotinic acid.",
+        "value": true
+      },
+      {
+        "answer": "Thiamine.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The main mechanism of action of vitamins  A, B2, B3, PP, B6:",
+    "answers": [
+      {
+        "answer": "The normalization of the functional state of the nervous system",
+        "value": true
+      },
+      {
+        "answer": "Increased resistance to infection by increasing phagocytosis and antibody production",
+        "value": false
+      },
+      {
+        "answer": "Antihemorrhagic action,  normalization of permeability of vessel walls",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer",
+        "value": false
+      },
+      {
+        "answer": "Normalization of the metabolic processes of keratinization  in skin and mucosa, increasing their protective properties",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient complains of dry mouth, cracks in the corners of the mouth, pain during food taking. There is gastritis in anamnesis . During examination - lips  are swollen,  with  erosion and cracks in the corners of the mouth.  Tongue is shiny, smooth, covered with furrows. What will be the diagnosis?",
+    "answers": [
+      {
+        "answer": "Hypovitaminosis B2",
+        "value": true
+      },
+      {
+        "answer": "Hypovitaminosis C",
+        "value": false
+      },
+      {
+        "answer": "Hypovitaminosis PP",
+        "value": false
+      },
+      {
+        "answer": "Hypovitaminosis A",
+        "value": false
+      },
+      {
+        "answer": "Hypovitaminosis B1",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient, 25 y.o., complains of dry skin and oral mucosa. From anamnesis - last month intensively trained in the gym, and then visited a solarium. During examination: oral mucosa sufficiently hydrated, salivation is reduced , buccal epithelium is thinned. Red borders of lips are dry and flaky. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Hypovitaminosis E",
+        "value": false
+      },
+      {
+        "answer": "Hypovitaminosis B2",
+        "value": false
+      },
+      {
+        "answer": "Hypovitaminosis A",
+        "value": false
+      },
+      {
+        "answer": "Hypovitaminosis C",
+        "value": false
+      },
+      {
+        "answer": "Hypovitaminosis PP",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Patients, 44 y.o., complains of a burning sensation and pain in the tongue, loss of appetite, fatigue, loss of memory. In anamnesis – exacerbation of chronic hastritis. OBJECTIVELY: on the skin of the face and neck there are erythematous patches with peel. In the mucosa of the mouth can be seen areas of hyperemia and normal mucosa. Tongue is swollen, bright red, shiny, filiform papillae are atrophied.  Deficiency of what vitamin can cause this pathology?",
+    "answers": [
+      {
+        "answer": "Vitamin B1",
+        "value": false
+      },
+      {
+        "answer": "Vitamin A",
+        "value": false
+      },
+      {
+        "answer": "Vitamin B2",
+        "value": false
+      },
+      {
+        "answer": "Vitamin B12",
+        "value": true
+      },
+      {
+        "answer": "Vitamin C",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient,  49 y.o., was  diagnosed with pernicious anemia.What  glossitis is one of the symptoms  of that  anemia?",
+    "answers": [
+      {
+        "answer": "Henter-Miller glossitis",
+        "value": true
+      },
+      {
+        "answer": "Desquvamative",
+        "value": false
+      },
+      {
+        "answer": "Fissured",
+        "value": false
+      },
+      {
+        "answer": "Rhomboid",
+        "value": false
+      },
+      {
+        "answer": "Candidiasis of the tongue",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient complains of burning, dryness and pain in area of the mucous membrane of the mouth, lips, tongue while eating. These symptoms are combined with weakness, rapid fatigue. OBJECTIVELY:  oral mucosa is pale, slightly moist, tongue is swollen, increased in dimensions, papillaes are atrophied, especially at the tip of the tongue.  Back of the tongue is bright red.  Put the diagnosis.",
+    "answers": [
+      {
+        "answer": "Pernicious anemia, Addison-Biermer",
+        "value": true
+      },
+      {
+        "answer": "Hypochromic iron-deficiency anemia",
+        "value": false
+      },
+      {
+        "answer": "Desquamativ glossitis",
+        "value": false
+      },
+      {
+        "answer": "Rhomboid glossitis",
+        "value": false
+      },
+      {
+        "answer": "Glossalgia",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 42 year old man complains of pain and gums, bleeding (especially during food taking), weakness, pain in the limbs, chilliness unwarranted. He lives in the North during last 15 years. OBJECTIVELY: skin is dry, with brownish tinge, scaly, with symptom of “goose skin”.  The mucous membrane of the gums is swollen, hyperemic with cyanotic tinge, gingival papillae are hypertrophied, covering the crowns of the teeth and  bleeds after  touching.  Pathological tooth mobility of 1th degree is present.  In the mucosa of the soft palate numerous petechiae was finded.  Deficiency of which vitamin may cause this clinical picture:",
+    "answers": [
+      {
+        "answer": "Vitamin E",
+        "value": false
+      },
+      {
+        "answer": "Vitamin B12",
+        "value": false
+      },
+      {
+        "answer": "Vitamin A",
+        "value": false
+      },
+      {
+        "answer": "Vitamin C",
+        "value": true
+      },
+      {
+        "answer": "Vitamin B",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How many stages there are in the course of scorbutic stomatitis? Select the one correct answer",
+    "answers": [
+      {
+        "answer": "4",
+        "value": false
+      },
+      {
+        "answer": "6",
+        "value": false
+      },
+      {
+        "answer": "3",
+        "value": true
+      },
+      {
+        "answer": "2",
+        "value": false
+      },
+      {
+        "answer": "5",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During 24 y.o. patient examination, the redness in the corners of the mouth was found. A few days after in these areas painful cracks was revealed. Objectively:  Lips are red, swollen, with cracks and erosion, there is glossitis, accompanied by a sharp pain. With a lack of a vitamin such symptoms occur? Select the one correct answer",
+    "answers": [
+      {
+        "answer": "B2.",
+        "value": true
+      },
+      {
+        "answer": "PP.",
+        "value": false
+      },
+      {
+        "answer": "B1.",
+        "value": false
+      },
+      {
+        "answer": "S.",
+        "value": false
+      },
+      {
+        "answer": "A.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "25 year woman complains about enlargement , itching and dryness of her lips. This changes she noticed  after using of new lipstick. Objectively: lips are edematous, compact-grained, palpation is painless. Regional lymph nodes are not enlarged. What can be the diagnosis?",
+    "answers": [
+      {
+        "answer": "Lip cancer",
+        "value": false
+      },
+      {
+        "answer": "Exfoliative cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Actinic cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Allergic cheilitis",
+        "value": true
+      },
+      {
+        "answer": "Toxic cheilitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "56 year old patient was diagnosed with glossophytia. What medicine will be included in the treatment?",
+    "answers": [
+      {
+        "answer": "Antibiotics",
+        "value": false
+      },
+      {
+        "answer": "Antiseptics",
+        "value": true
+      },
+      {
+        "answer": "Antihistamines",
+        "value": false
+      },
+      {
+        "answer": "Analgetics",
+        "value": false
+      },
+      {
+        "answer": "Vitamins",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During the examination of 34 year old woman angular cheilitis was diagnosed. What can NOT be the reason of this cheilitis?",
+    "answers": [
+      {
+        "answer": "Low  immunity",
+        "value": false
+      },
+      {
+        "answer": "Virus",
+        "value": false
+      },
+      {
+        "answer": "Fungal infection",
+        "value": false
+      },
+      {
+        "answer": "Trauma",
+        "value": false
+      },
+      {
+        "answer": "sharp edges of teeth",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "22 year old boy complains about swelling and eversion of his  lower lip. Objectively: enlargement of the lower lip caused by mucous gland hyperplasia. The “dew” symptom  is positive. What can be the diagnosis?",
+    "answers": [
+      {
+        "answer": "Cheilitis glandularis",
+        "value": true
+      },
+      {
+        "answer": "Cheilitis exfoliative",
+        "value": false
+      },
+      {
+        "answer": "Actinic cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Allergic cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Cheilitis granulomatouz",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 19-year-old girl complains about having crusts, lip tenderness, especially at lip joining. Objectively: there are yellow-brown crusts on the lip red border from Klein zone to its middle, after their removal bright red smooth surface without erosions appears. Mucous membrane in Klein zone is slightly hyperemic and edematic. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exudative form of cheilitis exfoliativa",
+        "value": true
+      },
+      {
+        "answer": "Epidermolysis bullosa",
+        "value": false
+      },
+      {
+        "answer": "Exudative form of cheilitis actinica",
+        "value": false
+      },
+      {
+        "answer": "Meteorological cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Eczematous cheilitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "17 year old female patient complains about enlargement , itching and dryness of her lips. This changes she noticed  after using of new lipstick. Objectively: lips are edematous, compact-grained, palpation is painless. Regional lymph nodes are not enlarged. Which ointment can you prescribe to the patient?",
+    "answers": [
+      {
+        "answer": "With analgine",
+        "value": false
+      },
+      {
+        "answer": "With prednisolone",
+        "value": true
+      },
+      {
+        "answer": "With erythromycin",
+        "value": false
+      },
+      {
+        "answer": "With antibiotics",
+        "value": false
+      },
+      {
+        "answer": "With steroids",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 42 year old patient applied to a dentist and complained about white caseous deposit on the dorsum of his tongue and burning sensation. It is known from the patient's anamnesis that he underwent treatment in an in-patient hospital on account of pneumonia. What was the doctor`s mistake in pneumonia treatment?",
+    "answers": [
+      {
+        "answer": "He should prescribe the eubiotics and probiotics during the antibiotic course",
+        "value": true
+      },
+      {
+        "answer": "The course of antibiotics was too long",
+        "value": false
+      },
+      {
+        "answer": "The course of antibiotics was too short",
+        "value": false
+      },
+      {
+        "answer": "He should prescribe oral antibiotics additionally",
+        "value": false
+      },
+      {
+        "answer": "He should prescribe antihistamines additionally",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "28 year old man, builder, complaines about itch  and burning lip pain during every summer last three years. In other time of the year this symptoms disappeared. What can be the diagnosis?",
+    "answers": [
+      {
+        "answer": "Meteorological cheilitis",
+        "value": true
+      },
+      {
+        "answer": "Exfoliative cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Cheilitis glandular",
+        "value": false
+      },
+      {
+        "answer": "Atrophic candidiasis",
+        "value": false
+      },
+      {
+        "answer": "Meteorological glossitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Woman complains about white deposits which she noticed a week ago after pleuritis treatment. Microscopic examination revealed abundance of yeast fungus. Blood test is normal. What medicine can cause this complication?",
+    "answers": [
+      {
+        "answer": "Antibiotics",
+        "value": true
+      },
+      {
+        "answer": "Antihistamines",
+        "value": false
+      },
+      {
+        "answer": "Vitamins",
+        "value": false
+      },
+      {
+        "answer": "Antifungal",
+        "value": false
+      },
+      {
+        "answer": "No correct answer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Woman complains about white deposits which she noticed a week ago after pleuritis treatment. Microscopic examination revealed abundance of yeast fungus. Blood test is normal. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Candidiasis",
+        "value": true
+      },
+      {
+        "answer": "Hairy tongue",
+        "value": false
+      },
+      {
+        "answer": "Cancer",
+        "value": false
+      },
+      {
+        "answer": "Leukoplakia",
+        "value": false
+      },
+      {
+        "answer": "Herpes",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "60 year old patient complains about mouth dryness, bad breath,  sensation of a foreign body on his tongue. Objectively: 5 mm long  brown papillae on the upper surface of tongue. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Granulomatous cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Hairy tongue",
+        "value": true
+      },
+      {
+        "answer": "Actinic cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Meteorological cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Geographic tongue",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During the examination of 17 year boy, few areas of desquamation was revealed.This areas (from the patients words) are present from early childhood and looks like map. Patient feels no pain or other complains. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Granulomatous cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Hairy tongue",
+        "value": false
+      },
+      {
+        "answer": "Actinic cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Meteorological cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Geographic tongue",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "46 year old patiend complains about painful lower lip. This pain he noticed 6 month ago. Objectively: deep fissure in the middle part of lower lip and red border with brown crust and dense borders. What will be the treatment in that case?",
+    "answers": [
+      {
+        "answer": "Antibiotics",
+        "value": false
+      },
+      {
+        "answer": "Antiseptics",
+        "value": false
+      },
+      {
+        "answer": "Surgical treatment",
+        "value": true
+      },
+      {
+        "answer": "Corticosteroids",
+        "value": false
+      },
+      {
+        "answer": "Proteolytic enzymes",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "26 year old patient complains about swelling, redness and dryness of his lips. Objectively: the skin of the lipsin vermillion area is thinned and red, presense of scaly pathes can be noticed. From anamnesis: he works as a beach lifeguard. What should be the doctor`s tactics at that case?",
+    "answers": [
+      {
+        "answer": "To take the biopsy first",
+        "value": false
+      },
+      {
+        "answer": "To prescribe antibiotics",
+        "value": false
+      },
+      {
+        "answer": "To prescribe ointment with topical retinoids",
+        "value": true
+      },
+      {
+        "answer": "Laser therapy",
+        "value": false
+      },
+      {
+        "answer": "Cryotherapy",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Woman complains about enlargement , itching and dryness of her lips. These changes she noticed after using of new lipstick. Objectively: lips are edematous, compact-grained, palpation is painless. Regional lymph nodes are not enlarged. Which ointment can you prescribe to the patient?",
+    "answers": [
+      {
+        "answer": "With analgine",
+        "value": false
+      },
+      {
+        "answer": "With prednisolone",
+        "value": true
+      },
+      {
+        "answer": "With erythromycin",
+        "value": false
+      },
+      {
+        "answer": "With antibiotics",
+        "value": false
+      },
+      {
+        "answer": "With steroids",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The ways of spreading HIV infection are:",
+    "answers": [
+      {
+        "answer": "sexually, transplacental, through blood;",
+        "value": true
+      },
+      {
+        "answer": "sexually, orally;",
+        "value": false
+      },
+      {
+        "answer": "transplacental, by airborne droplets, through blood, sexually;",
+        "value": false
+      },
+      {
+        "answer": "orally, transfusional way, transplacental;",
+        "value": false
+      },
+      {
+        "answer": "Just through blood",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What place does belong to dentists in HIV risk group?",
+    "answers": [
+      {
+        "answer": "1;",
+        "value": false
+      },
+      {
+        "answer": "3;",
+        "value": false
+      },
+      {
+        "answer": "2;",
+        "value": true
+      },
+      {
+        "answer": "4;",
+        "value": false
+      },
+      {
+        "answer": "5.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The pathogen that causes AIDS is:",
+    "answers": [
+      {
+        "answer": "RNA containing virus;",
+        "value": false
+      },
+      {
+        "answer": "retrovirus;",
+        "value": true
+      },
+      {
+        "answer": "DNA containing virus;",
+        "value": false
+      },
+      {
+        "answer": "filtering virus;",
+        "value": false
+      },
+      {
+        "answer": "bacteria",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An incubation period of HIV is:",
+    "answers": [
+      {
+        "answer": "from 6 months to 4 years;",
+        "value": true
+      },
+      {
+        "answer": "6-8 months;",
+        "value": false
+      },
+      {
+        "answer": "2-3 years;",
+        "value": false
+      },
+      {
+        "answer": "from 6 months to 1 year;",
+        "value": false
+      },
+      {
+        "answer": "from 6 months to 2 years.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Who was discovered the human immunodeficiency virus?",
+    "answers": [
+      {
+        "answer": "Reflill and Berke;",
+        "value": false
+      },
+      {
+        "answer": "Luc Montagnier;",
+        "value": true
+      },
+      {
+        "answer": "Behcet;",
+        "value": false
+      },
+      {
+        "answer": "Miller I Jaussing;",
+        "value": false
+      },
+      {
+        "answer": "Bowen.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is NOT a serious symptom of AIDS?",
+    "answers": [
+      {
+        "answer": "fever lasting more than 1 month;",
+        "value": false
+      },
+      {
+        "answer": "chronic diarrhea lasting more than 1 month;",
+        "value": false
+      },
+      {
+        "answer": "prolonged cough;",
+        "value": true
+      },
+      {
+        "answer": "weight loss of 10% or more;",
+        "value": false
+      },
+      {
+        "answer": "candidiasis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which body system does affect HIV?",
+    "answers": [
+      {
+        "answer": "immune;",
+        "value": true
+      },
+      {
+        "answer": "cardiovascular;",
+        "value": false
+      },
+      {
+        "answer": "endocrine;",
+        "value": false
+      },
+      {
+        "answer": "nervous;",
+        "value": false
+      },
+      {
+        "answer": "digestive",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient complains of existing painful sores in the mouth. From history: deterioration of health, weight loss, fever up to 37.1, diarrhea, that lasts for three weeks. Which test should pass the patient?",
+    "answers": [
+      {
+        "answer": "general blood test;",
+        "value": false
+      },
+      {
+        "answer": "test for markers of hepatitis;",
+        "value": false
+      },
+      {
+        "answer": "test ELISA;",
+        "value": true
+      },
+      {
+        "answer": "fungal tests;",
+        "value": false
+      },
+      {
+        "answer": "examination of salivary glands.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which protein in cytoplasmic membrane of T-helper cells has a receptor for HIV?",
+    "answers": [
+      {
+        "answer": "p18;",
+        "value": false
+      },
+      {
+        "answer": "gag;",
+        "value": false
+      },
+      {
+        "answer": "nef;",
+        "value": false
+      },
+      {
+        "answer": "CD-4;",
+        "value": true
+      },
+      {
+        "answer": "Cip-120.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which type of HIV is more virulent and infective, has global prevalence?",
+    "answers": [
+      {
+        "answer": "HIV-2;",
+        "value": false
+      },
+      {
+        "answer": "HIV-3;",
+        "value": false
+      },
+      {
+        "answer": "HIV-4;",
+        "value": false
+      },
+      {
+        "answer": "HIV-1;",
+        "value": true
+      },
+      {
+        "answer": "neither.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The first group of classification the HIV manifestations in the oral cavity, proposed by union of dentists in 1990,includes:",
+    "answers": [
+      {
+        "answer": "Hodgkin's lymphoma;",
+        "value": true
+      },
+      {
+        "answer": "idiopathic thrombocytopenic purpura;",
+        "value": false
+      },
+      {
+        "answer": "Cat scratch disease;",
+        "value": false
+      },
+      {
+        "answer": "squamous cell carcinoma;",
+        "value": false
+      },
+      {
+        "answer": "osteomyelitis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Dentist, when working with a patient, to prevent infection should be followed:",
+    "answers": [
+      {
+        "answer": "refuse the patients with suspected AIDS;",
+        "value": false
+      },
+      {
+        "answer": "use disposable materials, tools;",
+        "value": true
+      },
+      {
+        "answer": "wash hands before work with soap solution;",
+        "value": false
+      },
+      {
+        "answer": "before work wipe the tools with quickly disinfecting solutions;",
+        "value": false
+      },
+      {
+        "answer": "Do not use the handpiece",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "When was discovered the human immunodeficiency virus?",
+    "answers": [
+      {
+        "answer": "1925;",
+        "value": false
+      },
+      {
+        "answer": "1937;",
+        "value": false
+      },
+      {
+        "answer": "1983;",
+        "value": true
+      },
+      {
+        "answer": "1959;",
+        "value": false
+      },
+      {
+        "answer": "1985.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of lymphocytes affects the HIV?",
+    "answers": [
+      {
+        "answer": "T-suppressors;",
+        "value": false
+      },
+      {
+        "answer": "T-killers;",
+        "value": false
+      },
+      {
+        "answer": "T-helpers, T-suppressors;",
+        "value": false
+      },
+      {
+        "answer": "T-helpers;",
+        "value": true
+      },
+      {
+        "answer": "It not affects the lymphocytes",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are the chances that a mother with AIDS gives birth to healthy baby?",
+    "answers": [
+      {
+        "answer": "20%;",
+        "value": false
+      },
+      {
+        "answer": "50%;",
+        "value": false
+      },
+      {
+        "answer": "25%;",
+        "value": false
+      },
+      {
+        "answer": "75%;",
+        "value": true
+      },
+      {
+        "answer": "100%.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is a serious symptom of AIDS?",
+    "answers": [
+      {
+        "answer": "prolonged cough;",
+        "value": false
+      },
+      {
+        "answer": "fever lasting more than 1 month ;",
+        "value": true
+      },
+      {
+        "answer": "candidiasis of the oral cavity and pharynx;",
+        "value": false
+      },
+      {
+        "answer": "dermatitis;",
+        "value": false
+      },
+      {
+        "answer": "generalized lymphadenopathy.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of disinfectants does NOT kill the HIV?",
+    "answers": [
+      {
+        "answer": "dyskoton;",
+        "value": false
+      },
+      {
+        "answer": "dyskosept;",
+        "value": false
+      },
+      {
+        "answer": "chlorhexidine 4%;",
+        "value": false
+      },
+      {
+        "answer": "batselol;",
+        "value": false
+      },
+      {
+        "answer": "70% alkohol.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "The first group of classification of HIV manifestations in the oral cavity, proposed by union of dentists in 1990, includes:",
+    "answers": [
+      {
+        "answer": "idiopathic thrombocytopenic purpura;",
+        "value": false
+      },
+      {
+        "answer": "Cat scratch disease;",
+        "value": false
+      },
+      {
+        "answer": "candidiasis (erythematous, hyperplastic, pseudomembranous);",
+        "value": true
+      },
+      {
+        "answer": "osteomyelitis;",
+        "value": false
+      },
+      {
+        "answer": "squamous cell carcinoma.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How does the rate of lymphocytes change in progression of HIV?",
+    "answers": [
+      {
+        "answer": "reduces;",
+        "value": true
+      },
+      {
+        "answer": "increases;",
+        "value": false
+      },
+      {
+        "answer": "unchanges;",
+        "value": false
+      },
+      {
+        "answer": "first reduces and then increases;",
+        "value": false
+      },
+      {
+        "answer": "just increses",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of changes does most appear on the oral mucosa in HIV-infected patients before the main clinical symptoms?",
+    "answers": [
+      {
+        "answer": "sarcoma Kaposi;",
+        "value": false
+      },
+      {
+        "answer": "hairy leukoplakia;",
+        "value": true
+      },
+      {
+        "answer": "non-Hodgkin lymphoma;",
+        "value": false
+      },
+      {
+        "answer": "HIV-periodontitis;",
+        "value": false
+      },
+      {
+        "answer": "herpetic lesions.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "According to WHO, HIV-infection has:",
+    "answers": [
+      {
+        "answer": "3 stages;",
+        "value": false
+      },
+      {
+        "answer": "4 stages;",
+        "value": true
+      },
+      {
+        "answer": "6 stages;",
+        "value": false
+      },
+      {
+        "answer": "8 stages;",
+        "value": false
+      },
+      {
+        "answer": "2 stages.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The clinical signs of the first stage HIV-infection are:",
+    "answers": [
+      {
+        "answer": "flu-like syndrome;",
+        "value": false
+      },
+      {
+        "answer": "poliadenopatiya;",
+        "value": false
+      },
+      {
+        "answer": "various rash similar to measles;",
+        "value": false
+      },
+      {
+        "answer": "fever;",
+        "value": false
+      },
+      {
+        "answer": "fever, flu-like syndrome, poliadenopathia, rash",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "The second stage of HIV-infection is:",
+    "answers": [
+      {
+        "answer": "stage of acute disease;",
+        "value": false
+      },
+      {
+        "answer": "AIDS-associated complex;",
+        "value": false
+      },
+      {
+        "answer": "stage of asymptomatic carriers;",
+        "value": true
+      },
+      {
+        "answer": "stage of persistent generalized lymphadenopathy;",
+        "value": false
+      },
+      {
+        "answer": "AIDS.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During 3rd stage of AIDS will NOT appear:",
+    "answers": [
+      {
+        "answer": "an opportunistic diseases;",
+        "value": false
+      },
+      {
+        "answer": "constant high temperature, stable diarrhea, intensive sweating;",
+        "value": false
+      },
+      {
+        "answer": "signs of manifestation oral mucosa and digestive track by candidosis;",
+        "value": false
+      },
+      {
+        "answer": "reduction of the T4/T8 index;",
+        "value": false
+      },
+      {
+        "answer": "window period.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "At the clinical examination in 44 years old patient revealed a chronic mucosal candidiasis, generalized lymphadenopathy. During the year he concerned regarding chronic recurrent herpes, fever to 37,4-37,5, body weight decreased by 8 pounds in the last month. This clinical picture indicates:",
+    "answers": [
+      {
+        "answer": "AIDS;",
+        "value": true
+      },
+      {
+        "answer": "infectious mononucleosis;",
+        "value": false
+      },
+      {
+        "answer": "acute leukemia;",
+        "value": false
+      },
+      {
+        "answer": "chronic leukemia;",
+        "value": false
+      },
+      {
+        "answer": "lymphogranulomatosis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "According to systematic list of lesions oral mucosa in 1990, the first group includes:",
+    "answers": [
+      {
+        "answer": "sarcoma Kaposi;",
+        "value": true
+      },
+      {
+        "answer": "bacterial infections;",
+        "value": false
+      },
+      {
+        "answer": "diseases of salivary glands;",
+        "value": false
+      },
+      {
+        "answer": "osteomielitis;",
+        "value": false
+      },
+      {
+        "answer": "idiopathic thrombocytopenic purpura.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "According to systematic list of lesions oral mucosa, depending on the degree of their probable connection with HIV-infection in 1990, the second group includes:",
+    "answers": [
+      {
+        "answer": "osteomielitis;",
+        "value": false
+      },
+      {
+        "answer": "idiopathic thrombocytopenic purpura.",
+        "value": true
+      },
+      {
+        "answer": "sarcoma Kaposi;",
+        "value": false
+      },
+      {
+        "answer": "herpetic lesions;",
+        "value": false
+      },
+      {
+        "answer": "hairy leukoplakia.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "According to systematic list of lesions oral mucosa, depending on the degree of their probable connection with HIV-infection in 1990, the first group includes:",
+    "answers": [
+      {
+        "answer": "Herpes lesions",
+        "value": false
+      },
+      {
+        "answer": "Hepatitis",
+        "value": false
+      },
+      {
+        "answer": "Tuberculosis",
+        "value": false
+      },
+      {
+        "answer": "Angular cheilitis",
+        "value": false
+      },
+      {
+        "answer": "sarcoma Kaposi;",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "According to systematic list of lesions oral mucosa, depending on the degree of their probable connection with HIV-infection in 1990, to the first group belongs:",
+    "answers": [
+      {
+        "answer": "candidosis;",
+        "value": true
+      },
+      {
+        "answer": "osteomielitis;",
+        "value": false
+      },
+      {
+        "answer": "idiopathic thrombocytopenic purpura;",
+        "value": false
+      },
+      {
+        "answer": "disease “cat scratch”;",
+        "value": false
+      },
+      {
+        "answer": "fungal infection of non-candidiasis etiology.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The most widespread infection in HIV – infected patients is:",
+    "answers": [
+      {
+        "answer": "herpetic lesions;",
+        "value": false
+      },
+      {
+        "answer": "bacterial infections;",
+        "value": false
+      },
+      {
+        "answer": "candidiasis;",
+        "value": true
+      },
+      {
+        "answer": "cytomegalovirus;",
+        "value": false
+      },
+      {
+        "answer": "tuberculosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The standard diagnostic criteria of the disease period of AIDS is:",
+    "answers": [
+      {
+        "answer": "disease “cat scratch”;",
+        "value": false
+      },
+      {
+        "answer": "sarcoma Kaposi;",
+        "value": true
+      },
+      {
+        "answer": "Non-Hodgkin’s lymphoma;",
+        "value": false
+      },
+      {
+        "answer": "idiopathic thrombocytopenic purpura;",
+        "value": false
+      },
+      {
+        "answer": "herpetic lesions",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The elements of lesion in sarcoma Kaposi are:",
+    "answers": [
+      {
+        "answer": "vesicles;",
+        "value": false
+      },
+      {
+        "answer": "nodes;",
+        "value": false
+      },
+      {
+        "answer": "ulcers;",
+        "value": false
+      },
+      {
+        "answer": "spotty nodules rashes;",
+        "value": true
+      },
+      {
+        "answer": "blisters.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Kaposi’s sarcoma is caused by:",
+    "answers": [
+      {
+        "answer": "cytomegalovirus;",
+        "value": false
+      },
+      {
+        "answer": "human herpes virus 8;",
+        "value": true
+      },
+      {
+        "answer": "human herpes virus 6;",
+        "value": false
+      },
+      {
+        "answer": "Epstein-Barr virus;",
+        "value": false
+      },
+      {
+        "answer": "HSV2.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the most common oral manifestation of AIDS?",
+    "answers": [
+      {
+        "answer": "oral candidiasis;",
+        "value": true
+      },
+      {
+        "answer": "bacterial infection;",
+        "value": false
+      },
+      {
+        "answer": "fungal infection of non-candidiasis etiology;",
+        "value": false
+      },
+      {
+        "answer": "neurological disorders.",
+        "value": false
+      },
+      {
+        "answer": "herpetic lesions;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Hairy leukoplakia is caused by:",
+    "answers": [
+      {
+        "answer": "cytomegalovirus;",
+        "value": false
+      },
+      {
+        "answer": "HHV6;",
+        "value": false
+      },
+      {
+        "answer": "HHV8;",
+        "value": false
+      },
+      {
+        "answer": "Epstein-Barr virus:",
+        "value": true
+      },
+      {
+        "answer": "HSV1.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Hairy leukoplakia often appears in:",
+    "answers": [
+      {
+        "answer": "patients with hepatitis;",
+        "value": false
+      },
+      {
+        "answer": "HIV- infected patients;",
+        "value": true
+      },
+      {
+        "answer": "patients with herpes infection;",
+        "value": false
+      },
+      {
+        "answer": "patients with tuberculosis",
+        "value": false
+      },
+      {
+        "answer": "Patients with tumors",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Non-Hodgkin’s lymphoma occurs in:",
+    "answers": [
+      {
+        "answer": "lymphatic nodes, skin, bones;",
+        "value": true
+      },
+      {
+        "answer": "the liver, spleen, skin;",
+        "value": false
+      },
+      {
+        "answer": "the liver, skin, bones;",
+        "value": false
+      },
+      {
+        "answer": "lymphatic nodes, bones, liver;",
+        "value": false
+      },
+      {
+        "answer": "Heart, liver",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The dentist stand in risk group on the:",
+    "answers": [
+      {
+        "answer": "first place;",
+        "value": false
+      },
+      {
+        "answer": "second place;",
+        "value": true
+      },
+      {
+        "answer": "Third place;",
+        "value": false
+      },
+      {
+        "answer": "Fourth place;",
+        "value": false
+      },
+      {
+        "answer": "fifth place.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The longest stage of HIV infection is:",
+    "answers": [
+      {
+        "answer": "stage of acute disease;",
+        "value": false
+      },
+      {
+        "answer": "AIDS-associated complex;",
+        "value": false
+      },
+      {
+        "answer": "stage of asymptomatic carriers;",
+        "value": true
+      },
+      {
+        "answer": "stage of persistent generalized lymphadenopathy;",
+        "value": false
+      },
+      {
+        "answer": "AIDS.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "HIV primarily infects components of the human immune system:",
+    "answers": [
+      {
+        "answer": "CD3+;",
+        "value": false
+      },
+      {
+        "answer": "CD4+;",
+        "value": true
+      },
+      {
+        "answer": "CD8+;",
+        "value": false
+      },
+      {
+        "answer": "CD16+;",
+        "value": false
+      },
+      {
+        "answer": "CD22+.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What statement is NOT true about AIDS?",
+    "answers": [
+      {
+        "answer": "there is a direct link between HIV and AIDS;",
+        "value": false
+      },
+      {
+        "answer": "a mother who is HIV positive can have a health baby;",
+        "value": false
+      },
+      {
+        "answer": "it is easy to recognize whether someone is infected or not;",
+        "value": true
+      },
+      {
+        "answer": "HIV can affect only human beings;",
+        "value": false
+      },
+      {
+        "answer": "the HIV blood test is only one way to know if someone is infected or not.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "HIV affects only:",
+    "answers": [
+      {
+        "answer": "immune system;",
+        "value": true
+      },
+      {
+        "answer": "cardiovascular system;",
+        "value": false
+      },
+      {
+        "answer": "nervous;",
+        "value": false
+      },
+      {
+        "answer": "digestive system",
+        "value": false
+      },
+      {
+        "answer": "endocrine system;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Kaposi’s sarcoma is caused by;",
+    "answers": [
+      {
+        "answer": "herpesviruses family;",
+        "value": true
+      },
+      {
+        "answer": "coxackieviruses;",
+        "value": false
+      },
+      {
+        "answer": "papillomaviruses;",
+        "value": false
+      },
+      {
+        "answer": "mumps virus;",
+        "value": false
+      },
+      {
+        "answer": "measles virus.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient A., 40 years old, has a dysfunction of the gastrointestinal tract, blood forming and nervous systems. Skin and oral mucous membrane are pale, with yellow shade, sometimes there are dotted haemorrhage.These symptoms can be sights of.",
+    "answers": [
+      {
+        "answer": "leukopenia;",
+        "value": false
+      },
+      {
+        "answer": "leukemia;",
+        "value": false
+      },
+      {
+        "answer": "trombocytopenic purpura;",
+        "value": false
+      },
+      {
+        "answer": "hypo avitaminosis C;",
+        "value": false
+      },
+      {
+        "answer": "B-12 (folate-) deficiency anemia.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Vitamin that regulates the processes of maturation and keratinization of the epithelium, increases the resistance of mucus to various traumatic irritant factors is:",
+    "answers": [
+      {
+        "answer": "thiamine;",
+        "value": false
+      },
+      {
+        "answer": "riboflavin;",
+        "value": false
+      },
+      {
+        "answer": "retinol;",
+        "value": true
+      },
+      {
+        "answer": "nicotinamide:",
+        "value": false
+      },
+      {
+        "answer": "cobalamin.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In which stage of scorbutic stomatitis is observed haemoptysis and may develop pneumonia?",
+    "answers": [
+      {
+        "answer": "scorbutic ulcerative stomatitis:",
+        "value": false
+      },
+      {
+        "answer": "complicated;",
+        "value": false
+      },
+      {
+        "answer": "initial;",
+        "value": false
+      },
+      {
+        "answer": "scorbutic stomatitis reparative;",
+        "value": true
+      },
+      {
+        "answer": "advanced stage.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Avitaminosis B1 develops in:",
+    "answers": [
+      {
+        "answer": "gout;",
+        "value": false
+      },
+      {
+        "answer": "pellarha;",
+        "value": true
+      },
+      {
+        "answer": "scurvy;",
+        "value": false
+      },
+      {
+        "answer": "Beri-beri;",
+        "value": false
+      },
+      {
+        "answer": "megaloblastic anemia.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the lesion element of scurvy stomatitis initial stage?",
+    "answers": [
+      {
+        "answer": "erythema;",
+        "value": false
+      },
+      {
+        "answer": "roseola;",
+        "value": false
+      },
+      {
+        "answer": "hemorrhage;",
+        "value": false
+      },
+      {
+        "answer": "petechiae;",
+        "value": true
+      },
+      {
+        "answer": "telangiectasia.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "At which stage of scurvy stomatitis can be hemoptysis and pneumonia?",
+    "answers": [
+      {
+        "answer": "scurvy ulcerative stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "complicated;",
+        "value": false
+      },
+      {
+        "answer": "initial;",
+        "value": false
+      },
+      {
+        "answer": "scurvy reparative stomatitis;",
+        "value": true
+      },
+      {
+        "answer": "scurvy stomatopatiya.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 42 year old man complains of pain and gums bleeding (especially during food taking), weakness, and pain in the limbs, chilliness unwarranted. He lives in the North during last 15 years. OBJECTIVELY: skin is dry, with brownish tinge, scaly, with symptom of “goose skin”.  The mucous membrane of the gums is swollen, hyperemic with cyanotic tinge; gingival papillae are hypertrophied, covering the crowns of the teeth and bleeds after touching.  Pathological tooth mobility of 1st degree is present.  In the mucosa of the soft palate numerous petechiae was finded.  Deficiency of which vitamin may cause this clinical picture:",
+    "answers": [
+      {
+        "answer": "vitamin E;",
+        "value": false
+      },
+      {
+        "answer": "vitamin B12;",
+        "value": false
+      },
+      {
+        "answer": "vitamin A;",
+        "value": false
+      },
+      {
+        "answer": "vitamin C;",
+        "value": true
+      },
+      {
+        "answer": "vitamin B.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 24-year-old woman complains about severe pain in the mouth, body temperature up to 	38oC, indisposition. The same condition occurs periodically for several years after catching a cold. Objectively: the lips are covered with bloody crusts, there are opened bladders and erosions, covered with fibrinogenous deposit on mucous membrane of lips and cheeks that is apparently hyperemic and edematic. Hypersalivation is present. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Dermatitits multiformis, Duhring's disease",
+        "value": false
+      },
+      {
+        "answer": "Pemphigus vulgaris",
+        "value": false
+      },
+      {
+        "answer": "Erythema multiforme",
+        "value": true
+      },
+      {
+        "answer": "Nonacantholytic pemphigus",
+        "value": false
+      },
+      {
+        "answer": "Chronic herpes recidivicus",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During 21 y.o. patient examination, the redness in the corners of the mouth was found. A few days after in these areas painful cracks was revealed. Objectively: Lips are red, swollen, with cracks and erosion; there is glossitis, accompanied by a sharp pain. With a lack of a vitamin such symptoms occur? Select the one correct answer.",
+    "answers": [
+      {
+        "answer": "B2;",
+        "value": true
+      },
+      {
+        "answer": "PP;",
+        "value": false
+      },
+      {
+        "answer": "B1;",
+        "value": false
+      },
+      {
+        "answer": "C;",
+        "value": false
+      },
+      {
+        "answer": "A.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 44-year-old, overweight man presents with suppurative periodontitis. From review his history, he is always hungry, drinks water almost every hour, and awakens four times each night to urinate. What systemic disease is most likely a cofactor in his periodontal disease?",
+    "answers": [
+      {
+        "answer": "ischemic heart disease;",
+        "value": false
+      },
+      {
+        "answer": "diabetes mellitus;",
+        "value": true
+      },
+      {
+        "answer": "Addison-Biermer;",
+        "value": false
+      },
+      {
+        "answer": "menopause;",
+        "value": false
+      },
+      {
+        "answer": "hyperacidity gastritis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 54-year-old female patient was waiting for her turn at the dentist’s. Suddenly she fell down, her respiration became hoarse, she got convulsive twitching in her upper and lower limbs, face and neck turned cyanotic, eye pupils became mydriatic, reaction of eye to light was absent. Arterial pressure and pulse couldn’t be measured. Heart sounds couldn’t be auscultated. Involuntary urination was noted. What condition is characterized by such symptoms?",
+    "answers": [
+      {
+        "answer": "Coma",
+        "value": false
+      },
+      {
+        "answer": "Epilepsy",
+        "value": false
+      },
+      {
+        "answer": "Shock",
+        "value": false
+      },
+      {
+        "answer": "Clinical death",
+        "value": true
+      },
+      {
+        "answer": "Collapse",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-old patient complains about mouth soreness, body temperature rise up to 38,5oC, indisposition. Such condition has been occurring periodically for several years after the patient had had a cold. Objectively: lips are covered with haemorrhagic crusts, hyperaemic mucous membrane of lips and cheeks has erosions covered with fibrinous films. Hypersalivation is present. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Multiform exudative erythema",
+        "value": true
+      },
+      {
+        "answer": "Pemphigus vulgaris",
+        "value": false
+      },
+      {
+        "answer": "Herpes recidivicus",
+        "value": false
+      },
+      {
+        "answer": "Herpetiform Duhring's dermatitis",
+        "value": false
+      },
+      {
+        "answer": "Stevens-Johnson syndrome",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A young man complained about having vesicles in oral cavity, painful ulcers, especially during talking and eating; muscle and joint pain, body temperature rise, indisposition, weakness. He fell suddenly ill 2 days ago. Objectively: to- 38,4oC. Vermilion border is covered with bloody crusts that stick together and impede mouth opening. Mucous membrane of lips, cheeks, mouth floor, tongue, soft palate is hyperemic and edematic; there are single vesicles and large painful erosions covered with fibrinous deposit on it. Regional lymph nodes are enlarged and painful. There is hypersalivation. Nikolsky's symptom is negative. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Acantholytic pemphigus",
+        "value": false
+      },
+      {
+        "answer": "Multiform exudative erythema",
+        "value": true
+      },
+      {
+        "answer": "Secondary syphilis",
+        "value": false
+      },
+      {
+        "answer": "Acute herpetic stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Non-acantholytic pemphigus",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 26 year old patient applied to a clinic for the purpose of oral cavity sanitation. During preparation of the 45 tooth on account of chronic median caries the patient turned pale, there appeared cold clammy sweat on her forehead, nausea, ear noise. The patient lost consciousness. Objectively: pulse - 50 bpm, AP - 80/60 mm Hg, shallow breath, miotic pupils. Make a diagnosis of this state:",
+    "answers": [
+      {
+        "answer": "Syncope",
+        "value": true
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": false
+      },
+      {
+        "answer": "Stenocardia",
+        "value": false
+      },
+      {
+        "answer": "Collapse",
+        "value": false
+      },
+      {
+        "answer": "Quincke's edema",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 33-year-old patient was delivered to a traumatology centre with a dirty cut wound of her right foot. A doctor performed initial surgical d-bridement and made an injection of 	antitetanus serum. Some time later the patient’s condition got abruptly worse: she developed extreme weakness, dizziness, palpitation. Objectively: the skin is pale, the patient has cold sweat, frequent pulse of poor volume at a rate of 100 bpm, AP is 90/40 mm Hg. What is the cause of such aggravation?",
+    "answers": [
+      {
+        "answer": "Pain shock",
+        "value": false
+      },
+      {
+        "answer": "Haemorrhagic shock",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": true
+      },
+      {
+        "answer": "Infectious-toxic shock",
+        "value": false
+      },
+      {
+        "answer": "Drug disease (seroreaction)",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 29-year-old man attended a glasshouse in a botanic garden. After he had smelt at an orchid he turned pale and lost consciousness. Objectively: heart rate is 115/min, arterial pressure is 50/0 mm Hg. What drug should be injected to the patient in the first place?",
+    "answers": [
+      {
+        "answer": "Dimedrol",
+        "value": false
+      },
+      {
+        "answer": "Cordiamin",
+        "value": false
+      },
+      {
+        "answer": "Strophanthine",
+        "value": false
+      },
+      {
+        "answer": "Mesaton",
+        "value": false
+      },
+      {
+        "answer": "Prednisolone",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Allergy blood test looks for:",
+    "answers": [
+      {
+        "answer": "Ig A and G",
+        "value": false
+      },
+      {
+        "answer": "Ig A",
+        "value": false
+      },
+      {
+        "answer": "Ig E",
+        "value": true
+      },
+      {
+        "answer": "Ig G",
+        "value": false
+      },
+      {
+        "answer": "Ig B",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of allergy tests do you know?",
+    "answers": [
+      {
+        "answer": "Patch test, intradermal test, blood test, prick test",
+        "value": false
+      },
+      {
+        "answer": "Skin tests and blood tests.",
+        "value": true
+      },
+      {
+        "answer": "Patch test and blood test",
+        "value": false
+      },
+      {
+        "answer": "Blood tests",
+        "value": false
+      },
+      {
+        "answer": "Blood chemistry",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 44 year old patient before caries treatment, doctor noticed the swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What doctor`s mistake can cause this complication?",
+    "answers": [
+      {
+        "answer": "Incorrect anamnesis taking.",
+        "value": true
+      },
+      {
+        "answer": "Incorrect caries treatment.",
+        "value": false
+      },
+      {
+        "answer": "Incorrect patient choosing",
+        "value": false
+      },
+      {
+        "answer": "Incorrect anaesthetic injection",
+        "value": false
+      },
+      {
+        "answer": "There was no mistake",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 36 year old patient before pulpitis treatment, doctor noticed the swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What will be the key medication in the treatment of this disease?",
+    "answers": [
+      {
+        "answer": "Antibiotics",
+        "value": false
+      },
+      {
+        "answer": "Anti-inflammatory",
+        "value": false
+      },
+      {
+        "answer": "Antihistamines",
+        "value": true
+      },
+      {
+        "answer": "Corticosteroids",
+        "value": false
+      },
+      {
+        "answer": "Antiviral",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 27 year old patient, doctor noticed the swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What will be the key medication in the treatment of this disease?",
+    "answers": [
+      {
+        "answer": "Antibiotics",
+        "value": false
+      },
+      {
+        "answer": "Anti-inflammatory",
+        "value": false
+      },
+      {
+        "answer": "Antihistamines",
+        "value": true
+      },
+      {
+        "answer": "Corticosteroids",
+        "value": false
+      },
+      {
+        "answer": "Antiviral",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "39 year old patient complains about having vesicles in oral cavity, painful ulcers, especially during talking and eating; muscle and joint pain, body temperature rise, indisposition, weakness. He fell suddenly ill 2 days ago. Objectively: temperature - 38,4 C. Vermilion border is covered with bloody crusts that stick together and impede mouth opening. Mucous membrane of  lips, cheeks, mouth floor, tongue, soft palate is hyperemic and edematic; there are single vesicles and large painful erosions covered with fibrinous deposit on it. Regional lymph nodes are enlarged and painful. There is hypersalivation. Nikolsky's symptom is negative. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Acantholytic pemphigus",
+        "value": false
+      },
+      {
+        "answer": "Multiform exudative erythema",
+        "value": true
+      },
+      {
+        "answer": "Secondary syphilis",
+        "value": false
+      },
+      {
+        "answer": "Acute herpetic stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Non-acantholytic pemphigus",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient  N., applied to a clinic for the purpose of oral cavity sanitation. During preparation of the 45 tooth on account of chronic median caries the patient turned pale, there appeared cold clammy sweat on her forehead, nausea, ear noise. The patient lost consciousness. Objectively: pulse - 50 bpm, AP - 80/60 mm Hg, shallow breath,  miotic pupils. Make a diagnosis of this state:",
+    "answers": [
+      {
+        "answer": "Syncope",
+        "value": true
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": false
+      },
+      {
+        "answer": "Stenocardia",
+        "value": false
+      },
+      {
+        "answer": "Collapse",
+        "value": false
+      },
+      {
+        "answer": "Quincke's edema",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "65 y.o. patient was delivered to the traumatology centre with a dirty cut wound of her right foot. A doctor performed initial surgical d-bridement and made an injection of antitetanus serum. Some time later the patient’s condition got abruptly worse: she developed extreme weakness, dizziness, palpitation. Objectively: the skin is pale, the patient has cold sweat, frequent pulse of poor volume at a rate of 100 bpm, AP is 90/40 mm Hg. What is the cause of such aggravation?",
+    "answers": [
+      {
+        "answer": "Pain shock",
+        "value": false
+      },
+      {
+        "answer": "Haemorrhagic shock",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": true
+      },
+      {
+        "answer": "Infectious-toxic shock",
+        "value": false
+      },
+      {
+        "answer": "Drug disease (seroreaction)",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 18 y.o. boy attended a glasshouse in a botanic garden.  After he had smelt at an orchid he turned pale and lost consciousness. Objectively: heart rate is 115/min, arterial pressure is 50/0 mm Hg. What drug should be injected to the patient in the first place?",
+    "answers": [
+      {
+        "answer": "Dimedrol",
+        "value": false
+      },
+      {
+        "answer": "Cordiamin",
+        "value": false
+      },
+      {
+        "answer": "Strophanthine",
+        "value": false
+      },
+      {
+        "answer": "Mesaton",
+        "value": false
+      },
+      {
+        "answer": "Prednisolone",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 43 year old patient before caries treatment, doctor noticed the  swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Idiopathic face edema",
+        "value": false
+      },
+      {
+        "answer": "Anaphylactic shock",
+        "value": false
+      },
+      {
+        "answer": "Quincke’s edema (angioedema)",
+        "value": true
+      },
+      {
+        "answer": "Syncope",
+        "value": false
+      },
+      {
+        "answer": "Asthma",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After injection of anaesthetic solution to 45 year old patient, doctor noticed the swelling of patient face, which started from upper lip and rapidly progressed, wheezing and difficulty breathing.  What mistake can cause this complication?",
+    "answers": [
+      {
+        "answer": "Incorrect anamnesis taking.",
+        "value": true
+      },
+      {
+        "answer": "Incorrect caries treatment.",
+        "value": false
+      },
+      {
+        "answer": "Incorrect patient choosing",
+        "value": false
+      },
+      {
+        "answer": "Incorrect anaesthetic injection",
+        "value": false
+      },
+      {
+        "answer": "There was no mistake",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23 years old patient complains on gray-black spots in the red lip rim area and acompanying weakness and headache. Is treated at an endocrinologist about the violation of adrenal hormones. What disease we suspect?",
+    "answers": [
+      {
+        "answer": "Addison's disease",
+        "value": true
+      },
+      {
+        "answer": "Lead stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Mercury stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Bismuth stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Cadmium stomatitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which metal, from the listed, the most often cause intoxication?",
+    "answers": [
+      {
+        "answer": "Argentum",
+        "value": false
+      },
+      {
+        "answer": "Ferum",
+        "value": false
+      },
+      {
+        "answer": "Zinc",
+        "value": true
+      },
+      {
+        "answer": "Manganese",
+        "value": false
+      },
+      {
+        "answer": "Aurum",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 22 y.o. patient complains on increased salivation, headache, unpleasant metallic taste in a mouth,  throbbing pain in gums. Man works at mirror manufacturing. What disease we suspect?",
+    "answers": [
+      {
+        "answer": "Galvanosis",
+        "value": false
+      },
+      {
+        "answer": "Mercury stomatitis",
+        "value": true
+      },
+      {
+        "answer": "Vegetative vascular dystonia",
+        "value": false
+      },
+      {
+        "answer": "Endemic parotitis",
+        "value": false
+      },
+      {
+        "answer": "Purulent necrotic angina of oral cavity bottom",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient (45 y.o., a painter) complains on metallic taste, difficulty chewing, weakness, indigestion. Objectively: the skin is fround-grey, dark-blue strips around teeth necks, yellow spots in the palatine. What medication is used for this desease?",
+    "answers": [
+      {
+        "answer": "Dimercaprol",
+        "value": false
+      },
+      {
+        "answer": "EDTA",
+        "value": false
+      },
+      {
+        "answer": "Succimer",
+        "value": false
+      },
+      {
+        "answer": "Penicillamine",
+        "value": false
+      },
+      {
+        "answer": "Penicillamine, EDTA, Succimer, Dimecaprol",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Which metal the most often cause intoxication?",
+    "answers": [
+      {
+        "answer": "Argentum",
+        "value": false
+      },
+      {
+        "answer": "Ferum",
+        "value": false
+      },
+      {
+        "answer": "Zinc",
+        "value": true
+      },
+      {
+        "answer": "Manganese",
+        "value": false
+      },
+      {
+        "answer": "Aurum",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains on increased salivation, headache, unpleasant metallic taste in a mouth,  throbbing pain in gums. Man works at mirror manufacturing. What disease we suspect?",
+    "answers": [
+      {
+        "answer": "Galvanosis",
+        "value": false
+      },
+      {
+        "answer": "Mercury stomatitis",
+        "value": true
+      },
+      {
+        "answer": "Vegetative vascular dystonia",
+        "value": false
+      },
+      {
+        "answer": "Endemic parotitis",
+        "value": false
+      },
+      {
+        "answer": "Purulent necrotic angina of oral cavity bottom",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mercury stomatitis was diagnosed in 28 y.o. patient. What should we prescribe for treatment of chronic intoxication?",
+    "answers": [
+      {
+        "answer": "D-penicillamine",
+        "value": false
+      },
+      {
+        "answer": "Antibiotics",
+        "value": false
+      },
+      {
+        "answer": "Potassium iodide",
+        "value": false
+      },
+      {
+        "answer": "Polyvitamins",
+        "value": false
+      },
+      {
+        "answer": "D-penicillamine, potassium iodide, polyvitamins",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Medications containing bismuth are contraindicated in the presence of systemic diseases of:",
+    "answers": [
+      {
+        "answer": "Gastrointestinal tract",
+        "value": false
+      },
+      {
+        "answer": "Cardiovascular system",
+        "value": false
+      },
+      {
+        "answer": "Nervous system",
+        "value": true
+      },
+      {
+        "answer": "Digestive system",
+        "value": false
+      },
+      {
+        "answer": "Blood disorders",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "58 y.o. patient complains on formation appearance on the lower lip. After the examination, there were established diagnosis of precancerous hyperkeratosis. What treatment should we apply?",
+    "answers": [
+      {
+        "answer": "Keratoplastic means",
+        "value": false
+      },
+      {
+        "answer": "Antibiotic",
+        "value": false
+      },
+      {
+        "answer": "Anti-inflammatory therapy",
+        "value": false
+      },
+      {
+        "answer": "Surgical removal",
+        "value": true
+      },
+      {
+        "answer": "Medical observation without treatment",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 42-year-old builder complains about a condyloma on his lower lip. It appeared 1,5 month ago. It has been significantly growing throughout the last week. Objectively: the red border of the lower lip is cyanotic and infiltrated, it has some isolated closly adhering squamae. There is a well-defined hemispherical formation 8 mm in diameter and 4 mm high in the centre. The formation is of grey-and-blue-and-red colour, it has rough surface formed by thin, closely adhering and thick-based squamae. Regional lymph nodes are enlarged, mobile, dense and painless. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Viral wart",
+        "value": false
+      },
+      {
+        "answer": "Verruciform precancer",
+        "value": false
+      },
+      {
+        "answer": "Pyogenic granuloma",
+        "value": false
+      },
+      {
+        "answer": "Keratoacanthoma",
+        "value": false
+      },
+      {
+        "answer": "Lower lip cancer",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Method, which is used for examination in case of tumor-like formation:",
+    "answers": [
+      {
+        "answer": "smear-mark;",
+        "value": false
+      },
+      {
+        "answer": "biopsy;",
+        "value": true
+      },
+      {
+        "answer": "histamine test;",
+        "value": false
+      },
+      {
+        "answer": "mucous samples;",
+        "value": false
+      },
+      {
+        "answer": "thrombocytopenic index.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "For differential diagnosis of precancerous disease, tumors, ulcers that do not heal for a long time, is used:",
+    "answers": [
+      {
+        "answer": "histological method of research;",
+        "value": false
+      },
+      {
+        "answer": "cytological method of study;",
+        "value": true
+      },
+      {
+        "answer": "serological studies;",
+        "value": false
+      },
+      {
+        "answer": "bacteriological examination;",
+        "value": false
+      },
+      {
+        "answer": "bio microscopic research;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "For disclosure of  carious cavities such burs is used:",
+    "answers": [
+      {
+        "answer": "Round-shaped  and  fissure’s ones",
+        "value": true
+      },
+      {
+        "answer": "Fissure’s and cone-shaped ones",
+        "value": false
+      },
+      {
+        "answer": "Cone-shaped one",
+        "value": false
+      },
+      {
+        "answer": "Wheel-shaped  and round-shaped ones",
+        "value": false
+      },
+      {
+        "answer": "Fissure bur one",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "It is necessary to carry out endodontic treatment of 34-th tooth in 34 y.o. patient. Among the tools is a spreader. What are these instruments?",
+    "answers": [
+      {
+        "answer": "The instrument with smooth sharpened part, intended for lateral condensation of gutta-percha in the root canal.",
+        "value": true
+      },
+      {
+        "answer": "Tools with working part in the form of a centered conical spiral that resembles the anatomic form of the root canal.",
+        "value": false
+      },
+      {
+        "answer": "The tool that has a small number of turns only at the tip.",
+        "value": false
+      },
+      {
+        "answer": "The tool intended to remove the dental pulp.",
+        "value": false
+      },
+      {
+        "answer": "The instrument what can be used for caries treatment",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient K., 38 years old, complains of dryness and edema of oral mucosa. She took antibiotics because of the treatment of somatic pathology. On the back of the tongue there are white-yellowish plaques that are difficult to remove. What examination is necessary to conduct for clarifing the diagnosis?",
+    "answers": [
+      {
+        "answer": "X- ray",
+        "value": false
+      },
+      {
+        "answer": "Kulazhenko’ test",
+        "value": false
+      },
+      {
+        "answer": "blister test",
+        "value": false
+      },
+      {
+        "answer": "reoparodontographia",
+        "value": false
+      },
+      {
+        "answer": "microbiological investigation.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "The patient A., 66 years old appealed to the dentist with complaints of pain and the presence of ulcers under the tongue. The patient uses removable prostheses (dentures), 3 months ago he noticed a tumor under the tongue. On examination - at the bottom of the oral mucosa is infiltrated ulcer. Regional lymph nodes are not changed. What auxiliary investigation should be conducted?",
+    "answers": [
+      {
+        "answer": "A biopsy of the tumor",
+        "value": true
+      },
+      {
+        "answer": "Clinical analysis of blood",
+        "value": false
+      },
+      {
+        "answer": "X-ray of the mandible",
+        "value": false
+      },
+      {
+        "answer": "Puncture of the tumor",
+        "value": false
+      },
+      {
+        "answer": "Ultrasonography of the neck",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient A., 34 year old, complains of burn of the tongue tip, which increases during meals and dryness of oral mucosa. In the anamnesis -  pneumonia 2 months ago. OBJECTIVE: dryness, hyperemia and edema of the mucous membrane of mouth, on the back of the tongue yellowish caseous layers are revealed. Sharp edges of the cavities of  26, 34,35 and 46 teeth are visible. Hygiene index by Fedorov - Volodkina - 2.6 points. What investigation should be conducted to establish the final diagnosis?",
+    "answers": [
+      {
+        "answer": "Microbial",
+        "value": true
+      },
+      {
+        "answer": "General blood test",
+        "value": false
+      },
+      {
+        "answer": "Blood test for glucose",
+        "value": false
+      },
+      {
+        "answer": "Biomicroscopic",
+        "value": false
+      },
+      {
+        "answer": "Analysis of immunological parameters of mixed saliva",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What additional research is required in detecting of blister diseases of the oral mucosa?",
+    "answers": [
+      {
+        "answer": "Cytological",
+        "value": false
+      },
+      {
+        "answer": "Histological",
+        "value": false
+      },
+      {
+        "answer": "Shyllyer-Pisarev test",
+        "value": false
+      },
+      {
+        "answer": "Bacteriological",
+        "value": false
+      },
+      {
+        "answer": "Nikolskyy sign",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Patient K., 19 y.o., applied with household face trauma. On examination, the fracture of 21st tooth is visible on 1/3 of the crown, probing through fracture is painful, reaction to cold causes intermittent pain, percussion is painless. What research is primarily to hold for the diagnosis and selection of treatment?",
+    "answers": [
+      {
+        "answer": "Electric pulp test",
+        "value": false
+      },
+      {
+        "answer": "X-ray",
+        "value": true
+      },
+      {
+        "answer": "Palpation of the apex of the root projection",
+        "value": false
+      },
+      {
+        "answer": "Metulen- blue coloring",
+        "value": false
+      },
+      {
+        "answer": "Termotest",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient L., 27 years old, complains of sharp pain in the gums, inability to eat, bad smell from the mouth, raising the temperature to 38oC, general weakness. On examination: the patient is pale, with enlarged lymph nodes. Edema, hyperemia of gum papillae, some ulcers are covered  with necrotic plaque. What additional research is necessary to clarify the diagnosis?",
+    "answers": [
+      {
+        "answer": "General blood test",
+        "value": false
+      },
+      {
+        "answer": "urine test",
+        "value": false
+      },
+      {
+        "answer": "Panoramic X-ray",
+        "value": true
+      },
+      {
+        "answer": "allergological tests",
+        "value": false
+      },
+      {
+        "answer": "serological tests",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "ICD-10 has a list of dental diseases and syndromes that occur in the mouth with some systemic diseases. This list is NOT constructed by:",
+    "answers": [
+      {
+        "answer": "clinical and morphological features;",
+        "value": false
+      },
+      {
+        "answer": "pathomorphological signs;",
+        "value": false
+      },
+      {
+        "answer": "character of existing microorganisms;",
+        "value": false
+      },
+      {
+        "answer": "using of alphabet numeration;",
+        "value": true
+      },
+      {
+        "answer": "localization of pathology.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The primary Herpertic stomatitis should be differentiated with:",
+    "answers": [
+      {
+        "answer": "Vincent ulcerative-necrotic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "allergic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "erosive-ulcerative form of lupus erythematosus;",
+        "value": false
+      },
+      {
+        "answer": "multiforme exudative erythema;",
+        "value": false
+      },
+      {
+        "answer": "CRAS",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A burn of oral mucosa caused by alkalines must be neutralized with:",
+    "answers": [
+      {
+        "answer": "antiseptic;",
+        "value": false
+      },
+      {
+        "answer": "0.5% solution of acetic or citric acid (1/4 tea spoon of acid on one cup of water);",
+        "value": true
+      },
+      {
+        "answer": "5% solution of unitiol;",
+        "value": false
+      },
+      {
+        "answer": "antibiotic;",
+        "value": false
+      },
+      {
+        "answer": "sorbents.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mucosal injury caused by acids must be neutralized by:",
+    "answers": [
+      {
+        "answer": "soap water;",
+        "value": false
+      },
+      {
+        "answer": "burnt magnesia;",
+        "value": false
+      },
+      {
+        "answer": "0.1% solution of ammonia (15 drops per 1 cup water)",
+        "value": false
+      },
+      {
+        "answer": "Alkalines solution (ammonia solution, magnesia, soap water)",
+        "value": true
+      },
+      {
+        "answer": "Just water",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Clinical picture of chemical damage the oral mucosa depends on:",
+    "answers": [
+      {
+        "answer": "nature of the chemical;",
+        "value": false
+      },
+      {
+        "answer": "quantity of chemical;",
+        "value": false
+      },
+      {
+        "answer": "concentration;",
+        "value": false
+      },
+      {
+        "answer": "time of action the chemical;",
+        "value": false
+      },
+      {
+        "answer": "Concentration, time of action, amount and nature of causative agent",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Physical injury caused by:",
+    "answers": [
+      {
+        "answer": "action of high temperatures;",
+        "value": false
+      },
+      {
+        "answer": "action low temperatures;",
+        "value": false
+      },
+      {
+        "answer": "action of ionizing radiation",
+        "value": false
+      },
+      {
+        "answer": "electric shock;",
+        "value": false
+      },
+      {
+        "answer": "high or low temperature, current or radiation",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What kind of food should be recommended during treatment of acute mechanical injury of oral mucosa?",
+    "answers": [
+      {
+        "answer": "roughly, unsalted;",
+        "value": false
+      },
+      {
+        "answer": "salty;",
+        "value": false
+      },
+      {
+        "answer": "grained and mild;",
+        "value": true
+      },
+      {
+        "answer": "do not eat any food;",
+        "value": false
+      },
+      {
+        "answer": "spicy food.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The main goal in the treatment of chronic injuries of oral mucosa is:",
+    "answers": [
+      {
+        "answer": "to remove the traumatic agent;",
+        "value": true
+      },
+      {
+        "answer": "treatment of ulcers and mucous with antiseptics;",
+        "value": false
+      },
+      {
+        "answer": "mucous treatment with proteolytic enzymes;",
+        "value": false
+      },
+      {
+        "answer": "wound surface treatment with agents that accelerate epithelization;",
+        "value": false
+      },
+      {
+        "answer": "analgetics using",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kinds of drugs are not recommended in the treatment of chronic mechanical injury?",
+    "answers": [
+      {
+        "answer": "antiseptics;",
+        "value": false
+      },
+      {
+        "answer": "keratoplastics;",
+        "value": false
+      },
+      {
+        "answer": "keratolitycs;",
+        "value": false
+      },
+      {
+        "answer": "antiviral",
+        "value": true
+      },
+      {
+        "answer": "pain killers",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Secondary infected ulcars at acute mechanical trauma treat with:",
+    "answers": [
+      {
+        "answer": "0.5% solution of hydrogen peroxide;",
+        "value": false
+      },
+      {
+        "answer": "1% alcohol solution of chlorophyllipt in a dilution of 1:5 with enzymes;",
+        "value": true
+      },
+      {
+        "answer": "0.05% solution of chlorhexidine;",
+        "value": false
+      },
+      {
+        "answer": "0.01% solution of potassium permanganate;",
+        "value": false
+      },
+      {
+        "answer": "Listerine",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "At the burns of mucous membrane caused by hot water or steam appear:",
+    "answers": [
+      {
+        "answer": "hypertrophic gingivitis;",
+        "value": false
+      },
+      {
+        "answer": "acute catarrhal stomatitis;",
+        "value": true
+      },
+      {
+        "answer": "ulcerative gingivitis;",
+        "value": false
+      },
+      {
+        "answer": "localized paradontitis;",
+        "value": false
+      },
+      {
+        "answer": "atrophic gingivitis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "At acute mechanical trauma on the mucous lesion do not cause:",
+    "answers": [
+      {
+        "answer": "swelling;",
+        "value": false
+      },
+      {
+        "answer": "hyperemia;",
+        "value": false
+      },
+      {
+        "answer": "desquamation;",
+        "value": false
+      },
+      {
+        "answer": "necrosis of the epithelium;",
+        "value": false
+      },
+      {
+        "answer": "fibromatosis.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "The decubital ulcers should not be differentiated with:",
+    "answers": [
+      {
+        "answer": "cancer;",
+        "value": false
+      },
+      {
+        "answer": "trophic ulcer;",
+        "value": false
+      },
+      {
+        "answer": "miliary-ulcerative tuberculosis;",
+        "value": false
+      },
+      {
+        "answer": "primary syphilis;",
+        "value": false
+      },
+      {
+        "answer": "leukoplakia",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A girl, 18 year old, complains about deterioration and appearance of rashes on the lips. From history: the same rashes occurred one year ago in the same place. Objectively: body temperature is 37.1C, on the edge of the red border of the upper lip and the skin are grouped vesicles with a diameter of 1-3 mm with clear contents. Indicate the most likely diagnosis.",
+    "answers": [
+      {
+        "answer": "herpes zoster;",
+        "value": false
+      },
+      {
+        "answer": "acute herpetic stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "stomatitis at measles;",
+        "value": false
+      },
+      {
+        "answer": "stomatitis at chicken pox;",
+        "value": false
+      },
+      {
+        "answer": "chronic recurrent aphthous stomatitis.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "The indicative of herpes simplex virus infection are:",
+    "answers": [
+      {
+        "answer": "multiple painful lesions;",
+        "value": false
+      },
+      {
+        "answer": "vesicles preceding ulcers;",
+        "value": false
+      },
+      {
+        "answer": "perioral, palatal and gingival location;",
+        "value": false
+      },
+      {
+        "answer": "availability the virus culture in the contents of vesicles;",
+        "value": false
+      },
+      {
+        "answer": "all answers are correct.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What conditions and diseases may cause blistering (vesiculobullous lesions) in the mouth?",
+    "answers": [
+      {
+        "answer": "Leukoplakia;",
+        "value": false
+      },
+      {
+        "answer": "Mechanical trauma;",
+        "value": false
+      },
+      {
+        "answer": "lichen planus;",
+        "value": false
+      },
+      {
+        "answer": "erythema multiforme;",
+        "value": false
+      },
+      {
+        "answer": "pemphigus vulgaris",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What kind of the additional methods will be used to confirm the diagnosis of herpetic stomatitis?",
+    "answers": [
+      {
+        "answer": "immunofluorescence;",
+        "value": true
+      },
+      {
+        "answer": "biochemical analysis of blood;",
+        "value": false
+      },
+      {
+        "answer": "functional;",
+        "value": false
+      },
+      {
+        "answer": "electroodontodiagnosis;",
+        "value": false
+      },
+      {
+        "answer": "stomatoskopy.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A very poor level of oral hygiene by Fedorov –Volodkina means:",
+    "answers": [
+      {
+        "answer": "3,5-5,0",
+        "value": true
+      },
+      {
+        "answer": "1,1-1,5",
+        "value": false
+      },
+      {
+        "answer": "1,6-2,0",
+        "value": false
+      },
+      {
+        "answer": "2,1-2,5",
+        "value": false
+      },
+      {
+        "answer": "5.0 - 5.5",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "CPITN index is determined by the probe, which is:",
+    "answers": [
+      {
+        "answer": "Periodontal",
+        "value": true
+      },
+      {
+        "answer": "Dental",
+        "value": false
+      },
+      {
+        "answer": "With thorns",
+        "value": false
+      },
+      {
+        "answer": "It does not require using of tools",
+        "value": false
+      },
+      {
+        "answer": "Spreader",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An objective examination of the patient is:",
+    "answers": [
+      {
+        "answer": "Extra and intraoral examination",
+        "value": true
+      },
+      {
+        "answer": "Life history and history of illness",
+        "value": false
+      },
+      {
+        "answer": "Patient complaints",
+        "value": false
+      },
+      {
+        "answer": "Radiography",
+        "value": false
+      },
+      {
+        "answer": "Intraoral examination",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A good level of oral hygiene by Fedorov – Volodkina is:",
+    "answers": [
+      {
+        "answer": "1.1-1.5",
+        "value": true
+      },
+      {
+        "answer": "1,6-2,0",
+        "value": false
+      },
+      {
+        "answer": "2,1-2,5",
+        "value": false
+      },
+      {
+        "answer": "2,6-3,4",
+        "value": false
+      },
+      {
+        "answer": "More than 3.4",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The depth of periodontal pockets measures by",
+    "answers": [
+      {
+        "answer": "Periodontal probe",
+        "value": true
+      },
+      {
+        "answer": "Dental probe",
+        "value": false
+      },
+      {
+        "answer": "Dental traps",
+        "value": false
+      },
+      {
+        "answer": "Probe with thorns",
+        "value": false
+      },
+      {
+        "answer": "Spatula",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Examination of vestibulum in the oral cavity can be conducted when:",
+    "answers": [
+      {
+        "answer": "Teeth are in contact, lips are open",
+        "value": true
+      },
+      {
+        "answer": "Open mouth",
+        "value": false
+      },
+      {
+        "answer": "Half-open mouth",
+        "value": false
+      },
+      {
+        "answer": "Wide open mouth",
+        "value": false
+      },
+      {
+        "answer": "No difference",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The normal mucous membrane of the gums has the following characteristics:",
+    "answers": [
+      {
+        "answer": "Pale pink color, without visible lesions",
+        "value": true
+      },
+      {
+        "answer": "Dark red, not painful at palpation",
+        "value": false
+      },
+      {
+        "answer": "Slightly bleeding during probing",
+        "value": false
+      },
+      {
+        "answer": "Bluish color, not painful, no bleeding",
+        "value": false
+      },
+      {
+        "answer": "Looks hypertrophy",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of tool does determine degree of teeth mobility?",
+    "answers": [
+      {
+        "answer": "Tweezers",
+        "value": true
+      },
+      {
+        "answer": "Dental probe",
+        "value": false
+      },
+      {
+        "answer": "Dental mirror",
+        "value": false
+      },
+      {
+        "answer": "Parodontometry",
+        "value": false
+      },
+      {
+        "answer": "Electric pulp test",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "When measuring the depth of periodontal pockets we also need to consider:",
+    "answers": [
+      {
+        "answer": "Gum recession",
+        "value": true
+      },
+      {
+        "answer": "Condition of neighboring teeth",
+        "value": false
+      },
+      {
+        "answer": "Condition of dental hard tissues",
+        "value": false
+      },
+      {
+        "answer": "The presence of hypertrophy",
+        "value": false
+      },
+      {
+        "answer": "Oral hugiene index",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The time of hematoma formation in the gum mucosa at gingivitis is:",
+    "answers": [
+      {
+        "answer": "15-25 s",
+        "value": true
+      },
+      {
+        "answer": "5.10 s",
+        "value": false
+      },
+      {
+        "answer": "50-80 s",
+        "value": false
+      },
+      {
+        "answer": "25-30 s",
+        "value": false
+      },
+      {
+        "answer": "10-15 s.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Early radiographic signs of periodontitis are NOT:",
+    "answers": [
+      {
+        "answer": "Periodontal pockets 4-6 mm deep",
+        "value": true
+      },
+      {
+        "answer": "Destruction of cortical layer",
+        "value": false
+      },
+      {
+        "answer": "The appearance of osteoporosis lesions",
+        "value": false
+      },
+      {
+        "answer": "Changing of bone trabeculae",
+        "value": false
+      },
+      {
+        "answer": "Expansion of periodontal fissure",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Dystrophic changes in bone are:",
+    "answers": [
+      {
+        "answer": "Osteoporosis and osteosclerosis",
+        "value": true
+      },
+      {
+        "answer": "Mucoid swelling",
+        "value": false
+      },
+      {
+        "answer": "Hyalinosis and sclerosis",
+        "value": false
+      },
+      {
+        "answer": "Vakuol dystrophy",
+        "value": false
+      },
+      {
+        "answer": "Spongiosis and osteoporosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of morphological changes predominate in parodontosis?",
+    "answers": [
+      {
+        "answer": "Dystrophic",
+        "value": true
+      },
+      {
+        "answer": "Inflammatory and degenerative",
+        "value": false
+      },
+      {
+        "answer": "Inflammatory",
+        "value": false
+      },
+      {
+        "answer": "Degenerative",
+        "value": false
+      },
+      {
+        "answer": "Dystrophic and inflammatory",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is one of the additional methods of examination",
+    "answers": [
+      {
+        "answer": "Radiography, biomicroscopy",
+        "value": true
+      },
+      {
+        "answer": "Definition of bite",
+        "value": false
+      },
+      {
+        "answer": "Depth measurement of vestibulum",
+        "value": false
+      },
+      {
+        "answer": "Definition the degree of mobility",
+        "value": false
+      },
+      {
+        "answer": "Anamnesis taking",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What morphological changes predominate in periodontitis?",
+    "answers": [
+      {
+        "answer": "Inflammatory and dystrophic",
+        "value": true
+      },
+      {
+        "answer": "Inflammatory",
+        "value": false
+      },
+      {
+        "answer": "Dystrophic",
+        "value": false
+      },
+      {
+        "answer": "Dystrophic and degenerative",
+        "value": false
+      },
+      {
+        "answer": "Degeberative",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What morphological changes predominate for gingivitis?",
+    "answers": [
+      {
+        "answer": "Inflammatory",
+        "value": true
+      },
+      {
+        "answer": "Inflammatory and degenerative",
+        "value": false
+      },
+      {
+        "answer": "Dystrophic",
+        "value": false
+      },
+      {
+        "answer": "Degenerative",
+        "value": false
+      },
+      {
+        "answer": "Dystrophic and degenerative",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What drugs are used to stimulate the formation of epithelium in gingivitis?",
+    "answers": [
+      {
+        "answer": "Keratoplastic",
+        "value": true
+      },
+      {
+        "answer": "Nonsteroidal anti-inflammatory",
+        "value": false
+      },
+      {
+        "answer": "Antiseptics",
+        "value": false
+      },
+      {
+        "answer": "Immunomodulators",
+        "value": false
+      },
+      {
+        "answer": "Proteolytic enzymes",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Sclerotherapy is carried out in case of:",
+    "answers": [
+      {
+        "answer": "Hypertrophic gingivitis",
+        "value": true
+      },
+      {
+        "answer": "Acute catarrhal gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Ulcer-necrotizing gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Desquamate gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Atrophic gingivitis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following surgical procedures can NOT be carried out in the treatment of hypertrophic gingivitis?",
+    "answers": [
+      {
+        "answer": "Root planning",
+        "value": true
+      },
+      {
+        "answer": "Cryosurgery",
+        "value": false
+      },
+      {
+        "answer": "Diathermocoagulation",
+        "value": false
+      },
+      {
+        "answer": "Gingivektomy",
+        "value": false
+      },
+      {
+        "answer": "Gingivotomy",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The main etiological factor in the occurrence of gingivitis:",
+    "answers": [
+      {
+        "answer": "Microbial plaque",
+        "value": true
+      },
+      {
+        "answer": "Pathological changes in vessel walls",
+        "value": false
+      },
+      {
+        "answer": "Crowding of teeth",
+        "value": false
+      },
+      {
+        "answer": "Hereditary factor",
+        "value": false
+      },
+      {
+        "answer": "Occlusion",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following clinical signs are NOT typical for ulcerative-necrotic gingivitis?",
+    "answers": [
+      {
+        "answer": "Dystrophy of gums",
+        "value": true
+      },
+      {
+        "answer": "Swelling and redness of the mucous membrane",
+        "value": false
+      },
+      {
+        "answer": "Dirty, gray fibrin plaque on the gums",
+        "value": false
+      },
+      {
+        "answer": "Necrosis of interdental papillae",
+        "value": false
+      },
+      {
+        "answer": "Bad smell from the mouth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Chronic hypertrophic gingivitis, edematous form, has the following characteristics:",
+    "answers": [
+      {
+        "answer": "Cortical plate and bone of interdental septum are not changed",
+        "value": true
+      },
+      {
+        "answer": "Cortical plate interdental septum is preserved, bone loss at 1/3 the length of the root",
+        "value": false
+      },
+      {
+        "answer": "Cortical plate interdental septum destroyed bone loss at ? the length of the root",
+        "value": false
+      },
+      {
+        "answer": "Gums are cyanotic, covered with necrotic plaque",
+        "value": false
+      },
+      {
+        "answer": "Cortical plate and bone are not changed, gums are atrophyed",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During which of the following conditions the generalized hypertrophic gingivitis can NOT be observed as a symptom?",
+    "answers": [
+      {
+        "answer": "Parodontosis",
+        "value": true
+      },
+      {
+        "answer": "Endocrine pathology",
+        "value": false
+      },
+      {
+        "answer": "Pregnancy",
+        "value": false
+      },
+      {
+        "answer": "Taking of medication diphenyl",
+        "value": false
+      },
+      {
+        "answer": "Puberty",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Gingivitis is predominant in people:",
+    "answers": [
+      {
+        "answer": "Young",
+        "value": true
+      },
+      {
+        "answer": "Adulthood",
+        "value": false
+      },
+      {
+        "answer": "Elderly",
+        "value": false
+      },
+      {
+        "answer": "Do not depend on age.",
+        "value": false
+      },
+      {
+        "answer": "Middle age",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Acute catarrhal gingivitis develops mainly in",
+    "answers": [
+      {
+        "answer": "Children, as a result of infectious diseases",
+        "value": true
+      },
+      {
+        "answer": "Adults, due to irrational orthodontic devices",
+        "value": false
+      },
+      {
+        "answer": "Adults, due to improperly attached frenulum",
+        "value": false
+      },
+      {
+        "answer": "Adults, due to atypically located teeth",
+        "value": false
+      },
+      {
+        "answer": "Old people as a symptom of diabetes",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Gingivotomy can be carried out incase of:",
+    "answers": [
+      {
+        "answer": "Hypertrophic gingivitis",
+        "value": true
+      },
+      {
+        "answer": "Acute catarrhal gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic catarrhal gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Ulcer-necrotizing gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Acute atrophic gingivitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In chronic catarrhal gingivitis circular ligament of the tooth is:",
+    "answers": [
+      {
+        "answer": "Not destroyed",
+        "value": true
+      },
+      {
+        "answer": "Destroyed in vestibular side of the tooth",
+        "value": false
+      },
+      {
+        "answer": "Destroyed in the interdental space",
+        "value": false
+      },
+      {
+        "answer": "Missing.",
+        "value": false
+      },
+      {
+        "answer": "Partly destroyed",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Chronic catarrhal gingivitis and its exacerbation develops mainly in",
+    "answers": [
+      {
+        "answer": "Children and adults with big amount of soft dental plaque",
+        "value": true
+      },
+      {
+        "answer": "Adults, due to irrational orthodontic devices",
+        "value": false
+      },
+      {
+        "answer": "Adults, due to improperly attached frenulum",
+        "value": false
+      },
+      {
+        "answer": "Adults, due to atypically located teeth",
+        "value": false
+      },
+      {
+        "answer": "Adults, due to substandard fillings on the contact surfaces",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is gingivitis?",
+    "answers": [
+      {
+        "answer": "Inflammatory disease",
+        "value": true
+      },
+      {
+        "answer": "Inflammatory-dystrophic disease",
+        "value": false
+      },
+      {
+        "answer": "Dystrophic disease",
+        "value": false
+      },
+      {
+        "answer": "Tumor",
+        "value": false
+      },
+      {
+        "answer": "Dystrophic disease",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Early clinical signs of inflammation in the gums are:",
+    "answers": [
+      {
+        "answer": "Deformation of gingival papillaes",
+        "value": true
+      },
+      {
+        "answer": "Cyanosis gums",
+        "value": false
+      },
+      {
+        "answer": "Gingival pockets up to 3 mm",
+        "value": false
+      },
+      {
+        "answer": "Bleeding in probing",
+        "value": false
+      },
+      {
+        "answer": "Soft gums",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "On radiographs, in course of hypertrophic gingivitis resorption of interalveolar septum will be:",
+    "answers": [
+      {
+        "answer": "Absent",
+        "value": true
+      },
+      {
+        "answer": "At ?",
+        "value": false
+      },
+      {
+        "answer": "In 1/3",
+        "value": false
+      },
+      {
+        "answer": "At ?",
+        "value": false
+      },
+      {
+        "answer": "In 2/3",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "False pocket (gingival pocket-develops during gingivitis, as a result of gums inflammation and enlargement) located within:",
+    "answers": [
+      {
+        "answer": "Gums",
+        "value": true
+      },
+      {
+        "answer": "Gums and periodont",
+        "value": false
+      },
+      {
+        "answer": "Gums, periodont and bone alveolus",
+        "value": false
+      },
+      {
+        "answer": "Periodontal bone and alveoli",
+        "value": false
+      },
+      {
+        "answer": "Periodontal ligament",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Acute gingivitis is accompanied by:",
+    "answers": [
+      {
+        "answer": "No changes of bone",
+        "value": true
+      },
+      {
+        "answer": "Resorption of interdental septum tops",
+        "value": false
+      },
+      {
+        "answer": "Average focal osteoporosis",
+        "value": false
+      },
+      {
+        "answer": "Osteolizys.",
+        "value": false
+      },
+      {
+        "answer": "Osteosclerosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In acute catarrhal gingivitis patients will NOT complains of:",
+    "answers": [
+      {
+        "answer": "Gums burnibg",
+        "value": true
+      },
+      {
+        "answer": "Gums swelling",
+        "value": false
+      },
+      {
+        "answer": "Pain",
+        "value": false
+      },
+      {
+        "answer": "Violation of chewing",
+        "value": false
+      },
+      {
+        "answer": "Bleeding",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Etiotropic therapy is:",
+    "answers": [
+      {
+        "answer": "Medicamentous influence on pathophysiological links of inflammation",
+        "value": true
+      },
+      {
+        "answer": "Identifying and eliminating local exogenous factors",
+        "value": false
+      },
+      {
+        "answer": "Elimination of some symptoms of periodontal disease",
+        "value": false
+      },
+      {
+        "answer": "Influence to main reasons of disease",
+        "value": false
+      },
+      {
+        "answer": "Therapy with using some phisycal methods of treatment",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Ulcero-necrotizing gingivitis is caused by:",
+    "answers": [
+      {
+        "answer": "Spirochetes and fuzobakteries",
+        "value": true
+      },
+      {
+        "answer": "Staphilococcus and spirochetes",
+        "value": false
+      },
+      {
+        "answer": "Fuzobakteries and Lactobacillus",
+        "value": false
+      },
+      {
+        "answer": "Spirochetes and Lactobacillus",
+        "value": false
+      },
+      {
+        "answer": "Lactobacillus and Staphylococcus",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Presence of false pocket (gingival pocket) is typical for:",
+    "answers": [
+      {
+        "answer": "Hypertrophic gingivitis",
+        "value": true
+      },
+      {
+        "answer": "Periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Periodontal Disease",
+        "value": false
+      },
+      {
+        "answer": "Epulis",
+        "value": false
+      },
+      {
+        "answer": "Syndrome of Papiyon-Leffler",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Ulcerative-necrotizing gingivitis the most often occurs in patients with:",
+    "answers": [
+      {
+        "answer": "infection",
+        "value": true
+      },
+      {
+        "answer": "Syphilis",
+        "value": false
+      },
+      {
+        "answer": "Diabetes",
+        "value": false
+      },
+      {
+        "answer": "Gastric ulcer",
+        "value": false
+      },
+      {
+        "answer": "Pyelonephritis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In the initial stages of chronic catarrhal gingivitis bleeding appears:",
+    "answers": [
+      {
+        "answer": "During the mechanical action",
+        "value": true
+      },
+      {
+        "answer": "Spontaneously",
+        "value": false
+      },
+      {
+        "answer": "During eating",
+        "value": false
+      },
+      {
+        "answer": "With a slight touch",
+        "value": false
+      },
+      {
+        "answer": "During brushing",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of following gingivitis has pronounced breath with sweet taste?",
+    "answers": [
+      {
+        "answer": "Ulcerative-necrotic",
+        "value": true
+      },
+      {
+        "answer": "Hypertrophic fibrous form",
+        "value": false
+      },
+      {
+        "answer": "Hypertrophic, edematous shape",
+        "value": false
+      },
+      {
+        "answer": "Catarrhal",
+        "value": false
+      },
+      {
+        "answer": "Desquamative",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following drugs is used as keratoplastics?",
+    "answers": [
+      {
+        "answer": "Sea buckthorn oil",
+        "value": true
+      },
+      {
+        "answer": "Furacillini",
+        "value": false
+      },
+      {
+        "answer": "Furadonin",
+        "value": false
+      },
+      {
+        "answer": "Peroxide",
+        "value": false
+      },
+      {
+        "answer": "Vagotil",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Sclerotherapy is used in treatment of:",
+    "answers": [
+      {
+        "answer": "Hypertrophic gingivitis",
+        "value": true
+      },
+      {
+        "answer": "Acute catarrhal gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Ulcer-necrotizing gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Desquamative gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Atrophic gingivitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During examination the patient with chronic hypertrophic gingivitis a gingival pockets was detected. How does a circular ligament looks like in this case?",
+    "answers": [
+      {
+        "answer": "Not destroyed",
+        "value": true
+      },
+      {
+        "answer": "Destroyed with vestibular side of the tooth",
+        "value": false
+      },
+      {
+        "answer": "Destroyed in the interdental space",
+        "value": false
+      },
+      {
+        "answer": "Absent.",
+        "value": false
+      },
+      {
+        "answer": "Partly destroyed",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The formation of gingival pockets in hypertrophic gingivitis occurs by",
+    "answers": [
+      {
+        "answer": "By hypertrophy of the gum",
+        "value": true
+      },
+      {
+        "answer": "Due to the absence of circular ligament",
+        "value": false
+      },
+      {
+        "answer": "Due to the destruction of a circular ligament with vestibular side of the tooth",
+        "value": false
+      },
+      {
+        "answer": "Due to the destruction of the circular connections in interdental spaces",
+        "value": false
+      },
+      {
+        "answer": "By the falce gum papilla",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In what form of papillitis the top of gum papilla is with cyanotic tingle and has ulceration on its surface:",
+    "answers": [
+      {
+        "answer": "Acute ulcerative papillitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic ulcerative papillitis;",
+        "value": false
+      },
+      {
+        "answer": "Chronic catarrhal papillitis;",
+        "value": false
+      },
+      {
+        "answer": "Chronic hypertrophic papillitis",
+        "value": false
+      },
+      {
+        "answer": "Acute catarrhal papillitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Gingival papilla increased to 1/3 the height of the tooth crown. What degree of hypertrophic papillitis can be in this case?",
+    "answers": [
+      {
+        "answer": "I degree",
+        "value": true
+      },
+      {
+        "answer": "II",
+        "value": false
+      },
+      {
+        "answer": "II and III.",
+        "value": false
+      },
+      {
+        "answer": "III",
+        "value": false
+      },
+      {
+        "answer": "IV",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Gingival papilla increased to 1/2 the height of the tooth crown. What degree of hypertrophic papillitis can be in this case?",
+    "answers": [
+      {
+        "answer": "II",
+        "value": true
+      },
+      {
+        "answer": "III.",
+        "value": false
+      },
+      {
+        "answer": "II and III",
+        "value": false
+      },
+      {
+        "answer": "II and I degree",
+        "value": false
+      },
+      {
+        "answer": "I",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Gingival papilla increased to 2/3 the height of the tooth crown. What degree of hypertrophic papillitis can be in this case?",
+    "answers": [
+      {
+        "answer": "III",
+        "value": true
+      },
+      {
+        "answer": "I",
+        "value": false
+      },
+      {
+        "answer": "Second degree",
+        "value": false
+      },
+      {
+        "answer": "II and III",
+        "value": false
+      },
+      {
+        "answer": "IV.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Catarrhal papillitis mostly can be differentiated with following diseases:",
+    "answers": [
+      {
+        "answer": "Catarrhal gingivitis",
+        "value": true
+      },
+      {
+        "answer": "Localized periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Periodontal disease",
+        "value": false
+      },
+      {
+        "answer": "Catarrhal stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Hypertrophic papillitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Hypertrophic papillitis need to be differentiated with:",
+    "answers": [
+      {
+        "answer": "Hypertrophic gingivitis, hypertrophic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Hypertrophic pulpitis, epulis",
+        "value": false
+      },
+      {
+        "answer": "Hypertrophic gingivitis, epulis",
+        "value": false
+      },
+      {
+        "answer": "Localized periodontitis, periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Catarrhal papillitis, catarrhal gingivitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Papillitis is limited inflammation of:",
+    "answers": [
+      {
+        "answer": "-3 interdental papillaes",
+        "value": true
+      },
+      {
+        "answer": "1-2 interdental papillaes",
+        "value": false
+      },
+      {
+        "answer": "2-4 interdental papillaes",
+        "value": false
+      },
+      {
+        "answer": "5 interdental",
+        "value": false
+      },
+      {
+        "answer": "1 interdental papillae",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which groups of drugs are used at the initial stage of treatment of ulcerative papillitis?",
+    "answers": [
+      {
+        "answer": "Enzymes",
+        "value": true
+      },
+      {
+        "answer": "Anesthetic",
+        "value": false
+      },
+      {
+        "answer": "Sulfonamide",
+        "value": false
+      },
+      {
+        "answer": "Keratoplastics",
+        "value": false
+      },
+      {
+        "answer": "Antibiotics",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Determination of traumatic occlusion is carried out by using of:",
+    "answers": [
+      {
+        "answer": "Wax plates",
+        "value": true
+      },
+      {
+        "answer": "Iodine solution",
+        "value": false
+      },
+      {
+        "answer": "Fucsin",
+        "value": false
+      },
+      {
+        "answer": "Electro-odonto diagnosis",
+        "value": false
+      },
+      {
+        "answer": "Ehoosteometria",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Removing of subgingival dental calculus can be done:",
+    "answers": [
+      {
+        "answer": "During root planning of periodontal pockets",
+        "value": true
+      },
+      {
+        "answer": "Before periodontal pockets curettage",
+        "value": false
+      },
+      {
+        "answer": "After the pockets curettage",
+        "value": false
+      },
+      {
+        "answer": "A week before curettage",
+        "value": false
+      },
+      {
+        "answer": "A week after root planning",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Curettage (root planning) procedure is not recommended more than:",
+    "answers": [
+      {
+        "answer": "2 times a year",
+        "value": true
+      },
+      {
+        "answer": "4 times per year",
+        "value": false
+      },
+      {
+        "answer": "5 times per year",
+        "value": false
+      },
+      {
+        "answer": "3 times a year",
+        "value": false
+      },
+      {
+        "answer": "1 every year",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The purpose of periodontal flap operations:",
+    "answers": [
+      {
+        "answer": "Elimination of periodontal pockets and correction of defects in alveolar bone",
+        "value": true
+      },
+      {
+        "answer": "Eliminate inflammation and inhibition of degeneration of periodontal tissue",
+        "value": false
+      },
+      {
+        "answer": "Eliminate bone pockets and stimulation of trophic disorders",
+        "value": false
+      },
+      {
+        "answer": "Stimulation of periodontal ligament groving",
+        "value": false
+      },
+      {
+        "answer": "Just indications of estheetics",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Temporary splinting is produced for:",
+    "answers": [
+      {
+        "answer": "Immobilization of mobile teeth during therapeutic and surgical treatment",
+        "value": true
+      },
+      {
+        "answer": "Stabilization of mobile teeth before the permanent prosthesis",
+        "value": false
+      },
+      {
+        "answer": "Creating conditions for gingival fixing by bandages for highly mobile and lonely standing teeth",
+        "value": false
+      },
+      {
+        "answer": "Destabilization of moving teeth before surgery.",
+        "value": false
+      },
+      {
+        "answer": "Orthodontic treatment",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Interval between curettage of different teeth groups is",
+    "answers": [
+      {
+        "answer": "2-3 days",
+        "value": true
+      },
+      {
+        "answer": "1-2 days",
+        "value": false
+      },
+      {
+        "answer": "3-4 days",
+        "value": false
+      },
+      {
+        "answer": "5-6 days",
+        "value": false
+      },
+      {
+        "answer": "10 days",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The purpose of periodontal surgery:",
+    "answers": [
+      {
+        "answer": "Elimination of periodontal pockets and creating conditions for the stabilization process in the periodontal tissues",
+        "value": true
+      },
+      {
+        "answer": "Anti-inflammatory and desensitizing effect",
+        "value": false
+      },
+      {
+        "answer": "Removing lesions and intoxication",
+        "value": false
+      },
+      {
+        "answer": "Creating the conditions for the regeneration of alveolar bone",
+        "value": false
+      },
+      {
+        "answer": "Just to improve the esthetics",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Sulfanilamide drugs are prescribed for:",
+    "answers": [
+      {
+        "answer": "Exacerbative periodontitis, which is accompanied by fever and symptoms of intoxication",
+        "value": true
+      },
+      {
+        "answer": "Mild periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Localized periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Periodontitis of medium severity",
+        "value": false
+      },
+      {
+        "answer": "Remission stage",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The purposes of local treatment of periodontitis are:",
+    "answers": [
+      {
+        "answer": "Eliminating the irritant factors, removing inflammation, normalizing blood circulation in the periodontal tissues",
+        "value": true
+      },
+      {
+        "answer": "Normalization of the microflora of the digestive system",
+        "value": false
+      },
+      {
+        "answer": "Stimulation of the functional activity of the salivary glands",
+        "value": false
+      },
+      {
+        "answer": "Treatment of physical and odontogenic infection",
+        "value": false
+      },
+      {
+        "answer": "Minimization of risks of exacerbation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Orthodontic treatment of periodontal disease is conducted to solving specific problems:",
+    "answers": [
+      {
+        "answer": "Elimination of traumatic occlusion",
+        "value": true
+      },
+      {
+        "answer": "Removal of abnormal mobility",
+        "value": false
+      },
+      {
+        "answer": "Prevent displacement of teeth",
+        "value": false
+      },
+      {
+        "answer": "Combining into a single unit all the teeth",
+        "value": false
+      },
+      {
+        "answer": "Enlargement of bone level",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The presence of periodontal pockets is defined by:",
+    "answers": [
+      {
+        "answer": "Formalin test",
+        "value": true
+      },
+      {
+        "answer": "Benzydine test",
+        "value": false
+      },
+      {
+        "answer": "Kulazhenko test",
+        "value": false
+      },
+      {
+        "answer": "Rotherr test",
+        "value": false
+      },
+      {
+        "answer": "Method by Nikiforov",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Combination of qualitative and quantitative study of blood cells is called:",
+    "answers": [
+      {
+        "answer": "Hemogram",
+        "value": true
+      },
+      {
+        "answer": "Monotsytogram",
+        "value": false
+      },
+      {
+        "answer": "Immunograms",
+        "value": false
+      },
+      {
+        "answer": "Leykogram",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Presence of enzymes and vitamins in toothpastes provides:",
+    "answers": [
+      {
+        "answer": "Anti-inflammatory treatment and preventive antiplaque action",
+        "value": true
+      },
+      {
+        "answer": "Anti-caries treatment and preventive action.",
+        "value": false
+      },
+      {
+        "answer": "Therapeutic effect",
+        "value": false
+      },
+      {
+        "answer": "Hygienic effect",
+        "value": false
+      },
+      {
+        "answer": "Antistaining efect",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which toothpaste is recommended for use in case of periodontal diseases:",
+    "answers": [
+      {
+        "answer": "with antiseptics (chlorhexidine);",
+        "value": true
+      },
+      {
+        "answer": "Hygienic;",
+        "value": false
+      },
+      {
+        "answer": "Anti-caries care.",
+        "value": false
+      },
+      {
+        "answer": "Therapeutic",
+        "value": false
+      },
+      {
+        "answer": "With high level of fluorine",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During patient examination the pathology of the periodontal tissues was revealed. What toothpaste can be recommended in this case?",
+    "answers": [
+      {
+        "answer": "With antiseptic solutions and herbs;",
+        "value": true
+      },
+      {
+        "answer": "With high level of fluorine.",
+        "value": false
+      },
+      {
+        "answer": "With low level of fluorine",
+        "value": false
+      },
+      {
+        "answer": "With calcium and herbs",
+        "value": false
+      },
+      {
+        "answer": "With zink",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Action against carious lesions in toothpastes is created by:",
+    "answers": [
+      {
+        "answer": "Sodium Fluoride",
+        "value": true
+      },
+      {
+        "answer": "Mono sodium phosphate fluoride",
+        "value": false
+      },
+      {
+        "answer": "Bisodium carbonate",
+        "value": false
+      },
+      {
+        "answer": "Amino fluoride",
+        "value": false
+      },
+      {
+        "answer": "Silicon dioxide",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "To reduce gum bleeding patients should use toothpaste that contains",
+    "answers": [
+      {
+        "answer": "Extracts of medicinal plants",
+        "value": true
+      },
+      {
+        "answer": "Sodium fluoride",
+        "value": false
+      },
+      {
+        "answer": "Calcium carbonate",
+        "value": false
+      },
+      {
+        "answer": "Carbo amide.",
+        "value": false
+      },
+      {
+        "answer": "Antibiotics",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Fluoride toothpaste is recommended for children from",
+    "answers": [
+      {
+        "answer": "3 - 4 years",
+        "value": true
+      },
+      {
+        "answer": "1.5 - 2 years",
+        "value": false
+      },
+      {
+        "answer": "5-6 years",
+        "value": false
+      },
+      {
+        "answer": "10-12 years",
+        "value": false
+      },
+      {
+        "answer": "15",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The main causative factor of gingivitis is:",
+    "answers": [
+      {
+        "answer": "Microbial plaque",
+        "value": true
+      },
+      {
+        "answer": "Pathological changes in vessels walls",
+        "value": false
+      },
+      {
+        "answer": "Crowding of teeth",
+        "value": false
+      },
+      {
+        "answer": "Hereditary factor",
+        "value": false
+      },
+      {
+        "answer": "Smoking",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A swelling form of hypertrophic gingivitis morphologically shows:",
+    "answers": [
+      {
+        "answer": "Vasodilatation, edema of the connective tissue elements.",
+        "value": true
+      },
+      {
+        "answer": "Fibroblast proliferation, parakeratosis phenomen",
+        "value": false
+      },
+      {
+        "answer": "Lymphocytic infiltration, coarsening of collagen fibers",
+        "value": false
+      },
+      {
+        "answer": "Vasoconstriction, acanthosis",
+        "value": false
+      },
+      {
+        "answer": "Vacuol dystrophy in gum epithelium",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient was diagnosed with the chronic catarrhal gingivitis. What is happened with the circular ligament of the tooth:",
+    "answers": [
+      {
+        "answer": "Not destroyed.",
+        "value": true
+      },
+      {
+        "answer": "Destroyed in vestibular side of the tooth",
+        "value": false
+      },
+      {
+        "answer": "Destroyed in the interdental space",
+        "value": false
+      },
+      {
+        "answer": "Missing",
+        "value": false
+      },
+      {
+        "answer": "Partly destroyed",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Gingivitis is:",
+    "answers": [
+      {
+        "answer": "Inflammatory disease.",
+        "value": true
+      },
+      {
+        "answer": "Inflammatory-dystrophic disease",
+        "value": false
+      },
+      {
+        "answer": "Dystrophic disease",
+        "value": false
+      },
+      {
+        "answer": "Tumor",
+        "value": false
+      },
+      {
+        "answer": "Idiopatic disease",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "?Please, name the electro irritability limit of the pulp with necrosis of crown or root pulp::",
+    "answers": [
+      {
+        "answer": "20-30 mcA;",
+        "value": false
+      },
+      {
+        "answer": "40-80 mcA;",
+        "value": true
+      },
+      {
+        "answer": "30-60 mcA;",
+        "value": false
+      },
+      {
+        "answer": "70-80 mcA;",
+        "value": false
+      },
+      {
+        "answer": "more then 100 mcA.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 30 years patient complains of jam food among 46 and 47 teeth, which had appear two weeks ago.  Objectively: 46 and 47 are intact, percussion is painless. Under the turgid and hyperaemied gingival papilla there is small amount of fibrous food debris. What kind of research you shoud make for caries cavity detection?",
+    "answers": [
+      {
+        "answer": "X-ray.",
+        "value": true
+      },
+      {
+        "answer": "Vital staining.",
+        "value": false
+      },
+      {
+        "answer": "Luminous diagnosis.",
+        "value": false
+      },
+      {
+        "answer": "Trans luminous diagnosis",
+        "value": false
+      },
+      {
+        "answer": "Electroondometrics.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 30 years women complains of acute unwarranted temperature vulnerable pain. It lasts 3-10 min, with 2 hour breaks. Attacks become stronger at the night. Objectively: there is a deep caries cavity in 25th with large amount of softened dentin. Probbing is painful in one place. Percusiion is painless. Set the diagnosis.",
+    "answers": [
+      {
+        "answer": "Acute limited pulpitis.",
+        "value": true
+      },
+      {
+        "answer": "Pulp hyperaemia.",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis.",
+        "value": false
+      },
+      {
+        "answer": "Traumatic pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Pulp infectious inflammation is  most often cause by:",
+    "answers": [
+      {
+        "answer": "actinomycete.",
+        "value": false
+      },
+      {
+        "answer": "diplococci;",
+        "value": false
+      },
+      {
+        "answer": "lactobacillas;",
+        "value": false
+      },
+      {
+        "answer": "homolisis and nonhomolisis streptococcus;",
+        "value": false
+      },
+      {
+        "answer": "staphylococcus.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Gofung pulp classification (1927) single out those forms od pulpitis::",
+    "answers": [
+      {
+        "answer": "acute and chronic;",
+        "value": true
+      },
+      {
+        "answer": "acute, chronic and exacerbation of chronic;",
+        "value": false
+      },
+      {
+        "answer": "vascular disorders",
+        "value": false
+      },
+      {
+        "answer": "acute, chronic and after-restruction case",
+        "value": false
+      },
+      {
+        "answer": "toxic",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Objectively: there is a deep caries cavity on distal chewing surface of 17th. This cavity doesn't connects with tooth cavity. Percussion is light painful. EOD – 30 mcA. What is the diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent pulpitis..",
+        "value": false
+      },
+      {
+        "answer": "Acute serous periodontitis .",
+        "value": false
+      },
+      {
+        "answer": "Acute limited pulpitis.",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Objectively: there is a carious cavity on chewing surface of 46th within mantle dentin. The cavity is full of food debris, bottom and wall are full of pigmented dentin. Probing of bottom and wall is painless, temperature test - painless, EOD=4mkA. Make the diagnosis",
+    "answers": [
+      {
+        "answer": "Chronic medium caries",
+        "value": true
+      },
+      {
+        "answer": "Acute medium caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      },
+      {
+        "answer": "Acute initial caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic fibrotic pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How tooth reacts on cold stimulus with acute purulent pulpitis:",
+    "answers": [
+      {
+        "answer": "no reaction;",
+        "value": false
+      },
+      {
+        "answer": "pain increase;",
+        "value": false
+      },
+      {
+        "answer": "pain decrease;",
+        "value": true
+      },
+      {
+        "answer": "pain decrease for two hours;",
+        "value": false
+      },
+      {
+        "answer": "pain ends after stimulus effects.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How tooth reacts on percussion with acute limited pulpitis:",
+    "answers": [
+      {
+        "answer": "painful percussion;",
+        "value": false
+      },
+      {
+        "answer": "painful vertical percussion;.",
+        "value": false
+      },
+      {
+        "answer": "painless percussion;",
+        "value": false
+      },
+      {
+        "answer": "acute painful percussion;",
+        "value": false
+      },
+      {
+        "answer": "painful horizontal percussion.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "How tooth reacts on cold stimulus with pulp hyperemia:",
+    "answers": [
+      {
+        "answer": "no reaction;",
+        "value": false
+      },
+      {
+        "answer": "causes aching for 1-2 minutes;",
+        "value": true
+      },
+      {
+        "answer": "causes pain attack up to 30 minutes;",
+        "value": false
+      },
+      {
+        "answer": "causes pain attack up to 60 minutes;",
+        "value": false
+      },
+      {
+        "answer": "causes pain attack up to several hours;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What instruments do you need to remove pulp with acute diffuse pulpitis?:",
+    "answers": [
+      {
+        "answer": "root canal reamer;",
+        "value": false
+      },
+      {
+        "answer": "rasp;",
+        "value": false
+      },
+      {
+        "answer": "pulp extractor;",
+        "value": true
+      },
+      {
+        "answer": "root needle;",
+        "value": false
+      },
+      {
+        "answer": "reamer.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What pain is typical for pulp hyperemia:",
+    "answers": [
+      {
+        "answer": "permanent aching;",
+        "value": false
+      },
+      {
+        "answer": "pain during biting;",
+        "value": false
+      },
+      {
+        "answer": "pain caused by chemicals;",
+        "value": false
+      },
+      {
+        "answer": "pain caused by atmospheric pressure changes",
+        "value": false
+      },
+      {
+        "answer": "spontaneous 'lightning-like' pain.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "During deep caries defect is localized at:",
+    "answers": [
+      {
+        "answer": "enamel",
+        "value": false
+      },
+      {
+        "answer": "peripheraldentin.",
+        "value": false
+      },
+      {
+        "answer": "deep layers of dentin",
+        "value": true
+      },
+      {
+        "answer": "tooth cavity.",
+        "value": false
+      },
+      {
+        "answer": "pulp chamber",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What changes on x-ray reveal with acute general pulpitis:",
+    "answers": [
+      {
+        "answer": "periodontal fissure expansion;",
+        "value": false
+      },
+      {
+        "answer": "expansion of bone tissue in with clear outline;",
+        "value": false
+      },
+      {
+        "answer": "expansion of bone tissue in with fuzzy outline,",
+        "value": false
+      },
+      {
+        "answer": "no changes;",
+        "value": true
+      },
+      {
+        "answer": "hypermineralization of of bone tissue",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What changes on x-ray reveal with acute purulent pulpitis:",
+    "answers": [
+      {
+        "answer": "periodontal fissure expansion;",
+        "value": false
+      },
+      {
+        "answer": "expansion of bone tissue in with clear outline;",
+        "value": false
+      },
+      {
+        "answer": "expansion of bone tissue in with fuzzy outline,",
+        "value": false
+      },
+      {
+        "answer": "no changes;",
+        "value": true
+      },
+      {
+        "answer": "hypermineralization of of bone tissue",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What changes on x-ray reveal with acute limited pulpitis:",
+    "answers": [
+      {
+        "answer": "A.",
+        "value": false
+      },
+      {
+        "answer": "20-30 mcA;",
+        "value": false
+      },
+      {
+        "answer": "40-80 mcA;",
+        "value": true
+      },
+      {
+        "answer": "30-60 mcA;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What pain is typical for acute diffuse pulpitis:",
+    "answers": [
+      {
+        "answer": "nighttime aching;",
+        "value": false
+      },
+      {
+        "answer": "spontaneous pain, which lasts up to 30 minutes with short intermissions;",
+        "value": true
+      },
+      {
+        "answer": "spontaneous pain, which lasts for several hours with short intermissions;",
+        "value": false
+      },
+      {
+        "answer": "nighttime aching, more painful when biting;",
+        "value": false
+      },
+      {
+        "answer": "permanent, crescent pain, more painful by heat.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What pain is typical for acute purulent pulpitis:",
+    "answers": [
+      {
+        "answer": "spontaneous, colicky, nighttime pain with long-term intermissions;",
+        "value": false
+      },
+      {
+        "answer": "spontaneous, colicky, throbbing, mounting pain, decreased with cold;",
+        "value": true
+      },
+      {
+        "answer": "spontaneous, colicky, spreading pain with short-term intermissions, increased with heat;",
+        "value": false
+      },
+      {
+        "answer": "spontaneous болi, increased while biting and nighttime",
+        "value": false
+      },
+      {
+        "answer": "spontaneous, throbbing pain, increased with sour and sweet foods.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the arsenic paste ation?:",
+    "answers": [
+      {
+        "answer": "mummify;",
+        "value": false
+      },
+      {
+        "answer": "Anesthesia;",
+        "value": false
+      },
+      {
+        "answer": "antimicrobic ;",
+        "value": false
+      },
+      {
+        "answer": "necrotizing;",
+        "value": true
+      },
+      {
+        "answer": "anti-inflammatory.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A preventive examination of 39 years old female revealed a carious cavity at the natural fossa of 32th. The cavity is in area в межах cimcurpulpar dentin and full of tight pigmented dentin. Probbing and percussion are painless. No reaction to temperature stimuli, EOD - 6 mkA. Diagnosis?:",
+    "answers": [
+      {
+        "answer": "chronic fibroid pulpitis",
+        "value": false
+      },
+      {
+        "answer": "chronic medium caries",
+        "value": false
+      },
+      {
+        "answer": "chronic deep caries",
+        "value": true
+      },
+      {
+        "answer": "chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What EOD index is inherent with pulp hyperemia:",
+    "answers": [
+      {
+        "answer": "8-12",
+        "value": true
+      },
+      {
+        "answer": "12-15",
+        "value": false
+      },
+      {
+        "answer": "6-9",
+        "value": false
+      },
+      {
+        "answer": "2-3",
+        "value": false
+      },
+      {
+        "answer": "15-25",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How many layers are in pulp?",
+    "answers": [
+      {
+        "answer": "2",
+        "value": false
+      },
+      {
+        "answer": "3",
+        "value": true
+      },
+      {
+        "answer": "4",
+        "value": false
+      },
+      {
+        "answer": "5",
+        "value": false
+      },
+      {
+        "answer": "8",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What type belongs to acute form of pulpitis:",
+    "answers": [
+      {
+        "answer": "diffuse",
+        "value": false
+      },
+      {
+        "answer": "purulent",
+        "value": false
+      },
+      {
+        "answer": "limited(partial)",
+        "value": false
+      },
+      {
+        "answer": "Traumatic",
+        "value": false
+      },
+      {
+        "answer": "All answers are correct",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "How many layers are in dental pulp:",
+    "answers": [
+      {
+        "answer": "one;",
+        "value": false
+      },
+      {
+        "answer": "two;",
+        "value": false
+      },
+      {
+        "answer": "Three;",
+        "value": true
+      },
+      {
+        "answer": "four;",
+        "value": false
+      },
+      {
+        "answer": "five",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which layer of pulp is formed by odontoblast:",
+    "answers": [
+      {
+        "answer": "peripheral;",
+        "value": true
+      },
+      {
+        "answer": "central;",
+        "value": false
+      },
+      {
+        "answer": "intermediate;",
+        "value": false
+      },
+      {
+        "answer": "main",
+        "value": false
+      },
+      {
+        "answer": "dentinal",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which cells are situated under the peripheral layer of pulp:",
+    "answers": [
+      {
+        "answer": "histiocytes;",
+        "value": false
+      },
+      {
+        "answer": "histiocytes, odontoblasty;",
+        "value": false
+      },
+      {
+        "answer": "Pulpocytes stellate form preodontoblasts",
+        "value": true
+      },
+      {
+        "answer": "odontoblasts.",
+        "value": false
+      },
+      {
+        "answer": "fibroblasts",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What fibres does pulp contain:",
+    "answers": [
+      {
+        "answer": "elastic and collagen;",
+        "value": false
+      },
+      {
+        "answer": "reticular and elastic;",
+        "value": false
+      },
+      {
+        "answer": "elastic, collagen and reticular;",
+        "value": false
+      },
+      {
+        "answer": "collagen, and reticular.",
+        "value": true
+      },
+      {
+        "answer": "elastic",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which part of dental germ pulp is formed from:",
+    "answers": [
+      {
+        "answer": "Dental bag;",
+        "value": false
+      },
+      {
+        "answer": "Enamel organ;",
+        "value": false
+      },
+      {
+        "answer": "Dental papilla;",
+        "value": true
+      },
+      {
+        "answer": "Pulp of enamel organ.",
+        "value": false
+      },
+      {
+        "answer": "enamel bag",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How many nerve plexes are located in the pulp:",
+    "answers": [
+      {
+        "answer": "one;",
+        "value": false
+      },
+      {
+        "answer": "two;",
+        "value": true
+      },
+      {
+        "answer": "three;",
+        "value": false
+      },
+      {
+        "answer": "no.",
+        "value": false
+      },
+      {
+        "answer": "four",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which forms of pulpitis are characterized by proliferation of young granulation tissue with fibrous and cellular elements:",
+    "answers": [
+      {
+        "answer": "acute focal pulpitis;",
+        "value": false
+      },
+      {
+        "answer": "chronic fibrotic pulpit;",
+        "value": false
+      },
+      {
+        "answer": "chronic hypertrophic pulpitis;",
+        "value": true
+      },
+      {
+        "answer": "chronic gangrenous pulpitis.",
+        "value": false
+      },
+      {
+        "answer": "chronic caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What form of pulpitis is accompanied by pathomorphological picture: the structure of the coronal pulp is  removed, structureless mass is visible, granular decomposition, crystals of fatty acids, blood pigment, colonies of microorganisms, sometimes in the root pulp on the line with decomposition there is inflammation of demarcation of serous character, and then phenomena of the chronic fibrous inflammation:",
+    "answers": [
+      {
+        "answer": "Acute focal pulpitis;",
+        "value": false
+      },
+      {
+        "answer": "Chronic fibrotic pulpit;",
+        "value": true
+      },
+      {
+        "answer": "Chronic hypertrophic pulpitis;",
+        "value": false
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis.",
+        "value": false
+      },
+      {
+        "answer": "Pulp hyperemia",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "At probing the bottom of deep cavity there was a sharp pain.Then appeared bleeding, acute pain, prolonged pain in response to cold water. Make a diagnosis",
+    "answers": [
+      {
+        "answer": "Acute focal pulpitis;",
+        "value": false
+      },
+      {
+        "answer": "Chronic fibrotic pulpit;",
+        "value": true
+      },
+      {
+        "answer": "Chronic hypertrophic pulpitis;",
+        "value": false
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis.",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient points to a specific tooth, complains about the presence of a cavity initand the pain when consuming hot food, pain of long duration. The cavity of the tooth is open, probing of coronal pulp is not painful, root pulp - painful. Diagnosis:",
+    "answers": [
+      {
+        "answer": "Acute focal pulpitis;",
+        "value": false
+      },
+      {
+        "answer": "Chronic fibrotic pulpit;",
+        "value": false
+      },
+      {
+        "answer": "Chronic hypertrophic pulpitis;",
+        "value": true
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis;",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What pain is characteristic for chronic simple pulpitis:",
+    "answers": [
+      {
+        "answer": "involuntary, attacking pain;",
+        "value": false
+      },
+      {
+        "answer": "involuntary, throbbing pain;",
+        "value": false
+      },
+      {
+        "answer": "aching of pain, the causal nature that slowly calm down after removal of the irritant;",
+        "value": true
+      },
+      {
+        "answer": "attacking pain with long remission that amplifies  when biting;",
+        "value": false
+      },
+      {
+        "answer": "There is no pain",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "which pain is characteristic of chronic gangrenous pulpitis:",
+    "answers": [
+      {
+        "answer": "involuntary, attacking, night pain;",
+        "value": false
+      },
+      {
+        "answer": "pain irradiating along the branches of trigeminal nerve with short painless intervals ;",
+        "value": false
+      },
+      {
+        "answer": "pain from hot irritants that continues after  elimination of the irritant, pain after hot food;",
+        "value": true
+      },
+      {
+        "answer": "involuntary, attacking pain with long painless intervals that amplifies  at nights;",
+        "value": false
+      },
+      {
+        "answer": "pain  when biting, irradiating along the branches of trigeminal nerve",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What pain  is characteristic of concrementous pulpitis:",
+    "answers": [
+      {
+        "answer": "pain on  the variation of temperature, pain when biting;",
+        "value": false
+      },
+      {
+        "answer": "involuntary, attacking pain with painless intervals  that amplifies  to cold water",
+        "value": false
+      },
+      {
+        "answer": "pain from sharply movements, when the plane flights, sometime with irradiation ;",
+        "value": true
+      },
+      {
+        "answer": "pain when biting, irradiation along the branches of trigeminal nerve",
+        "value": false
+      },
+      {
+        "answer": "Nights pain, aching pain, which decreases from warm irritants.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How does the tooth respond to cool irritant at  chronic  simple pulpitis:",
+    "answers": [
+      {
+        "answer": "causes pain that lasts for hours;",
+        "value": false
+      },
+      {
+        "answer": "tooth not responds;",
+        "value": false
+      },
+      {
+        "answer": "pain immediately disappears after elimination irritant;",
+        "value": false
+      },
+      {
+        "answer": "appears dull aching pain to several minutes;",
+        "value": true
+      },
+      {
+        "answer": "appears throbbing pain",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "As the tooth responds to thermal stimulus during chronic gangrenous pulpitis:",
+    "answers": [
+      {
+        "answer": "appears irradiation of pain",
+        "value": false
+      },
+      {
+        "answer": "reaction is absent;",
+        "value": false
+      },
+      {
+        "answer": "pain  rise from the cold;",
+        "value": false
+      },
+      {
+        "answer": "pain rise from hot;",
+        "value": true
+      },
+      {
+        "answer": "appears throbbing  nights pain.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How does  the tooth  respond to percussion  at chronic hypertrophic pulpitis:",
+    "answers": [
+      {
+        "answer": "Not respond ;",
+        "value": true
+      },
+      {
+        "answer": "weak painful percussion;",
+        "value": false
+      },
+      {
+        "answer": "strong painful percussion;",
+        "value": false
+      },
+      {
+        "answer": "percussion causes attack of pain;",
+        "value": false
+      },
+      {
+        "answer": "painful horizontal percussion.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which symptoms are characteristic of concrement pulpitis:",
+    "answers": [
+      {
+        "answer": "involuntary pain is absent. Slowly disappearing pain from thermal and mechanical irritants. The patient clearly indicates the aching tooth.",
+        "value": false
+      },
+      {
+        "answer": "complaints about discomfort and pressing feeling in the tooth. When consuming hot food long pain appears. The patient may point to the aching tooth.",
+        "value": false
+      },
+      {
+        "answer": "complaints about pain from mechanical irritant. A large cavity is filled with proliferation granulation tissue .",
+        "value": false
+      },
+      {
+        "answer": "Complaints about involuntary pain, irradiating along the trigeminal nerve. Teeth intact, the patient can not point to the aching tooth.",
+        "value": true
+      },
+      {
+        "answer": "There will be no complains",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "For treatment  of chronic pulpitis  complicated by periodontal inflamation treatment should be:",
+    "answers": [
+      {
+        "answer": "complete preservation of the pulp;",
+        "value": false
+      },
+      {
+        "answer": "partial preservation of the pulp;",
+        "value": false
+      },
+      {
+        "answer": "Complete removal of the pulp;",
+        "value": true
+      },
+      {
+        "answer": "Combined treatment.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the essence of the method of vital amputation:",
+    "answers": [
+      {
+        "answer": "remove all the pulp after  anesthesia;",
+        "value": false
+      },
+      {
+        "answer": "remove part of the pulp after imposition of arsenic paste;",
+        "value": false
+      },
+      {
+        "answer": "save all  pulp;",
+        "value": false
+      },
+      {
+        "answer": "remove just the coronal pulp after anesthesia.",
+        "value": true
+      },
+      {
+        "answer": "remove just the coronal pulp and then put arsenic paste",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the essence of the method  of devital amputation:",
+    "answers": [
+      {
+        "answer": "remove all pulp after imposition of arsenic paste;,",
+        "value": false
+      },
+      {
+        "answer": "remove part of the pulp after anesthesia;",
+        "value": false
+      },
+      {
+        "answer": "remove pulp after  mummification;",
+        "value": false
+      },
+      {
+        "answer": "remove the coronal pulp after imposition of arsenic paste and mummification pulp of root.",
+        "value": true
+      },
+      {
+        "answer": "remove just the coronal pulp and then put arsenic paste",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the essence  of the method  of devital extirpation :",
+    "answers": [
+      {
+        "answer": "Removal of coronal pulp after anesthesia;",
+        "value": false
+      },
+      {
+        "answer": "Removal of coronal pulp after imposition of arsenic paste;",
+        "value": false
+      },
+      {
+        "answer": "use  curing paste;",
+        "value": false
+      },
+      {
+        "answer": "Remove all the pulp after  imposition of arsenic paste",
+        "value": true
+      },
+      {
+        "answer": "remove just the coronal pulp and then put arsenic paste",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In what cases can the  biological (conservative) treatment method of pulp the used:",
+    "answers": [
+      {
+        "answer": "in all cases;",
+        "value": false
+      },
+      {
+        "answer": "at a young age and absence of systemic diseases;",
+        "value": true
+      },
+      {
+        "answer": "in cavities 1 i 3 classes;",
+        "value": false
+      },
+      {
+        "answer": "after treatment method of vital extirpation  ;",
+        "value": false
+      },
+      {
+        "answer": "when the method of vital amputation  did not give positive results",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In what cases can we use the method of vital amputation:",
+    "answers": [
+      {
+        "answer": "tooth with one root;",
+        "value": false
+      },
+      {
+        "answer": "after the failure of extirpation;",
+        "value": false
+      },
+      {
+        "answer": "in young age without concomitant pathology;",
+        "value": true
+      },
+      {
+        "answer": "cavities in 5 classes;",
+        "value": false
+      },
+      {
+        "answer": "after imposition of arsenic paste.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In what cases method of devital amputation is used:",
+    "answers": [
+      {
+        "answer": "the presence of concomitant pathology, general diseases;",
+        "value": false
+      },
+      {
+        "answer": "after 30 age;",
+        "value": false
+      },
+      {
+        "answer": "in case of the impossibility of roots canals treatment;",
+        "value": true
+      },
+      {
+        "answer": "if you have not received a positive result after conservative treatment;",
+        "value": false
+      },
+      {
+        "answer": "if EOD 40-60 mkA.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the rational method of pulp treatment during pulp hyperemia:",
+    "answers": [
+      {
+        "answer": "devital amputation;",
+        "value": false
+      },
+      {
+        "answer": "devitalextirpation ;",
+        "value": false
+      },
+      {
+        "answer": "vital amputation;",
+        "value": false
+      },
+      {
+        "answer": "vital extirpation;",
+        "value": false
+      },
+      {
+        "answer": "biological method.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What is the rational method of acute partial pulpitis treatment:",
+    "answers": [
+      {
+        "answer": "devital extirpation;",
+        "value": false
+      },
+      {
+        "answer": "devital amputation;",
+        "value": false
+      },
+      {
+        "answer": "vital amputation;",
+        "value": false
+      },
+      {
+        "answer": "vital extirpation;",
+        "value": false
+      },
+      {
+        "answer": "biological method.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Which complications  are related to the imposition of arsenic  paste  on the pulp:",
+    "answers": [
+      {
+        "answer": "poisoning organism;",
+        "value": false
+      },
+      {
+        "answer": "difficulty swallowing;",
+        "value": false
+      },
+      {
+        "answer": "Toxic action on periodont;",
+        "value": true
+      },
+      {
+        "answer": "allergic reaction;",
+        "value": false
+      },
+      {
+        "answer": "increasing temperature.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "what time period can arsenic paste be applied in molars:",
+    "answers": [
+      {
+        "answer": "7-10 hours;",
+        "value": false
+      },
+      {
+        "answer": "12-24 hours;",
+        "value": false
+      },
+      {
+        "answer": "48 hours;",
+        "value": true
+      },
+      {
+        "answer": "7 days;",
+        "value": false
+      },
+      {
+        "answer": "mounth.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which anesthetics of amide group are used to anesthesia:",
+    "answers": [
+      {
+        "answer": "Lidocaine, mepivokain, artikain;",
+        "value": true
+      },
+      {
+        "answer": "lidocaine, novocaine, artikain;",
+        "value": false
+      },
+      {
+        "answer": "anestezina, novocaine, lidocaine;",
+        "value": false
+      },
+      {
+        "answer": "novocaine, anestezina, dikaine.",
+        "value": false
+      },
+      {
+        "answer": "novocaine, articain",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What concentrations of  vasoconstrictor adrenaline is added to the anesthetic solution for higher efficiency of anesthesia  :",
+    "answers": [
+      {
+        "answer": "1:50000-1:250000;",
+        "value": true
+      },
+      {
+        "answer": "1:250000-1:100000",
+        "value": false
+      },
+      {
+        "answer": "1:100000-1:500000;",
+        "value": false
+      },
+      {
+        "answer": "1:50000-1:100000.",
+        "value": false
+      },
+      {
+        "answer": "1:80000-1:100000.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What concentrations of  vasoconstrictor norepinephrine  is added to the anesthetic solution for higher efficiency  anesthesia :",
+    "answers": [
+      {
+        "answer": "1:50000-1:250000;",
+        "value": false
+      },
+      {
+        "answer": "1:250000-1:100000",
+        "value": false
+      },
+      {
+        "answer": "1:100000-1:500000;",
+        "value": false
+      },
+      {
+        "answer": "1:50000-1:100000.",
+        "value": true
+      },
+      {
+        "answer": "1:80000-1:100000.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which drugs of  blood narrow vessels  - hormone cerebral layer of the adrenal glands is used in the anesthetic for continuation and strengthening action of the anesthetic:",
+    "answers": [
+      {
+        "answer": "norepinephrine;",
+        "value": false
+      },
+      {
+        "answer": "adrenaline;",
+        "value": true
+      },
+      {
+        "answer": "vasopressin;",
+        "value": false
+      },
+      {
+        "answer": "felipresin.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which anesthetic are  used  for patients 'at risk' associated with cardiovascular diseases and endocrine disorders:",
+    "answers": [
+      {
+        "answer": "With high concentration of vasoconstrictor 1: 50000 and more;",
+        "value": false
+      },
+      {
+        "answer": "with standard concentration of vasoconstrictor: 100000;",
+        "value": false
+      },
+      {
+        "answer": "with low concentration of vasoconstrictor: 200000;",
+        "value": false
+      },
+      {
+        "answer": "Without a vasoconstrictor.",
+        "value": true
+      },
+      {
+        "answer": "with vasodilatator",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which anesthetics are  used  for especially long and traumatic interventions (endodontic treatment of permanent teeth):",
+    "answers": [
+      {
+        "answer": "With high concentration of vasoconstrictor 1: 50000 and more;",
+        "value": false
+      },
+      {
+        "answer": "with standard concentration of vasoconstrictor 1: 100000;",
+        "value": true
+      },
+      {
+        "answer": "with low concentration of vasoconstrictor 1: 200000;",
+        "value": false
+      },
+      {
+        "answer": "without vasoconstrictor.",
+        "value": false
+      },
+      {
+        "answer": "amide group",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which anesthetics are  used  for standard  short interventions (infiltration anesthesia at teeth with one root):",
+    "answers": [
+      {
+        "answer": "With high concentration of vasoconstrictor 1: 50000 and more;",
+        "value": false
+      },
+      {
+        "answer": "with standard concentration of vasoconstrictor 1: 100000;",
+        "value": false
+      },
+      {
+        "answer": "with low concentration of vasoconstrictor 1: 200000;",
+        "value": true
+      },
+      {
+        "answer": "without vasoconstrictor.",
+        "value": false
+      },
+      {
+        "answer": "amides group",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient  complains of prolonged attack of pain in the teeth of the mandible on the left. Irradiating of  pain in the ear, nape, increasing at cold and hot food. OBJECTIVE: in 36 of approximal-medial surface are the deep cavity. Probing is painful around the bottom and causes an attack of pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute pulpitis is limited",
+        "value": false
+      },
+      {
+        "answer": "Acute suppurative pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Concrement pulpit",
+        "value": false
+      },
+      {
+        "answer": "Chronic pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Woman complains of prolonged attack of pain in the upper jaw on the right side, which are amplified and did not pass from the cold. 17 tooth is troubled during the one day. Objectively: in the distally-chewing surface of teeth 17 is deep cavity, which is not combined with a tooth cavity. Percussion is weak painful, EOD- 30 mkA. What is the final diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute suppurative pulpitis.",
+        "value": false
+      },
+      {
+        "answer": "Acute serous periodontitis.",
+        "value": false
+      },
+      {
+        "answer": "Acute partial pulpitis.",
+        "value": false
+      },
+      {
+        "answer": "Chronic periodontitis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient complains of involuntary, night pain in 36 tooth. Tooth worry 2 days. Objective: at the chewing surfaces 36 tooth is cavity with a narrow hole of entrance and with overhanging edges, is filled light softened dentin. Probing the bottom of the cavity is  sharply painful in one place. Cool irritant causes pain that lasts 5 min. after removal of irritant. Percussion of the tooth is painless. EOD - 25 mkA. What is the final diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute pulpitis is limited",
+        "value": true
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Acute secondary caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Girl complains of pain in the area of the lower teeth left. Pain had been appeared yesterday. The pain has a sharp, short-term nature, pain is increased during the meal. OBJECTIVE: in 36 tooth is deep cavity on chewing surfaces, is filled with pigmented dentin, tooth cavity is closed, probing the bottom of the cavity is sharply painful at one point. What are the most likely diagnosis:",
+    "answers": [
+      {
+        "answer": "Acute pulpitis is limited",
+        "value": true
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Hyperemia of the pulp",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic fibrous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which pain is  characteristic of acute purulent pulpitis:",
+    "answers": [
+      {
+        "answer": "involuntary, attack of pain, night pain with long painless intervals;",
+        "value": false
+      },
+      {
+        "answer": "involuntary, attack of  pain, increased at the cold;",
+        "value": false
+      },
+      {
+        "answer": "involuntary, attack of pain with short painless intervals, irradiating along the branches of trigeminal nerve that decreasing from heat;",
+        "value": true
+      },
+      {
+        "answer": "involuntary pain which intensified when biting and the night time;",
+        "value": false
+      },
+      {
+        "answer": "involuntary pain that are amplified  from sour i sweet.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which pain is  characteristic of acute partial pulpitis:",
+    "answers": [
+      {
+        "answer": "Night, aching pain ;",
+        "value": false
+      },
+      {
+        "answer": "involuntary pain that lasts up to 30 minutes with long painless intervals;",
+        "value": true
+      },
+      {
+        "answer": "involuntary paint hat continues several hours with short painless intervals;",
+        "value": false
+      },
+      {
+        "answer": "aching pain that increased when biting;",
+        "value": false
+      },
+      {
+        "answer": "continuous, that growing from heat",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How does the tooth respond to hot irritant at hyperemia of pulp:",
+    "answers": [
+      {
+        "answer": "not respond;",
+        "value": true
+      },
+      {
+        "answer": "pain causes aching for 1-2 minutes;",
+        "value": false
+      },
+      {
+        "answer": "causes attack of pain to 30 minutes;",
+        "value": false
+      },
+      {
+        "answer": "causes attack of pain for 1 hour;",
+        "value": false
+      },
+      {
+        "answer": "causes attack of pain for several hours.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How does the tooth respond to hot irritant at acute purulent pulputi:",
+    "answers": [
+      {
+        "answer": "Not respond;",
+        "value": false
+      },
+      {
+        "answer": "causes increased pain;",
+        "value": false
+      },
+      {
+        "answer": "pain decreases;",
+        "value": true
+      },
+      {
+        "answer": "causes pain to several hours;",
+        "value": false
+      },
+      {
+        "answer": "pain immediately goes after action of irritant.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which pain is  characteristic of pulp hyperemia:",
+    "answers": [
+      {
+        "answer": "aching pain;",
+        "value": false
+      },
+      {
+        "answer": "toothache when biting;",
+        "value": false
+      },
+      {
+        "answer": "pain from chemical irritant;",
+        "value": false
+      },
+      {
+        "answer": "pain after the variation of atmospheric pressure;",
+        "value": false
+      },
+      {
+        "answer": "involuntary 'lightning' pain.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "How does the tooth respond to cool irritant at acute partial pulpitis:",
+    "answers": [
+      {
+        "answer": "does not react;",
+        "value": false
+      },
+      {
+        "answer": "causes aching pain that immediately goes after eliminate stimulus;",
+        "value": false
+      },
+      {
+        "answer": "attack causes pain by 2 hours;",
+        "value": false
+      },
+      {
+        "answer": "Attack causes pain or incrising it, save  long  time after removal of the irritant:",
+        "value": true
+      },
+      {
+        "answer": "causes irradiatting of pain;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How does the tooth respond to  percussion  at acute purulent pulpitis:",
+    "answers": [
+      {
+        "answer": "unpainful is percussion;",
+        "value": false
+      },
+      {
+        "answer": "percussion is painful and attack causes  irradiation of pain;",
+        "value": false
+      },
+      {
+        "answer": "percussion is weak painful;",
+        "value": false
+      },
+      {
+        "answer": "sharply  pain after horizontal percussion;",
+        "value": false
+      },
+      {
+        "answer": "pain sharply after vertical percussion .",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What instruments are needed to delete necrotic pulp:",
+    "answers": [
+      {
+        "answer": "drilburr;",
+        "value": false
+      },
+      {
+        "answer": "rashpil;",
+        "value": false
+      },
+      {
+        "answer": "Pulpoekstraktor(pulp broaches);",
+        "value": true
+      },
+      {
+        "answer": "root needle;",
+        "value": false
+      },
+      {
+        "answer": "h-file",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What changes are found in radiographs at acute general pulpitis:",
+    "answers": [
+      {
+        "answer": "expansion  of periodontal crack;",
+        "value": false
+      },
+      {
+        "answer": "expansion of bone tissue in the region of apex with clear contours;",
+        "value": false
+      },
+      {
+        "answer": "expansion of bone tissue near apex of vague contours,",
+        "value": false
+      },
+      {
+        "answer": "No changes;",
+        "value": true
+      },
+      {
+        "answer": "hypermineralized of bone near apex",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient complains of attacks of acute involuntary  pain lasting more than an hour in the left upper jaw, with irradiating  to ear, night pain. In 26th tooth is defect fillings. EOD: 25 mkA., Reaction of  temperature  is sharply painful . Diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute  limited pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Neuralgia second  branch  of trigeminal nerve",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "acute purulent periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Girl  complaines of  involuntary, short-term (2-3 min) attack of pain that occurred twice in the last day. Previously tooth is  disturbed after cold food, out of fear is not treated. At 'objectively: in 25 tooth is  deep cavity, is filled light softened dentin    that is easily removed by excavator, probing is painfully across the bottom. Thermal test is positive.",
+    "answers": [
+      {
+        "answer": "Hyperemia of the pulp",
+        "value": true
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Acute secondary caries",
+        "value": false
+      },
+      {
+        "answer": "Acute pulpitis is limited",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains of  acute pain after preparation  of cavity  in 36 tooth . An examination of the cavity bottom is a visable point, at which can be seen bright red pulp. Put a diagnosis.",
+    "answers": [
+      {
+        "answer": "Acute traumatic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Acute pulpitis is limited",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient  complaines of a strong involuntary pain, continuously trobbing pain on the left. With irradiation in temple, ear, jaw mandibular. Objective: in 36 deep tooth is deep cavity,  probing is painful in certain areas of the bottom cavity. Pain  is decreased from the cold. Percussion is painful. Put a diagnosis.",
+    "answers": [
+      {
+        "answer": "Acute suppurative pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute pulpitis is limited",
+        "value": false
+      },
+      {
+        "answer": "Chronic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Neuralgia of trigeminal nerve",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient complains of pain from the hot  in 25 tooth. Objectively: in the chewing-aproksimal surface 25 tooth is deep cavity. Probing is a weak painful. The reaction to hot is  positive.Percussion is painless. What threshold of excitability is the pulp of the tooth?",
+    "answers": [
+      {
+        "answer": "Electrical excitability of pulp 40-60 mkA",
+        "value": true
+      },
+      {
+        "answer": "Electrical excitability of pulp 20-40 mkA",
+        "value": false
+      },
+      {
+        "answer": "Electrical excitability of pulp 10-20 mkA",
+        "value": false
+      },
+      {
+        "answer": "Electrical excitability of pulp 60-90 mkA",
+        "value": false
+      },
+      {
+        "answer": "Electrical excitability of pulp 2-6 mkA",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What pain is characteristic of pulp hyperemia:",
+    "answers": [
+      {
+        "answer": "constant aching pain;",
+        "value": false
+      },
+      {
+        "answer": "toothache when biting;",
+        "value": false
+      },
+      {
+        "answer": "painf rom chemical irritant;",
+        "value": false
+      },
+      {
+        "answer": "pain after the variation of atmospheric pressure;",
+        "value": false
+      },
+      {
+        "answer": "involuntary 'lightning' pain.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What pain is characteristic of acute diffuse pulpitis:",
+    "answers": [
+      {
+        "answer": "involuntary, attack of pain, irradiatting, with short painless intervals;",
+        "value": true
+      },
+      {
+        "answer": "involuntary, attack of pain, night pain is increased when biting;",
+        "value": false
+      },
+      {
+        "answer": "continuous pain , which decrease, irradiating  of pain, increased from heat, pain when biting;",
+        "value": false
+      },
+      {
+        "answer": "involuntary,night pain, is increased from  horizontal position with prolonged painful interval;",
+        "value": false
+      },
+      {
+        "answer": "involuntary, attack of pain after the variation of atmospheric pressure.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How does the tooth respond to cold irritants in case of purulent pulpitis:",
+    "answers": [
+      {
+        "answer": "does not react;",
+        "value": false
+      },
+      {
+        "answer": "Causes aching pain for 1-2 minutes;",
+        "value": true
+      },
+      {
+        "answer": "Attack of pain to 30 minutes;",
+        "value": false
+      },
+      {
+        "answer": "attack of pain for 1 hour;",
+        "value": false
+      },
+      {
+        "answer": "attack of pain for several hours.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How does the tooth respond to cold irritant in case of of acute necrotic pulpitis:",
+    "answers": [
+      {
+        "answer": "does not react;",
+        "value": false
+      },
+      {
+        "answer": "causes increased pain;",
+        "value": false
+      },
+      {
+        "answer": "pain is decreased;",
+        "value": true
+      },
+      {
+        "answer": "causes pain to several hours;",
+        "value": false
+      },
+      {
+        "answer": "pain immediately goes after action of irritant.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How does the tooth respond  to percussion in case of acute suppurative pulpitis:",
+    "answers": [
+      {
+        "answer": "painlees percussion;",
+        "value": false
+      },
+      {
+        "answer": "Percussion is sharply and causes a painful attack of pain;",
+        "value": false
+      },
+      {
+        "answer": "Percussion is weak painful;",
+        "value": true
+      },
+      {
+        "answer": "sharply pain with horizontal percussion;",
+        "value": false
+      },
+      {
+        "answer": "sharply pain at vertikal percussion.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which limit of electrical excitability is characteristic of  necrossis  of coronal pulp and pulp of root :",
+    "answers": [
+      {
+        "answer": "20-30 mkA;",
+        "value": false
+      },
+      {
+        "answer": "50-70 mkA;",
+        "value": false
+      },
+      {
+        "answer": "30-60 mkA;",
+        "value": false
+      },
+      {
+        "answer": "70-80 mkA;",
+        "value": false
+      },
+      {
+        "answer": "more 100 mkA.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What changes is found in radiographs in case of general acute pulpitis:",
+    "answers": [
+      {
+        "answer": "periodontal expansion crack;",
+        "value": false
+      },
+      {
+        "answer": "expansion of bone tissue in the region of apex with clear contours;",
+        "value": false
+      },
+      {
+        "answer": "expansion of bone tissue near apex with vague contours,",
+        "value": false
+      },
+      {
+        "answer": "No changes;",
+        "value": true
+      },
+      {
+        "answer": "hypermineralized of bone near apex",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What caused the pain of acute pulpitis:",
+    "answers": [
+      {
+        "answer": "Increase in hydrostatic pressure in the mouth;",
+        "value": true
+      },
+      {
+        "answer": "irritation of nerve endings products of anaerobic glycolysis;",
+        "value": false
+      },
+      {
+        "answer": "increase of bradykinin;",
+        "value": false
+      },
+      {
+        "answer": "decrease in hydrostatic pressure in the mouth;",
+        "value": false
+      },
+      {
+        "answer": "decrease in the number of vasoactive substances.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient of 38 years old, diagnosed with chronic gangrenous pulpitis of 25 tooth. What is the treatment of pulpitis that should be applied?",
+    "answers": [
+      {
+        "answer": "Vital extirpation",
+        "value": true
+      },
+      {
+        "answer": "devitalized extirpation",
+        "value": false
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "devitalized amputation",
+        "value": false
+      },
+      {
+        "answer": "The combined method",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In dental clinic appealed patient M., 40 years old. After examination was set the diagnose: chronic pulpitis of 25 tooth. Instrument that is used for passing the root canals, made from high quality steel, flexible, high cutting properties. Mark on the handle of the tool - triangle. What is the instrument?",
+    "answers": [
+      {
+        "answer": "K-file",
+        "value": false
+      },
+      {
+        "answer": "K-reamer",
+        "value": true
+      },
+      {
+        "answer": "H-file",
+        "value": false
+      },
+      {
+        "answer": "Flekso-file",
+        "value": false
+      },
+      {
+        "answer": "Pulpekstraktor(pulp broaches)",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In dentistry clinic appealed patient M., 30 y.o.. After examination the diagnosis was set: acute pulpitis of 46 tooth. To remove the pulp special instrument is used. ‘Barbs’ on the instrument snag the pulp to facilitate removal. What is the instrument?",
+    "answers": [
+      {
+        "answer": "Pulpekstraktor (pulp broaches)",
+        "value": true
+      },
+      {
+        "answer": "H-file",
+        "value": false
+      },
+      {
+        "answer": "K-file",
+        "value": false
+      },
+      {
+        "answer": "reamer",
+        "value": false
+      },
+      {
+        "answer": "Flex-file",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient P. 46 was detected in 36 tooth discoloration of the tooth crown and  bad marginal adjoining of filling material. Percussion causes discomfort. In the X-ray  in the periapical area of distal root - there is granuloma. What is the maximum possible size for granulomas.",
+    "answers": [
+      {
+        "answer": "0,5 cm",
+        "value": true
+      },
+      {
+        "answer": "0,8 cm",
+        "value": false
+      },
+      {
+        "answer": "1 cm",
+        "value": false
+      },
+      {
+        "answer": "2 cm",
+        "value": false
+      },
+      {
+        "answer": "1,5 cm",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Woman of 53 years old,complains of fistula on the gums in the area of 12, 13. OBJECTIVE: in    12-th - filling, percussion painless. On radiographs: in the top of the root  of 12-th - cell destruction of bone with a size of 0,5 x0, 3 cm with no clear boundaries. Root canal sealed in 1/3 length. What is the optimal treatment in 12-th tooth?",
+    "answers": [
+      {
+        "answer": "Filling the canal not reaching 1 mm of the roentgenological apical hole",
+        "value": true
+      },
+      {
+        "answer": "Filling the canal reaching of the roentgenological apical hole",
+        "value": false
+      },
+      {
+        "answer": "Filling the canal, go beyond of the roentgenological apical hole",
+        "value": false
+      },
+      {
+        "answer": "Operation of resection the apex of the root",
+        "value": false
+      },
+      {
+        "answer": "Electrophoresis 10 % sol. of potassium iodide in the projection of root apex .",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Objectively: deep carious cavity. During carious cavity preparation, the pulp horn was disclosed. What method of treatment is necessary to use?",
+    "answers": [
+      {
+        "answer": "Biological method",
+        "value": true
+      },
+      {
+        "answer": "Vital amputation.",
+        "value": false
+      },
+      {
+        "answer": "Vital extirpation.",
+        "value": false
+      },
+      {
+        "answer": "Devitalized extirpation.",
+        "value": false
+      },
+      {
+        "answer": "Combined method.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient G., 18, in 36 tooth  has cavity- class I by Black. Diagnosed with acute limited pulpitis. Choose a method of treatment.",
+    "answers": [
+      {
+        "answer": "The biological method",
+        "value": true
+      },
+      {
+        "answer": "The method of vital amputation",
+        "value": false
+      },
+      {
+        "answer": "The method of vital extirpation",
+        "value": false
+      },
+      {
+        "answer": "The method of devitalized extirpation",
+        "value": false
+      },
+      {
+        "answer": "Removing the tooth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient G., 10 years old, diagnosed with chronic fibrous pulpitis of 12 tooth. Select the  therapy.",
+    "answers": [
+      {
+        "answer": "Temporary root canal filling with calcium-hidroxide material",
+        "value": true
+      },
+      {
+        "answer": "Filling the root canal with glass-ionomer cement",
+        "value": false
+      },
+      {
+        "answer": "Filling the root canal with the use of rubber pins",
+        "value": false
+      },
+      {
+        "answer": "Filling the  root canal with the help of termofil",
+        "value": false
+      },
+      {
+        "answer": "Sealing the root canal with phosphate – cement",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient N., 45 years old complained of pain from temperature stimuli that lasts for a long time. 2 weeks ago, pulpitis was treated at that tooth. Objective: 26-th tooth is filled with filling material, percussion  is painful,  in response to temperature stimulus there is pain that lasts for  long time. On radiographs palatal canal sealed on 2/3, in the buccal canals material not traced. Which of the following are the most likely reason?",
+    "answers": [
+      {
+        "answer": "Development of inflammation in periodontium",
+        "value": true
+      },
+      {
+        "answer": "Incomplete extirpation of the pulp",
+        "value": false
+      },
+      {
+        "answer": "Allergic reaction to root filling",
+        "value": false
+      },
+      {
+        "answer": "Development of infection",
+        "value": false
+      },
+      {
+        "answer": "Injury during endodontic manipulations",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the root canals of the upper first molars is the most difficult for achieving apical opening and for sealing?",
+    "answers": [
+      {
+        "answer": "Mesial buccal",
+        "value": true
+      },
+      {
+        "answer": "distal palatal",
+        "value": false
+      },
+      {
+        "answer": "buccal",
+        "value": false
+      },
+      {
+        "answer": "distal buccal",
+        "value": false
+      },
+      {
+        "answer": "palatal",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Man '30 years old, complains of pain in the right half of the face, which appeared at night. Pain is sharp, attacks of pain, spontaneous pain, irradiate in the temple. Objectively - a deep cavity in the 14 tooth, probing is painful, percussion is positive. Put the diagnosis:",
+    "answers": [
+      {
+        "answer": "Acute pulpitis.",
+        "value": true
+      },
+      {
+        "answer": "Acute periodontitis.",
+        "value": false
+      },
+      {
+        "answer": "Deep tooth decay.",
+        "value": false
+      },
+      {
+        "answer": "Chronic periodontitis.",
+        "value": false
+      },
+      {
+        "answer": "Chronic pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The teenager complained of pain in 36 tooth. Diagnosed with acute diffuse pulpitis. What is the nature of pain when it is pulpitis?",
+    "answers": [
+      {
+        "answer": "Spontaneous, night, irradiating pain.",
+        "value": true
+      },
+      {
+        "answer": "Persistent severe pain.",
+        "value": false
+      },
+      {
+        "answer": "Short attack-like pain  with long periods of remission.",
+        "value": false
+      },
+      {
+        "answer": "Along with sharp attack-like pain, may be lasting aching pain.",
+        "value": false
+      },
+      {
+        "answer": "Persistent weak pain",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient 32 years old, complained of constant aching pain in 26 tooth, that increases while biting. Objectively: the chewing surface of the 26  tooth has the cavity that communicates with the cavity of the tooth. Transitional fold is painful on palpation, percussion of 26-tooth is sharply painful. After probing the canal, the purulent  discharge appeared. What method is necessary to conduct, to put  the diagnosis?",
+    "answers": [
+      {
+        "answer": "X-ray study",
+        "value": true
+      },
+      {
+        "answer": "Electro odonto- diagnosis",
+        "value": false
+      },
+      {
+        "answer": "Thermo-probe",
+        "value": false
+      },
+      {
+        "answer": "Bacteriological study",
+        "value": false
+      },
+      {
+        "answer": "Deep probing",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What does mean a “four-handed” dentistry?",
+    "answers": [
+      {
+        "answer": "A clinician and a dental assistant working as a team for efficient healthcare;",
+        "value": true
+      },
+      {
+        "answer": "A clinician and a patient work together;",
+        "value": false
+      },
+      {
+        "answer": "A clinician and a maintenance personnel work together for providing efficient healthcare;",
+        "value": false
+      },
+      {
+        "answer": "Dental nurse and patient working as a team for efficient healthcare;",
+        "value": false
+      },
+      {
+        "answer": "A patient and maintenance personnel work together for providing treatment;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "According to ergonomic environment a clinician should:",
+    "answers": [
+      {
+        "answer": "sit with his/her thighs parallel with the floor; feet flat on the floor; back against the chair support; elbows close to the rib cage;",
+        "value": true
+      },
+      {
+        "answer": "Working with neck tilted to one side and elevated shoulders;",
+        "value": false
+      },
+      {
+        "answer": "sit bending to left or right side with elbows flexed greater than 90°;",
+        "value": false
+      },
+      {
+        "answer": "shoulders flexed and abducted; wrists flexed/deviated in grasping;",
+        "value": false
+      },
+      {
+        "answer": "sit with his/her thighs parallel with the floor with excessive twisting of trunk;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 26 year old patient complains about a sense of tooth heaviness and pain caused by hot food stimuli, halitosis. Objectively: crown of the 46 tooth is grey, there is a deep carious cavity communicating with tooth cavity, superficial probing is painless, deep one is painful, percussion is painful, mucous membrane has no pathological changes. Make a provisional diagnosis:",
+    "answers": [
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic fibrous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute condition of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic concrementous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23-year-old patient complains about a carious cavity in the 16 tooth. Objectively: the 16 tooth has a deep carious cavity communicating with the dental cavity. Probing, percussion cause no pain. There is a fistula on the gingiva in the region of root apex projection of the 16 tooth. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic fibrous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic fibrous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 45-year-old female patient complains about pain caused by thermal stimuli and spontaneous pain in the 26 tooth. A week ago this tooth was treated for pulpitis. Objectively: the 26 tooth is filled, percussion is painful, thermal stimulus causes slowly intensifying long-lasting pain. X-ray picture shows that the palatine canal is filled by 2/3, buccal canals contain no filling material. What is the most probable cause of this complication?",
+    "answers": [
+      {
+        "answer": "Incomplete pulp extirpation",
+        "value": true
+      },
+      {
+        "answer": "Inadequate canal filling",
+        "value": false
+      },
+      {
+        "answer": "Infection",
+        "value": false
+      },
+      {
+        "answer": "Inflammation in the periodontium",
+        "value": false
+      },
+      {
+        "answer": "Trauma of periodontium tissue",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 48 year old patient complained about having pain in the 45 tooth during cutting for a year. The 45 was treated before. Objectively: mucous membrane in the area of this tooth is hyperemic and slightly cyanotic. The 45 tooth is pink, the filling fell out. What examination method should be applied in order to choose treatment?",
+    "answers": [
+      {
+        "answer": "Roentgenography",
+        "value": true
+      },
+      {
+        "answer": "Thermometry",
+        "value": false
+      },
+      {
+        "answer": "Gum palpation",
+        "value": false
+      },
+      {
+        "answer": "Probing",
+        "value": false
+      },
+      {
+        "answer": "Electric odontodiagnostics",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 27-year-old woman has been treated for pulpitis by method of Devitalized extirpation. Arsenic paste was left in the 15 tooth. The patient came to see a dentist for the second time only on the fourth day after her previous visit. She was diagnosed with toxic periodontitis. What is the most optimal agent for treatment of root canal in this case?",
+    "answers": [
+      {
+        "answer": "Unithiol",
+        "value": true
+      },
+      {
+        "answer": "Cresophene",
+        "value": false
+      },
+      {
+        "answer": "Tripsin",
+        "value": false
+      },
+      {
+        "answer": "Eugenol",
+        "value": false
+      },
+      {
+        "answer": "Hydrocortisone emulsion",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains about long-lasting pain attacks in the lower jaw teeth, on the left. The pain irradiates to the ear, occiput and is getting worse during eating cold and hot food. Objectively: there is a deep carious cavity on the approximal-medial surface of the 36 tooth. Floor probing is overall painful and induces a pain attack. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute local pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic concrementous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 30-year-old patient complains about a carious cavity. Objectively: the 16 tooth is discoloured and has a deep carious cavity communicating with the dental cavity. Probing, percussion cause no pain. Electroodontodiagnosis is 100 microampere. X-ray picture shows widening of periodontal fissure. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic fibrous periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 46 year old patient complains about pain and bleeding from the carious cavity of her 27 tooth during eating. Previously she had spontaneous pain. Examination of the 27 tooth revealed a deep carious cavity on the masticatory surface consisting of red tissue, probing induced pain and haemorrhage. What treatment method should be chosen?",
+    "answers": [
+      {
+        "answer": "Vital extirpation",
+        "value": true
+      },
+      {
+        "answer": "Devitalized extirpation",
+        "value": false
+      },
+      {
+        "answer": "Devitalized amputation",
+        "value": false
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Biological method",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-old patient complains about constant dull pain in the 25 tooth that is getting worse when biting down on food. Objectively: masticatory surface of the 25 tooth has a carious cavity communicating with the dental cavity. The purulent discharges from the canal followed the probing. What method of diagnostics should be applied to confirm the diagnosis?",
+    "answers": [
+      {
+        "answer": "X-ray examination",
+        "value": true
+      },
+      {
+        "answer": "Electric pulp test",
+        "value": false
+      },
+      {
+        "answer": "Thermal test",
+        "value": false
+      },
+      {
+        "answer": "Bacteriological examination",
+        "value": false
+      },
+      {
+        "answer": "Deep probing",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Method by which a gutta-percha cone fits the apical portion of the canal snugly, and it is cemented in place with a root canal sealer is called:",
+    "answers": [
+      {
+        "answer": "The single-cone technique;",
+        "value": true
+      },
+      {
+        "answer": "Cold lateral condensation of gutta percha;",
+        "value": false
+      },
+      {
+        "answer": "Warm lateral condensation;",
+        "value": false
+      },
+      {
+        "answer": "Vertical condensation;",
+        "value": false
+      },
+      {
+        "answer": "Thermomechanical compaction;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is used as X-ray contrast substance in gutta-percha pins?",
+    "answers": [
+      {
+        "answer": "barium sulfate",
+        "value": true
+      },
+      {
+        "answer": "magnesium sulfate",
+        "value": false
+      },
+      {
+        "answer": "potassium sulfate",
+        "value": false
+      },
+      {
+        "answer": "lithium sulfate",
+        "value": false
+      },
+      {
+        "answer": "calcium sulfate",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Why the silver pins were replaced by gutta-percha pins for root canal filling?",
+    "answers": [
+      {
+        "answer": "Silver undergoes corrosion; pins are hard, can’t adapt to the inevitably irregular canal preparation encouraging leakage, don’t promote good penetration of sealer in lateral canals.",
+        "value": true
+      },
+      {
+        "answer": "silver pins are oxidized and blacken.",
+        "value": false
+      },
+      {
+        "answer": "silver pins are firm, do not adapt to the canal shape.",
+        "value": false
+      },
+      {
+        "answer": "don’t promote good penetration of sealer in lateral canals.",
+        "value": false
+      },
+      {
+        "answer": "silver undergoes corrosion.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Disadvantages  of silver pins:",
+    "answers": [
+      {
+        "answer": "are exposed to corrosion;",
+        "value": true
+      },
+      {
+        "answer": "not standard sizes;",
+        "value": false
+      },
+      {
+        "answer": "toxic to the pulp;",
+        "value": false
+      },
+      {
+        "answer": "lack of strength;",
+        "value": false
+      },
+      {
+        "answer": "are exposed to change the color of tooth tissues;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Methods for determining the working length of the canal:",
+    "answers": [
+      {
+        "answer": "estimated length of the tooth and root (table and anatomical methods), X-ray control, method of electrometer.",
+        "value": true
+      },
+      {
+        "answer": "by root needle;",
+        "value": false
+      },
+      {
+        "answer": "X-ray method after entering the root needle in the  canal;",
+        "value": false
+      },
+      {
+        "answer": "using apex locator;",
+        "value": false
+      },
+      {
+        "answer": "using files and reamers;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the essence of temporary root canal sealing?",
+    "answers": [
+      {
+        "answer": "To seal the root canal by not setting calcium hydroxide material, that promotes therapeutic effect for a while, after change the paste to the hardening one;",
+        "value": true
+      },
+      {
+        "answer": "To place antiseptic turunda under tight bandage for 2-3 days;",
+        "value": false
+      },
+      {
+        "answer": "To place paraformaldehyde paste in root canal under dentin-paste;",
+        "value": false
+      },
+      {
+        "answer": "To place antiseptic turunda under tight bandage for 14 days;",
+        "value": false
+      },
+      {
+        "answer": "To place antiseptic turunda under tight bandage for 2 days;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Instrument that fits into conventional handpiece and is used for root canal sealing?",
+    "answers": [
+      {
+        "answer": "Lentulo spiral filller;",
+        "value": true
+      },
+      {
+        "answer": "All answers are correct;",
+        "value": false
+      },
+      {
+        "answer": "Finger spreader;",
+        "value": false
+      },
+      {
+        "answer": "Endodontic plugger;",
+        "value": false
+      },
+      {
+        "answer": "Finger lateral condenser;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Small flexible instrument used to place paste materials into the canal, fits into conventional handpiece is named:",
+    "answers": [
+      {
+        "answer": "Lentulo spiral filler/rotary paste filler;",
+        "value": true
+      },
+      {
+        "answer": "Finger spreader;",
+        "value": false
+      },
+      {
+        "answer": "Endodontic plugger;",
+        "value": false
+      },
+      {
+        "answer": "Finger lateral condenser;",
+        "value": false
+      },
+      {
+        "answer": "K-flex file;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What endodontic instrument is used to seal root canals with pastes?",
+    "answers": [
+      {
+        "answer": "Lentulo spiral filler;",
+        "value": true
+      },
+      {
+        "answer": "Finger spreader;",
+        "value": false
+      },
+      {
+        "answer": "Endodontic plugger;",
+        "value": false
+      },
+      {
+        "answer": "Finger lateral condenser;",
+        "value": false
+      },
+      {
+        "answer": "H-file;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Finger instrument with a smooth, pointed, tapered working end; used to condense gutta percha into the canal during obturation is named:",
+    "answers": [
+      {
+        "answer": "Finger spreader;",
+        "value": true
+      },
+      {
+        "answer": "Lentulo spiral filler;",
+        "value": false
+      },
+      {
+        "answer": "Endodontic plugger;",
+        "value": false
+      },
+      {
+        "answer": "Hand K-flex files;",
+        "value": false
+      },
+      {
+        "answer": "H-file;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement is true for ‘finger spreader’ in endodontic practice?",
+    "answers": [
+      {
+        "answer": "Finger instrument with a smooth, pointed, tapered working end; used to condense gutta percha into the canal during obturation;",
+        "value": true
+      },
+      {
+        "answer": "Small Flexible instrument used to place paste materials into the canal, fits into conventional handpiece;",
+        "value": false
+      },
+      {
+        "answer": "Finger instrument used to remove the intact pulp;",
+        "value": false
+      },
+      {
+        "answer": "An instrument used to enlarge the coronal third of the canal during endodontic treatment;",
+        "value": false
+      },
+      {
+        "answer": "Endodontic instrument used to enlarge and shape root canal;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What finger instrument with a smooth, pointed, tapered working end is used to condense gutta percha into the canal during obturation?",
+    "answers": [
+      {
+        "answer": "Finger spreader;",
+        "value": true
+      },
+      {
+        "answer": "Lentulo spiral filler;",
+        "value": false
+      },
+      {
+        "answer": "Endodontic plugger;",
+        "value": false
+      },
+      {
+        "answer": "Hand K-flex files;",
+        "value": false
+      },
+      {
+        "answer": "H-file;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What hand instrument, is used to facilitate plugging or condensing the gutta percha after the excess has been removed by melting off with a heated instrument?",
+    "answers": [
+      {
+        "answer": "Endodontic plugger;",
+        "value": true
+      },
+      {
+        "answer": "Finger spreader;",
+        "value": false
+      },
+      {
+        "answer": "Hand K-flex files;",
+        "value": false
+      },
+      {
+        "answer": "Finger lateral condenser;",
+        "value": false
+      },
+      {
+        "answer": "H-file;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement is true for ‘endodontic plugger’?",
+    "answers": [
+      {
+        "answer": "Hand instrument, is used to facilitate plugging or condensing the gutta percha after the excess has been removed by melting off with a heated instrument;",
+        "value": true
+      },
+      {
+        "answer": "Small flexible instrument used to place paste materials into the canal, fits into conventional handpiece;",
+        "value": false
+      },
+      {
+        "answer": "Finger instrument with a smooth, pointed, tapered working end; used to condense gutta percha into the canal during obturation;",
+        "value": false
+      },
+      {
+        "answer": "An instrument used to enlarge the coronal third of the canal during endodontic treatment;",
+        "value": false
+      },
+      {
+        "answer": "Endodontic instrument used to enlarge and shape root canal;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Complications that may occur while placing the sealer into the root canal with open apex are?",
+    "answers": [
+      {
+        "answer": "extrusion of material;",
+        "value": true
+      },
+      {
+        "answer": "instrument fracture;",
+        "value": false
+      },
+      {
+        "answer": "recurrent symptoms;",
+        "value": false
+      },
+      {
+        "answer": "lateral perforation;",
+        "value": false
+      },
+      {
+        "answer": "incomplete debridement;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Calcium hydroxide materials are used because of:",
+    "answers": [
+      {
+        "answer": "have high pH -12 and a great antimicrobial potent, thus promote apexification and apexogenesis;",
+        "value": true
+      },
+      {
+        "answer": "is used in front group of teeth because of its esthetic qualities;",
+        "value": false
+      },
+      {
+        "answer": "can be used in Pediatric Dentistry as a restorative material for the temporary teeth;",
+        "value": false
+      },
+      {
+        "answer": "have good heat-insulating properties, low toxicity and correspondence of the cement to the coefficient of  thermal dilatation of dental hard tissues;",
+        "value": false
+      },
+      {
+        "answer": "do not adhere directly to tooth substance, they require an adhesive agent to create a micromechanical bond to tooth structure;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Paraformaldehyde sealers in endodontic practice are used for:",
+    "answers": [
+      {
+        "answer": "Can be used in the case of sclerosed and obliterated root canals, when instrumental treatment can’t be hold;",
+        "value": true
+      },
+      {
+        "answer": "Are used in sealing the radicular space because of their dentin bonding properties;",
+        "value": false
+      },
+      {
+        "answer": "To provide an anti-inflammatory action to the periradicular tissues; can be resorbed if extruded into the periradicular tissues;",
+        "value": false
+      },
+      {
+        "answer": "Are used as a temporary dressing for canals where filling has to be delayed;",
+        "value": false
+      },
+      {
+        "answer": "To provide microbe-free  environment;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "For which endodontic manipulation drill burs are used?",
+    "answers": [
+      {
+        "answer": "To expand the root canal",
+        "value": true
+      },
+      {
+        "answer": "To determine the length of root canals",
+        "value": false
+      },
+      {
+        "answer": "To remove the decay of the pulp",
+        "value": false
+      },
+      {
+        "answer": "For filling root canals.",
+        "value": false
+      },
+      {
+        "answer": "For pulp extraction",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the doctor’s tactic if pulp-extractor is broken in the apical part of the root canal?",
+    "answers": [
+      {
+        "answer": "Try to do by-pass, to fill root canal and notify the patient about this complication",
+        "value": true
+      },
+      {
+        "answer": "To remove the tooth",
+        "value": false
+      },
+      {
+        "answer": "To use impregnation treatment",
+        "value": false
+      },
+      {
+        "answer": "To use biologically active agents",
+        "value": false
+      },
+      {
+        "answer": "Try to make root canal wider and to remove instrument",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient complains on discoloration of the coronal part of the central incisor to dark gray colour. What the drug was used in treatment of root canal of the tooth?",
+    "answers": [
+      {
+        "answer": "Silver nitrate, impregnation method",
+        "value": true
+      },
+      {
+        "answer": "Resorcinol-formalin mixture",
+        "value": false
+      },
+      {
+        "answer": "Chlorhexidine",
+        "value": false
+      },
+      {
+        "answer": "Formokrezol.",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which medication is used for apical therapy, and which stimulate reparative processes in periodontium?",
+    "answers": [
+      {
+        "answer": "NSAID",
+        "value": false
+      },
+      {
+        "answer": "Calcium containing paste",
+        "value": true
+      },
+      {
+        "answer": "Corticosteroid",
+        "value": false
+      },
+      {
+        "answer": "Those containing antibiotics",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the above components most often are used as part of root fillings?",
+    "answers": [
+      {
+        "answer": "Zinc- oxide and eugenol",
+        "value": true
+      },
+      {
+        "answer": "Zinc- oxide and antibiotics",
+        "value": false
+      },
+      {
+        "answer": "Zinc- oxide and formokrezol",
+        "value": false
+      },
+      {
+        "answer": "Zinc- oxide and orthophosphoric acid.",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Is it advisable to force phosphate cement per apex in the process of filling root canal?",
+    "answers": [
+      {
+        "answer": "No, because it causes injury of periodontium",
+        "value": true
+      },
+      {
+        "answer": "Yes, because it stimulates the regeneration of bone tissue",
+        "value": false
+      },
+      {
+        "answer": "Yes, because  it is reduces inflammation in periodontium",
+        "value": false
+      },
+      {
+        "answer": "No, because it can cause periostitis.",
+        "value": false
+      },
+      {
+        "answer": "There is no right answer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In  what teeth its recommended to use not hardening pastes for root canal treatment?",
+    "answers": [
+      {
+        "answer": "Temporary teeth",
+        "value": true
+      },
+      {
+        "answer": "Permanent teeth (with one root)",
+        "value": false
+      },
+      {
+        "answer": "Permanent teeth (multi root)",
+        "value": false
+      },
+      {
+        "answer": "Teeth, which are preparing for prosthetics.",
+        "value": false
+      },
+      {
+        "answer": "Frontal teeth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The first premolar of the mandible usually has:",
+    "answers": [
+      {
+        "answer": "one root and one root canal",
+        "value": false
+      },
+      {
+        "answer": "one root and two root canals",
+        "value": true
+      },
+      {
+        "answer": "two roots and two root canals",
+        "value": false
+      },
+      {
+        "answer": "two roots and one root canal",
+        "value": false
+      },
+      {
+        "answer": "three roots and root canals",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What root canal of the first upper molars is the most affordable to achieve apical hole and preparation for sealing?",
+    "answers": [
+      {
+        "answer": "palatal",
+        "value": true
+      },
+      {
+        "answer": "mesial buccal",
+        "value": false
+      },
+      {
+        "answer": "All root canals",
+        "value": false
+      },
+      {
+        "answer": "Distal buccal.",
+        "value": false
+      },
+      {
+        "answer": "none of them",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What instrument is used to remove the necrotic pulp of the canal:",
+    "answers": [
+      {
+        "answer": "barbed broaches;",
+        "value": true
+      },
+      {
+        "answer": "probe;",
+        "value": false
+      },
+      {
+        "answer": "excavator;",
+        "value": false
+      },
+      {
+        "answer": "root needle;",
+        "value": false
+      },
+      {
+        "answer": "H-type file;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the action of the arsenical paste to the pulp tissue:",
+    "answers": [
+      {
+        "answer": "necrotizing;",
+        "value": true
+      },
+      {
+        "answer": "mummifying;",
+        "value": false
+      },
+      {
+        "answer": "analgesic;",
+        "value": false
+      },
+      {
+        "answer": "antimicrobial",
+        "value": false
+      },
+      {
+        "answer": "anti-inflammatory",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Pulp extractor in the root canal for  the pulp extraction is turned:",
+    "answers": [
+      {
+        "answer": "for 1-2 turns;",
+        "value": true
+      },
+      {
+        "answer": "only at 90 degrees;",
+        "value": false
+      },
+      {
+        "answer": "to the appearance of significant efforts at the movement;",
+        "value": false
+      },
+      {
+        "answer": "absolutely no return;",
+        "value": false
+      },
+      {
+        "answer": "as many turns as possible;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A pulp is:",
+    "answers": [
+      {
+        "answer": "soft connective tissue;",
+        "value": true
+      },
+      {
+        "answer": "muscular tissue;",
+        "value": false
+      },
+      {
+        "answer": "tissue of epitelial origin;",
+        "value": false
+      },
+      {
+        "answer": "Granulation fiber;",
+        "value": false
+      },
+      {
+        "answer": "nerve fibers.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "For what purpose is it necessary to enlarge the root canal orifices?",
+    "answers": [
+      {
+        "answer": "for easier passing and sealing;",
+        "value": true
+      },
+      {
+        "answer": "for the full removal of the pulp or debris from the root canal;",
+        "value": false
+      },
+      {
+        "answer": "for root  canal sealing only ;",
+        "value": false
+      },
+      {
+        "answer": "for medicament treatment;",
+        "value": false
+      },
+      {
+        "answer": "for medicament treatment and sealing;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Disclosure of the tooth cavity is conducted in a proper way, if there is:",
+    "answers": [
+      {
+        "answer": "a free access to root canals is created;",
+        "value": true
+      },
+      {
+        "answer": "an absence of insufficient enamel around the edges of the tooth cavity;",
+        "value": false
+      },
+      {
+        "answer": "removed all the affected tissue by caries and old fillings;",
+        "value": false
+      },
+      {
+        "answer": "unequal edges;",
+        "value": false
+      },
+      {
+        "answer": "antagonist tooth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are the stages of instrumental treatment of root canal:",
+    "answers": [
+      {
+        "answer": "Disclosure of tooth cavity, gaining access to the canal orifice, disclosure of  the canal orifices, enlargement and shaping of canal;",
+        "value": true
+      },
+      {
+        "answer": "Removal of the decay from the canal, expansion of the canal;",
+        "value": false
+      },
+      {
+        "answer": "Step-back technique only;",
+        "value": false
+      },
+      {
+        "answer": "Disclosure of the tooth cavity, medicament treatment of the root canal;",
+        "value": false
+      },
+      {
+        "answer": "Crown-down technique only;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the end result that should be gained in endodontic treatment of root canal?",
+    "answers": [
+      {
+        "answer": "root canal should be tapered in its original position with a small apical opening.",
+        "value": true
+      },
+      {
+        "answer": "root canal should be enlarged to the possible biggest size of endodontic instrument.",
+        "value": false
+      },
+      {
+        "answer": "root canal should be tapered in its original position with extended anatomical hole.",
+        "value": false
+      },
+      {
+        "answer": "root canal enlarged only in its crown part of root.",
+        "value": false
+      },
+      {
+        "answer": "root canal should have curvature in its crown part of root.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What does it mean the term ‘pulpotomy’?",
+    "answers": [
+      {
+        "answer": "Treatment procedure by which only coronal pulp tissue is surgically removed with the aim of preserving the remaining tissue.",
+        "value": true
+      },
+      {
+        "answer": "Treatment procedure by which entire pulp tissue, often inflamed, is surgically removed and replaced with a root filling.",
+        "value": false
+      },
+      {
+        "answer": "Treatment procedure aimed at preserving a dental pulp that has been exposed to the oral environment.",
+        "value": false
+      },
+      {
+        "answer": "Treatment of inflamed dental pulp by placing therapeutic lining.",
+        "value": false
+      },
+      {
+        "answer": "Treatment of root filled teeth with clinical and/or radiographic signs of root canal infection, where root fillings are removed, canals disinfected and refilled; is carried out to improve the technical quality of previous root fillings.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What does it mean the term ‘pulpectomy’?",
+    "answers": [
+      {
+        "answer": "Treatment procedure by which entire pulp tissue, often inflamed, is surgically removed and replaced with a root filling.",
+        "value": true
+      },
+      {
+        "answer": "Treatment procedure by which the coronal pulp tissue is surgically removed with the aim of preserving the remaining tissue.",
+        "value": false
+      },
+      {
+        "answer": "Treatment procedure aimed at preserving a dental pulp that has been exposed to the oral environment.",
+        "value": false
+      },
+      {
+        "answer": "Treatment of inflamed dental pulp by placing therapeutic lining.",
+        "value": false
+      },
+      {
+        "answer": "Treatment of root filled teeth with clinical and/or radiographic signs of root canal infection, where root fillings are removed, canals disinfected and refilled; is carried out to improve the technical quality of previous root fillings.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement is true for ‘non-surgical retreatment’?",
+    "answers": [
+      {
+        "answer": "Treatment of root filled teeth with clinical and/or radiographic signs of root canal infection, where root fillings are removed, canals disinfected and refilled; is carried out to improve the technical quality of previous root fillings.",
+        "value": true
+      },
+      {
+        "answer": "Retrograde endodontics or surgical endodontics are other terms for this procedure; treatment procedure by which the root apex of a tooth is surgically accessed to manage a root canal infection that has not been successfully treated by RCT.",
+        "value": false
+      },
+      {
+        "answer": "Treatment procedure by which entire pulp tissue, often inflamed, is surgically removed and replaced with a root filling.",
+        "value": false
+      },
+      {
+        "answer": "Treatment procedure by which the coronal pulp tissue is surgically removed with the aim of preserving the remaining tissue.",
+        "value": false
+      },
+      {
+        "answer": "Treatment procedure aimed at preserving a dental pulp that has been exposed to the oral environment.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement is true for ‘surgical retreatment’?",
+    "answers": [
+      {
+        "answer": "Retrograde endodontics or surgical endodontics are other terms for this procedure; treatment procedure by which the root apex of a tooth is surgically accessed to manage a root canal infection that has not been successfully treated by RCT.",
+        "value": true
+      },
+      {
+        "answer": "Treatment of root filled teeth with clinical and/or radiographic signs of root canal infection, where root fillings are removed, canals disinfected and refilled; is carried out to improve the technical quality of previous root fillings..",
+        "value": false
+      },
+      {
+        "answer": "Treatment procedure by which entire pulp tissue, often inflamed, is surgically removed and replaced with a root filling.",
+        "value": false
+      },
+      {
+        "answer": "Treatment procedure by which the coronal pulp tissue is surgically removed with the aim of preserving the remaining tissue.",
+        "value": false
+      },
+      {
+        "answer": "Treatment procedure aimed at preserving a dental pulp that has been exposed to the oral environment.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How is it termed the treatment of root filled teeth with clinical and/or radiographic signs of root canal infection, where root fillings are removed, canals are disinfected and refilled?",
+    "answers": [
+      {
+        "answer": "non-surgical retreatment",
+        "value": true
+      },
+      {
+        "answer": "surgical retreatment;",
+        "value": false
+      },
+      {
+        "answer": "pulpotomy or pulp amputation;",
+        "value": false
+      },
+      {
+        "answer": "pulpectomy or pulp extirpation;",
+        "value": false
+      },
+      {
+        "answer": "endodontic treatment",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Name the treatment procedure by which the root apex of a tooth is surgically accessed to manage a root canal infection that has not been successfully treated by RCT:",
+    "answers": [
+      {
+        "answer": "surgical retreatment, root apex resection",
+        "value": true
+      },
+      {
+        "answer": "pulpotomy or pulp amputation;",
+        "value": false
+      },
+      {
+        "answer": "pulpectomy or pulp extirpation;",
+        "value": false
+      },
+      {
+        "answer": "hemisection",
+        "value": false
+      },
+      {
+        "answer": "non-surgical retreatment",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Name the treatment procedure by which the entire coronal pulp tissue is surgically removed with the aim of preserving the remaining tissue:",
+    "answers": [
+      {
+        "answer": "pulpotomy or pulp amputation;",
+        "value": true
+      },
+      {
+        "answer": "pulpectomy or pulp extirpation;",
+        "value": false
+      },
+      {
+        "answer": "surgical retreatment;",
+        "value": false
+      },
+      {
+        "answer": "non-surgical retreatment;",
+        "value": false
+      },
+      {
+        "answer": "hemisection",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Name the treatment procedure by which pulp tissue, often inflamed, is surgically removed and replaced with a root filling:",
+    "answers": [
+      {
+        "answer": "pulpectomy or pulp extirpation;",
+        "value": true
+      },
+      {
+        "answer": "pulpotomy or pulp amputation;",
+        "value": false
+      },
+      {
+        "answer": "surgical retreatment;",
+        "value": false
+      },
+      {
+        "answer": "non-surgical retreatment;",
+        "value": false
+      },
+      {
+        "answer": "hemisection;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Treatment of root filled teeth with clinical and/or radiographic signs of root canal infection, where root fillings are removed, canals disinfected and refilled is called:",
+    "answers": [
+      {
+        "answer": "non-surgical retreatment;",
+        "value": true
+      },
+      {
+        "answer": "surgical retreatment;",
+        "value": false
+      },
+      {
+        "answer": "pulpotomy or pulp amputation;",
+        "value": false
+      },
+      {
+        "answer": "pulpectomy or pulp extirpation;",
+        "value": false
+      },
+      {
+        "answer": "apexification;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Retrograde endodontics procedure by which the root apex of a tooth is surgically accessed to manage a root canal infection that has not been successfully treated by RCT is termed:",
+    "answers": [
+      {
+        "answer": "surgical retreatment;",
+        "value": true
+      },
+      {
+        "answer": "non-surgical retreatment;",
+        "value": false
+      },
+      {
+        "answer": "pulpectomy or pulp extirpation;",
+        "value": false
+      },
+      {
+        "answer": "pulpotomy or pulp amputation;",
+        "value": false
+      },
+      {
+        "answer": "hemisection;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The crown-apical method of root canal treatment envisages:",
+    "answers": [
+      {
+        "answer": "root canal treatment that starts from canal orifices to apical hole with a gradual decrease in instrument diameter;",
+        "value": true
+      },
+      {
+        "answer": "treatment from the apical hole to canal orifices with gradually increasing of  instrument diameter;",
+        "value": false
+      },
+      {
+        "answer": "root canal treatment starting coronally with larger instruments, after the procedure is reversed, it starts at the apex with small instruments;",
+        "value": false
+      },
+      {
+        "answer": "disclosure of root canal orifices;",
+        "value": false
+      },
+      {
+        "answer": "removing of the tooth apex;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement is true for “step-back technique”?",
+    "answers": [
+      {
+        "answer": "An apical part of the root canal is prepared first and the canal is then widened from apex to crown; blockage of canals may occur using this technique, and irrigation can be difficult.",
+        "value": true
+      },
+      {
+        "answer": "At first prepares the coronal part of the canal before the apical part; this has advantages and is the preferred technique.",
+        "value": false
+      },
+      {
+        "answer": "It was developed to minimize the possibility of creating a 'strip' perforation on the inner walls of curved root canals.",
+        "value": false
+      },
+      {
+        "answer": "It’s involves using blunt-tipped files with an anticlockwise rotation whilst applying an apically directed force; is useful when preparing the apical part of severely curved canals.",
+        "value": false
+      },
+      {
+        "answer": "There is no need to use rotary instruments.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement is true for “crown-down technique”?",
+    "answers": [
+      {
+        "answer": "At first prepares the coronal part of the canal before the apical part; this has advantages and is the preferred technique.",
+        "value": true
+      },
+      {
+        "answer": "It was developed to minimize the possibility of creating a 'strip' perforation on the inner walls of curved root canals.",
+        "value": false
+      },
+      {
+        "answer": "It’s involves using blunt-tipped files with an anticlockwise rotation whilst applying an apically directed force; is useful when preparing the apical part of severely curved canals.",
+        "value": false
+      },
+      {
+        "answer": "An apical part of the root canal is prepared first and the canal is then widened from apex to crown; blockage of canals may occur using this technique, and irrigation can be difficult.",
+        "value": false
+      },
+      {
+        "answer": "It can hepl to save helthy tissues.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement is true for “balanced force technique”?",
+    "answers": [
+      {
+        "answer": "It’s involves using blunt-tipped files with an anticlockwise rotation whilst applying an apically directed force. It requires practise to master but is particularly useful when preparing the apical part of severely curved canals.",
+        "value": true
+      },
+      {
+        "answer": "It was developed to minimize the possibility of creating a 'strip' perforation on the inner walls of curved root canals.",
+        "value": false
+      },
+      {
+        "answer": "An apical part of the root canal is prepared first and the canal is then widened from apex to crown; blockage of canals may occur using this technique, and irrigation can be difficult.",
+        "value": false
+      },
+      {
+        "answer": "At first prepares the coronal part of the canal before the apical part; this has advantages and is the preferred technique.",
+        "value": false
+      },
+      {
+        "answer": "There is no correct statement.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement is true for anticurvature filing?",
+    "answers": [
+      {
+        "answer": "It was developed to minimize the possibility of creating a 'strip' perforation on the inner walls of curved root canals.",
+        "value": true
+      },
+      {
+        "answer": "It’s involves using blunt-tipped files with an anticlockwise rotation whilst applying an apically directed force; is useful when preparing the apical part of severely curved canals.",
+        "value": false
+      },
+      {
+        "answer": "At first prepares the coronal part of the canal before the apical part; this has advantages and is the preferred technique.",
+        "value": false
+      },
+      {
+        "answer": "An apical part of the root canal is prepared first and the canal is then widened from apex to crown; blockage of canals may occur using this technique, and irrigation can be difficult.",
+        "value": false
+      },
+      {
+        "answer": "There is no correct statement.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The technique that involves using blunt-tipped files with an anticlockwise rotation whilst applying an apically directed force; requires practise to master but is particularly useful when preparing the apical part of severely curved canals is named:",
+    "answers": [
+      {
+        "answer": "balanced force technique;",
+        "value": true
+      },
+      {
+        "answer": "anticurvature filing;",
+        "value": false
+      },
+      {
+        "answer": "crown-down technique;",
+        "value": false
+      },
+      {
+        "answer": "step-back technique;",
+        "value": false
+      },
+      {
+        "answer": "modified double-flared technique;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Root canal treatment technique that was developed to minimize the possibility of creating a 'strip' perforation  on the inner walls of curved root canals is termed:",
+    "answers": [
+      {
+        "answer": "anticurvature filing;",
+        "value": true
+      },
+      {
+        "answer": "balanced force technique;",
+        "value": false
+      },
+      {
+        "answer": "step-back technique;",
+        "value": false
+      },
+      {
+        "answer": "crown-down technique;",
+        "value": false
+      },
+      {
+        "answer": "modified double-flared technique.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The RCT technique according to which an apical part of the root canal is prepared first and the canal is then enlarged from apex to crown is named:",
+    "answers": [
+      {
+        "answer": "step-back technique;",
+        "value": true
+      },
+      {
+        "answer": "anticurvature filing;",
+        "value": false
+      },
+      {
+        "answer": "balanced force technique;",
+        "value": false
+      },
+      {
+        "answer": "crown-down technique;",
+        "value": false
+      },
+      {
+        "answer": "modified double-flared technique;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The RCT technique according to which the coronal part of the canal is prepared before the apical part is named:",
+    "answers": [
+      {
+        "answer": "crown-down technique;",
+        "value": true
+      },
+      {
+        "answer": "anticurvature filing;",
+        "value": false
+      },
+      {
+        "answer": "balanced force technique;",
+        "value": false
+      },
+      {
+        "answer": "step-back technique;",
+        "value": false
+      },
+      {
+        "answer": "modified step-back;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The RCT technique according to which the root canal instrumentation starts as the crown-down approach, then the procedure is reversed, starting at the apex with small instruments, increasing in size gradually, is called:",
+    "answers": [
+      {
+        "answer": "modified double-flared technique;",
+        "value": true
+      },
+      {
+        "answer": "crown-down technique;",
+        "value": false
+      },
+      {
+        "answer": "anticurvature filing;",
+        "value": false
+      },
+      {
+        "answer": "balanced force technique;",
+        "value": false
+      },
+      {
+        "answer": "step-back technique;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the procedure of balanced force technique in RCT?",
+    "answers": [
+      {
+        "answer": "The file is placed to working length and rotated clockwise 900 with light pressure to engage dentin; then file is rotated counterclockwise 1200 while apical pressure is maintained to cut and enlarge the canal.",
+        "value": true
+      },
+      {
+        "answer": "After determining the WL, the first active instrument to be inserted should be fine small sized, 0,02 tapered, stainless steel file; once the apical preparation is complete, Gates Glidden are used to further funnel the preparation coronally.",
+        "value": false
+      },
+      {
+        "answer": "At first H-file № 15, 20 is penetrated root canal; then Gates Glidden drills flaring the coronal segment of root canal is used; then shaping the remaining canal in crown-down approach, using decreasing size of instruments in sequence.",
+        "value": false
+      },
+      {
+        "answer": "After pulp removal with barbed broaches, root canal instrumentation is carried out only with small sized reamers and K-type files.",
+        "value": false
+      },
+      {
+        "answer": "We should use only one instrument for maximal saving of hard tissues.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the procedure of step-back technique in RCT?",
+    "answers": [
+      {
+        "answer": "After determining the WL, the first active instrument to be inserted should be fine small sized, 0,02 tapered, stainless steel file; once the apical preparation is complete, Gates Glidden are used to further funnel the preparation coronally.",
+        "value": true
+      },
+      {
+        "answer": "The file is placed to working length and rotated clockwise 900 with light pressure to engage dentin; then file is rotated counterclockwise 1200 while apical pressure is maintained to cut and enlarge the canal.",
+        "value": false
+      },
+      {
+        "answer": "At first H-file № 15, 20 is penetrated root canal; then Gates Glidden drills flaring the coronal segment of root canal is used; then shaping the remaining canal in crown-down approach, using decreasing size of instruments in sequence.",
+        "value": false
+      },
+      {
+        "answer": "After pulp removal with barbed broaches, root canal instrumentation is carried out only with small sized reamers and K-type files.",
+        "value": false
+      },
+      {
+        "answer": "The first file should be rotary.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the procedure of crown-down technique in RCT?",
+    "answers": [
+      {
+        "answer": "At first H-file № 15, 20 is penetrated root canal; then Gates Glidden drills flaring the coronal segment of root canal is used; then shaping the remaining canal in crown-down approach, using decreasing size of instruments in sequence.",
+        "value": true
+      },
+      {
+        "answer": "The file is placed to working length and rotated clockwise 900 with light pressure to engage dentin; then file is rotated counterclockwise 1200 while apical pressure is maintained to cut and enlarge the canal.",
+        "value": false
+      },
+      {
+        "answer": "After determining the WL, the first active instrument to be inserted should be fine small sized, 0,02 tapered, stainless steel file; once the apical preparation is complete, Gates Glidden are used to further funnel the preparation coronally.",
+        "value": false
+      },
+      {
+        "answer": "After pulp removal with barbed broaches, root canal instrumentation is carried out only with small sized reamers and K-type files.",
+        "value": false
+      },
+      {
+        "answer": "The first file should be rotary.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Intracanal medicaments are advocated to:",
+    "answers": [
+      {
+        "answer": "all listed are the properties of intracanal medicaments;",
+        "value": true
+      },
+      {
+        "answer": "eliminate bacteria after chemomechanical instrumentation;",
+        "value": false
+      },
+      {
+        "answer": "reduce inflammation of the periapical tissues;",
+        "value": false
+      },
+      {
+        "answer": "dissolve remaining organic material;",
+        "value": false
+      },
+      {
+        "answer": "counteract coronal microleakage;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Endodontic needles for delivery of irrigants are manufactured with:",
+    "answers": [
+      {
+        "answer": "a cut away tip to allow irrigant to pass out sideways and reduce the risk of apical extrusion;",
+        "value": true
+      },
+      {
+        "answer": "a sharp tip to allow the irrigant to flow exactly to the apical hole;",
+        "value": false
+      },
+      {
+        "answer": "both cut away tip and sharp tip, thus dentist can choose for himself;",
+        "value": false
+      },
+      {
+        "answer": "a ball-ended tip to prevent damage of periodontal ligament;",
+        "value": false
+      },
+      {
+        "answer": "Very short working length for safe work in root canals;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Name the solutions that can NOT be used as irrigants in medicament treatment of root canals:",
+    "answers": [
+      {
+        "answer": "AH plus;",
+        "value": true
+      },
+      {
+        "answer": "5,25% sodium hypochlorite;",
+        "value": false
+      },
+      {
+        "answer": "2% chlorhexidini;",
+        "value": false
+      },
+      {
+        "answer": "3% sodium hypochloride;",
+        "value": false
+      },
+      {
+        "answer": "Dikamfen;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is generally considered to be the best irrigant in endodontic practice?",
+    "answers": [
+      {
+        "answer": "5% dilute sodium hypochlorite;",
+        "value": true
+      },
+      {
+        "answer": "3% H2O2 ;",
+        "value": false
+      },
+      {
+        "answer": "0,2% chlorhexidini;",
+        "value": false
+      },
+      {
+        "answer": "distillated water;",
+        "value": false
+      },
+      {
+        "answer": "37% orthophosphoric acid;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In especially narrow and sclerosed root canals to facilitate passing and enlargement of root canals, additional chemical expansion is conducted. Name the solutions that are used in this case:",
+    "answers": [
+      {
+        "answer": "products based on EDTA;",
+        "value": true
+      },
+      {
+        "answer": "10% polyacrylic acid;",
+        "value": false
+      },
+      {
+        "answer": "products based on Bis-GMA;",
+        "value": false
+      },
+      {
+        "answer": "products based on TEGDMA;",
+        "value": false
+      },
+      {
+        "answer": "products based on RMGIC;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What drugs are used to facilitate passing and enlargement of root canals in especially narrow and sclerosed root canals?",
+    "answers": [
+      {
+        "answer": "products based on EDTA;",
+        "value": true
+      },
+      {
+        "answer": "10% polyacrylic acid;",
+        "value": false
+      },
+      {
+        "answer": "products based on Bis-GMA;",
+        "value": false
+      },
+      {
+        "answer": "products based on TEGDMA;",
+        "value": false
+      },
+      {
+        "answer": "products based on RMGIC;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are the drugs for chemical enlargement of root canals, except products based on EDTA?",
+    "answers": [
+      {
+        "answer": "A solutions of citric and propionic acids;",
+        "value": true
+      },
+      {
+        "answer": "10% polyacrylic acid;",
+        "value": false
+      },
+      {
+        "answer": "products based on Bis-GMA;",
+        "value": false
+      },
+      {
+        "answer": "Polyalkenoic acid;",
+        "value": false
+      },
+      {
+        "answer": "Sol. of orthophosphoric acid;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are the advantages of root canal orifices enlargement in RCT?",
+    "answers": [
+      {
+        "answer": "all listed are the advantages of root canal orifices enlargement;",
+        "value": true
+      },
+      {
+        "answer": "effectively decrease the curvature in the coronal part of the root canal;",
+        "value": false
+      },
+      {
+        "answer": "allows straighter access for files to the apical region;",
+        "value": false
+      },
+      {
+        "answer": "allows improved access for the flow of irrigant solution within the canal;",
+        "value": false
+      },
+      {
+        "answer": "reduces the probability of apical extrusion of infected material;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During endodontic treatment the fracture of stainless steel file was occurred. What is the most convenient method of fractured instrument removal?",
+    "answers": [
+      {
+        "answer": "Ultrasonic vibration is applied;",
+        "value": true
+      },
+      {
+        "answer": "To leave instrument in canal and never mention about this;",
+        "value": false
+      },
+      {
+        "answer": "To remove it with fingers;",
+        "value": false
+      },
+      {
+        "answer": "To use conventional handpiece and burs for removal;",
+        "value": false
+      },
+      {
+        "answer": "Prescribe the antibiotics;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The clinician is going to perform RCT by step-back technique. Name basic stages of this technique?",
+    "answers": [
+      {
+        "answer": "After determining the WL, the first active instrument to be inserted should be fine small sized, 0,02 tapered, stainless steel file; once the apical preparation is complete, Gates Glidden are used to continue the preparation coronally.",
+        "value": true
+      },
+      {
+        "answer": "The file is placed to working length and rotated clockwise 90 degree with light pressure to engage dentin; then file is rotated counterclockwise 120 degree while apical pressure is maintained to cut and enlarge the canal.",
+        "value": false
+      },
+      {
+        "answer": "At first H-file № 15, 20 is penetrated root canal; then Gates Glidden drills flaring the coronal segment of root canal is used; then shaping the remaining canal in crown-down approach, using decreasing size of instruments in sequence.",
+        "value": false
+      },
+      {
+        "answer": "After pulp removal with barbed broaches, root canal instrumentation is carried out only with small sized reamers and K-type files.",
+        "value": false
+      },
+      {
+        "answer": "After pulp removal with nerve broaches we should use one size instruments.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During an endodontic treatment of root canal the doctor apply clockwise rotation for 1/2 of a turn with H-file. What possible error may happen if H-file is used with rotation?",
+    "answers": [
+      {
+        "answer": "fracture of an instrument;",
+        "value": true
+      },
+      {
+        "answer": "ledge formation;",
+        "value": false
+      },
+      {
+        "answer": "apical perforation;",
+        "value": false
+      },
+      {
+        "answer": "apical transportation of debris;",
+        "value": false
+      },
+      {
+        "answer": "elbow formation;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The doctor for root canal treatment is going to use step-back instrumentation. What sequence of endodontic instruments should be used for this technique?",
+    "answers": [
+      {
+        "answer": "№10-15-10-20-15-25-20 meaning, the reuse of files; one size smaller than the last one used to prevent blockage of the canal by debris;",
+        "value": true
+      },
+      {
+        "answer": "№25-20-25-15-20-10 meaning, the reuse of files; one size bigger than the last one used to prevent blockage of the canal by debris;",
+        "value": false
+      },
+      {
+        "answer": "to prevent blockage of the canal by debris H-files are used in sequence;",
+        "value": false
+      },
+      {
+        "answer": "№10-15-20-25 and irrigation of canal is required;",
+        "value": false
+      },
+      {
+        "answer": "All answers are correct;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During endodontic RCT according to step-back-instrumentation such sequence of endodontic instruments were used: № 10-15-20-25 sizes of files and reamers. What possible problem may cause such sequence of endodontic instruments sizes? How to manage this problem?",
+    "answers": [
+      {
+        "answer": "Ledge formation; return to a small file curved at the apex to the working length and use this to try and file away the ledge;",
+        "value": true
+      },
+      {
+        "answer": "Fracture of instrument; ultrasonic vibration may be used to facilitate fractured instrument removal;",
+        "value": false
+      },
+      {
+        "answer": "Apical transportation ; the use of flexible files reduces the likelihood of this happening;",
+        "value": false
+      },
+      {
+        "answer": "Strip perforation; anticurvature filing with K-flex files is used to reduce probability of this;",
+        "value": false
+      },
+      {
+        "answer": "Lateral perforation: better access and vision can eliminate this error;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In the patient of 65 years old during endodontic RCT was revealed pulp stone in root canal, this make difficulties in RCT. What means can be used to facilitate root canal passing and enlargement?",
+    "answers": [
+      {
+        "answer": "Gels based on EDTA;",
+        "value": true
+      },
+      {
+        "answer": "Ultrasonic vibrations;",
+        "value": false
+      },
+      {
+        "answer": "EDI is used to dislodge the pulp stone;",
+        "value": false
+      },
+      {
+        "answer": "Sharp probe is used;",
+        "value": false
+      },
+      {
+        "answer": "Solution of polyalkenoic acid;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During endodontic treatment of the 36 tooth in elderly person, dentist revealed that canals are sclerosed and obliterated. What is used to facilitate passing and enlargement of canals?",
+    "answers": [
+      {
+        "answer": "Gels based on EDTA;",
+        "value": true
+      },
+      {
+        "answer": "Ultrasonic vibrations;",
+        "value": false
+      },
+      {
+        "answer": "EDI is used to dislodge the pulp stone;",
+        "value": false
+      },
+      {
+        "answer": "Sharp probe is used;",
+        "value": false
+      },
+      {
+        "answer": "Gels based on phosphoric acid;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "To provide irrigants to the root canal is used:",
+    "answers": [
+      {
+        "answer": "Endodontic safe-ended syringes",
+        "value": true
+      },
+      {
+        "answer": "Aspirating  syringe with labeled parts",
+        "value": false
+      },
+      {
+        "answer": "Miller’s Needles",
+        "value": false
+      },
+      {
+        "answer": "Endodontic sharp-ended syringes",
+        "value": false
+      },
+      {
+        "answer": "physiotherapy",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Step-back technique belongs to:",
+    "answers": [
+      {
+        "answer": "apical-crown treatment methods;",
+        "value": true
+      },
+      {
+        "answer": "crown-apical treatment methods;",
+        "value": false
+      },
+      {
+        "answer": "hybrid method of treatment;",
+        "value": false
+      },
+      {
+        "answer": "Anticurvature filing;",
+        "value": false
+      },
+      {
+        "answer": "Balanced force technique;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Crown-down technique belongs to:",
+    "answers": [
+      {
+        "answer": "crown-apical treatment methods;",
+        "value": true
+      },
+      {
+        "answer": "apical-crown treatment methods;",
+        "value": false
+      },
+      {
+        "answer": "hybrid method of treatment;",
+        "value": false
+      },
+      {
+        "answer": "Anticurvature filing;",
+        "value": false
+      },
+      {
+        "answer": "Balanced force technique;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Absorbent paper points are used for:",
+    "answers": [
+      {
+        "answer": "root canal drying;",
+        "value": true
+      },
+      {
+        "answer": "root canal filing;",
+        "value": false
+      },
+      {
+        "answer": "to provide medications;",
+        "value": false
+      },
+      {
+        "answer": "delivery of irrigants;",
+        "value": false
+      },
+      {
+        "answer": "root canal probing;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Barbed broaches are placed into the root canal to:",
+    "answers": [
+      {
+        "answer": "the feeling of resistance;",
+        "value": true
+      },
+      {
+        "answer": "the phisiological constriction;",
+        "value": false
+      },
+      {
+        "answer": "the anatomical length;",
+        "value": false
+      },
+      {
+        "answer": "to the X-ray apex;",
+        "value": false
+      },
+      {
+        "answer": "till the end of the handle;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which statement is true for qualitative root canal treatment?",
+    "answers": [
+      {
+        "answer": "All answers are correct;",
+        "value": true
+      },
+      {
+        "answer": "To have formed an apical stop.",
+        "value": false
+      },
+      {
+        "answer": "Do not contain a necrotic dentin;",
+        "value": false
+      },
+      {
+        "answer": "To be cleaned and dried;",
+        "value": false
+      },
+      {
+        "answer": "To be sufficiently enlarged and tapered;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the percentage of Iodide solution that is used for root canal medicament treatment?",
+    "answers": [
+      {
+        "answer": "2-5 %",
+        "value": true
+      },
+      {
+        "answer": "0,2 %",
+        "value": false
+      },
+      {
+        "answer": "1 %",
+        "value": false
+      },
+      {
+        "answer": "3 %",
+        "value": false
+      },
+      {
+        "answer": "6 %",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The term ‘pulpotomy’ means:",
+    "answers": [
+      {
+        "answer": "Treatment procedure by which only coronal pulp tissue is surgically removed with the aim of preserving the remaining tissue.",
+        "value": true
+      },
+      {
+        "answer": "Treatment procedure by which entire pulp tissue, often inflamed, is surgically removed and replaced with a root filling.",
+        "value": false
+      },
+      {
+        "answer": "Treatment procedure aimed at preserving a dental pulp that has been exposed to the oral environment.",
+        "value": false
+      },
+      {
+        "answer": "Treatment of inflamed dental pulp by placing therapeutic lining.",
+        "value": false
+      },
+      {
+        "answer": "Treatment of root filled teeth with clinical and/or radiographic signs of root canal infection, where root fillings are removed, canals disinfected and refilled.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The term ‘pulpectomy’ means:",
+    "answers": [
+      {
+        "answer": "Treatment procedure by which entire pulp tissue, often inflamed, is surgically removed and replaced with a root filling.",
+        "value": true
+      },
+      {
+        "answer": "Treatment procedure by which the coronal pulp tissue is surgically removed with the aim of preserving the remaining tissue.",
+        "value": false
+      },
+      {
+        "answer": "Treatment procedure aimed at preserving a dental pulp that has been exposed to the oral environment.",
+        "value": false
+      },
+      {
+        "answer": "Treatment of inflamed dental pulp by placing therapeutic lining.",
+        "value": false
+      },
+      {
+        "answer": "Treatment of root filled teeth with clinical or radiographic signs of root canal infection, where root fillings are removed, canals disinfected and refilled.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient of 65 years old appealed for endodontic RCT; dentist took gel based on EDTA to facilitate root canal passing and enlargement. What possible endodontic problem may influence doctor to use that medication?",
+    "answers": [
+      {
+        "answer": "pulp stone in root canal;",
+        "value": true
+      },
+      {
+        "answer": "intractable infection;",
+        "value": false
+      },
+      {
+        "answer": "elbow formation;",
+        "value": false
+      },
+      {
+        "answer": "fractured instrument;",
+        "value": false
+      },
+      {
+        "answer": "pulp chamber floor perfortion;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The patient appealed to the doctor for endodontic RCT of 36 tooth; on X-ray, curved root canals was revealed. Careless instrumentation of root canals were held, thus fracture of stainless steel file was occurred. What is the most convenient method of fractured instrument removal?",
+    "answers": [
+      {
+        "answer": "Ultrasonic vibration is applied;",
+        "value": true
+      },
+      {
+        "answer": "To leave instrument in canal and never mention about this;",
+        "value": false
+      },
+      {
+        "answer": "To remove it with fingers;",
+        "value": false
+      },
+      {
+        "answer": "To use conventional handpiece and burs for removal;",
+        "value": false
+      },
+      {
+        "answer": "All answers are wrong;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is “master apical file”?",
+    "answers": [
+      {
+        "answer": "File that is used for final treatment of apical part of the root canal to the working length;",
+        "value": true
+      },
+      {
+        "answer": "File that is used in instrumental treatment of root canal orifices;",
+        "value": false
+      },
+      {
+        "answer": "File that is used to estimate working length;",
+        "value": false
+      },
+      {
+        "answer": "File that is used for preparing the apical part of severely curved canals;",
+        "value": false
+      },
+      {
+        "answer": "File that is used for smoothing walls of root canal;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is working length?",
+    "answers": [
+      {
+        "answer": "It is distance from cusp or incisal edge of the crown to the physiological hole;",
+        "value": true
+      },
+      {
+        "answer": "It is distance from root canal orifices to the physiological hole;",
+        "value": false
+      },
+      {
+        "answer": "It is length of the root;",
+        "value": false
+      },
+      {
+        "answer": "It is distance from any prominent point on the crown to the root canal orifices;",
+        "value": false
+      },
+      {
+        "answer": "Any of above;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How can the working length of root canal be estimated?",
+    "answers": [
+      {
+        "answer": "With the help of diagrams, X-ray, electrical devices;",
+        "value": true
+      },
+      {
+        "answer": "Approximately to the dentist’s view;",
+        "value": false
+      },
+      {
+        "answer": "Only with X-ray examination;",
+        "value": false
+      },
+      {
+        "answer": "With canal filer;",
+        "value": false
+      },
+      {
+        "answer": "Any of above;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient complains of continued painful attacks in the teeth on the left side of lower jaw. The pain irradiate to ear and to the back of the head and become stronger with cold and hot food. Lasts protractedly. Objectively: there is a caries cavity on aprexial-medial surface of 36th tooth. Probing is painful on the whole on bottom and causes pain attack. What is the diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute limited pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis.",
+        "value": false
+      },
+      {
+        "answer": "Concretion pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation chronic pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Please, name the electro irritability limit of the pulp with necrosis of crown or root pulp::",
+    "answers": [
+      {
+        "answer": "20-30 mcA;",
+        "value": false
+      },
+      {
+        "answer": "40-80 mcA;",
+        "value": true
+      },
+      {
+        "answer": "30-60 mcA;",
+        "value": false
+      },
+      {
+        "answer": "70-80 mcA;",
+        "value": false
+      },
+      {
+        "answer": "more then 100 mcA.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During deep caries defect localized at:",
+    "answers": [
+      {
+        "answer": "enamel",
+        "value": false
+      },
+      {
+        "answer": "peripheral dentin.",
+        "value": false
+      },
+      {
+        "answer": "deep layers of dentin",
+        "value": true
+      },
+      {
+        "answer": "tooth cavity.",
+        "value": false
+      },
+      {
+        "answer": "root cementum",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What changes on x-ray reveals with acute general pulpitis:",
+    "answers": [
+      {
+        "answer": "periodontal fissure expansion;",
+        "value": false
+      },
+      {
+        "answer": "expansion of bone tissue in with clear outline;",
+        "value": false
+      },
+      {
+        "answer": "expansion of bone tissue in with fuzzy outline,",
+        "value": false
+      },
+      {
+        "answer": "no changes;",
+        "value": true
+      },
+      {
+        "answer": "hypermineralization of of bone tissue",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What changes on x-ray reveals with acute purulent pulpitis:",
+    "answers": [
+      {
+        "answer": "periodontal fissure expansion;",
+        "value": false
+      },
+      {
+        "answer": "expansion of bone tissue in with clear outline;",
+        "value": false
+      },
+      {
+        "answer": "expansion of bone tissue in with fuzzy outline,",
+        "value": false
+      },
+      {
+        "answer": "no changes;",
+        "value": true
+      },
+      {
+        "answer": "hypermineralization of of bone tissue",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What changes on x-ray reveals with acute limited pulpitis:",
+    "answers": [
+      {
+        "answer": "periodontal fissure expansion;;",
+        "value": false
+      },
+      {
+        "answer": "periapical destruction area;",
+        "value": false
+      },
+      {
+        "answer": "bone delution start;",
+        "value": false
+      },
+      {
+        "answer": "no changes;",
+        "value": true
+      },
+      {
+        "answer": "periodontal fissure narrowing.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How does arsenic reacts?:",
+    "answers": [
+      {
+        "answer": "mummify;",
+        "value": false
+      },
+      {
+        "answer": "Anesthesia;",
+        "value": false
+      },
+      {
+        "answer": "antimicrobic ;",
+        "value": false
+      },
+      {
+        "answer": "necrotizing;",
+        "value": true
+      },
+      {
+        "answer": "anti-inflammatory.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How many layers are in pulp with different types of cells?",
+    "answers": [
+      {
+        "answer": "2",
+        "value": false
+      },
+      {
+        "answer": "3",
+        "value": true
+      },
+      {
+        "answer": "4",
+        "value": false
+      },
+      {
+        "answer": "5",
+        "value": false
+      },
+      {
+        "answer": "8",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What type of pulpitis does NOT belongs to acute form of pulpitis:",
+    "answers": [
+      {
+        "answer": "diffuse",
+        "value": false
+      },
+      {
+        "answer": "purulent",
+        "value": false
+      },
+      {
+        "answer": "limited(partial)",
+        "value": false
+      },
+      {
+        "answer": "Traumatic",
+        "value": false
+      },
+      {
+        "answer": "fibrous",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What pain  is characteristic concrement of pulpitis:",
+    "answers": [
+      {
+        "answer": "pain on  the variation of temperature, pain when biting;",
+        "value": false
+      },
+      {
+        "answer": "involuntary, attacking pain with painless intervals  that amplifies  to cold water",
+        "value": false
+      },
+      {
+        "answer": "pain from sharply movements, when the plane flights, sometime with irradiation ;",
+        "value": true
+      },
+      {
+        "answer": "pain when biting, irradiation along the branches of trigeminal nerve",
+        "value": false
+      },
+      {
+        "answer": "Nights pain, aching pain, which decreases from warm irritants.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In what cases can  the  biological (conservative) treatment method of pulp the used:",
+    "answers": [
+      {
+        "answer": "in all cases;",
+        "value": false
+      },
+      {
+        "answer": "at a young age and absence of common diseases;",
+        "value": true
+      },
+      {
+        "answer": "in cavities 1 i 3 classes;",
+        "value": false
+      },
+      {
+        "answer": "after treatment method of vital extirpation  ;",
+        "value": false
+      },
+      {
+        "answer": "when the method of vital amputation  did not give positive results",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which is the rational method of pulp treatment during hyperemia:",
+    "answers": [
+      {
+        "answer": "devital amputation;",
+        "value": false
+      },
+      {
+        "answer": "devitalextirpation ;",
+        "value": false
+      },
+      {
+        "answer": "vital amputation;",
+        "value": false
+      },
+      {
+        "answer": "vital extirpation;",
+        "value": false
+      },
+      {
+        "answer": "biological method.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Which is the rational method of acute partial pulpitis treatment:",
+    "answers": [
+      {
+        "answer": "devital extirpation;",
+        "value": false
+      },
+      {
+        "answer": "devital amputation;",
+        "value": false
+      },
+      {
+        "answer": "vital amputation;",
+        "value": false
+      },
+      {
+        "answer": "vital extirpation;",
+        "value": false
+      },
+      {
+        "answer": "biological method.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Which pastes are used to the imposition on horn of pulp of vital amputation:",
+    "answers": [
+      {
+        "answer": "resorcinol-formalin; pulp at vital amputation",
+        "value": false
+      },
+      {
+        "answer": "arsenic;",
+        "value": false
+      },
+      {
+        "answer": "paraformaldehyde;",
+        "value": false
+      },
+      {
+        "answer": "Calcemin;",
+        "value": true
+      },
+      {
+        "answer": "fluoride.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 37 year old man was diagnosed with chronic pulpitis of 23. He needs an endodontic treatment. What should be the minimal width of apical part of the root (use the ISO classification), after widening it with the endodontic instruments?",
+    "answers": [
+      {
+        "answer": "No less then #25",
+        "value": false
+      },
+      {
+        "answer": "No less then #30",
+        "value": false
+      },
+      {
+        "answer": "No less then #16",
+        "value": false
+      },
+      {
+        "answer": "No less then #45",
+        "value": false
+      },
+      {
+        "answer": "No less then #35",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What is the usual capacity of cartridge anesthetics?",
+    "answers": [
+      {
+        "answer": "1,5 ml",
+        "value": false
+      },
+      {
+        "answer": "1,7 ml",
+        "value": true
+      },
+      {
+        "answer": "1,9 ml",
+        "value": false
+      },
+      {
+        "answer": "2 ml",
+        "value": false
+      },
+      {
+        "answer": "2,5 ml",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The sensory divisions of trigeminum nerve are:",
+    "answers": [
+      {
+        "answer": "Ophthalmic, maxillary and mandibular",
+        "value": true
+      },
+      {
+        "answer": "Maxillary and mandibular",
+        "value": false
+      },
+      {
+        "answer": "Ophthalmic and maxilary",
+        "value": false
+      },
+      {
+        "answer": "Ophthalmic, maxillary, mandibular and mylohyoid",
+        "value": false
+      },
+      {
+        "answer": "just ophthalmic",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which nerves provides innervation to the canines, lateral and central upper incisors?",
+    "answers": [
+      {
+        "answer": "Middle superior alveolar branches of maxillary division",
+        "value": false
+      },
+      {
+        "answer": "Anterior superior alveolar branches of  maxillary division",
+        "value": true
+      },
+      {
+        "answer": "Pterygopalatine nerves",
+        "value": false
+      },
+      {
+        "answer": "Superior labial branches",
+        "value": false
+      },
+      {
+        "answer": "Buccal nerve",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which nerves provides innervation to the upper premolars?",
+    "answers": [
+      {
+        "answer": "Middle superior alveolar branches of maxillary division",
+        "value": true
+      },
+      {
+        "answer": "Anterior superior alveolar branches of  maxillary division",
+        "value": false
+      },
+      {
+        "answer": "Pterygopalatine nerves",
+        "value": false
+      },
+      {
+        "answer": "Superior labial branches",
+        "value": false
+      },
+      {
+        "answer": "Buccal nerve",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The 19 year old girl was diagnosed with acute pulpitis of 36. What kind of anaesthesia should we use at that case?",
+    "answers": [
+      {
+        "answer": "Maxillary",
+        "value": false
+      },
+      {
+        "answer": "Mandibular",
+        "value": true
+      },
+      {
+        "answer": "Mental",
+        "value": false
+      },
+      {
+        "answer": "Infraorbital",
+        "value": false
+      },
+      {
+        "answer": "Topical",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During the endodontic treatment of 34 tooth patient feel the severe pain. What kind of anaesthesia should we use at that case?",
+    "answers": [
+      {
+        "answer": "Maxillar",
+        "value": false
+      },
+      {
+        "answer": "Infraorbital",
+        "value": false
+      },
+      {
+        "answer": "Topical",
+        "value": false
+      },
+      {
+        "answer": "Mental",
+        "value": true
+      },
+      {
+        "answer": "Mandibular",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 34 year old patient was diagnosed with chronic pulpitis of 13 and treated by arsenic paste. 5 days later he felt the high pain during biting. Objectively: vertical and horizontal percussion is painful. What should be the doctors tactics?",
+    "answers": [
+      {
+        "answer": "Pulp extirpation + hermetic bandage with antidote",
+        "value": true
+      },
+      {
+        "answer": "Remove the arsenic paste and pulp, left tooth open for 2-3 day",
+        "value": false
+      },
+      {
+        "answer": "Remove the arsenic paste, put the tooth filling",
+        "value": false
+      },
+      {
+        "answer": "Remove the temporary filling and put arsenic paste iteratedly",
+        "value": false
+      },
+      {
+        "answer": "Wait for 5-6 days more",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Usually, topical anaesthesia is used for:",
+    "answers": [
+      {
+        "answer": "Treatment the middle caries",
+        "value": false
+      },
+      {
+        "answer": "Treatment the deep caries",
+        "value": false
+      },
+      {
+        "answer": "Tooth treatment in children",
+        "value": false
+      },
+      {
+        "answer": "Before anesthesia in non-sedated patients",
+        "value": true
+      },
+      {
+        "answer": "treatment of initial caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What manipulation you need to do before using 5% solution of sodium hypochloridi?",
+    "answers": [
+      {
+        "answer": "To isolate tooth from oral cavity with cofferdame",
+        "value": true
+      },
+      {
+        "answer": "To use apex-locator",
+        "value": false
+      },
+      {
+        "answer": "To do control Xray before tooth filling",
+        "value": false
+      },
+      {
+        "answer": "To use retraction fiber",
+        "value": false
+      },
+      {
+        "answer": "To wash oral cavity with antiseptics",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During the endodontic treatment of 22 patients feel a severe pain. What kind of anaesthesia should we use at that case?",
+    "answers": [
+      {
+        "answer": "Topical",
+        "value": false
+      },
+      {
+        "answer": "Infiltration",
+        "value": false
+      },
+      {
+        "answer": "Narcosis (general anesthesia)",
+        "value": false
+      },
+      {
+        "answer": "Infraorbital and nasopalatinal anaesthesia",
+        "value": false
+      },
+      {
+        "answer": "Infiltration or infraorbital+nasopalatinal",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 26 year old man was diagnosed with acute pulpitis of 16. What kind of anaesthesia should we use in that case?",
+    "answers": [
+      {
+        "answer": "Mandibular and palatinal",
+        "value": false
+      },
+      {
+        "answer": "Infraorbital and palatinal",
+        "value": false
+      },
+      {
+        "answer": "Infraorbital",
+        "value": false
+      },
+      {
+        "answer": "Maxillary",
+        "value": false
+      },
+      {
+        "answer": "Maxillary and palatinal",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 25 year old patient was diagnosed with acute pulpitis – after wrong tooth filling. What method of canal preparation should be used in that case?",
+    "answers": [
+      {
+        "answer": "“Crown down” technics",
+        "value": true
+      },
+      {
+        "answer": "“Step back’’ technics",
+        "value": false
+      },
+      {
+        "answer": "Mixed technics",
+        "value": false
+      },
+      {
+        "answer": "'Crown back' technics",
+        "value": false
+      },
+      {
+        "answer": "“Step down” technics",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During the endodontic treatment of 12 patients feel a severe pain. What kind of anaesthesia should we use at that case?",
+    "answers": [
+      {
+        "answer": "Topical",
+        "value": false
+      },
+      {
+        "answer": "Infiltration",
+        "value": false
+      },
+      {
+        "answer": "Narcosis (general anesthesia)",
+        "value": false
+      },
+      {
+        "answer": "Infraorbital and nasopalatinal anaesthesia",
+        "value": false
+      },
+      {
+        "answer": "Infiltration or infraorbital+nasopalatinal",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 28 year old man complains of eccentric night pain of 25, caused by no irritants. Objectively: deep carious cavity with painful probing. Patient was diagnosed with acute pulpitis. What will be the treatment ?",
+    "answers": [
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Vital extirpation",
+        "value": true
+      },
+      {
+        "answer": "Devital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Devital amputation",
+        "value": false
+      },
+      {
+        "answer": "Biological method (with using the calcium)",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 47 year old woman complains of high eccentric night pain, which was caused witn no irritants. This pain started two days ago and became higher in night time. Cold water makes patient feel better.  Objectively: deep carious cavity with softened dentine. During the probing a drop of pus exuding. What method of treatment should we use in that case?",
+    "answers": [
+      {
+        "answer": "Vital amputation of the crown pulp",
+        "value": false
+      },
+      {
+        "answer": "Vital extirpation under the anaesthesia",
+        "value": true
+      },
+      {
+        "answer": "Extracting the tooth",
+        "value": false
+      },
+      {
+        "answer": "Biological method – with calcium paste",
+        "value": false
+      },
+      {
+        "answer": "Devital amputation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of anaesthesia would you choose during the treatment of pulpitis of 41 tooth?",
+    "answers": [
+      {
+        "answer": "Maxillary",
+        "value": false
+      },
+      {
+        "answer": "Mental",
+        "value": true
+      },
+      {
+        "answer": "Mandibular",
+        "value": false
+      },
+      {
+        "answer": "Infraorbital",
+        "value": false
+      },
+      {
+        "answer": "Glossal",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23 year patient is afraid of pain during anaesthesia. What should you do in that case?",
+    "answers": [
+      {
+        "answer": "Do the treatment under the general anaesthesia",
+        "value": false
+      },
+      {
+        "answer": "Use topical anaesthesia first",
+        "value": true
+      },
+      {
+        "answer": "Use topical anaesthesia only",
+        "value": false
+      },
+      {
+        "answer": "Use hypnosis",
+        "value": false
+      },
+      {
+        "answer": "Use some relaxants",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 27 year old patient was diagnosed with chronic pulpitis of 12 and treated by arsenic paste. 5 days later he felt the high pain during biting. Objectively: vertical and horizontal percussion is painful. What should be the doctor’s tactic?",
+    "answers": [
+      {
+        "answer": "Pulp extirpation + hermetic bandage with antidote",
+        "value": true
+      },
+      {
+        "answer": "Remove the arsenic paste and pulp, left tooth open for 2-3 day",
+        "value": false
+      },
+      {
+        "answer": "Remove the arsenic paste, put the tooth filling",
+        "value": false
+      },
+      {
+        "answer": "Remove the temporary filling and put arsenic paste iteratedly",
+        "value": false
+      },
+      {
+        "answer": "Wait for 5-6 days more",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The 17 year old boy was diagnosed with acute pulpitis of 36. What kind of anaesthesia should we use at that case?",
+    "answers": [
+      {
+        "answer": "Maxillary",
+        "value": false
+      },
+      {
+        "answer": "Infiltration",
+        "value": false
+      },
+      {
+        "answer": "Mental",
+        "value": false
+      },
+      {
+        "answer": "Mandibular",
+        "value": true
+      },
+      {
+        "answer": "Topical",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 55 year old man complains of eccentric night pain of 14, caused by no irritants. Objectively: deep carious cavity with painful probing and horizontal percussion. Patient was diagnosed with acute pulpitis. What will be the treatment if he had the cardiac history (2 month ago)  in anamnesis?",
+    "answers": [
+      {
+        "answer": "Vital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Devital extirpation",
+        "value": true
+      },
+      {
+        "answer": "Devital amputation",
+        "value": false
+      },
+      {
+        "answer": "Biological method (with using the calcium)",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 47 year old man complains of eccentric night pain of 25, caused by no irritants. Objectively: deep carious cavity with painful probing. Patient was diagnosed with acute pulpitis. What will be the treatment?",
+    "answers": [
+      {
+        "answer": "Vital extirpation",
+        "value": true
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Devital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Devital amputation",
+        "value": false
+      },
+      {
+        "answer": "Biological method (with using the calcium)",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 18 year old patient complains of tooth  pain of his 25, caused by cold water and food. Objectively: deep carious cavity with softened dentine and painful probing. What will be the treatment ?",
+    "answers": [
+      {
+        "answer": "Vital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Devital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Devital amputation",
+        "value": false
+      },
+      {
+        "answer": "Biological method (with using the calcium)",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Patient was diagnosed with acute purulent pulpitis. What will be the most effective solution to clean the root canals?",
+    "answers": [
+      {
+        "answer": "distilled water",
+        "value": false
+      },
+      {
+        "answer": "3% solution of hydrogen peroxide",
+        "value": false
+      },
+      {
+        "answer": "1% solution of dekamini",
+        "value": false
+      },
+      {
+        "answer": "3% solution of natrium hypochloridi",
+        "value": true
+      },
+      {
+        "answer": "All this solutions can be used",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 26 year old man was diagnosed with chronic pulpitis of 13. He needs an endodontic treatment. What should be the minimal width of  apical part of the root (use the ISO classification),  after widening it with the endodontic instruments?",
+    "answers": [
+      {
+        "answer": "No less than #25",
+        "value": false
+      },
+      {
+        "answer": "No less than #15",
+        "value": false
+      },
+      {
+        "answer": "No less than #16",
+        "value": false
+      },
+      {
+        "answer": "No less than #60",
+        "value": false
+      },
+      {
+        "answer": "No less than #35",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What  of the following is not a part of arsenious paste?",
+    "answers": [
+      {
+        "answer": "Antiseptics (thymol, eugenol)",
+        "value": false
+      },
+      {
+        "answer": "Painkillers substances (anestezin)",
+        "value": false
+      },
+      {
+        "answer": "Binding means",
+        "value": false
+      },
+      {
+        "answer": "Lactic acid.",
+        "value": true
+      },
+      {
+        "answer": "Zinc oxide",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient 50-year old dentist treated 17 tooth with the chronic fibrous pulpitis. Method of treatment - devital extirpation. Medially-buccal canal 17 of the tooth root through rugged. The complete extirpation of the pulp of the canal failed. Which of the listed materials are appropriate in this clinical situation to obturation of root canals?",
+    "answers": [
+      {
+        "answer": "Foredent",
+        "value": true
+      },
+      {
+        "answer": "Phosphate cement",
+        "value": false
+      },
+      {
+        "answer": "Endomethazon",
+        "value": false
+      },
+      {
+        "answer": "Silapeks",
+        "value": false
+      },
+      {
+        "answer": "AH – plus",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "If  instrument is broken in the root canal during treatment what it is necessary to do first?",
+    "answers": [
+      {
+        "answer": "Radiography",
+        "value": true
+      },
+      {
+        "answer": "Inform the patient",
+        "value": false
+      },
+      {
+        "answer": "Immediately try to pull the tool",
+        "value": false
+      },
+      {
+        "answer": "Measure of the instrument remained in the hands of the dentist",
+        "value": false
+      },
+      {
+        "answer": "Remove tooth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Women 29 years old diagnosed with acute diffuse pulpitis of 23 tooth. Due to the severe negative reaction to the patient for medical manipulations doctor put arsenic paste at the most painful area on the bottom of the cavity and covered it with water dentin. 4 hours the patient returned complaining of unbearable pain. What is the most probable cause greater pain?",
+    "answers": [
+      {
+        "answer": "Not intended analgesics",
+        "value": true
+      },
+      {
+        "answer": "Not done premedication",
+        "value": false
+      },
+      {
+        "answer": "Inadequate dose of arsenious feed",
+        "value": false
+      },
+      {
+        "answer": "Overdose arsenious feed",
+        "value": false
+      },
+      {
+        "answer": "Not carried out by local anesthesia",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What endocrine disease may present with pigmented lesions of the oral mucosa?",
+    "answers": [
+      {
+        "answer": "Addison’s disease;",
+        "value": true
+      },
+      {
+        "answer": "diabetes mellitus",
+        "value": false
+      },
+      {
+        "answer": "menopause;",
+        "value": false
+      },
+      {
+        "answer": "hyperacidity gastritis;",
+        "value": false
+      },
+      {
+        "answer": "cholecystitis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Addison-Biermer disease caused by deficiency of vitamin:",
+    "answers": [
+      {
+        "answer": "B1;",
+        "value": false
+      },
+      {
+        "answer": "B12;",
+        "value": true
+      },
+      {
+        "answer": "B6;",
+        "value": false
+      },
+      {
+        "answer": "C;",
+        "value": false
+      },
+      {
+        "answer": "D",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are NOT the clinical symptoms of hypothyroidism?",
+    "answers": [
+      {
+        "answer": "weakness, fatigue;",
+        "value": false
+      },
+      {
+        "answer": "intolerance to cold, dryness of the skin;",
+        "value": false
+      },
+      {
+        "answer": "changes in weight, constipation;",
+        "value": false
+      },
+      {
+        "answer": "headache, menorrhagia;",
+        "value": false
+      },
+      {
+        "answer": "prolonged sweating, flu-like infections",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What pathology does have the following symptoms: macrocheilitis, macro hlosiya, gingival hyperplasia, increasing dental arch, extensions interdental spaces, where food is delayed periodontal tissue inflammation?",
+    "answers": [
+      {
+        "answer": "adrenal pathology;",
+        "value": false
+      },
+      {
+        "answer": "liver pathology;",
+        "value": false
+      },
+      {
+        "answer": "pathology of pituitary;",
+        "value": true
+      },
+      {
+        "answer": "thyroid pathology;",
+        "value": false
+      },
+      {
+        "answer": "cancer of the mandible.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are the manifestations of excessive amount of honadopropin?",
+    "answers": [
+      {
+        "answer": "atrophy of the gums;",
+        "value": false
+      },
+      {
+        "answer": "swelling of the mucosa and gums;",
+        "value": true
+      },
+      {
+        "answer": "trophic ulcers on the palate;",
+        "value": false
+      },
+      {
+        "answer": "alveolar osteoporosis, expansion of periodontal fissure;",
+        "value": false
+      },
+      {
+        "answer": "enamel hypoplasia, violation of dentin formation.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During exam of 17 year old patient a doctor reaveled the following symptoms: disorder of teeth eruption, hypodontiya, abnormalities of enamel development, increasing tongue and lips, swollen gums are pale. What pathology does have the listed above symptoms?",
+    "answers": [
+      {
+        "answer": "adrenal pathology;",
+        "value": false
+      },
+      {
+        "answer": "liver pathology;",
+        "value": false
+      },
+      {
+        "answer": "hyperfunction of pituitary;",
+        "value": false
+      },
+      {
+        "answer": "thyroid hypofunction;",
+        "value": true
+      },
+      {
+        "answer": "cancer of the mandible.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What disease does occur at thyroid hypofunction?",
+    "answers": [
+      {
+        "answer": "Itsenko – Cushing;",
+        "value": false
+      },
+      {
+        "answer": "Addison disease;",
+        "value": false
+      },
+      {
+        "answer": "myxedema;",
+        "value": true
+      },
+      {
+        "answer": "diabetes;",
+        "value": false
+      },
+      {
+        "answer": "thyrotoxicosis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During oral exam a doctor reaveled an alveolar osteoporosis, expansion of periodontal fissure. The patient treated in endocrinologist. What gland pathology does have the listed above symptoms?",
+    "answers": [
+      {
+        "answer": "parathyroid hypofunction",
+        "value": false
+      },
+      {
+        "answer": "parathyroid hyperfunction;",
+        "value": true
+      },
+      {
+        "answer": "hyperfunction of pituitary;",
+        "value": false
+      },
+      {
+        "answer": "thyroid hypofunction;",
+        "value": false
+      },
+      {
+        "answer": "pancreas hyperfunction.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The treatment of catarrhal gingivatis during menstrual period or ovulation includes:",
+    "answers": [
+      {
+        "answer": "antibiotics;",
+        "value": false
+      },
+      {
+        "answer": "korticosteroids;",
+        "value": false
+      },
+      {
+        "answer": "UV exposure;",
+        "value": false
+      },
+      {
+        "answer": "just constant care for oral hygiene;",
+        "value": true
+      },
+      {
+        "answer": "cryomassage.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During oral cavity exam of 56 year old patient, a doctor reaveled desquamative gingivitis. The patient complains about burning tongue and lips. These symptoms indicate:",
+    "answers": [
+      {
+        "answer": "hyperacidity gastritis;",
+        "value": false
+      },
+      {
+        "answer": "menopause;",
+        "value": true
+      },
+      {
+        "answer": "Addison’s disease;",
+        "value": false
+      },
+      {
+        "answer": "diabetes mellitus.",
+        "value": false
+      },
+      {
+        "answer": "coronary heart disease;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patients with diabetes can  have following changes in the oral cavity:",
+    "answers": [
+      {
+        "answer": "xerostomia, catarrhal stomatitis and glossitis, fungal stomatitis, micotic angular helitis, paresthesia of oral mucosa, trophic disorders;",
+        "value": true
+      },
+      {
+        "answer": "atrophy of the gums, appearance of erytems, glosodynia, chronic desquamative gingivitis.",
+        "value": false
+      },
+      {
+        "answer": "recurrent aphthous stomatitis, gingival hyperplasia;",
+        "value": false
+      },
+      {
+        "answer": "macrogenia, hyperkeratosis, gum atrophy;",
+        "value": false
+      },
+      {
+        "answer": "expansion interdental spaces, macroglossia, macrocheilia, macrognatia, gingival hyperplasia.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient has developed alveolar bone resorption after long-term treatment of rheumatic disease. The cause of this pathology is:",
+    "answers": [
+      {
+        "answer": "prolonged use of estrogens;",
+        "value": false
+      },
+      {
+        "answer": "accession of secondary infection;",
+        "value": false
+      },
+      {
+        "answer": "prolonged use of corticosteroids;",
+        "value": true
+      },
+      {
+        "answer": "menopause;",
+        "value": false
+      },
+      {
+        "answer": "disbacteriosis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Changes in the oral cavity at large focal myocardial infarction are:",
+    "answers": [
+      {
+        "answer": "atrophy of the gums, appearance of erytems, glosodynia, chronic desquamative gingivitis;",
+        "value": false
+      },
+      {
+        "answer": "recurrent aphthous stomatitis, gingival hyperplasia;",
+        "value": false
+      },
+      {
+        "answer": "xerostomia, catarrhal stomatitis and glossitis, fungal stomatitis, micotic angular helitis, paresthesia of oral mucosa, trophic disorders;",
+        "value": false
+      },
+      {
+        "answer": "cracks, erosions, ulcers, bleeding in papillary and among papillary tongue tissues;",
+        "value": true
+      },
+      {
+        "answer": "expansion interdental spaces, macroglossia, macrocheilia, macrognatia, gingival hyperplasia.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Medicines for cleaning of the trophic ulcers from necrotic tissues and acceleration of epithelialization in cardiovascular disease are:",
+    "answers": [
+      {
+        "answer": "antibiotics, sodium bicarbonate;",
+        "value": false
+      },
+      {
+        "answer": "homeopathic remedies;",
+        "value": false
+      },
+      {
+        "answer": "enzymes, vitamins A, E, C, P;",
+        "value": true
+      },
+      {
+        "answer": "hydrogen peroxide, kapromin, tincture of hawthorn berries;",
+        "value": false
+      },
+      {
+        "answer": "boric acid, tiouratsyl.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During patient exam were identified multiple telangiectasias, angiomatous growths on the nose, cheeks, lips, tongue lining and on the face, especially on the wings of the nose and earlobes. Patient complains about frequent profuse bleeding from the nose and oral mucosa. Platelet count bleeding time and blood's ability to coagulate are normally.These symptomth indicate:",
+    "answers": [
+      {
+        "answer": "haemophilia;",
+        "value": false
+      },
+      {
+        "answer": "hemorrhagic anhiomatosis;",
+        "value": true
+      },
+      {
+        "answer": "hypertension;",
+        "value": false
+      },
+      {
+        "answer": "hemorrhagic diathesis;",
+        "value": false
+      },
+      {
+        "answer": "Addison’s disease.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Hyperplastic glossitis is observed at:",
+    "answers": [
+      {
+        "answer": "gastroenteritis;",
+        "value": false
+      },
+      {
+        "answer": "biliary tract disease;",
+        "value": false
+      },
+      {
+        "answer": "gastritis with reduced secretion;",
+        "value": false
+      },
+      {
+        "answer": "gastritis with increased secretion;",
+        "value": true
+      },
+      {
+        "answer": "nervous system diseasee",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Changes on the oral mucosa at peptic and duodenal ulcer complicated by bleeding, are:",
+    "answers": [
+      {
+        "answer": "oral mucosa becomes pale pink, soft palate – yellow;",
+        "value": false
+      },
+      {
+        "answer": "pigmentation of hard and soft palate mucosa in a brown colored spots;",
+        "value": false
+      },
+      {
+        "answer": "oral mucosa becomes pale, weak;",
+        "value": true
+      },
+      {
+        "answer": "catarrhal stomatitis with bright red areas;",
+        "value": false
+      },
+      {
+        "answer": "oral mucosa becomes cyanotic with hemorrhagic blisters.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "At gastro-intestinal tract diseases patients complains about:",
+    "answers": [
+      {
+        "answer": "vomiting, diarrhea, fever;",
+        "value": false
+      },
+      {
+        "answer": "xerostomia, angular heilitis, crusts on lips;",
+        "value": false
+      },
+      {
+        "answer": "distortion of taste, appearance aphthaes in the mouth, changes and burning of tongue;",
+        "value": true
+      },
+      {
+        "answer": "areas of hyperkeratosis on the tongue and lips, aphthae;",
+        "value": false
+      },
+      {
+        "answer": "chronic recurrent cracks on the lips, taste distortion, diarrhea.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Changes on the oral mucosa, typical for late stages and exacerbation of peptic ulcer, colitis, enterocolitis are:",
+    "answers": [
+      {
+        "answer": "oral mucosa becomes pale pink, soft palate – yellow;",
+        "value": false
+      },
+      {
+        "answer": "pigmentation of hard and soft palate mucosa in a brown colored spots;",
+        "value": false
+      },
+      {
+        "answer": "oral mucosa becomes pale;",
+        "value": false
+      },
+      {
+        "answer": "ulcer lesions, erosions, aphthaes;",
+        "value": true
+      },
+      {
+        "answer": "oral mucosa becomes cyanotic with hemorrhagic blisters.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Typical changes on the oral mucosa at myxedema, cretinism are:",
+    "answers": [
+      {
+        "answer": "macrogenia, hyperkeratosis, gum atrophy;",
+        "value": false
+      },
+      {
+        "answer": "expansion interdental spaces, macroglossia, macrocheilia, macrognatia, gingival hyperplasia.",
+        "value": false
+      },
+      {
+        "answer": "chronic desquamative gingivitis, macrogenia, crowding of teeth;",
+        "value": false
+      },
+      {
+        "answer": "disorder of teeth eruption, hipodontia, enamel abnormalities, increase the tongue and lips, swollen pale gums;",
+        "value": true
+      },
+      {
+        "answer": "puffy gums, appearance of erosions, ulcers, candidiasis, imprints of teeth on the tongue, cheeks.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What changes are typical in oral mucosa at parathyroid hypofunction?",
+    "answers": [
+      {
+        "answer": "gum atrophy;",
+        "value": false
+      },
+      {
+        "answer": "swollen mucous membrane and gums;",
+        "value": false
+      },
+      {
+        "answer": "trophic ulcers on palate;",
+        "value": false
+      },
+      {
+        "answer": "generalized periodontitis;",
+        "value": false
+      },
+      {
+        "answer": "enamel hypoplasia, disorders of dentin formation.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What changes are typical in oral mucosa at parathyroid hyperfunction?",
+    "answers": [
+      {
+        "answer": "gum atrophy;",
+        "value": false
+      },
+      {
+        "answer": "swollen mucous membrane and gums;",
+        "value": false
+      },
+      {
+        "answer": "trophic ulcers on palate;",
+        "value": false
+      },
+      {
+        "answer": "alveolar osteoporosis, extension of periodontal fissure;",
+        "value": true
+      },
+      {
+        "answer": "enamel hypoplasia, disorders of dentin formation.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Hormone, that increases the number of osteoclast, osteolysis by osteoclasts, inhibits collagen synthesis which weakens the binding ability of bone is:",
+    "answers": [
+      {
+        "answer": "somatotropin;",
+        "value": false
+      },
+      {
+        "answer": "calcitonin;",
+        "value": false
+      },
+      {
+        "answer": "parathyroid hormone;",
+        "value": true
+      },
+      {
+        "answer": "insulin;",
+        "value": false
+      },
+      {
+        "answer": "oxytocin.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Hormone that plays an essential role in the age involution of alveolar process and jaws in the postmenopausal period is:",
+    "answers": [
+      {
+        "answer": "cortisone;",
+        "value": false
+      },
+      {
+        "answer": "calcitonin;",
+        "value": true
+      },
+      {
+        "answer": "thyroxine;",
+        "value": false
+      },
+      {
+        "answer": "testosterone.",
+        "value": false
+      },
+      {
+        "answer": "parathyroid hormone;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Itsenko-Cushing disease is:",
+    "answers": [
+      {
+        "answer": "parathyroid hypofunction;",
+        "value": false
+      },
+      {
+        "answer": "adrenal hyperfunction;",
+        "value": true
+      },
+      {
+        "answer": "pituitary hyperfunction;",
+        "value": false
+      },
+      {
+        "answer": "pituitary hypofunction;",
+        "value": false
+      },
+      {
+        "answer": "hyperfunction of pancreas.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Addison’s disease is:",
+    "answers": [
+      {
+        "answer": "parathyroid hypofunction;",
+        "value": false
+      },
+      {
+        "answer": "adrenal hyperfunction;",
+        "value": false
+      },
+      {
+        "answer": "pituitary hyperfunction;",
+        "value": false
+      },
+      {
+        "answer": "adrenal hypofunction;",
+        "value": true
+      },
+      {
+        "answer": "hyperfunction of pancreas.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Addison’s disease should be differentiated with:",
+    "answers": [
+      {
+        "answer": "syndrome Peyttsa –Jeghers, deposition of heavy metals;",
+        "value": true
+      },
+      {
+        "answer": "congenital pigmentation, lichen planus;",
+        "value": false
+      },
+      {
+        "answer": "melanoma;",
+        "value": false
+      },
+      {
+        "answer": "leukoplakia, chronic injury;",
+        "value": false
+      },
+      {
+        "answer": "hemangioma, lichen planus.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Clinical symptoms of pregnant gingivitis at the second half of pregnancy:",
+    "answers": [
+      {
+        "answer": "catarrhal gingivitis, the gum edge becomes bright red, swelling, bleeds easily;",
+        "value": false
+      },
+      {
+        "answer": "cyanotic, increased dark red gums, develops hypertrophic gingivitis;",
+        "value": true
+      },
+      {
+        "answer": "necrotising gums papillae have dirty gray color, develops ulcerative gingivitis;",
+        "value": false
+      },
+      {
+        "answer": "pale drying gums, develops atrophy;",
+        "value": false
+      },
+      {
+        "answer": "gums edge has a bright red color with numerous erosion painful ulcers covered with fibrinous coating.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Deficiency of which hormone, described below, leads to diabetes:",
+    "answers": [
+      {
+        "answer": "cortisone;",
+        "value": false
+      },
+      {
+        "answer": "calcitonin;",
+        "value": false
+      },
+      {
+        "answer": "parathyroid hormone;",
+        "value": false
+      },
+      {
+        "answer": "thyroxine;",
+        "value": false
+      },
+      {
+        "answer": "insulin.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "A 57 year old man arrived in the emergency department without consciousness. During examination of patient, doctor noticed the cyanosis of oral mucosa, bright red tongue, erosions, ulcers, hemorrhages in the tongue tissues. These symptoms indicate:",
+    "answers": [
+      {
+        "answer": "hypoglycemic shock;",
+        "value": false
+      },
+      {
+        "answer": "hyperglycemic shock;",
+        "value": false
+      },
+      {
+        "answer": "large focal myocardial infarction;",
+        "value": true
+      },
+      {
+        "answer": "stenocardia;",
+        "value": false
+      },
+      {
+        "answer": "hypertensive crisis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In case of hypertensive disease, in oral cavity can occur the following symptoms:",
+    "answers": [
+      {
+        "answer": "trophic ulcers on the tongue;",
+        "value": false
+      },
+      {
+        "answer": "chronic recurrent aphthous stomatitis, gingival hyperplasia;",
+        "value": false
+      },
+      {
+        "answer": "cracks, erosions, ulcers, hemorrhages on the tongue tissue;",
+        "value": false
+      },
+      {
+        "answer": "hemorrhagic blisters on the oral mucosa;",
+        "value": true
+      },
+      {
+        "answer": "xerostomia, catarrhal stomatitis and glossitis.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of oral changes are typical for diseases of the nervous system?",
+    "answers": [
+      {
+        "answer": "chronic recurrent aphthous stomatitis, diamond-shaped glossitis, hairy tongue;",
+        "value": true
+      },
+      {
+        "answer": "catarrhal gingivitis, atopic heilitis;",
+        "value": false
+      },
+      {
+        "answer": "cracks, erosions, ulcers, hemorrhages on the tongue tissue;",
+        "value": false
+      },
+      {
+        "answer": "hemorrhagic blisters on the oral mucosa;",
+        "value": false
+      },
+      {
+        "answer": "gingival hyperplasia, macroglossia, macrognatia.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient is suffering from ischemic heart disease during 12 years. What is a color of mucous membrane on the soft palate at this pathology?",
+    "answers": [
+      {
+        "answer": "bluish;",
+        "value": true
+      },
+      {
+        "answer": "intense red;",
+        "value": false
+      },
+      {
+        "answer": "yellowish;",
+        "value": false
+      },
+      {
+        "answer": "pink;",
+        "value": false
+      },
+      {
+        "answer": "spotty pink.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of stomatitis is a typical sign of enterocolitis?",
+    "answers": [
+      {
+        "answer": "acite recurrent aphthous stomatitis;",
+        "value": false
+      },
+      {
+        "answer": "chronic herpetic;",
+        "value": false
+      },
+      {
+        "answer": "acute herpetic;",
+        "value": false
+      },
+      {
+        "answer": "ulcerative-necrotic.",
+        "value": false
+      },
+      {
+        "answer": "chronic recurrent aphthous stomatitis;",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Glossalgia is a:",
+    "answers": [
+      {
+        "answer": "autoimmune tongue disease;",
+        "value": false
+      },
+      {
+        "answer": "neurogenic tongue disease characterized by paraesthesia in the front two-thirds of the tongue, sometimes at the tip;",
+        "value": true
+      },
+      {
+        "answer": "acquired disease, blood clotting disorder and generalized vascular lesions as a result of long-term action of toxic agents;",
+        "value": false
+      },
+      {
+        "answer": "hereditary disease, congenital sensory disturbances;",
+        "value": false
+      },
+      {
+        "answer": "hereditary disease, congenital disorders epithelial keratinization.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Insulin is produced by:",
+    "answers": [
+      {
+        "answer": "islands of Langerhans;",
+        "value": true
+      },
+      {
+        "answer": "Pirogov-Lanhhansa cells;",
+        "value": false
+      },
+      {
+        "answer": "alpha cells of the pancreas;",
+        "value": false
+      },
+      {
+        "answer": "labrotsyts;",
+        "value": false
+      },
+      {
+        "answer": "stem cells.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are the changes in oral mucosa at excessive amounts of thyrotropin?",
+    "answers": [
+      {
+        "answer": "atrophy of the gums;",
+        "value": false
+      },
+      {
+        "answer": "trophic ulcers on the palate;",
+        "value": false
+      },
+      {
+        "answer": "alveolar osteoporosis, extension of periodontal fissure;",
+        "value": false
+      },
+      {
+        "answer": "enamel hypoplasia, violation of dentin formation;",
+        "value": false
+      },
+      {
+        "answer": "swelling of the mucous.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What is violated in diabetes?",
+    "answers": [
+      {
+        "answer": "carbohydrate exchange, ph of blood in the alkaline side;",
+        "value": false
+      },
+      {
+        "answer": "mineral metabolism;",
+        "value": false
+      },
+      {
+        "answer": "vitamins balance;",
+        "value": false
+      },
+      {
+        "answer": "synthesis of glycogen, oxygen exchange;",
+        "value": false
+      },
+      {
+        "answer": "protein, fat, carbohydrate metabolism.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Thyroid-stimulating hormone is hormone of :",
+    "answers": [
+      {
+        "answer": "thyroid gland;",
+        "value": false
+      },
+      {
+        "answer": "parathyroid glands;",
+        "value": false
+      },
+      {
+        "answer": "pituitary;",
+        "value": true
+      },
+      {
+        "answer": "adrenal glands;",
+        "value": false
+      },
+      {
+        "answer": "pancreas.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "50 years old patient has a dysfunction of the gastrointestinal tract, blood forming and nervous systems. Skin and oral mucous membrane are pale, with yellow shade, sometimes there are dotted haemorrhage. Make a diagnosis.",
+    "answers": [
+      {
+        "answer": "leukopenia;",
+        "value": false
+      },
+      {
+        "answer": "leukemia;",
+        "value": false
+      },
+      {
+        "answer": "trombocytopenic purpura;",
+        "value": false
+      },
+      {
+        "answer": "hypo avitaminosis C;",
+        "value": false
+      },
+      {
+        "answer": "B-12 (folate-) deficiency anemia.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "The vitamin, that regulates the processes of maturation and keratinization of the epithelium, increases the resistance of mucous membrane to various traumatic irritant factors is:",
+    "answers": [
+      {
+        "answer": "thiamine;",
+        "value": false
+      },
+      {
+        "answer": "riboflavin;",
+        "value": false
+      },
+      {
+        "answer": "retinol;",
+        "value": true
+      },
+      {
+        "answer": "nicotinamide:",
+        "value": false
+      },
+      {
+        "answer": "cobalamin.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What can develope in case of B1 avitaminosis?",
+    "answers": [
+      {
+        "answer": "gout;",
+        "value": false
+      },
+      {
+        "answer": "pellarha;",
+        "value": true
+      },
+      {
+        "answer": "scurvy;",
+        "value": false
+      },
+      {
+        "answer": "Beri-beri;",
+        "value": false
+      },
+      {
+        "answer": "megaloblastic anemia.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "There are prymary and secondary pathological elements. How can you describe term “tubercle”?",
+    "answers": [
+      {
+        "answer": "limited to large size compaction (from hazelnut to chicken eggs) that reaches the submucosal base;",
+        "value": false
+      },
+      {
+        "answer": "infiltrative without cavity element is rounded up to pea that stands above the mucosa. Infiltration takes all layers of the mucous;",
+        "value": true
+      },
+      {
+        "answer": "without cavity element pointed, semicircular, circular, acting above the mucosa. Infiltrate located in the papillary layer of own plate mucous membrane;",
+        "value": false
+      },
+      {
+        "answer": "cavernous element with significant size filled with liquid;",
+        "value": false
+      },
+      {
+        "answer": "cavernous lesion with a wall and contents.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patient was diagnosed with herpes infection in his lower lip. During examination a few pustules was revealed. Pustule is:",
+    "answers": [
+      {
+        "answer": "small bubble with serous content, located on the mucosa;",
+        "value": false
+      },
+      {
+        "answer": "little bubble with purulent content placed on the skin and lips red border up to 5 mm;",
+        "value": true
+      },
+      {
+        "answer": "without cavity formation tends to suppurate, viral etiology;",
+        "value": false
+      },
+      {
+        "answer": "without cavity formation with hemorrhagic content larger than 5 mm;",
+        "value": false
+      },
+      {
+        "answer": "without cavity formation of purulent hemorrhagic content located intraepithelial.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What does term “hyperkeratosis” mean?",
+    "answers": [
+      {
+        "answer": "incomplete cornification associated with the loss of the ability of epithelial cells to produce keratohialin;",
+        "value": false
+      },
+      {
+        "answer": "excessive thickening of the stratum corneum of the epithelium;",
+        "value": true
+      },
+      {
+        "answer": "disturbances of cornification of individual epithelium cells;",
+        "value": false
+      },
+      {
+        "answer": "intercellular edema between the keratinocytes in the epidermis.",
+        "value": false
+      },
+      {
+        "answer": "accumulation of fluid within cells of basal and spiny layers;",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which following examination methods are not laboratory examination?",
+    "answers": [
+      {
+        "answer": "clinical test of blood and urine;",
+        "value": false
+      },
+      {
+        "answer": "cytological exam, biopsy;",
+        "value": false
+      },
+      {
+        "answer": "bacteriological examination, bacterioscopy;",
+        "value": false
+      },
+      {
+        "answer": "fluorescent studies, prick test;",
+        "value": true
+      },
+      {
+        "answer": "cytochemical serological studies.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During patient examination  cavernous element, filled with liquid was detected. What is that?",
+    "answers": [
+      {
+        "answer": "blister;",
+        "value": true
+      },
+      {
+        "answer": "crack;",
+        "value": false
+      },
+      {
+        "answer": "aphthae;",
+        "value": false
+      },
+      {
+        "answer": "erosion;",
+        "value": false
+      },
+      {
+        "answer": "tubercle.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What pathologic element from the listed is secondary:",
+    "answers": [
+      {
+        "answer": "blister;",
+        "value": false
+      },
+      {
+        "answer": "node;",
+        "value": false
+      },
+      {
+        "answer": "nodule;",
+        "value": false
+      },
+      {
+        "answer": "spot;",
+        "value": false
+      },
+      {
+        "answer": "lichenization.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Find correct “scar” term determination:",
+    "answers": [
+      {
+        "answer": "area of connective tissue that replaces the defective mucosa occurred at damage;",
+        "value": true
+      },
+      {
+        "answer": "defect of the mucous membrane within the connective tissue layer;",
+        "value": false
+      },
+      {
+        "answer": "superficial epithelial defect round or oval shape with a diameter of 0.3-0.5 mm in the area of inflammatory mucous membrane covered with fibrinous white or yellow effusion;",
+        "value": false
+      },
+      {
+        "answer": "defect in the surface layer of the epithelium;",
+        "value": false
+      },
+      {
+        "answer": "plate with desquamation keratinized epithelial cells.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During examination  of  25 y.o. patient  symmetrical hillocks near 6th maxillary molars were detected. What can it be?:",
+    "answers": [
+      {
+        "answer": "sweat glands;",
+        "value": false
+      },
+      {
+        "answer": "Mikulych aphthae;",
+        "value": false
+      },
+      {
+        "answer": "sebaceous glands;",
+        "value": false
+      },
+      {
+        "answer": "parotid maxillary duct;",
+        "value": true
+      },
+      {
+        "answer": "atsynoz glands.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the test that is needed for tuberculosis detecting?",
+    "answers": [
+      {
+        "answer": "Supracutaneous tularin test",
+        "value": false
+      },
+      {
+        "answer": "Burne test",
+        "value": false
+      },
+      {
+        "answer": "Anthracene test",
+        "value": false
+      },
+      {
+        "answer": "Schick test",
+        "value": false
+      },
+      {
+        "answer": "Mantoux test",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What laboratory test is perfomed for syphilis detecting?",
+    "answers": [
+      {
+        "answer": "Wassermann test",
+        "value": true
+      },
+      {
+        "answer": "Mantoux test",
+        "value": false
+      },
+      {
+        "answer": "Shiller-Pisarev test",
+        "value": false
+      },
+      {
+        "answer": "Prick test",
+        "value": false
+      },
+      {
+        "answer": "Nikolskyy sign",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A doctor used novocaine as an anaesthetic during surgical manipulations. 10 minutes after patient became pale, he got dyspnea and hypotension. What type of allergic reaction is it?",
+    "answers": [
+      {
+        "answer": "Anaphylactic",
+        "value": true
+      },
+      {
+        "answer": "Cell-mediated",
+        "value": false
+      },
+      {
+        "answer": "Cytotoxic",
+        "value": false
+      },
+      {
+        "answer": "Stimulating",
+        "value": false
+      },
+      {
+        "answer": "Immune complex",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mucous membrane of a patient's oral cavity has a greyish-white focus, the mass is dense and protrudes above the mucous membran E. Histological examination revealed hyperkeratosis, parakeratosis and acanthosis of epithelium in this are A. What pathological process was revealed in the mucous membrane?",
+    "answers": [
+      {
+        "answer": "Leukoplakia",
+        "value": true
+      },
+      {
+        "answer": "Hyalinosis",
+        "value": false
+      },
+      {
+        "answer": "Inflammation",
+        "value": false
+      },
+      {
+        "answer": "Focal ichthyosis",
+        "value": false
+      },
+      {
+        "answer": "Leukoderm",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "25 year old patient complains of gum bleeding, itching in oral cavity, angular cheilitis, teeth mobility. It’s know from the anamnesis that last two years patient spent in Siberia. Deficiency of what vitamin can cause this changes?",
+    "answers": [
+      {
+        "answer": "A",
+        "value": false
+      },
+      {
+        "answer": "B1",
+        "value": false
+      },
+      {
+        "answer": "C",
+        "value": true
+      },
+      {
+        "answer": "D3",
+        "value": false
+      },
+      {
+        "answer": "PP",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "34 y.o. patient was diagnosed with scurvy. Deficiency of what vitamin can cause these changes?",
+    "answers": [
+      {
+        "answer": "A",
+        "value": false
+      },
+      {
+        "answer": "B12",
+        "value": false
+      },
+      {
+        "answer": "C",
+        "value": true
+      },
+      {
+        "answer": "PP",
+        "value": false
+      },
+      {
+        "answer": "B1",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What will be the symptoms of fissured tongue?",
+    "answers": [
+      {
+        "answer": "Inflammation, bleeding of tongue",
+        "value": false
+      },
+      {
+        "answer": "Tongue is oedematic, with hyperemia",
+        "value": false
+      },
+      {
+        "answer": "Tongue is covered with grey plaque",
+        "value": false
+      },
+      {
+        "answer": "Presence of fissures, no pain",
+        "value": true
+      },
+      {
+        "answer": "Precence of desquamation areas similar to geographic map",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What will be the symptoms of desquamative glossitis?",
+    "answers": [
+      {
+        "answer": "Inflammation, bleeding of tongue",
+        "value": false
+      },
+      {
+        "answer": "Tongue is oedematic, with hyperemia",
+        "value": false
+      },
+      {
+        "answer": "Tongue is covered with grey plaque",
+        "value": false
+      },
+      {
+        "answer": "Presence of fissures, no pain",
+        "value": false
+      },
+      {
+        "answer": "Precence of desquamation areas similar to geographic map",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What will be the symptoms of hairy tongue?",
+    "answers": [
+      {
+        "answer": "Inflammation, bleeding of tongue",
+        "value": false
+      },
+      {
+        "answer": "Tongue papillae are inlarged, brown with lot of plaque",
+        "value": true
+      },
+      {
+        "answer": "Tongue is covered with hair",
+        "value": false
+      },
+      {
+        "answer": "Presence of fissures, no pain",
+        "value": false
+      },
+      {
+        "answer": "Precence of desquamation areas similar to geographic map",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Desquamative glossitis is, also, known as:",
+    "answers": [
+      {
+        "answer": "Hairy tongue",
+        "value": false
+      },
+      {
+        "answer": "Geographic tongue",
+        "value": true
+      },
+      {
+        "answer": "Median rhomboid tongue",
+        "value": false
+      },
+      {
+        "answer": "Erosive tongue",
+        "value": false
+      },
+      {
+        "answer": "Rapid tongue",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "For hairy tongue treatment next methods can be used:",
+    "answers": [
+      {
+        "answer": "Criotherapy",
+        "value": false
+      },
+      {
+        "answer": "Electrocoagulation",
+        "value": false
+      },
+      {
+        "answer": "Laser",
+        "value": false
+      },
+      {
+        "answer": "Suturing",
+        "value": false
+      },
+      {
+        "answer": "Criotherapy, coagulation or laser",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "22 year old female patient was diagnosed with meteorological cheilitis. What will be the treatment?",
+    "answers": [
+      {
+        "answer": "Antibiotics",
+        "value": false
+      },
+      {
+        "answer": "Antiseptics",
+        "value": false
+      },
+      {
+        "answer": "Ointments",
+        "value": true
+      },
+      {
+        "answer": "Surgical treatment",
+        "value": false
+      },
+      {
+        "answer": "Antiviral",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "18 year female patient complains on lip burning and redness which she noticed after new lipstic using. What will be the diagnosis?",
+    "answers": [
+      {
+        "answer": "Angular cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Actinic cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Allergic cheilitis",
+        "value": true
+      },
+      {
+        "answer": "Exfoliative cheilitis",
+        "value": false
+      },
+      {
+        "answer": "Rhomboid glossitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "18 year female patient complains on lip burning and redness which she noticed after new lipstic using. What will be the treatment in that case?",
+    "answers": [
+      {
+        "answer": "Antihistamine ointment",
+        "value": true
+      },
+      {
+        "answer": "Antiviral medicine",
+        "value": false
+      },
+      {
+        "answer": "Antiseptic medicine",
+        "value": false
+      },
+      {
+        "answer": "No treatment is needed",
+        "value": false
+      },
+      {
+        "answer": "Antibiotics for 7 days",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What will be the main symptoms of eczematous cheilitis?",
+    "answers": [
+      {
+        "answer": "Hyperemia, infiltration of lip borders",
+        "value": false
+      },
+      {
+        "answer": "Brown or yellow crusts on the lips",
+        "value": false
+      },
+      {
+        "answer": "Lip bleeding, hyperemia",
+        "value": false
+      },
+      {
+        "answer": "Lip hyperemia, burning, scales on the lips and surrounding skin",
+        "value": true
+      },
+      {
+        "answer": "Pain in the lips corner",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What can provoke contact allergic cheilitis?",
+    "answers": [
+      {
+        "answer": "Flowers",
+        "value": false
+      },
+      {
+        "answer": "Dust",
+        "value": false
+      },
+      {
+        "answer": "Injection of anesthetic",
+        "value": false
+      },
+      {
+        "answer": "Polymer dentures",
+        "value": true
+      },
+      {
+        "answer": "Bee sticking",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the main factor in contact allergic cheilitis treatment?",
+    "answers": [
+      {
+        "answer": "Removing the causative reason",
+        "value": true
+      },
+      {
+        "answer": "Antiseptics prescribing",
+        "value": false
+      },
+      {
+        "answer": "Oral hygiene improving",
+        "value": false
+      },
+      {
+        "answer": "Traumatic factors removing",
+        "value": false
+      },
+      {
+        "answer": "Antihistamines prescribing",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What factors are in etiology of meteorological cheilitis?",
+    "answers": [
+      {
+        "answer": "Allergy",
+        "value": false
+      },
+      {
+        "answer": "Bad habits, climatic factors",
+        "value": true
+      },
+      {
+        "answer": "Carcinogens",
+        "value": false
+      },
+      {
+        "answer": "Radiation",
+        "value": false
+      },
+      {
+        "answer": "Infections",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is causative factor for tuberculosis?",
+    "answers": [
+      {
+        "answer": "Streptococcus",
+        "value": false
+      },
+      {
+        "answer": "Stafilococcus",
+        "value": false
+      },
+      {
+        "answer": "Treponema pallidum",
+        "value": false
+      },
+      {
+        "answer": "Candida albicans",
+        "value": false
+      },
+      {
+        "answer": "Bacillus Kochii",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What is the main symptom of prymary syphilis?",
+    "answers": [
+      {
+        "answer": "Chancre",
+        "value": true
+      },
+      {
+        "answer": "Pustule",
+        "value": false
+      },
+      {
+        "answer": "Edema",
+        "value": false
+      },
+      {
+        "answer": "Scar",
+        "value": false
+      },
+      {
+        "answer": "Guma",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Guma is a symptom of:",
+    "answers": [
+      {
+        "answer": "Tetriary syphilis",
+        "value": true
+      },
+      {
+        "answer": "Primary syphilis",
+        "value": false
+      },
+      {
+        "answer": "Secondary syphilis",
+        "value": false
+      },
+      {
+        "answer": "Tuberculosis",
+        "value": false
+      },
+      {
+        "answer": "Gonorrhea",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During additional examination of 44 year old male patient was found positive Wassermann test. What will be the diagnosis at that case?",
+    "answers": [
+      {
+        "answer": "AIDS",
+        "value": false
+      },
+      {
+        "answer": "HIV",
+        "value": false
+      },
+      {
+        "answer": "Tuberculosis",
+        "value": false
+      },
+      {
+        "answer": "Syphilis",
+        "value": true
+      },
+      {
+        "answer": "Gonorrhea",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Objective examination of the patient include:",
+    "answers": [
+      {
+        "answer": "Anamnesis taking",
+        "value": false
+      },
+      {
+        "answer": "Intraoral and extraoral examination",
+        "value": true
+      },
+      {
+        "answer": "History of disease from the patients words",
+        "value": false
+      },
+      {
+        "answer": "Complaints of the patient",
+        "value": false
+      },
+      {
+        "answer": "Just additional examination methods",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What diagnostic method is held with the help of pulptester?",
+    "answers": [
+      {
+        "answer": "EOD (Electric pulp test)",
+        "value": true
+      },
+      {
+        "answer": "X-ray",
+        "value": false
+      },
+      {
+        "answer": "Nikolskyy test",
+        "value": false
+      },
+      {
+        "answer": "Wassermann test",
+        "value": false
+      },
+      {
+        "answer": "Blood test",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What examination method can help to get roentgenologic picture of selected bone layer?",
+    "answers": [
+      {
+        "answer": "Tomography",
+        "value": true
+      },
+      {
+        "answer": "Local X-ray",
+        "value": false
+      },
+      {
+        "answer": "Panoramic X-ray",
+        "value": false
+      },
+      {
+        "answer": "Radiovisiography",
+        "value": false
+      },
+      {
+        "answer": "Intraoral X-ray",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What examination method can help us to know the specifics of oral cavity microflora?",
+    "answers": [
+      {
+        "answer": "X-ray",
+        "value": false
+      },
+      {
+        "answer": "Blood test",
+        "value": false
+      },
+      {
+        "answer": "Microbiological tests",
+        "value": true
+      },
+      {
+        "answer": "Tomography",
+        "value": false
+      },
+      {
+        "answer": "Biopsy",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the main way of infecting oral mucosa by tuberculosis?",
+    "answers": [
+      {
+        "answer": "Alimentary way – microorganisms gets into oral mucosa from food",
+        "value": false
+      },
+      {
+        "answer": "Microorganisms gets into oral mucosa with blood",
+        "value": false
+      },
+      {
+        "answer": "Microorganism gets into oral mucous membrane as result of reinfecrion – with sputum in trauma places",
+        "value": true
+      },
+      {
+        "answer": "Microorganisms gets into oral mucous membrane with lymph",
+        "value": false
+      },
+      {
+        "answer": "Microorganisms gets into oral mucous membrane during injection with not clear instrument",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the main way of syphilis infection?",
+    "answers": [
+      {
+        "answer": "Sexual",
+        "value": true
+      },
+      {
+        "answer": "Alimentary",
+        "value": false
+      },
+      {
+        "answer": "During transfusion",
+        "value": false
+      },
+      {
+        "answer": "With air",
+        "value": false
+      },
+      {
+        "answer": "Hematogenous",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How long does syphilis incubation period lasts?",
+    "answers": [
+      {
+        "answer": "5-6 days",
+        "value": false
+      },
+      {
+        "answer": "1-2 weeks",
+        "value": false
+      },
+      {
+        "answer": "1 year",
+        "value": false
+      },
+      {
+        "answer": "3-4 weeks",
+        "value": true
+      },
+      {
+        "answer": "12 weeks",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are clinical signs of incubation period of syphilis?",
+    "answers": [
+      {
+        "answer": "High temperature, gum bleeding",
+        "value": false
+      },
+      {
+        "answer": "Red papules on the face",
+        "value": false
+      },
+      {
+        "answer": "Redness and itching of affected area",
+        "value": false
+      },
+      {
+        "answer": "No symptoms",
+        "value": true
+      },
+      {
+        "answer": "Red plaque on the tongue",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How many syphilis stages do you know?",
+    "answers": [
+      {
+        "answer": "Prymary and secondary",
+        "value": false
+      },
+      {
+        "answer": "Prymary, secondary and tetriary",
+        "value": true
+      },
+      {
+        "answer": "Incubation perion, secondary and tetriary",
+        "value": false
+      },
+      {
+        "answer": "Just prymary",
+        "value": false
+      },
+      {
+        "answer": "Earlier and late",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During additional examination 22 year old student with oral mucous membrane pathology Тreponema pallidum was revealed. What will be the diagnosis?",
+    "answers": [
+      {
+        "answer": "Leprosy",
+        "value": false
+      },
+      {
+        "answer": "Syphilis",
+        "value": true
+      },
+      {
+        "answer": "Gonorrhea",
+        "value": false
+      },
+      {
+        "answer": "AIDS",
+        "value": false
+      },
+      {
+        "answer": "Flu",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "25 year old patient was diagnosed with syphilis. What microorganism was found during microbiological examination?",
+    "answers": [
+      {
+        "answer": "Тreponema pallidum",
+        "value": true
+      },
+      {
+        "answer": "Candida albicans",
+        "value": false
+      },
+      {
+        "answer": "Streptococcus mutans",
+        "value": false
+      },
+      {
+        "answer": "Bacillus Kochii",
+        "value": false
+      },
+      {
+        "answer": "Retrovirus",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the most common time of tetriary syphilis beginning?",
+    "answers": [
+      {
+        "answer": "5-6 weeks after infection",
+        "value": false
+      },
+      {
+        "answer": "Month after infection",
+        "value": false
+      },
+      {
+        "answer": "1 year after infection",
+        "value": false
+      },
+      {
+        "answer": "4-6 years after infection",
+        "value": true
+      },
+      {
+        "answer": "10-20 days after infection",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What laboratory tests are used for syphilis detecting?",
+    "answers": [
+      {
+        "answer": "Microbiological, serological",
+        "value": true
+      },
+      {
+        "answer": "Allergic",
+        "value": false
+      },
+      {
+        "answer": "General blood tests",
+        "value": false
+      },
+      {
+        "answer": "Biopsy",
+        "value": false
+      },
+      {
+        "answer": "X-ray",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the main way of gonorrhea infection?",
+    "answers": [
+      {
+        "answer": "Sexual",
+        "value": true
+      },
+      {
+        "answer": "Alimentary",
+        "value": false
+      },
+      {
+        "answer": "During transfusion",
+        "value": false
+      },
+      {
+        "answer": "With infected air",
+        "value": false
+      },
+      {
+        "answer": "Hematogenous",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the main way of diphtheria infection?",
+    "answers": [
+      {
+        "answer": "Sexual",
+        "value": true
+      },
+      {
+        "answer": "Alimentary",
+        "value": false
+      },
+      {
+        "answer": "During transfusion",
+        "value": false
+      },
+      {
+        "answer": "With infected air",
+        "value": false
+      },
+      {
+        "answer": "Hematogenous",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which from the listed diseases are used for the differential diagnostics with diphtheria?",
+    "answers": [
+      {
+        "answer": "Infectional mononucleosis",
+        "value": true
+      },
+      {
+        "answer": "Syphilis",
+        "value": false
+      },
+      {
+        "answer": "Gonorrheal stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Leukosis",
+        "value": false
+      },
+      {
+        "answer": "Hooping cough",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During editional examination of 23 years old patient Nikolskyy sign was used. What will be results of positive Nikolskyy sign?",
+    "answers": [
+      {
+        "answer": "Purulent exudate can be revealed after blisters cutting",
+        "value": false
+      },
+      {
+        "answer": "The outer epidermis separates easily from the basal layer on exertion of firm sliding manual pressure",
+        "value": true
+      },
+      {
+        "answer": "The outer epidermis become pale after weak pressure",
+        "value": false
+      },
+      {
+        "answer": "Gums are bleeding after weak pressure with probe",
+        "value": false
+      },
+      {
+        "answer": "Tooth is sensitive to cold water",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "For oral cavity the most common places of lichen planus lesions are:",
+    "answers": [
+      {
+        "answer": "Retromolar area, biting line, lateral tongue surface",
+        "value": true
+      },
+      {
+        "answer": "Soft palate, tonsils",
+        "value": false
+      },
+      {
+        "answer": "Hard palate and soft palate",
+        "value": false
+      },
+      {
+        "answer": "Tongue and tonsils",
+        "value": false
+      },
+      {
+        "answer": "Gums",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What editional examination is nesessary in case of dermathoses?",
+    "answers": [
+      {
+        "answer": "Cytological",
+        "value": true
+      },
+      {
+        "answer": "Blood test",
+        "value": false
+      },
+      {
+        "answer": "Skin prick test",
+        "value": false
+      },
+      {
+        "answer": "Nikolskyy symptom",
+        "value": false
+      },
+      {
+        "answer": "CPITN",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Prymary pathological element in case of lichen planus is:",
+    "answers": [
+      {
+        "answer": "Pustula",
+        "value": false
+      },
+      {
+        "answer": "Spot",
+        "value": false
+      },
+      {
+        "answer": "Papula",
+        "value": true
+      },
+      {
+        "answer": "Ulcer",
+        "value": false
+      },
+      {
+        "answer": "Scar",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Lichen ruber planus most commonly affects:",
+    "answers": [
+      {
+        "answer": "Women",
+        "value": true
+      },
+      {
+        "answer": "Men",
+        "value": false
+      },
+      {
+        "answer": "Children",
+        "value": false
+      },
+      {
+        "answer": "Old people",
+        "value": false
+      },
+      {
+        "answer": "Newborns",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What can provoke lichen ruber planus?",
+    "answers": [
+      {
+        "answer": "Stress",
+        "value": true
+      },
+      {
+        "answer": "Cold temperature",
+        "value": false
+      },
+      {
+        "answer": "Allergy for food",
+        "value": false
+      },
+      {
+        "answer": "Anaesthetics injection",
+        "value": false
+      },
+      {
+        "answer": "Incorrect antibiotics taking",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Symptoms of lichen ruber planus can be finded on:",
+    "answers": [
+      {
+        "answer": "Oral mucous membrane only",
+        "value": false
+      },
+      {
+        "answer": "Skin only",
+        "value": false
+      },
+      {
+        "answer": "Oral mucous membrane and skin",
+        "value": true
+      },
+      {
+        "answer": "Internal organs",
+        "value": false
+      },
+      {
+        "answer": "Hair",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During editional examination of 33 years old patient was performed Nikolskyy sign, which was negative. What will be results of positive Nikolskyy sign?",
+    "answers": [
+      {
+        "answer": "Purulent exudate can be revealed after blisters cutting",
+        "value": false
+      },
+      {
+        "answer": "The outer epidermis separates easily from the basal layer on exertion of firm sliding manual pressure",
+        "value": true
+      },
+      {
+        "answer": "The outer epidermis become pale after weak pressure",
+        "value": false
+      },
+      {
+        "answer": "Gums are bleeding after weak pressure with probe",
+        "value": false
+      },
+      {
+        "answer": "Teeth are painful after cold water",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During the anamnesis taking of 64 year old patient diabetes was revealed. Deficiency of which hormone, described below, leads to diabetes:",
+    "answers": [
+      {
+        "answer": "Cortisone",
+        "value": false
+      },
+      {
+        "answer": "Calcitonin",
+        "value": false
+      },
+      {
+        "answer": "Parathyroid hormone",
+        "value": false
+      },
+      {
+        "answer": "Thyroxine",
+        "value": false
+      },
+      {
+        "answer": "Insulin",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What is the specific structure of the oral mucosa?",
+    "answers": [
+      {
+        "answer": "The predominance of the epithelial layer.",
+        "value": false
+      },
+      {
+        "answer": "The dominance of the base matter of mucosal layer.",
+        "value": false
+      },
+      {
+        "answer": "The predominance of mucous glands in the mucosal layer.",
+        "value": false
+      },
+      {
+        "answer": "High content of cellular structures.",
+        "value": false
+      },
+      {
+        "answer": "Well-developed submucosal layer.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What is the specific structure of the tongue mucosa:",
+    "answers": [
+      {
+        "answer": "Hypertrophied epithelial layer.",
+        "value": false
+      },
+      {
+        "answer": "Significant infiltration of leukocytes in epithelial layer.",
+        "value": false
+      },
+      {
+        "answer": "The dominance of ground substance in the mucous layer.",
+        "value": false
+      },
+      {
+        "answer": "Preferred fibrous structures.",
+        "value": false
+      },
+      {
+        "answer": "Lack of submucosal layer.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Where are fungiform papillae located?",
+    "answers": [
+      {
+        "answer": "Tip of the tongue.",
+        "value": true
+      },
+      {
+        "answer": "The front third.",
+        "value": false
+      },
+      {
+        "answer": "Across the back surface of the tongue",
+        "value": false
+      },
+      {
+        "answer": "Lateral surface.",
+        "value": false
+      },
+      {
+        "answer": "Root of the tongue",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Where the leaf buds  are located?",
+    "answers": [
+      {
+        "answer": "Tip of the tongue.",
+        "value": false
+      },
+      {
+        "answer": "The front third of the tongue.",
+        "value": false
+      },
+      {
+        "answer": "Back surface of the tongue",
+        "value": false
+      },
+      {
+        "answer": "Lateral surface.",
+        "value": true
+      },
+      {
+        "answer": "Root of the tongue.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Why the back surface of the tongue has a whitish color?",
+    "answers": [
+      {
+        "answer": "Becouse of filiform papillae keratinization.",
+        "value": true
+      },
+      {
+        "answer": "Fungiform buds keratinization.",
+        "value": false
+      },
+      {
+        "answer": "Becouse of plaque",
+        "value": false
+      },
+      {
+        "answer": "Becouse of candida albicans",
+        "value": false
+      },
+      {
+        "answer": "Becouse of leukoplakia",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What caused the mobility of the oral mucosa:",
+    "answers": [
+      {
+        "answer": "Epithelial layer keratinization.",
+        "value": false
+      },
+      {
+        "answer": "Submucosal layer development.",
+        "value": true
+      },
+      {
+        "answer": "Granular layer development",
+        "value": false
+      },
+      {
+        "answer": "Fibrous structure of mucous layer.",
+        "value": false
+      },
+      {
+        "answer": "Lancet-shaped cells layering.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What glands are located in the red border of lips?",
+    "answers": [
+      {
+        "answer": "Globallus",
+        "value": false
+      },
+      {
+        "answer": "Sweat.",
+        "value": false
+      },
+      {
+        "answer": "Sebaceous.",
+        "value": true
+      },
+      {
+        "answer": "Serous.",
+        "value": false
+      },
+      {
+        "answer": "Prostate.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What caused the red coloration of lip red border?",
+    "answers": [
+      {
+        "answer": "Orthokeratosis level.",
+        "value": false
+      },
+      {
+        "answer": "Development of capillary vessels grid.",
+        "value": true
+      },
+      {
+        "answer": "The number of sebaceous glands.",
+        "value": false
+      },
+      {
+        "answer": "Development level of the salivary glands",
+        "value": false
+      },
+      {
+        "answer": "Development level of muscular layer.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which nerve provides the sensitivity of the mucous membrane of lips, the front two-thirds of the tongue?",
+    "answers": [
+      {
+        "answer": "Nasopalatinal.",
+        "value": false
+      },
+      {
+        "answer": "Trigeminal.",
+        "value": true
+      },
+      {
+        "answer": "Bussal.",
+        "value": false
+      },
+      {
+        "answer": "Glossopharyngeal.",
+        "value": false
+      },
+      {
+        "answer": "Vagus",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which nerve provides the sensitivity of posterior third of the tongue mucosa?",
+    "answers": [
+      {
+        "answer": "Nasopalatinal",
+        "value": false
+      },
+      {
+        "answer": "Trigeminal,",
+        "value": false
+      },
+      {
+        "answer": "Bussal,",
+        "value": false
+      },
+      {
+        "answer": "Glossopharyngeal.",
+        "value": true
+      },
+      {
+        "answer": "Vagus.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which nerve perceives taste sensitivity in the anterior two-thirds of the tongue?",
+    "answers": [
+      {
+        "answer": "Trigeminal.",
+        "value": false
+      },
+      {
+        "answer": "Facial.",
+        "value": true
+      },
+      {
+        "answer": "Lingual.",
+        "value": false
+      },
+      {
+        "answer": "Vagus.",
+        "value": false
+      },
+      {
+        "answer": "Glossopharyngeal.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the function of taste buds?",
+    "answers": [
+      {
+        "answer": "Organoliptic analysis of food.",
+        "value": false
+      },
+      {
+        "answer": "Excitation of taste analyzer.",
+        "value": false
+      },
+      {
+        "answer": "Regulation of saliva secretion.",
+        "value": false
+      },
+      {
+        "answer": "Regulation of gastro-intestinal tract secretion.",
+        "value": true
+      },
+      {
+        "answer": "Swallowing regulation.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of immunoglobulin performs the basic function of saliva specific protection?",
+    "answers": [
+      {
+        "answer": "Ig A",
+        "value": true
+      },
+      {
+        "answer": "Ig G",
+        "value": false
+      },
+      {
+        "answer": "Ig M",
+        "value": false
+      },
+      {
+        "answer": "Ig E",
+        "value": false
+      },
+      {
+        "answer": "Ig D",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the saliva protection factors is the most active against anaerobic, spore forming anaerobes?",
+    "answers": [
+      {
+        "answer": "Ig A",
+        "value": false
+      },
+      {
+        "answer": "Ig G",
+        "value": false
+      },
+      {
+        "answer": "Phagocytes",
+        "value": false
+      },
+      {
+        "answer": "Complement",
+        "value": false
+      },
+      {
+        "answer": "Lysine",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What is saliva?",
+    "answers": [
+      {
+        "answer": "The fluid that is in the mouth.",
+        "value": false
+      },
+      {
+        "answer": "The secret of the salivary glands, which is released in the mouth.",
+        "value": true
+      },
+      {
+        "answer": "Oral fluid containing mucus and protein components",
+        "value": false
+      },
+      {
+        "answer": "Oral liquid containing microorganisms and their metabolic products.",
+        "value": false
+      },
+      {
+        "answer": "Oral liquid containing salivary cells and factors of epithelium-specific and nonspecific protection.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How much of salive is normally secreted per day?",
+    "answers": [
+      {
+        "answer": "500 ml.",
+        "value": false
+      },
+      {
+        "answer": "1000 ml.",
+        "value": false
+      },
+      {
+        "answer": "1500 ml.",
+        "value": true
+      },
+      {
+        "answer": "2000 ml.",
+        "value": false
+      },
+      {
+        "answer": "2500 ml.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How much water does saliva contain?",
+    "answers": [
+      {
+        "answer": "65 — 70%.",
+        "value": false
+      },
+      {
+        "answer": "76,5 — 79%.",
+        "value": false
+      },
+      {
+        "answer": "80 — 89,5%.",
+        "value": false
+      },
+      {
+        "answer": "90 — 99%.",
+        "value": true
+      },
+      {
+        "answer": "99,4%.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "How much of organic and inorganic substances does saliva contains?",
+    "answers": [
+      {
+        "answer": "30 — 43%.",
+        "value": false
+      },
+      {
+        "answer": "21,0 — 23,5%.",
+        "value": false
+      },
+      {
+        "answer": "10,5 — 20,0%.",
+        "value": false
+      },
+      {
+        "answer": "1 — 10%.",
+        "value": true
+      },
+      {
+        "answer": "0,56%.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Cyst - is:",
+    "answers": [
+      {
+        "answer": "Bladder filled with serous exudate.",
+        "value": false
+      },
+      {
+        "answer": "Bladder filled with purulent exudate.",
+        "value": false
+      },
+      {
+        "answer": "Cavity formation that has connective tissue shell filled with serous exudate.",
+        "value": true
+      },
+      {
+        "answer": "Cavity formation that has connective tissue shell filled with purulent exudate.",
+        "value": false
+      },
+      {
+        "answer": "Cavity formation that has connective tissue shell.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is roseola?",
+    "answers": [
+      {
+        "answer": "Inflammatory spot diameter of 0.5 cm.",
+        "value": false
+      },
+      {
+        "answer": "Inflammatory spot diameter of 1 cm.",
+        "value": false
+      },
+      {
+        "answer": "Inflammatory spot diameter of 1.5 cm.",
+        "value": true
+      },
+      {
+        "answer": "Non-inflammatory spot diameter of 1 cm.",
+        "value": false
+      },
+      {
+        "answer": "Pigment spots of noninflammatory etiology.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The main clinical signs of acute mechanical trauma:",
+    "answers": [
+      {
+        "answer": "Profuse growth, pain during food intaking",
+        "value": false
+      },
+      {
+        "answer": "Pain during food intaking, bleeding from damadged area, ulcers, erosions",
+        "value": true
+      },
+      {
+        "answer": "Acute pain, rapid edema of damaged area",
+        "value": false
+      },
+      {
+        "answer": "Blisters, pain during food intaking",
+        "value": false
+      },
+      {
+        "answer": "Ulcers, crusts, scales",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are the principles of local treatment of patients with acute mechanical injury:",
+    "answers": [
+      {
+        "answer": "Irritating factor elimination, antibiotics.",
+        "value": false
+      },
+      {
+        "answer": "Antiseptic, decayed teeth removing, reflexology.",
+        "value": false
+      },
+      {
+        "answer": "Irritating factor elimination, anti-inflammatory therapy, electrophoresis with calcium gluconate.",
+        "value": false
+      },
+      {
+        "answer": "Irritating factor elimination, surgery if needed.",
+        "value": true
+      },
+      {
+        "answer": "Irritating factor elimination, antiseptic treatment, cryotherapy.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Causes of chronic mechanical injury:",
+    "answers": [
+      {
+        "answer": "Sharp edges of teeth, smoking, malocclusion.",
+        "value": false
+      },
+      {
+        "answer": "Sharp edges of teeth and fillings, wrong corrected dentures.",
+        "value": true
+      },
+      {
+        "answer": "Plaque, sharp edges of the teeth, use of irritating foods.",
+        "value": false
+      },
+      {
+        "answer": "Sharp edges of teeth, wrong corrected dentures, incidental damage to the mucosa.",
+        "value": false
+      },
+      {
+        "answer": "Wrong corrected dentures, long use of drugs, smoking.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The main clinical signs of chronic mechanical trauma:",
+    "answers": [
+      {
+        "answer": "Pain, polymorphism, pale mucous membrane.",
+        "value": false
+      },
+      {
+        "answer": "Pain, swelling, redness of the oral mucosa, erosion, ulcers, plaques hypertrophy.",
+        "value": true
+      },
+      {
+        "answer": "Weak pain in the mouth, erosion, bright redness.",
+        "value": false
+      },
+      {
+        "answer": "Asymptomatic flow, hyperemic mucosa, single ulcer.",
+        "value": false
+      },
+      {
+        "answer": "Asymptomatic leakage, erosion or ulceration with thick edges, plaques, mucous pale pink.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Basic principles of local treatment of chronic mechanical trauma:",
+    "answers": [
+      {
+        "answer": "Removal of plaque, symptomatic therapy, cryotherapy, UHF.",
+        "value": false
+      },
+      {
+        "answer": "Eliminating irritating factor, symptomatic therapy, electrophoresis with calcium gluconate.",
+        "value": false
+      },
+      {
+        "answer": "Decayed teeth removal, symptomatic therapy, electrophoresis aloe.",
+        "value": false
+      },
+      {
+        "answer": "Dentures correction, symptomatic therapy, physiotherapy.",
+        "value": true
+      },
+      {
+        "answer": "Eliminating irritating factors.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What causes thermal injury:",
+    "answers": [
+      {
+        "answer": "Hot water.",
+        "value": false
+      },
+      {
+        "answer": "Overheated items, caustic liquids.",
+        "value": false
+      },
+      {
+        "answer": "Superheated dental instruments, defective dentures, fillings sharp edges, hot water.",
+        "value": false
+      },
+      {
+        "answer": "Vapour, hot water, superheated items, low temperatures effect.",
+        "value": true
+      },
+      {
+        "answer": "Electricity, hot water, low temperatures effect.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The main therapeutic manipulations in case of thermal injuries:",
+    "answers": [
+      {
+        "answer": "Anesthesia, antiseptics, cryotherapy.",
+        "value": false
+      },
+      {
+        "answer": "Removing a causal factor, oral hygiene, cryotherapy.",
+        "value": false
+      },
+      {
+        "answer": "Removal a causal fractor, anesthesia, antiseptic, anti-inflammatory means.",
+        "value": true
+      },
+      {
+        "answer": "Removing a causal factor, anesthesia, antiseptic and sedative.",
+        "value": false
+      },
+      {
+        "answer": "Removing a causal factor, corticosteroids",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Causes of galvanism arising in the oral cavity:",
+    "answers": [
+      {
+        "answer": "Bridges, fillings with composite materials, composite fillings.",
+        "value": false
+      },
+      {
+        "answer": "Steel crowns, bridges, amalgam fillings.",
+        "value": true
+      },
+      {
+        "answer": "Steel crowns, amalgam fillings, Stomadent fillings.",
+        "value": false
+      },
+      {
+        "answer": "Amalgam fillings, bridges, Stomadent fillings.",
+        "value": false
+      },
+      {
+        "answer": "Combined fillings, dentures.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Subjective symptoms of oral galvanism:",
+    "answers": [
+      {
+        "answer": "Tongue heartburn, irradiated pain.",
+        "value": false
+      },
+      {
+        "answer": "Sore tongue, bitterness in the mouth, impaired salivation.",
+        "value": false
+      },
+      {
+        "answer": "Taste of acid, metal, bitterness in the mouth, loss of taste, impaired salivation, paresthesia.",
+        "value": true
+      },
+      {
+        "answer": "General discomfort, tingling in the tongue, impaired salivation.",
+        "value": false
+      },
+      {
+        "answer": "Violation of general condition, irradiated pain in the mouth, paresthesia.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Objective signs of oral galvanism:",
+    "answers": [
+      {
+        "answer": "Hyperemia of the oral mucosa.",
+        "value": false
+      },
+      {
+        "answer": "Hyperemia of the mucosa, accidentaly increased keratinization.",
+        "value": false
+      },
+      {
+        "answer": "Papules appearance, flushing, edema of the mucosa.",
+        "value": false
+      },
+      {
+        "answer": "There can be no morphological changes, redness, mucosa swelling adjacent to the crowns.",
+        "value": true
+      },
+      {
+        "answer": "Mucosal congestion, hypertrophy of tongue papillae.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Basic treatment principles of patients who suffer galvanism:",
+    "answers": [
+      {
+        "answer": "Antiseptics, replacement of amalgam filling to combined, corticosteroids.",
+        "value": false
+      },
+      {
+        "answer": "Replacement of amalgam filling and stainless steel dentures to gold or ceramic, anesthesia, antisepsis, anti-inflammatory means.",
+        "value": true
+      },
+      {
+        "answer": "Replacement of steel dentures to plastic, psychotherapy, physiotherapy.",
+        "value": false
+      },
+      {
+        "answer": "Dentures replacement, antibiotics, physical therapy.",
+        "value": false
+      },
+      {
+        "answer": "Dentures replacement, treatment of oral mucosa whis anesthetics.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Specify the causes of acute mechanical injury:",
+    "answers": [
+      {
+        "answer": "Injury by dentures.",
+        "value": false
+      },
+      {
+        "answer": "Permanent injury to the mucosa with sharp-edged teeth.",
+        "value": false
+      },
+      {
+        "answer": "Accidental injury to the oral mucosa with sharp objects.",
+        "value": true
+      },
+      {
+        "answer": "Permanent injury with sharp edges of fillings.",
+        "value": false
+      },
+      {
+        "answer": "Accidental effect to the mucosa by drugs.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Possible face manifestations of acute herpetic stomatitis:",
+    "answers": [
+      {
+        "answer": "Erythema.",
+        "value": false
+      },
+      {
+        "answer": "Erosion.",
+        "value": false
+      },
+      {
+        "answer": "Scars.",
+        "value": false
+      },
+      {
+        "answer": "Ulcerative lesions.",
+        "value": false
+      },
+      {
+        "answer": "Blisters.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Subjective symptoms of acute herpetic stomatitis:",
+    "answers": [
+      {
+        "answer": "General malaise, fever, heartburn and itchy mouth, vesicular rash appearance .",
+        "value": true
+      },
+      {
+        "answer": "Overall condition is not violated, feeling of constriction in the mouth ulcers.",
+        "value": false
+      },
+      {
+        "answer": "General malaise, mucosal hyperemia.",
+        "value": false
+      },
+      {
+        "answer": "Overall condition is not violated, ulcers in the mouth.",
+        "value": false
+      },
+      {
+        "answer": "General malaise, fever, tumor formation in the cheek and tongue mucosa.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are the basic principles of patients with herpetic stomatitis treatment?",
+    "answers": [
+      {
+        "answer": "Symptomatic therapy, cauterization.",
+        "value": false
+      },
+      {
+        "answer": "Analgesics, multivitamins, antiviral, anti-inflammatory, keratoplactic, antiseptic medications.",
+        "value": true
+      },
+      {
+        "answer": "Anti-inflammatory drugs, hormone therapy, stimulators.",
+        "value": false
+      },
+      {
+        "answer": "Symptomatic therapy, hormone therapy, cauterization.",
+        "value": false
+      },
+      {
+        "answer": "Biostimulyators, multivitamins, antiseptics, physical therapy, cauterization.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Localization of lesion elements in acute herpetic stomatitis:",
+    "answers": [
+      {
+        "answer": "Nasal, lip, cheek mucosa.",
+        "value": false
+      },
+      {
+        "answer": "Palate, lip, cheek, gum musoca.",
+        "value": true
+      },
+      {
+        "answer": "Cheeks, nose mucosa.",
+        "value": false
+      },
+      {
+        "answer": "Back of throat mucosa.",
+        "value": false
+      },
+      {
+        "answer": "Tongue, cheek, front brackets mucosa.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Pathological elements in acute aphthous stomatitis:",
+    "answers": [
+      {
+        "answer": "Blisters, ulcers",
+        "value": false
+      },
+      {
+        "answer": "Aphthae.",
+        "value": true
+      },
+      {
+        "answer": "Excoriation.",
+        "value": false
+      },
+      {
+        "answer": "Ulcer.",
+        "value": false
+      },
+      {
+        "answer": "Aphthae, papule.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Localization of lesion elements in acute aphthous stomatitis:",
+    "answers": [
+      {
+        "answer": "Nasal, lip, cheek mucosa.",
+        "value": false
+      },
+      {
+        "answer": "Palate, lip, cheek, gum musoca.",
+        "value": false
+      },
+      {
+        "answer": "Buccal, lip, tongue mucos; mouth soft palate floor, palatine arch.",
+        "value": true
+      },
+      {
+        "answer": "Hard palate, gum mucosa.",
+        "value": false
+      },
+      {
+        "answer": "Nasal, palate mucosa.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In diseases of the gastrointestinal tract patients complains of:",
+    "answers": [
+      {
+        "answer": "Vomiting, diarrhea, fever.",
+        "value": false
+      },
+      {
+        "answer": "Angular cheilitis, xerostomia, lips crusting.",
+        "value": false
+      },
+      {
+        "answer": "Taste distortion, aphthae appear, burning, appearance changing and coating on the tongue.",
+        "value": true
+      },
+      {
+        "answer": "Hyperkeratosis lesions on the tongue, lips, aphthae",
+        "value": false
+      },
+      {
+        "answer": "Chronic recurrent lip cracks, taste distortion, diarrhea.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Damage elements in chronic recurrent aphthous stomatitis:",
+    "answers": [
+      {
+        "answer": "Blisters, erosions.",
+        "value": false
+      },
+      {
+        "answer": "Aphthae, papules.",
+        "value": false
+      },
+      {
+        "answer": "Aphthae, papules",
+        "value": false
+      },
+      {
+        "answer": "erosion, aphthae.",
+        "value": true
+      },
+      {
+        "answer": "Erythema, excoriation.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of infection causes AIDS?",
+    "answers": [
+      {
+        "answer": "Fungal",
+        "value": false
+      },
+      {
+        "answer": "Viral",
+        "value": true
+      },
+      {
+        "answer": "Bacterial",
+        "value": false
+      },
+      {
+        "answer": "Arthropod.",
+        "value": false
+      },
+      {
+        "answer": "It is not infection",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are the main stages of HIV infection?",
+    "answers": [
+      {
+        "answer": "Light infection, pre-AIDS, AIDS.",
+        "value": false
+      },
+      {
+        "answer": "Light infection, acute-HIV, chronical-HIV",
+        "value": false
+      },
+      {
+        "answer": "Acute infection, clinical latency and AIDS.",
+        "value": true
+      },
+      {
+        "answer": "Passive-HIV, acute-HIV, AIDS.",
+        "value": false
+      },
+      {
+        "answer": "First and second stage",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What system does HIV attacks?",
+    "answers": [
+      {
+        "answer": "Nerve system.",
+        "value": false
+      },
+      {
+        "answer": "Circulatory system",
+        "value": false
+      },
+      {
+        "answer": "Gastrointestinal tract",
+        "value": false
+      },
+      {
+        "answer": "Immune system",
+        "value": true
+      },
+      {
+        "answer": "Respiratory system",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "HIV is not transmitted by?",
+    "answers": [
+      {
+        "answer": "Sexual contact",
+        "value": false
+      },
+      {
+        "answer": "Breastfeeding",
+        "value": false
+      },
+      {
+        "answer": "Body fluids",
+        "value": false
+      },
+      {
+        "answer": "Insects",
+        "value": true
+      },
+      {
+        "answer": "Blood",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of sterilization of dental instruments should we do after HIV-patient",
+    "answers": [
+      {
+        "answer": "Extra-sterilization.",
+        "value": false
+      },
+      {
+        "answer": "Regular sterilization.",
+        "value": true
+      },
+      {
+        "answer": "No sterilization",
+        "value": false
+      },
+      {
+        "answer": "All instruments should be utilized.",
+        "value": false
+      },
+      {
+        "answer": "Double sterilisation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Who are in a group of high risk for HIV?",
+    "answers": [
+      {
+        "answer": "Drug addicts.",
+        "value": false
+      },
+      {
+        "answer": "Dentists.",
+        "value": false
+      },
+      {
+        "answer": "Sex workers",
+        "value": false
+      },
+      {
+        "answer": "Homosexuals.",
+        "value": false
+      },
+      {
+        "answer": "drug addicts, doctors, sex workers",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "How much of CD4 cells in blood indicate AIDS?",
+    "answers": [
+      {
+        "answer": "less than 200/µl.",
+        "value": true
+      },
+      {
+        "answer": "less than 350/µl.",
+        "value": false
+      },
+      {
+        "answer": "less than 500/µl.",
+        "value": false
+      },
+      {
+        "answer": "less than 400.",
+        "value": false
+      },
+      {
+        "answer": "Less than 600",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What tests are used for HIV/AIDS diagnostic?",
+    "answers": [
+      {
+        "answer": "Mantoux test.",
+        "value": false
+      },
+      {
+        "answer": "Sugar in blood test.",
+        "value": false
+      },
+      {
+        "answer": "Urinalysis.",
+        "value": false
+      },
+      {
+        "answer": "Pulp test",
+        "value": false
+      },
+      {
+        "answer": "ELISA, Western blot.",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "What are the the most common diseases of acute stage infection of HIV?",
+    "answers": [
+      {
+        "answer": "Influenza-like illnes, fever, large tender lymph nodes, throat inflammation, a rash, headache, and/or sores of the mouth and genitals.",
+        "value": true
+      },
+      {
+        "answer": "Weight loss, gastrointestinal problems, muscle pains, generalized lymphadenopathy.",
+        "value": false
+      },
+      {
+        "answer": "Pneumocystis pneumonia, cachexia in the form of HIV wasting syndrome, esophageal candidiasis.",
+        "value": false
+      },
+      {
+        "answer": "Kaposi's sarcoma, Burkitt's lymphoma, primary central nervous system lymphoma, and cervical cancer.",
+        "value": false
+      },
+      {
+        "answer": "Syphilis, cervical cancer, candidiasis and herpes zoster",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are the the most common diseases of clinical latency of HIV?",
+    "answers": [
+      {
+        "answer": "Influenza-like illnes, fever, large tender lymph nodes, throat inflammation, a rash, headache, and/or sores of the mouth and genitals.",
+        "value": false
+      },
+      {
+        "answer": "Weight loss, gastrointestinal problems, muscle pains, generalized lymphadenopathy.",
+        "value": true
+      },
+      {
+        "answer": "Pneumocystis pneumonia, cachexia in the form of HIV wasting syndrome, esophageal candidiasis.",
+        "value": false
+      },
+      {
+        "answer": "Kaposi's sarcoma, Burkitt's lymphoma, primary central nervous system lymphoma, and cervical cancer.",
+        "value": false
+      },
+      {
+        "answer": "Syphilis, cervical cancer, candidiasis and herpes zoster",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During  27 y.o. patient examination doctor revealed hyperplastic candidiasis and mild form of Kaposi's sarcoma. From anamnesis is known, that patient has 37,5-37,6 C temperature for a month and weight loss. What test should patient do to identify the diagnosis?",
+    "answers": [
+      {
+        "answer": "ELISA",
+        "value": true
+      },
+      {
+        "answer": "Blood test",
+        "value": false
+      },
+      {
+        "answer": "Insulin test",
+        "value": false
+      },
+      {
+        "answer": "FTR test",
+        "value": false
+      },
+      {
+        "answer": "Bacteriological finding",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During  27 y.o. patient examination doctor revealed hyperplastic candidiasis and mild form of Kaposi's sarcoma. From anamnesis is known, that patient has 37,5-37,6 C temperature for a month and weight loss. What will be the provisional diagnosis in that case?",
+    "answers": [
+      {
+        "answer": "Tuberculosis",
+        "value": false
+      },
+      {
+        "answer": "AIDS",
+        "value": true
+      },
+      {
+        "answer": "Chronic candidiasis",
+        "value": false
+      },
+      {
+        "answer": "Chronic leukosis",
+        "value": false
+      },
+      {
+        "answer": "Chronic stomatitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "With appropriate treatment the risk of mother-to-child infection can be reduced to:",
+    "answers": [
+      {
+        "answer": "About 1%.",
+        "value": true
+      },
+      {
+        "answer": "20%",
+        "value": false
+      },
+      {
+        "answer": "15%",
+        "value": false
+      },
+      {
+        "answer": "50%",
+        "value": false
+      },
+      {
+        "answer": "100% with or without treatment",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Oral manifestation of  AIDS do NOT includes:",
+    "answers": [
+      {
+        "answer": "Oral candidiasis",
+        "value": false
+      },
+      {
+        "answer": "Kaposi's sarcoma",
+        "value": false
+      },
+      {
+        "answer": "Herpes infection",
+        "value": false
+      },
+      {
+        "answer": "Linear gingivitis",
+        "value": false
+      },
+      {
+        "answer": "mechanical trauma",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "One of the HIV/AIDS symptoms is:",
+    "answers": [
+      {
+        "answer": "Linear  gingival erythema",
+        "value": true
+      },
+      {
+        "answer": "Hypertrophic gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Atrophic gingivitis",
+        "value": false
+      },
+      {
+        "answer": "Parodontosis",
+        "value": false
+      },
+      {
+        "answer": "Periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The “window” period in HIV testing is:",
+    "answers": [
+      {
+        "answer": "Period between the time of HIV infection and the production of measurable antibodies to HIV seroconversion",
+        "value": true
+      },
+      {
+        "answer": "Period between the time of HIV infection and symptoms",
+        "value": false
+      },
+      {
+        "answer": "Period of first symptoms",
+        "value": false
+      },
+      {
+        "answer": "Prymary stage of infection",
+        "value": false
+      },
+      {
+        "answer": "Period between the first symptoms and start of treatment",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The “window “ period in HIV infection lasts:",
+    "answers": [
+      {
+        "answer": "From 1 day to 3 weeks",
+        "value": false
+      },
+      {
+        "answer": "From 1 week to 1 month",
+        "value": false
+      },
+      {
+        "answer": "From 1 month to 1 year",
+        "value": false
+      },
+      {
+        "answer": "From 1 year to 6 years",
+        "value": false
+      },
+      {
+        "answer": "From three weeks to six months",
+        "value": true
+      }
+    ]
+  },
+  {
+    "question": "Can the HIV be transmitted  during “window” period?",
+    "answers": [
+      {
+        "answer": "Yes",
+        "value": true
+      },
+      {
+        "answer": "No",
+        "value": false
+      },
+      {
+        "answer": "Only in some cases",
+        "value": false
+      },
+      {
+        "answer": "Only by blood",
+        "value": false
+      },
+      {
+        "answer": "Only from mother to chld",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Day after accidental injection by infected needle doctor immediately did OraQuick rapid HIV test, which was negative. What should he do after?",
+    "answers": [
+      {
+        "answer": "Nothing. He is healthy",
+        "value": false
+      },
+      {
+        "answer": "Additional OraQuick rapid HIV test after 1 month",
+        "value": false
+      },
+      {
+        "answer": "Additional OraQuick rapid HIV test after half of year",
+        "value": false
+      },
+      {
+        "answer": "Do the western blot 1 month after injection and half of year",
+        "value": true
+      },
+      {
+        "answer": "Take the antiviral treatment",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Can ELISA testing be used as a single method?",
+    "answers": [
+      {
+        "answer": "Yes",
+        "value": false
+      },
+      {
+        "answer": "No, only confirmed by a Western Blot.",
+        "value": true
+      },
+      {
+        "answer": "No, only with  OraQuick rapid HIV",
+        "value": false
+      },
+      {
+        "answer": "Yes, but twice",
+        "value": false
+      },
+      {
+        "answer": "Yes, but with allergy blood test",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is the main idea of HIV treatment for today?",
+    "answers": [
+      {
+        "answer": "Treatment consists of high active antiretroviral therapy (HAART) which slows progression of the disease",
+        "value": true
+      },
+      {
+        "answer": "Treatment kills the virus affected cells",
+        "value": false
+      },
+      {
+        "answer": "Treatment includes preventive and active treatment of opportunistic infections.",
+        "value": false
+      },
+      {
+        "answer": "There is no treatment for today",
+        "value": false
+      },
+      {
+        "answer": "Treatment consist effective drugs against all opotrunistic infections",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is caused by Herpex simplex virus?",
+    "answers": [
+      {
+        "answer": "Herpangina",
+        "value": true
+      },
+      {
+        "answer": "Hand, foot and mouth disease",
+        "value": false
+      },
+      {
+        "answer": "Chiken pox",
+        "value": false
+      },
+      {
+        "answer": "Cold sores",
+        "value": false
+      },
+      {
+        "answer": "CRAS",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a feature of minor aphthous ulceration?",
+    "answers": [
+      {
+        "answer": "A hereditary disposition",
+        "value": false
+      },
+      {
+        "answer": "Size of 5mm or less in diameter",
+        "value": false
+      },
+      {
+        "answer": "Affects, most common, gums and hard palate",
+        "value": true
+      },
+      {
+        "answer": "Lasts 7-14 days",
+        "value": false
+      },
+      {
+        "answer": "As a usual, there are 3-4 ulcer",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a characteristic of a malignant tumour:",
+    "answers": [
+      {
+        "answer": "Regular border",
+        "value": false
+      },
+      {
+        "answer": "High resemblance to original tissue",
+        "value": false
+      },
+      {
+        "answer": "Absence of metastases",
+        "value": false
+      },
+      {
+        "answer": "Infiltrative growth",
+        "value": true
+      },
+      {
+        "answer": "painless",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Patients with haemophilia have an increased risk of:",
+    "answers": [
+      {
+        "answer": "After treatment complications",
+        "value": false
+      },
+      {
+        "answer": "HIV infection",
+        "value": false
+      },
+      {
+        "answer": "Leukaemia",
+        "value": false
+      },
+      {
+        "answer": "Prolonged bleeding during treatment",
+        "value": true
+      },
+      {
+        "answer": "Atherosclerosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is given for the management of pernicious anaemia?",
+    "answers": [
+      {
+        "answer": "Riboflavin",
+        "value": false
+      },
+      {
+        "answer": "Niacin",
+        "value": false
+      },
+      {
+        "answer": "D3",
+        "value": false
+      },
+      {
+        "answer": "Cobalamin",
+        "value": true
+      },
+      {
+        "answer": "Ascorbic acid",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Dental procedures that require antibiotics include:",
+    "answers": [
+      {
+        "answer": "Root canal treatment in case of suppurative inflammation , periodontal diseases treatment",
+        "value": true
+      },
+      {
+        "answer": "Taking impressions",
+        "value": false
+      },
+      {
+        "answer": "Placement of matrix band",
+        "value": false
+      },
+      {
+        "answer": "Any root canal treatment",
+        "value": false
+      },
+      {
+        "answer": "Antibiotics for prophylaxis in any dental invasion",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Cocaine is no more used in dentistry becouse of:",
+    "answers": [
+      {
+        "answer": "Expense",
+        "value": false
+      },
+      {
+        "answer": "Painful injection",
+        "value": false
+      },
+      {
+        "answer": "Addictive property",
+        "value": false
+      },
+      {
+        "answer": "CNS stimulation",
+        "value": true
+      },
+      {
+        "answer": "Difficults of  injection",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "The most common sites for oral cancer are:",
+    "answers": [
+      {
+        "answer": "The hard palate",
+        "value": false
+      },
+      {
+        "answer": "The lateral border of the tongue",
+        "value": true
+      },
+      {
+        "answer": "The dorsum of the tongue",
+        "value": false
+      },
+      {
+        "answer": "Marginal gingival edge",
+        "value": false
+      },
+      {
+        "answer": "Retromolar area",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What dye can be used to stain pre-malignant lesions:",
+    "answers": [
+      {
+        "answer": "Toluidine –blue",
+        "value": true
+      },
+      {
+        "answer": "Toluidine - red",
+        "value": false
+      },
+      {
+        "answer": "Toluidine – pink",
+        "value": false
+      },
+      {
+        "answer": "Toluidine – green",
+        "value": false
+      },
+      {
+        "answer": "Toluidine – black",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Sterilisation of dental instruments:",
+    "answers": [
+      {
+        "answer": "Is achieved by autoclaving",
+        "value": true
+      },
+      {
+        "answer": "Is achieved by cold disinfection",
+        "value": false
+      },
+      {
+        "answer": "Does not kill spores",
+        "value": false
+      },
+      {
+        "answer": "Take 3 hours to average",
+        "value": false
+      },
+      {
+        "answer": "Need strong antiseptics",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What is a haematoma?",
+    "answers": [
+      {
+        "answer": "Gingival abscess",
+        "value": false
+      },
+      {
+        "answer": "Blood in the tissues",
+        "value": true
+      },
+      {
+        "answer": "A tumour of the blood",
+        "value": false
+      },
+      {
+        "answer": "Vascular dilatation",
+        "value": false
+      },
+      {
+        "answer": "Result of chronic trauma",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "In mouth-to- mouth ventilation, victim’s dentures should normally be:",
+    "answers": [
+      {
+        "answer": "Removed, because they are covered with bacteria",
+        "value": false
+      },
+      {
+        "answer": "Left in (unless lose) as they help to make an airtight seal",
+        "value": false
+      },
+      {
+        "answer": "Removed, because they frequently obstruct the airway",
+        "value": true
+      },
+      {
+        "answer": "Left in because it is illegat to remove them without concent",
+        "value": false
+      },
+      {
+        "answer": "Left in because they can fix patient’s jaws",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What kind of a desease is chronic recurrent aphthous stomatitis?",
+    "answers": [
+      {
+        "answer": "Inflammatory",
+        "value": true
+      },
+      {
+        "answer": "Chronic infectious",
+        "value": false
+      },
+      {
+        "answer": "Dystrophic",
+        "value": false
+      },
+      {
+        "answer": "Viral",
+        "value": false
+      },
+      {
+        "answer": "Acute infectious",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Complications of trophic ulcers:",
+    "answers": [
+      {
+        "answer": "Bleeding from erosion vessels.",
+        "value": true
+      },
+      {
+        "answer": "Sequestration of bone.",
+        "value": false
+      },
+      {
+        "answer": "Autoimmune process.",
+        "value": false
+      },
+      {
+        "answer": "Intoxication.",
+        "value": false
+      },
+      {
+        "answer": "Asphyxia.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Mark the required components for trophic ulcers local therapy:",
+    "answers": [
+      {
+        "answer": "Diathermocoagulation, antiseptics.",
+        "value": false
+      },
+      {
+        "answer": "Cryodestruction, antiseptics. Anesthetics.",
+        "value": false
+      },
+      {
+        "answer": "Physiotherapy (UV, UHF and others.), keratoplastic agents.",
+        "value": false
+      },
+      {
+        "answer": "Removal of traumatic factors, antiseptics, anesthetics, keratoplastic agents.",
+        "value": true
+      },
+      {
+        "answer": "altered tissues Clipping , suturing, anesthetics.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are the main measures in the treatment of decubital ulcers:",
+    "answers": [
+      {
+        "answer": "Anesthetics.",
+        "value": false
+      },
+      {
+        "answer": "Traumatic factors removal.",
+        "value": true
+      },
+      {
+        "answer": "Desensitizing agents.",
+        "value": false
+      },
+      {
+        "answer": "Vitamins.",
+        "value": false
+      },
+      {
+        "answer": "Detoxication .",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Hypertension manifestations in the mouth:",
+    "answers": [
+      {
+        "answer": "Dryness of mucous membranes.",
+        "value": false
+      },
+      {
+        "answer": "Aphthae appearance, ulcers.",
+        "value": false
+      },
+      {
+        "answer": "Bloody content blisters.",
+        "value": true
+      },
+      {
+        "answer": "Leukoplakia, dryness of the oral mucosa.",
+        "value": false
+      },
+      {
+        "answer": "Cracked lips, aphthae.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "What are the signs of decubital ulcers malignancy:",
+    "answers": [
+      {
+        "answer": "Light bleeding on palpation.",
+        "value": false
+      },
+      {
+        "answer": "Lack of positive dynamics after 10 -14 days of treatment.",
+        "value": true
+      },
+      {
+        "answer": "scraping cells from the ulcer.",
+        "value": false
+      },
+      {
+        "answer": "Leukocytosis",
+        "value": false
+      },
+      {
+        "answer": "Vaserman reaction positive.",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 44-year-old patient consulted a dental surgeon about constant acute pain in the upper jaw region on the left that is getting worse during teeth joining. The pain appeared 3 days ago. Objectively: the face is symmetric, mouth opening is not limited. The crown of the 26 tooth is half-decayed. Probing of the carious cavity is painless. Percussion of the 26 tooth provokes acute pain. Mucous membrane of the alveolar process is edematic, hyperaemic at the level of the 26 tooth. The 26 tooth had been treated before. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic periodontitis of the 26 tooth",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent periodontitis of the 26 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute pulpitis of the 26 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periostitis of the left upper jaw extending from the 26 tooth",
+        "value": false
+      },
+      {
+        "answer": "Periodontitis of the 26, 27, 28 teeth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 28-year-old patient hadan appointment with a dental surgeon to prepare the oral cavity for a prosthesis.Examination revealed that the 11 tooth crown was decayed, the root was stable, its percussion was painless. The mucous membrane of the alveolar process was not changed. Ro-gram of the alveolar process shows widening of periodontal ligament space in the region of the 11 tooth. Alveolar process structure is not changed. The root canal was passable all through. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic ?brous periodontitis of the 11 tooth",
+        "value": true
+      },
+      {
+        "answer": "Chronic granulating periodontitis of the 11 tooth",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis of the 11 tooth",
+        "value": false
+      },
+      {
+        "answer": "Periodontitis of the 11 tooth",
+        "value": false
+      },
+      {
+        "answer": "Chronic periodontitis of the 11 tooth, hypercementosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A male patient complains of acute pain in the 26 tooth that is getting worse when biting down on food. 4 days ago arsenic paste was applied, but the patient did not keep the appointment with the dentist. Objectively: the dressing of the26tooth is kept.There is pain reaction to percussion. Ro-gram shows no changes in the periapical tissues. After mechanical and pharmacological treatment of the root canals the gauze pads are moist, not stained. What drug substance must be left in the root canals for the maximal clinical effect?",
+    "answers": [
+      {
+        "answer": "Chloramine",
+        "value": false
+      },
+      {
+        "answer": "Chlorhexidine",
+        "value": false
+      },
+      {
+        "answer": "Unitiol",
+        "value": true
+      },
+      {
+        "answer": "Hydrogen peroxide",
+        "value": false
+      },
+      {
+        "answer": "Trypsin",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 40-year-old patient complains of constant intense throbbing pain in the 23 tooth lasting for 3 days. This problem hasn’t bothered him before. Vertical and horizontal percussion is positive, the tooth is mobile, mucous membrane around the 26 tooth is hyperemic and edematous. Palpation of the mucogingival fold in the root apex projection is painful. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent periodontitis of the 26 tooth",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent pulpitis of the 26 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute localized periodontitis of the 26 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute serous pulpitis of the 26 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute serous periodontitis of the 26 tooth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 40-year-old patient complains of pain caused by cold and sweet food in the 11,21teeth,as well as of a cosmetic defect. Examination of the 11, 21 teeth revealed some oval, diagonally arranged enamel defects on the convex part of the vestibular surface of tooth crowns. The defects had smooth, glossy, dense ?oor. The patient has a history of thyrotoxicosis. What is the most likely provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Wedge-shaped defect",
+        "value": false
+      },
+      {
+        "answer": "Erosion of dental hard tissues",
+        "value": true
+      },
+      {
+        "answer": "Surface caries",
+        "value": false
+      },
+      {
+        "answer": "Enamel necrosis",
+        "value": false
+      },
+      {
+        "answer": "Amelogenesis imperfecta",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 47-year-old female patient complains of inability to eat hot and cold food, as well as of intense pain caused by sour, sweet and salty food. Objectively: there is a slight loss of enamel on the molars and incisors.Probingand cold test cause acute pain. What is the most likelydiagnosis?",
+    "answers": [
+      {
+        "answer": "Enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Enamel erosion",
+        "value": false
+      },
+      {
+        "answer": "Enamel necrosis",
+        "value": false
+      },
+      {
+        "answer": "Hyperesthesia of dental hard tissues",
+        "value": true
+      },
+      {
+        "answer": "Pathological abrasion of dental hard tissues",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains of spontaneous, paroxysmal, irradiating pain with short pain-free intervals. The pain arose 2 days ago and occurs only at night. Make a provisional diagnosis:",
+    "answers": [
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute circumscribed pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 25-year-old female patient consulted a dentist about acute pain in the mandible on the right that occurs during eating. Objectively: the approximate distal surface ofthe45 tooth exhibits a carious cavity ?lled with light softened dentin. Probing causes a minor pain response across the entire ?oor. Percussion causes no pain. Cold water  causes transient pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute deep caries",
+        "value": true
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 12-year-old boy complains of a cavity in the tooth on the lower left jaw. Objectively: 1/3 of the 36 tooth is destroyed, the carious cavity opens into the dental cavity; reaction to cold stimulus is positive; probing and percussion are painless. X-ray imaging shows the periodontal ?ssure of the 36th tooth roots to be widened. What is the provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic simple pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "9. A 15-year-old boy has been diagnosed with chronic granulating periodontitis of the 26 tooth. What is the optimal material for the root canal ?lling?",
+    "answers": [
+      {
+        "answer": "Zinc-eugenol cement",
+        "value": true
+      },
+      {
+        "answer": "Zinc-phosphate cement",
+        "value": false
+      },
+      {
+        "answer": "Glass ionomer cement",
+        "value": false
+      },
+      {
+        "answer": "Calcium-containing paste",
+        "value": false
+      },
+      {
+        "answer": "Resorcinol-formalin paste",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A week ago an 18-year-old girl complainedofpaininthe22toothwhichwastreated and ?lled several years ago. Over the past two days the pain increased. Objectively: the 22 tooth is ?lled, percussion is painful, mucous membrane is hyperaemic and edematic. Spot-?lm  roentgenograph of the 22toothshowsanill-de?nedperiapicalbone rarefaction 0,4x0,5 cm large. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic periodontitis of the 22 tooth",
+        "value": true
+      },
+      {
+        "answer": "Suppuration of the radicular cyst",
+        "value": false
+      },
+      {
+        "answer": "Acute odontogenic  osteomyelitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periodontitis of the 22 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute maxillary periostitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A32-year-old patient has made an appointment with a dental surgeon to have oral cavity sanation performed prior to denture installation. During examination the doctor stated the following: the crown of the 25 tooth is destroyed. The tooth root is stable, and its percussion is painless. Mucosa of the alveolar processis unchanged. X-ray reveals slight widening of the periodontal ?ssure. What provisional diagnosis can be made?",
+    "answers": [
+      {
+        "answer": "Chronic ?brous periodontitis of the 25th tooth",
+        "value": true
+      },
+      {
+        "answer": "Chronic periodontitis of the 25th tooth",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis of the 25th tooth",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulating periodontitis of the 25th tooth",
+        "value": false
+      },
+      {
+        "answer": "Cystogranuloma",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 13-year-old girl complains of having a cavity in the front maxillary teeth. Contact medial surfaces of the 11 and 21 teeth exhibit cavities found within the mantle dentin and ?lled with dense pigmented dentin. Probing of the cavity ?oor causes no pain response, neither does dental percussion. Select the best ?lling material for the permanent seals:",
+    "answers": [
+      {
+        "answer": "Resin composite",
+        "value": true
+      },
+      {
+        "answer": "Silicate cement",
+        "value": false
+      },
+      {
+        "answer": "Silicophosphate cement",
+        "value": false
+      },
+      {
+        "answer": "Zinc phosphate cement",
+        "value": false
+      },
+      {
+        "answer": "Glass ionomer cement",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 30-year-old patient complains of toothache caused by hot and cold stimuli. The pain irradiates to the ear and temple. Previously there was spontaneous nocturnal toothache. Objectively: on the occlusal surface of the 37 tooth there is a deep carious cavity communicating at one point with the tooth cavity. Probing at the communication point, as well as cold stimulus, causes acute pain. The pain persists for a longtime. Electric pulp test result is 55 microamperes. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic concrementous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 15-year-old boy complains of a carious cavity in the mandibular tooth on the right. Objectively: the 46 tooth exhibits a carious cavity within the mantle dentin. The dentin is dense, pigmented; there is pain response to the cold stimulus; probing and percussion cause no pain response. Make the provisional diagnosis:",
+    "answers": [
+      {
+        "answer": "Chronic median caries",
+        "value": true
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic super?cial caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 25-year-old patient complains of pain caused by eating sweet, hot and cold food; pain ceases, when stimulation stops. Objectively: the adjoining surface of the 36th tooth has a deep carious cavity localised in the circumpulpar dentin. The dentin is softened. Probing of the carious cavity ?oor is painful. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute deep caries",
+        "value": true
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 27-year-old patient complains of the long-term pain in the 22 tooth caused by cold and hot food, as well as of spontaneous pain lasting for 30 minutes and occurring 34 times per day, aggravating at night. Pain arose 3 days ago after preparation of the tooth for the acrylic crown. Objectively: the 22 tooth is intact, the thermal test causes acute long-lasting pain, percussion is painless. What is the optimal treatment tactics?",
+    "answers": [
+      {
+        "answer": "Vital pulp extirpation",
+        "value": true
+      },
+      {
+        "answer": "Application of ?uorine lacquer",
+        "value": false
+      },
+      {
+        "answer": "Biological treatment of pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Devital pulp extirpation",
+        "value": false
+      },
+      {
+        "answer": "Vital pulp amputation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 18-year-old boy complains of a short term pain from the cold in the left mandibular tooth. Objectively: the medial surface of the 36 tooth exhibits a carious cavity within parapulpar dentin. The cavity is ?lled with light, softened dentin and does not communicate with the cavity of the tooth. Probing the of the 36 tooth ?oor causes pain response, the tooth is not sensitive to percussion, the response to the cold stimulus does not remain long after its removal. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute deep caries",
+        "value": true
+      },
+      {
+        "answer": "Acute focal pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains of dull ache in the 16 tooth, which occurs during eating cold food. Anamnesis: the tooth had been ?lled due to deep caries, the ?lling was lost 1 year ago. Objectively: a deep carious cavity that does not penetrate the tooth cavity is present; percussion is painless, probing is painful along the whole ?oor of the carious cavity. Electric pulp test - 50 microamperes. Thermodiagnosis is painful. Make the diagnosis:",
+    "answers": [
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains of acute short-term toothache caused by thermal and chemical irritants. The tooth has not been treated before, the pain arose about a month ago. Objectively: on the occlusal surface of the 36 tooth there is a deep carious cavity within circumpulpal dentin with overhanging chalky enamel. Probing of the cavity ?oor causes slight pain. There is also short-term pain from the cold stimulus. The result of electric pulp test is 8 microamperes. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute deep caries",
+        "value": true
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Pulp hyperemia",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 25-year-old patient complains of brief pain attacks during eating sweet, hot or cold food. Objectively: on the contact surface of the 36 tooth there is a carious cavity within parapulpar dentin. The dentin is softened. Probing of the cavity is painful. Vertical and horizontal percussion is painless. Electric pulp test - 9 microamperes. What diagnosis is most likely?",
+    "answers": [
+      {
+        "answer": "Acute deep caries",
+        "value": true
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 34-year-old male patient complains of acute spasmodic pain in the region of his upper jaw on the left that is aggravating when affected by cold stimuli. Toothache irradiates to the ear and temple. He had acute toothache of the 37 tooth one year ago, but he did not consult a dentist. Pain recurred three days ago. Objectively: the 37 tooth has a carious cavity communicating with the dental cavity. Probing of the opened carious cavity is extremely painful. X-ray picture shows widening of periodontal ?ssure at the root apex of the 37 tooth. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic granulating periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 27-year-old female patient consulted a dentist about pain in the 35 tooth. The pain is caused by cold stimuli and quickly abates after the stimulus is removed. Objectively: in the cervical region of the 35 tooth there is a dental tissue defect within the enamel. The defect has white crumbling edges. Electroexcitability of the pulp was 5 mkA. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute super?cial caries",
+        "value": true
+      },
+      {
+        "answer": "Local enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Acute initial caries",
+        "value": false
+      },
+      {
+        "answer": "Enamel necrosis",
+        "value": false
+      },
+      {
+        "answer": "Enamel erosion",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 27-year-old female patient has her 26 tooth cavity accidentially breached along the mesial buccal line angle during treatment of acute deep caries of the 26. Choose the optimal method of treatment:",
+    "answers": [
+      {
+        "answer": "Biological method",
+        "value": true
+      },
+      {
+        "answer": "Non-vital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Non-vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Vital extirpation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient presented to a dental clinic for complex dental care. Objectively: the 37 tooth exhibits a deep carious cavity communicating with the tooth cavity. There is no response to stimuli. Radiography reveals widening and deformation of the periodontal ligament space in the apical region. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 40-year-old man, a chemical industry worker, notes the development of soreness of the mouth, pain response to thermal and chemical stimuli. On examination: on the vestibular surface and cutting edge of the front teeth there are enamel defects with uneven scalloped margins, chalk-like in color. Make the diagnosis:",
+    "answers": [
+      {
+        "answer": "Acidic necrosis of enamel",
+        "value": true
+      },
+      {
+        "answer": "Super?cial caries",
+        "value": false
+      },
+      {
+        "answer": "Enamel hypoplasia (erosive form)",
+        "value": false
+      },
+      {
+        "answer": "Fluorosis (erosive form)",
+        "value": false
+      },
+      {
+        "answer": "Median caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 18-year-old patient complains of chalky spot in the 23 tooth, which is slightly painful when cold stimulus is applied. Objectively: the vestibular surface near dental cervix of the 23 tooth has a white spot 2-3 mm in size. Probing is painless and reveals coarseness of the surface. Thermal stimulus causes slight pain. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute initial caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic initial caries",
+        "value": false
+      },
+      {
+        "answer": "Fluorosis",
+        "value": false
+      },
+      {
+        "answer": "Local hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Enamel necrosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 16-year-old girl complains of cosmetic defect of the front teeth - there are dark spots and hard tissue defects. The spots were detected in the process of teething, the defects developed later. The following diagnosis was made: erosive form of ?uorosis of the 16, 11, 12, 22, 26, 31, 32, 36, 41, 42, 46 teeth. Choose the method of treatment:",
+    "answers": [
+      {
+        "answer": "Restoration treatment",
+        "value": true
+      },
+      {
+        "answer": "Remineralization treatment",
+        "value": false
+      },
+      {
+        "answer": "Prosthetics",
+        "value": false
+      },
+      {
+        "answer": "Surgical treatment",
+        "value": false
+      },
+      {
+        "answer": "Regular medical check-up",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 17-year-old girl complains of pain during eating food, especially hot, in the lower right lateral tooth. On the masticatory surface of the 46 tooth there is a large carious cavity ?lled with softened light-brown dentin. The cavity is located within parapulpar dentin. In the projection of medial buccal pulp horn the carious cavity communicates with the pulp chamber. Deep probing is painful. Electric pulp test - 60 microamperes. Make the diagnosis:",
+    "answers": [
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic hypertrophic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute focal pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 34-year-old male patient complains of a cosmetic defect, a cavity on the vestibular surface in the cervical part of the 21 tooth. Objectively: the carious cavity is within the enamel, the ?oor and the walls are pigmented, probing and percussion and painless. There is no pain reaction to stimuli. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic surface caries",
+        "value": true
+      },
+      {
+        "answer": "Acute surface caries",
+        "value": false
+      },
+      {
+        "answer": "Necrosis of dental hard tissues",
+        "value": false
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 12-year-old boy complains of dull ache in the upper right tooth. The pain aggravates during biting. Objectively: in the 16 tooth there is a deep carious cavity penetrating into the tooth cavity, cold test and probing are painless, mucosa is swollen, hyperemic. X-ray reveals areas of bone tissue destruction with blurred margins near root apices. What diagnosis is most likely?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic granulating periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic granulomatous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "To ?ll a medium depth carious cavity in the 37 tooth (Black class II) of a 35year-old male patient a doctor has chosen a technique of layer-by-layer tooth restoration. What composite material should be applied for covering the carious cavity walls and ?oor to create the initial super adaptive layer?",
+    "answers": [
+      {
+        "answer": "Flowable",
+        "value": true
+      },
+      {
+        "answer": "Condensable",
+        "value": false
+      },
+      {
+        "answer": "Macro?lled",
+        "value": false
+      },
+      {
+        "answer": "Microhybrid",
+        "value": false
+      },
+      {
+        "answer": "Micro?lled",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 20-year-old male patient complains of spontaneous pain in the 24 tooth, which arose suddenly and persists for about 15 minutes at a time. Objectively: the distal surface of the 24 tooth exhibits a deep carious cavity with overhanging walls. The cavity is ?lled with light-colored softened dentin and communicates with the tooth cavity. The cold stimulus causes acute, slowly abating pain. Percussion causes no pain response. Select the best method of treatment:",
+    "answers": [
+      {
+        "answer": "Vital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Biological method",
+        "value": false
+      },
+      {
+        "answer": "Devital amputation",
+        "value": false
+      },
+      {
+        "answer": "Devital extirpation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 25-year-old patient complains of pain when biting on the 15 tooth. The pain arose two days ago, has a constant aching nature and increased signi?cantly over the last day. Objectively: the crown of the 15 tooth is gray, the medial contact surface exhibits a deep carious cavity communicating with the tooth cavity. Percussion causes acute pain, the gingival mucosa in the projection of the 25 tooth root apex is hyperemic. The regional lymph node is tender. Radiograph shows an ill-de?ned zone of periapical bone destruction. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "A.",
+        "value": false
+      },
+      {
+        "answer": "Chronic hypertrophic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic gangrenous spulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic papillitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A dentist performs endodontic treatment of the 31 tooth of a 62-year-old patient. The root canal is narrow, extremely calci?cated. Choose the optimal tool to pass through the root canal in this case:",
+    "answers": [
+      {
+        "answer": "Path?nder",
+        "value": true
+      },
+      {
+        "answer": "Gates-glidden drill",
+        "value": false
+      },
+      {
+        "answer": "K-Reamer",
+        "value": false
+      },
+      {
+        "answer": "K-File Niti?ex",
+        "value": false
+      },
+      {
+        "answer": "H-File",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "On examination of a 27-year-old patient the tip of the dental probe caught on the ?ssures of the 36, 37, 38 teeth. Margins of the enamel defect are dark, the surface is coarse. Teeth transillumination with photopolymer lamp revealed the defect to be limited to the enamel. What diagnosis is most likely?",
+    "answers": [
+      {
+        "answer": "Chronic super?cial caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      },
+      {
+        "answer": "Acute super?cial caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic primary caries",
+        "value": false
+      },
+      {
+        "answer": "Acute primary caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 30-year-old woman addressed a dental surgeon with complaints of uncomfortable sensation of pressure in her upper right tooth, which aggravates due to hot stimulus, and foul smell from the mouth. Objectively: there is a deep carious cavity in the 17 tooth, which penetrates into the tooth cavity. Deep probing causes severe pain, percussion of the 17 tooth is painful. X-ray: there is slight widening of the periodontal ?ssure near the root apex. Electric pulp test - 70 microamperes. What ?nal diagnosis can be made?",
+    "answers": [
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic ?brous periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 15-year-old girl complains of brief pain attacks in her teeth due to chemical stimuli. Objectively: on the contact surfaces of the 11, 21, 22 teeth there are enamel areas matt white in color, with lost shine, covered in large amount of dental deposit. Enamel is softened and can be easily chipped off with excavator. Probing of lesions is painless. Percussion is painless. No reaction to cold stimuli. Make the diagnosis:",
+    "answers": [
+      {
+        "answer": "Acute super?cial caries",
+        "value": true
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Acute initial caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic initial caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic super?cial caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 13-year-old girl undergoes preventive examination. No complaints from the patient. Objectively: on the 36 masticatory surface there is a carious cavity within enamel with wide inlet. Enamel of the cavity ?oor and walls is dense and pigmented. Probing of the carious lesion is painless. No reaction to thermal stimuli. Tooth percussion is painless. The girl belongs to the I group according to her health status. Make the diagnosis:",
+    "answers": [
+      {
+        "answer": "Acute median caries",
+        "value": true
+      },
+      {
+        "answer": "Acute initial caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic initial caries",
+        "value": false
+      },
+      {
+        "answer": "Acute super?cial caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 22-year-old patient is diagnosed with chronic granulomatous periodontitis of the 46 tooth. During the ?rst appointment the patient was prescribed a temporary ?lling made of antibacterial mateterial that stimulates osteo- ,dentino-and cementgenesis. Specify the material that satis?es this requirements:",
+    "answers": [
+      {
+        "answer": "Calcium hydroxide",
+        "value": true
+      },
+      {
+        "answer": "Iodoform",
+        "value": false
+      },
+      {
+        "answer": "Dexamethasone",
+        "value": false
+      },
+      {
+        "answer": "Thymol",
+        "value": false
+      },
+      {
+        "answer": "Camphor",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23-year-old woman complains of carious cavity present in the 27 tooth, where food particles are retained. Objectively: there is a deep carious cavity on the masticatory surface of the 27 tooth ?lled with dense dark-brown dentin. Probing of the cavity ?oor and walls is painless, thermometry and percussion are painless. Electric pulp test - 10 microamperes. X-ray reveals no pathological changes. Make the diagnosis:",
+    "answers": [
+      {
+        "answer": "Chronic deep caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 47-year-old female patient complains of inability to eat hot and cold food, as well as of intense pain caused by sour, sweet and salty food. Objectively: there is a slight loss of enamel on the molars and incisors. Probing and cold test cause acute pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Hyperesthesia of dental hard tissues",
+        "value": true
+      },
+      {
+        "answer": "Enamel erosion",
+        "value": false
+      },
+      {
+        "answer": "Enamel necrosis",
+        "value": false
+      },
+      {
+        "answer": "Enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Pathological abrasion of dental hard tissues",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains of spontaneous, paroxysmal, irradiating pain with short pain free intervals. The pain arose 2 days ago and occurs only at night. Make a provisional diagnosis:",
+    "answers": [
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute circumscribed pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 38-year-old patient has made an appointment with a doctor to have oral cavity sanation. Objectively: the vestibular surface of the 22nd tooth has a hard tissue defect localised in the mantle dentin; the dentin is hard, dark coloured, the ?oor of the cavity is coarse. Cold stimulus and probing are painless. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic median caries",
+        "value": true
+      },
+      {
+        "answer": "Enamel erosion",
+        "value": false
+      },
+      {
+        "answer": "Cuneiform defect",
+        "value": false
+      },
+      {
+        "answer": "Dental ?uorosis, destructive form",
+        "value": false
+      },
+      {
+        "answer": "Hard tissue necrosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A12-year-oldboycomplainsofacavityina tooth on the lower left jaw. Objectively: 1/3 of the 36th tooth is destroyed, the carious cavity opens into the dental cavity; there is sensitivity to cold stimulus; probing and percussion are painless. X-ray imaging shows the periodontal ?ssure of the 36th tooth roots to be widened. What is the provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic simple pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 36-year-old male patient complains of carious cavity. Prior to that there were attacks of toothache with no external cause. Objectively: the distal masticatory surface of the 37th tooth has deep carious cavity ?lled with softened pigmented dentine. Percussion is painless. Upon the extraction of the degenerated tissue cold water stimulus causes pain lasting about 1 minute. X-ray imaging shows deformation of the periodontal ?ssure intheareaoftherootapexesofthe37thtooth. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 32-year-old patient has made an appointment with a dental surgeon to have oral cavity sanation performed prior to denture installation. During examination the doctor stated the following: the crown of the 25th tooth is destroyed. The tooth root is stable, and its percussion is painless. Mucosa of alveolar process is unchanged. X-ray imaging reveals slight widening of periodontal ?ssure. What provisional diagnosis can be made?",
+    "answers": [
+      {
+        "answer": "Chronic ?brous periodontitis of the 25th tooth",
+        "value": true
+      },
+      {
+        "answer": "Chronic periodontitis of the 25th tooth",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis of the 25th tooth",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulating periodontitis of the25th tooth",
+        "value": false
+      },
+      {
+        "answer": "Cystogranuloma",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 32-year-old patient complains of toothache caused by hot and cold stimuli. The pain irradiates to the ear and temple. Previously there was spontaneous nocturnal toothache. Objectively: on the occlusal surface of the 37 tooth there is a deep carious cavity communicating at one point with the tooth cavity. Probing at the communication point, as well as cold stimulus, cause acute pain. The pain persists for a long time. Electric pulp test result is 55 mA. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic concrementous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 25-year-old patient complains of aching paininthe11tooththatisgettingworseduring biting down on food. Two days ago the tooth was?lledforpulpitis.Objectively:the11tooth is ?lled. The thermal test causes no pain, vertical percussion is slightly painful. X-ray picture of the 11 tooth shows that the endodontic ?lling is 1 mm above the root apex. Which of the following methods will be most effective for eliminating this complication?",
+    "answers": [
+      {
+        "answer": "Fluctuorization",
+        "value": true
+      },
+      {
+        "answer": "Relaxing incision",
+        "value": false
+      },
+      {
+        "answer": "Ultrahigh frequencytherapy",
+        "value": false
+      },
+      {
+        "answer": "Submucous injection of 1% solution of hydrocortisone",
+        "value": false
+      },
+      {
+        "answer": "Analgetics",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 17-year-old girl has complaint of carious cavity in a tooth. Objectively: there is class 1 carious cavity according to the Black’s classi?cation in the 36th tooth; it is localised in the parapulpar dentin; the mouth of the cavity is wide. The dentin is dense and pigmented. It is sensitive to cold stimulus, percussion is painless. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic deep caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic superficial caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 37-year-old female patient has complaints of cosmetic defects of the front upper teeth crowns. The defects have been increasing for the last 10 years. The patient suffers from unpleasant sensations when brushing her teeth, and when chemical stimuli are applied. Objective examination revealed defects localized in the enamel of the front upper teeth vestibular surface.  The defects are oval, saucer shaped, and have clear margins. Probing and cold stimuli sensitivity test resulted in positive reaction. Make the diagnosis.",
+    "answers": [
+      {
+        "answer": "Enamel erosion",
+        "value": true
+      },
+      {
+        "answer": "Enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Cuneiform defect",
+        "value": false
+      },
+      {
+        "answer": "Chemical necrosis of the tooth",
+        "value": false
+      },
+      {
+        "answer": "Hyperesthesia of tooth hard tissues",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Parentsofa12-year-old boy are concerned about the child having white spots on the frontal teeth of the upper jaw; the spots appeared half a year ago. Objectively: there are chalky spots detected in the cervical zone of the 11th, 12th, 13th, 21st, 22nd, 23rd teeth vestibular surface. The enamel in those spots is dull; probing revealed it to be pliant and coarse. The anamnesis states short-time pain caused by chemical stimuli. What is the provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute initial caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic initial caries",
+        "value": false
+      },
+      {
+        "answer": "Acute super?cial caries",
+        "value": false
+      },
+      {
+        "answer": "Systemic hypoplasia of enamel",
+        "value": false
+      },
+      {
+        "answer": "Dental ?uorosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 22-year-old patient complains of a constant progressing throbbing pain in the 27 tooth. Objectively: a large carious cavity is ?lled with softened dentin, the tooth cavity is closed. Probing of the cavity ?oor is painless, percussion causes acute pain, there is grade II tooth mobility. Palpation of the mucous membrane in the projection of the root apex of the 27 tooth causes pain. Radiological changes are absent. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute serous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 20-year-old female patient complains of pain caused by eating sweet or sour food. Objectively: the vestibular surface of the 11th tooth has a chalky spot, coarse when probed. The centre of the spot has defect localised in the enamel. Fedorov-Volodkina index equals 2,5 (Oral Hygiene Index). What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute superficial caries",
+        "value": true
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Initial caries",
+        "value": false
+      },
+      {
+        "answer": "Enamel necrosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "82. A 10-year-old child has fallen and hit stairs with his teeth. An appointment with a dentist was made only 2 days later. There are complains of cold stimulus causing sharp pain. Objectively: the 11th tooth has transversal defect at 2/3 of the crown, the pulp is signi?cantly exposed. Probing causes sharp pain. Percussion is painful , the tooth is mobile. The  gums are slightly hyperemic. What method of treatment should be used in this case?",
+    "answers": [
+      {
+        "answer": "Vital extirpation",
+        "value": true
+      },
+      {
+        "answer": "Non-vital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Biological method",
+        "value": false
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Non-vital amputation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 40-year-old female patient complains of short-term pain in the 34th tooth caused by thermal stimuli. Objectively: the distal surface of the 34th tooth has a carious cavity localised in the circumpulpar dentin. The walls and ?oor of the cavity are softened, faintly pigmented; probing of the ?oor is slightly painful. Cold stimulus causes pain that ceases when stimulation stops. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute deep caries",
+        "value": true
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A12-year-old child has a carious cavity on the surface of the 12th tooth. The cavity is localised in the mantle dentin; its ?oor and walls are covered with pale softened dentin. Probing the enamel-dentin border is painful. Thermal stimuli cause short-term painful reaction. Vertical percussion is painless, horizontal  percussionis slightly painful. Gingival papilla between the 12th and 13th teeth is swollen, hyperemic, bleeds when touched. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute median caries, gingival papillitis",
+        "value": true
+      },
+      {
+        "answer": "Acute deep caries, gingival papillitis",
+        "value": false
+      },
+      {
+        "answer": "Acute partial pulpitis, gingival papillitis",
+        "value": false
+      },
+      {
+        "answer": "Acute serous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 27-year-old female patient has her 26th tooth cavity accidentially breached along the mesial buccal line angle during treatment of acute deep caries of the 26th. Choose the optimal method of treatment.",
+    "answers": [
+      {
+        "answer": "Biological method",
+        "value": true
+      },
+      {
+        "answer": "Non-vital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Non-vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Vital extirpation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 25-year-old female patient consulted a dentist about acute pain in the upper jaw on the left. The pain occurs during eating. Objectively: on the distal approximal surface of the 26 tooth there is a cavity ?lled with light soft dentin. Probing causes a slight pain along the dentin-enamel junction, percussion is painless. Cold water causes quickly abating pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute median caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 18-year-old patient complains of chalky spot in the 23rd tooth, which is slightly painful when cold stimulus is applied. Objectively: the vestibular surface near dental cervix of the 23rd tooth has a white spot 2-3 mm in size. Probing is painless and reveals coarseness of the surface. Thermal stimulus causes slightly painful feeling. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute initial caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic initial caries",
+        "value": false
+      },
+      {
+        "answer": "Fluorosis",
+        "value": false
+      },
+      {
+        "answer": "Local hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Enamel necrosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 15-year-old adolescent complains of a two-day long sharp pulsing pain in the tooth, which intensi?es when biting or touching the tooth with the tongue. Objectively: the 26th tooth contains composite material ?lling. Vertical and horisontal percussion of the tooth are painful, the tooth is slightly mobile in vestibular-oral projection. Gingival mucosa of the affected area is hyperemic, swollen, sharply painful when palpated. X-ray imaging shows no changes. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute serous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute serous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 16-year-old girl complains of cosmetic defect of the front teeth - there are dark spots and hard tissues defects. The spots were detected in the process of teething, the defects developed later. The following diagnosis was made: erosive form of ?uorosis of the 16th, 11th, 12th, 22nd, 26th, 31st, 32nd, 36th, 41st, 42nd, 46th teeth. Choose the method of treatment.",
+    "answers": [
+      {
+        "answer": "Restoration treatment",
+        "value": true
+      },
+      {
+        "answer": "Remineralization treatment",
+        "value": false
+      },
+      {
+        "answer": "Prosthetics",
+        "value": false
+      },
+      {
+        "answer": "Surgical treatment",
+        "value": false
+      },
+      {
+        "answer": "Regular medical check-up",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 19-year-old patient complains of dull pain in a tooth, which increases when the tooth is pressed. One month ago the tooth was treated for pulpitis. Objectively: the 36th tooth is ?lled; percussion is sharply painful; mucosa is hyperemic, swollen. X-ray imaging does not show any changes. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute serous periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute suppurative pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 19-year-old young man complains of un aesthetical look of his teeth, nearly all of which have spots and defects; his teeth have had such appearance since the moment of teething. The patient was born and had been living until the age of 5 in the area, where the ?uorine content of drinking water was 3,2mg/l. Objectively: the enamel of all his teeth is of dull chalky shade with separate dark-brown spots, and has multi shaped defects with dense margins, that are the most pronounced on the front upper teeth. What type of ?uorosis does this patient have?",
+    "answers": [
+      {
+        "answer": "Erosive",
+        "value": true
+      },
+      {
+        "answer": "Lined",
+        "value": false
+      },
+      {
+        "answer": "Patchy",
+        "value": false
+      },
+      {
+        "answer": "Chalky-speckled",
+        "value": false
+      },
+      {
+        "answer": "Destructive",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "To ?ll a medium depth carious cavity in the 37th tooth (Black class 2) of a 35year-old male patient a doctor has chosen a technique of layer-by-layer tooth restoration. What composite material should be applied for covering the carious cavity walls and ?oor to create the initial super adaptive layer?",
+    "answers": [
+      {
+        "answer": "Flowable",
+        "value": true
+      },
+      {
+        "answer": "Condensable",
+        "value": false
+      },
+      {
+        "answer": "Macro?lled",
+        "value": false
+      },
+      {
+        "answer": "Microhybrid",
+        "value": false
+      },
+      {
+        "answer": "Micro?lled",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 65-year-oldmale patient complains of a long-lasting pain in a mandibular tooth on the right. The pain increases on biting. The patient has a history of this tooth treatment for caries. Objectively: the cavity on the masticatory surface of the 36 tooth is ?lled, percussion causes pain responce. Along the mucogingival junction in the projection of the 36 tooth roots there is a ?stula with purulent discharge. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Radicular cyst of the mandible",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During examination of an 8-year-old child there were spots detected on the vestibular surface of the 11th, 12th, 21st and 22nd teeth. The spots are pearly-white, glossy, painless when probed, and gradually merge with non-changed enamel. Ultraviolet irradiation revealed the spots to ?uoresce blue. The child has been living up to the age of 3 in the region, where ?uorine content of drinking water was2 mg/l. What kind of non-carious lesion is it?",
+    "answers": [
+      {
+        "answer": "Fluorosis, speckled form",
+        "value": true
+      },
+      {
+        "answer": "Fluorosis, lined form",
+        "value": false
+      },
+      {
+        "answer": "Fluorosis, erosive form",
+        "value": false
+      },
+      {
+        "answer": "Local hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Systemic hypoplasia",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 20-year-old male patient complains of spontaneous pain in the 24 tooth, which arose suddenly and persists for about 15 minutes. Objectively: the distal surface of the 24 tooth exhibits a deep carious cavity with overhanging walls. The cavity is ?lled with light softened dentin and communicates with the tooth cavity. The cold stimulus causes acute, slowly abating pain. Percussion causes no pain response. Select the best method of treatment:",
+    "answers": [
+      {
+        "answer": "Vital extirpation",
+        "value": true
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Biological method",
+        "value": false
+      },
+      {
+        "answer": "Devital amputation",
+        "value": false
+      },
+      {
+        "answer": "Devital extirpation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 12-year-old boy is in the dental  of?ce to complete treatment of the 36th tooth chronic periodontitis exacerbation. There are no complaints. Objectively: occlusive dressing of the 36th tooth is intact; tooth percussion is painless; there are no pathologies of the mucosa surrounding the 36th; mucosa palpation is painless. What material is the most advisable for root canal ?lling in this case?",
+    "answers": [
+      {
+        "answer": "Sealer with gutta-percha post",
+        "value": true
+      },
+      {
+        "answer": "Zinc oxide eugenol paste",
+        "value": false
+      },
+      {
+        "answer": "Resorcinol-formalin paste",
+        "value": false
+      },
+      {
+        "answer": "Calcium-containing paste",
+        "value": false
+      },
+      {
+        "answer": "Phosphate cement",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 47-year-old female patient complains of inability to eat hot and cold food, as well as of intense pain caused by sour, sweet and salty food. Objectively: there is a slight loss of enamel on the molars and incisors. Probingand cold test cause acute pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Hyperesthesia of dental hard tissues",
+        "value": true
+      },
+      {
+        "answer": "Enamel erosion",
+        "value": false
+      },
+      {
+        "answer": "Enamel necrosis",
+        "value": false
+      },
+      {
+        "answer": "Enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Pathological abrasion of dental hard tissues",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After removal of dental plaque an 18year-old patient underwent preventive examination. It revealed painless chalky spots in the precervical region on the vestibular surface of the 22 and 41 teeth. Result of enamel resistance test is 7. What morphological changes are typical for this disease?",
+    "answers": [
+      {
+        "answer": "Subsurface enamel demineralization",
+        "value": true
+      },
+      {
+        "answer": "Changes in the mantle dentine",
+        "value": false
+      },
+      {
+        "answer": "Damage of dentinoenamel junction",
+        "value": false
+      },
+      {
+        "answer": "Super?cial enamel demineralization",
+        "value": false
+      },
+      {
+        "answer": "Degeneratic changes of odontoblasts",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A week ago an 18-year-old girl complained of pain in the 22 tooth which was treated and ?lled several years ago. Over the past two days the pain got worse. Objectively: the 22 tooth is ?lled, percussion is painful, mucous membrane is hyperaemic and edematic. Spot-?lm  roentgenograph of the 22 tooth shows an ill-de?ned pariapical bone rarefaction 0,4x0,5 cm large. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic periodontitis of the 22 tooth",
+        "value": true
+      },
+      {
+        "answer": "Suppuration of the radicular cyst",
+        "value": false
+      },
+      {
+        "answer": "Acute odontogenic osteomyelitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periodontitis of the 22 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute maxillaryperiostitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Preventive examination of an 14-yea rold boy revealed some lusterless chalklike spots on the vestibular surface of the 11 and 21 teeth, which are localised in the precervical region. Subjective complaints are absent. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute initial caries",
+        "value": true
+      },
+      {
+        "answer": "White-spotted fluorosis",
+        "value": false
+      },
+      {
+        "answer": "Local enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Acute superficial caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic initial caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A35-year-oldmancomplainsof short term pain caused by thermal stimuli in the 46 and 47 teeth. Objectively: masticatory surfaces of the 46, 47 teeth are intact, approximal surfaces could not be examined because of a very close arrangement of teeth. What methods of study can be used in this case if you suspect the presence of hidden cavities?",
+    "answers": [
+      {
+        "answer": "X-ray",
+        "value": true
+      },
+      {
+        "answer": "Vital staining",
+        "value": false
+      },
+      {
+        "answer": "Fluorescent study",
+        "value": false
+      },
+      {
+        "answer": "Measuring electrical resistance",
+        "value": false
+      },
+      {
+        "answer": "Electro-odontometry",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 44-year-old patient consulted a surgeon about constant acute pain in the upper jaw region on the left that is getting worse during teeth joining. The pain was noted 3 days ago. Objectively: the face is symmetrical, mouth opening is unlimited. The crown for the 26 tooth is half-destroyed. Probing of the carious cavity is painless. Percussion of the 26 tooth provokes acute pain. Mucous membrane of the alveolar process is edematic, hyperaemic at the level of the 26 tooth. The 26 tooth had been treated before. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic periodontitis of the 26 tooth",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent periodontitis of the 26 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute pulpitis of the 26 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periostitis of upper jaw of the 26 tooth on the left",
+        "value": false
+      },
+      {
+        "answer": "Periodontitis of the 26, 27, 28 teeth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 32-year-old patient complains of acute spontaneous attacks of pain in the 14 tooth. The pain lasts for 10-20 minutes and occurs every 2-3 hours. Carious cavity in the 14 tooth is ?lled with softened dentin. Probing of the cavity ?oor is painful at one point. Cold stimulus causes pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute localized pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Hyperemia of the pulp",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 18-year-old patient complains of acute spontaneous toothache irradiating to the right eye and temporal region. Objectively: there is a deep carious cavity in the 27 tooth within circumpulpar dentin. Dentin is light, softened. Probing of the cavity ?oor and cold test cause acute pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute serous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 24-year-old patient complains of aching pain in the 11 tooth that is getting worse on biting. Two days ago the tooth was ?lled for pulpitis. Objectively: the 11 tooth is ?lled. The thermal test causes no pain, vertical percussion is slightlypainful.X-raypictureofthe11tooth shows that the endodontic ?lling is 1 mm above the root apex. Which of the following methods will be most effective for eliminating this complication?",
+    "answers": [
+      {
+        "answer": "Fluctuorization",
+        "value": true
+      },
+      {
+        "answer": "Ultrahigh frequency therapy",
+        "value": false
+      },
+      {
+        "answer": "Relaxingincision",
+        "value": false
+      },
+      {
+        "answer": "Submucous injection of 1% solution of hydrocortisone",
+        "value": false
+      },
+      {
+        "answer": "Analgetics",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A32-year-oldpatientcomplainsof the long-term dull toothache caused by hot food. The toothache appeared a month ago.Objectively:the26toothhaschanged in colour, on the masticatory surface there is a deep carious cavity communicating with the tooth cavity. Super?cial probing of pulp is painless, deep probing is painful. Electro-odontodiagnostics results: 85 µA. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic hypertrophic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic concrementous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 27-year-old patient complains of the long-term pain in the 22 tooth caused by cold and hot food, as well as of spontaneous pain lasting for 30 minutes and occurring 3-4 times per day, getting worse at night. Pain arose3 days ago after preparation of the tooth for the acrylic crown. Objectively: the 22 tooth is intact, the thermal test causes acute long-lasting pain, percussion is painless. What is the optimal treatment tactics?",
+    "answers": [
+      {
+        "answer": "Vital pulp extirpation",
+        "value": true
+      },
+      {
+        "answer": "Application of ?uorine lacquer",
+        "value": false
+      },
+      {
+        "answer": "Biological treatment of pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Devital pulp extirpation",
+        "value": false
+      },
+      {
+        "answer": "Vital pulp amputation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Parents of a 12-year-old child complain of white patches on the upper front teeth, which appeared six months ago. Objectively: chalk-like patches on the vestibular surfaces in the precervical region of the 13,12, 11,21, 22,23 teeth. Their enamel is dull, pliable and rough on probing. There is a history of short-term pain caused by chemical stimuli. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute initial caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic initial caries",
+        "value": false
+      },
+      {
+        "answer": "Systemic enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Dental ?uorosis",
+        "value": false
+      },
+      {
+        "answer": "Acute super?cial caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 18-year-old man complains of the 14, 13, 12, 23, 24 teeth being sensitive to sweet and sour food. Examination revealed some isolated ill-de?ned chalky spots in the precervical region. What is the most informative method of study that allows to con?rm the diagnosis?",
+    "answers": [
+      {
+        "answer": "Vital staining",
+        "value": true
+      },
+      {
+        "answer": "X-ray",
+        "value": false
+      },
+      {
+        "answer": "Probing",
+        "value": false
+      },
+      {
+        "answer": "Electro-odontometry",
+        "value": false
+      },
+      {
+        "answer": "Thermometry",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 21-year-old patient complains of constant progressing throbbing pain in the 27 tooth. Objectively: a large carious cavity is ?lled with softened dentin, the tooth cavity is closed. Probing of the cavity ?oor is painless, percussion causes acute pain, there is grade II tooth mobility. Palpation of the mucous membrane in the projection of the root apex of the 27 tooth causes pain. Radiological changes are absent. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute serous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 17-year-old man complains of a cosmetic defect in form of light spots on the teeth. In the area of his residence the ?uoride concentration in drinking water is at the rate of 1 mg/l. Objectively: vestibular surface of the 11,12, 21, 22, and tubercles of the 16, 26, 36 and 46 teeth have chalky spots with shiny surface that have been present since the time of eruption. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Systemic hypoplasia",
+        "value": true
+      },
+      {
+        "answer": "Multiple caries",
+        "value": false
+      },
+      {
+        "answer": "Endemic ?uorosis",
+        "value": false
+      },
+      {
+        "answer": "Enamel erosion",
+        "value": false
+      },
+      {
+        "answer": "Amelogenesis imperfect",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A46-year-oldpatient complains about pain and bleeding from the carious cavity of her 27 tooth during eating. Previously she had spontaneous pain. Examination of the 27 tooth revealed a deep carious cavity on the masticatory surface consisting of red tissue, probing induced pain and haemorrhage. What treatment method should be chosen?",
+    "answers": [
+      {
+        "answer": "Vital extirpation",
+        "value": true
+      },
+      {
+        "answer": "Devital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Devital amputation",
+        "value": false
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Biological method",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 25-year-old student complains of a carious cavity in the 22 tooth. The ?llings fell out 2 months ago. The tooth had been treated before for pulpitis. Objectively: there is a deep carious cavity with the rests of ?lling on the medial surface of the 22 tooth. The crown of the 22 tooth is dirty pink. X-ray shows a root canal ?lled with the ?lling material by 1/2 of the root length; in the region of the root apex there is a well-de?ned focus of destruction of bone tissue 0,3x0,3 cm large. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic granulomatous periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Residual pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Radicular cyst",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains about pain In the 45 tooth induced by cold, sour and sweet food stimuli. The pain abates when the stimulus action is stopped. Objectively: there is a carious cavity on the masticatory surface within mantle dentin ?lled with food rests and softened dentin, overhanging enamel edeges are chalky. What is the diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute median caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      },
+      {
+        "answer": "Acute super?cial caries",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 13-year-old girl complains about frequent falling out of a ?lling in the 21 tooth. It is known from the anamnesis that 2 years ago she underwent treatment on account of a dental trauma. Objectively: a transverse defect of 1/3 of the crown in the 21 tooth. Percussion is painless. Tooth colour is unchanged. X-ray picture shows that root canal is ?lled by 1 mm from the apex, ?lling material closely ?ts the walls of root canal. What stomatological tactics should be chosen?",
+    "answers": [
+      {
+        "answer": "The defect should be restored with photopolymer",
+        "value": true
+      },
+      {
+        "answer": "The root canal should be re?lled",
+        "value": false
+      },
+      {
+        "answer": "The root apex should be resected",
+        "value": false
+      },
+      {
+        "answer": "The tooth should be extracted",
+        "value": false
+      },
+      {
+        "answer": "The tooth should be crowned with an arti?cial crown",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 34-year-old male patient complains of acute spasmodic pain in the region of his upper jaw on the left that is getting worse as affected by cold stimuli. Toothache irradiates to the ear and temple. He had acute toothache of the 37 tooth one year ago, but he didn’t consult a dentist. Pain recurred three days ago. Objectively: the 37 tooth has a carious cavity communicating with the dental cavity. Probing of the opened carious cavity is extremely painful. X-ray picture shows widening of periodontal ?ssure at the root apex of the 37 tooth. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic granulating periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 15-year-old boy complains of a carious cavity, periodic toothache, gum swelling. Objectively: masticatory surface of the 36 tooth has a deep cavity not communicating with the tooth cavity, cold stimuli, probing and percussion are painless, mucous membrane is pale pink, there is a caicatrix from a ?stula. X-ray picture shows an ill-de?ned focus of bone tissue destruction in the region of the roots bifurcation. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic granulating periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 13-year-old girl complains of toothache increasing while biting. Objectively: the 36 tooth has a deep carious cavity not communicating with the tooth cavity, the response to thermal stimuli is painless, percussion is sharply painful, mucous membrane is intact. X-ray picture shows no changes. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute serous periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute serous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 15-year-old patient  undergoes sanitation of the oral cavity. The girl was found to have chalky spots on the vestibular surfaces in the precervical region of the 21 and 12 teeth. Enamel surface is dull, smooth. Pain reaction to the temperature stimuli is absent. What additional method of examination is expected to con?rm the diagnosis?",
+    "answers": [
+      {
+        "answer": "Vital staining",
+        "value": true
+      },
+      {
+        "answer": "Orthopantomography",
+        "value": false
+      },
+      {
+        "answer": "Intraoral roentgenography",
+        "value": false
+      },
+      {
+        "answer": "Electroodontodiagnostics",
+        "value": false
+      },
+      {
+        "answer": "Ultraviolet stomatoscopy",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 14-year-old boy complains of pain caused by sweet and sour food in an upper tooth on the left.Objectively:the26tooth has a carious cavity on the masticatory surface within the enamel limits. What is the optimal material to ?ll the 26 tooth?",
+    "answers": [
+      {
+        "answer": "Сomposite",
+        "value": true
+      },
+      {
+        "answer": "Glass ionomer",
+        "value": false
+      },
+      {
+        "answer": "Silicophosphate cement",
+        "value": false
+      },
+      {
+        "answer": "Silicate cement",
+        "value": false
+      },
+      {
+        "answer": "Zinc phosphate cement",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains about spontaneous pain in the area of his 15 tooth he has been feeling for 2 days. Thermal stimuli make the pain worse, its attacks last up to 30 minutes. Objectively: there is a deep carious cavity in the 15 tooth consisting of light softened dentin, ?oor probing is painful in one point, reaction to the thermal stimuli is positive, percussion is painless. Make a diagnosis:",
+    "answers": [
+      {
+        "answer": "Acute local pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Pulp hyperemia",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Acute condition of chronic pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-old patient complains of progressing throbbing pain in the 26 tooth. Objectively: the 26 tooth has a carious cavity ?lled with softened dentine, tooth cavity is closed, probing of the cavity ?oor is painless, percussion causes acute pain. There is I grade tooth mobility. Roentgenological changes are absent. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute serous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 25-year-old patient complains of a light brown spot in the upper front tooth. Objectively: the 23 tooth has a single light brown spot in the precervical region. Probing shows smooth surface. The tooth is nonresponsive to cold and probing. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic initial caries",
+        "value": true
+      },
+      {
+        "answer": "Fluorosis",
+        "value": false
+      },
+      {
+        "answer": "Local enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Acute initial caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic super?cial caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains about paroxysmal upper jaw toothache on the left that is getting worse at night. Toothache intensi?es also under  stimulation and irradiates to the left eye and temple. Similar attacks were noted three months ago, the patient didn’t undergo any treatment. Objectively: the 25 tooth has a deep carious cavity communicating with the tooth cavity. Probing causes acute pain at the point of communication, vertical percussion is slightly painful, horizontal one is painless. Mucous membrane in the projection of root apex of the 25 tooth is unchanged, its palpation is painless. Thermal probe causes acute pain, the pain attack is longlasting. Electroodontodiagnosis is 60 microampere. X-ray picture shows a slight widening of periodontal ?ssure at the root apex of the 25 tooth. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute generalized pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 14-year-old child complains about acute spontaneous pain in an upper jaw tooth on the right. The pain has been lasting for 3 days, it is throbbing, irradiating to the temple, getting worse at night. Objectively: surface of the 15 tooth exhibits a carious cavity within parapulpar dentine. Dentine is softened, of greyish  colour. Probing of the whole cavity ?oor is painful, percussion of the 15 tooth is painless. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute focal pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23-year-old patient complains about unpleasant sensations in the region of the 12 tooth, X-ray picture shows a well-de?ned low-density area up to 8-10 mm in diameter around the root apex of the 12 tooth. What method of surgery will be the most ef?cient?",
+    "answers": [
+      {
+        "answer": "Root apex resection",
+        "value": true
+      },
+      {
+        "answer": "Root amputation",
+        "value": false
+      },
+      {
+        "answer": "Hemisection",
+        "value": false
+      },
+      {
+        "answer": "Tooth removal",
+        "value": false
+      },
+      {
+        "answer": "Cystotomy",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "After removal of dental deposit an 18year-old patient underwent preventive examination. It revealed painless chalky spots in the precervical area on the vestibular surface of the 22 and 41 teeth. Result of enamel resistance test is 7. What morphological changes are typical for this disease?",
+    "answers": [
+      {
+        "answer": "Subsurface enamel demineralization",
+        "value": true
+      },
+      {
+        "answer": "Changes in the mantle dentine",
+        "value": false
+      },
+      {
+        "answer": "Damage of dentinoenamel junction",
+        "value": false
+      },
+      {
+        "answer": "Super?cial enamel demineralization",
+        "value": false
+      },
+      {
+        "answer": "Degeneratic changes of odontoblasts",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 8-year-old boy was diagnosed with chronic ?brous pulpitis of the 21 tooth. It was treated by extirpation method. Choose the material for root ?lling:",
+    "answers": [
+      {
+        "answer": "Calcium-containing material",
+        "value": true
+      },
+      {
+        "answer": "Glass-ionomer cement",
+        "value": false
+      },
+      {
+        "answer": "Zinc oxide eugenol paste",
+        "value": false
+      },
+      {
+        "answer": "Resorcin-formalin paste",
+        "value": false
+      },
+      {
+        "answer": "Phosphate cement",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 22-year-old patient was undergoing treatmentof the25thtooth fordeepacute caries. During preparation a dentist accidentally opened the horn of pulp. What method of treatment should be applied?",
+    "answers": [
+      {
+        "answer": "Biologic method",
+        "value": true
+      },
+      {
+        "answer": "Vital amputation of pulp",
+        "value": false
+      },
+      {
+        "answer": "Devital amputation",
+        "value": false
+      },
+      {
+        "answer": "Vital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Devital extirpation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient consulted a doctor about recurrent pain in the frontal part of his upper jaw. He has history of previous treatment for pulpitis. Objectively: the crown of the 12 tooth is restored with a ?lling. X-ray picture of the upper jaw shows an area of bone tissue destruction (up to 1 cm in diameter) at the root apex of the 12 tooth. The root channel of the 12 tooth is ?lled up to the top. The patient was diagnosed with cystogranuloma of the 12 tooth. Choose the best method of treatment:",
+    "answers": [
+      {
+        "answer": "Root apex resection",
+        "value": true
+      },
+      {
+        "answer": "Extraction of the 12 tooth",
+        "value": false
+      },
+      {
+        "answer": "Conservative treatment",
+        "value": false
+      },
+      {
+        "answer": "Dissection along the mucogingival junction",
+        "value": false
+      },
+      {
+        "answer": "Replantation of the 12 tooth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 38-year-old male patient complains of a carious cavity. He had experienced spontaneous dull pain in the tooth in question before. Objectively: the distal masticatory surface of the 37 tooth presents a deep cavity made of soft pigmented dentin. Percussion is painless. After removing the decay from the cavity, cold water has caused pain lasting for about a minute. X-ray picture shows the deformation of the periodontal gap in the region of the 37 root apices. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 14-year-old boy complains of bleeding and pain during eating in the lower right molar. Objectively: the medial contact and masticatory surfaces of the 46 tooth exhibit a large carious cavity ?lled with red tissue. Super?cial probing causes pain and moderate bleeding. Deeper probing causes acute pain. Percussion is painless .What is your provisional diagnosis:",
+    "answers": [
+      {
+        "answer": "Chronic hypertrophic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic papillitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 10-year-old girl complains of minor pain in a lower jaw tooth occuring during having cold food. Objectively: the masticatory surface of the 36 tooth exhibits a carious cavity with a narrow inlet located within the mantle dentin. Probing causes pain along the enamel-dentin border. Make a diagnosis:",
+    "answers": [
+      {
+        "answer": "Acute median caries",
+        "value": true
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      },
+      {
+        "answer": "Super?cial caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 17-year-old child complains about a cosmetic defect in the frontal teeth region. Objectively: enamel of the 11, 12, 21, 22, 31, 32, 41, 42 teeth is thin in the region of cutting edge, there is a sulcate enamel pit 1,5 mm wide which encircles the tooth and is parallel to the cutting edge. The cusps of the 16, 26, 36, 46 teeth are underdeveloped and have conical form. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Systemic hypoplasia",
+        "value": true
+      },
+      {
+        "answer": "Dentinogenesis imperfecta",
+        "value": false
+      },
+      {
+        "answer": "Enamel dysplasia",
+        "value": false
+      },
+      {
+        "answer": "Local hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Stainton-Capdepont dysplasia",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Preventive examination of a 45-year old patient revealed a carious cavity in the 23 tooth located within the mantle dentin. The cavity ?oor and walls are of dense, markedly pigmented dentin, probing and cold test provoke no pain, percussion of the 23 tooth is painless. Electroodontometry results - 6 mA. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic median caries",
+        "value": true
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 44-year-old patient consulted a surgeon about constant acute pain in the upper jaw region on the left that is getting worse during teeth joining. The pain was noted 3 days ago. Objectively: the face is symmetrical, mouth opening is unlimited. The crown fof the 26 tooth is half-destroyed. Probing of the carious cavity is painless. Percussion of the 26 tooth provokes acute pain. Mucous membrane of the alveolar process is edematic, hyperemic on the level of the 26 tooth. The 26 tooth was treated before. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic periodontitis of the 26 tooth",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent periodontitis of the 26 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute pulpitis of the 26 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periostitis of upper jaw of the 26 tooth on the left",
+        "value": false
+      },
+      {
+        "answer": "Periodontitis of the 26, 27, 28 teeth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 38-year-old patient complains of acute paroxysmal pain in the region of his left upper jaw, left eye and temple. The pain is lasting (2-3 hours), gets worse at night.Objectively:the26tooth has a deep carious cavity,?oor probing causes painful response, thermal stimuli provoke longlasting pain, percussion provokes minor pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Pulpitis complicated by the periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute limited pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of the chronic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 46-year-old patient has been diagnosed with chronic concrementous pulpitis of the 27 tooth. X-ray picture shows that the concrement is located in the crown part of the tooth cavity and occupies 1/4 of its volume. Select an adequate method of treatment:",
+    "answers": [
+      {
+        "answer": "Vital extirpation",
+        "value": true
+      },
+      {
+        "answer": "Biologic method",
+        "value": false
+      },
+      {
+        "answer": "Devital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Devital amputation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 20-year-oldpatientcomplainsabout unaesthetic look of the 24 tooth from the moment of its eruption. Objectively: enamel of the 24 tooth is partly absent, the dentine is yellow. The 64 tooth was treated more than once when she was a child, but because of frequent exacerbations, edemas and gingival ?stula the 64 tooth was extracted when she was 9 years old. What is the most likelydiagnosis?",
+    "answers": [
+      {
+        "answer": "Localised hypoplasia",
+        "value": true
+      },
+      {
+        "answer": "Initial caries",
+        "value": false
+      },
+      {
+        "answer": "Fluorosis",
+        "value": false
+      },
+      {
+        "answer": "Systemic hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Enamel aplasia",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 16-year-old girl complains about white patches on the upper front teeth, which appeared six months ago. Objectively: chalk-like patches on the vestibular surfaces in the precervical area of the 13, 12, 11, 21, 22, 23 teeth. Their enamel is dull, pliable and rough on probing. There is a history of short-term pain caused by chemical stimuli. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute initial caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic initial caries",
+        "value": false
+      },
+      {
+        "answer": "Acute super?cial caries",
+        "value": false
+      },
+      {
+        "answer": "Systemic enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Dental ?uorosis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "An 16-year-old girl complains of a carious cavity in the left upper molar, which appeared six months ago. Objectively: the medial contact surface of the 26 tooth exhibits a carious cavity located within the mantle dentin. The cavity ?oor and walls are dense, pigmented, with no pain upon probing. The response to thermal stimuli is absent. Percussion of the tooth causes no pain. Make a provisional diagnosis:",
+    "answers": [
+      {
+        "answer": "Chronic median caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 34-year-old male patient complains about acute spasmodic pain in the region of his upper jaw on the left that is getting worse as affected by cold stimuli. Toothache irradiates to the ear and temple. He had acute toothache of the 36 tooth one year ago, but he didn’t consult a dentist. Pain recurred three days ago. Objectively: the 36 tooth has a carious cavity communicating with the dental cavity. Probing of the opened carious cavity is extremely painful. X-ray picture shows widening of periodontal ?ssure at the root apex of the 36 tooth. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic granulating periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-old patient was diagnosed withchronicmediancariesofthe36tooth. There is a Black’s class II cavity affecting masticatory surface. What material  should be chosen for the tooth ?lling?",
+    "answers": [
+      {
+        "answer": "Light-cure microhybride composite",
+        "value": true
+      },
+      {
+        "answer": "Glass ionomer cement",
+        "value": false
+      },
+      {
+        "answer": "Silicophosphate cement",
+        "value": false
+      },
+      {
+        "answer": "Light-cure ?uid composite",
+        "value": false
+      },
+      {
+        "answer": "Light-cure micro?lled composite",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 25-year-old patient complains of intermittent pain during taking sweet and cold food in the 21 tooth. Objectively: there is a hard tissue defect within the enamel in the cervical region of the 21 tooth. The enamel edges are uneven and chalky. Probing the cavity bottom provokes no pain, there is short-term pain reaction to cold stimuli. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Super?cial caries",
+        "value": true
+      },
+      {
+        "answer": "Wedge-shaped defect",
+        "value": false
+      },
+      {
+        "answer": "Initial caries",
+        "value": false
+      },
+      {
+        "answer": "Enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Enamel erosion",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 30-year-old patient has a carious cavity in the 11 tooth within parapulpar dentin. The tooth corner and its cutting edge are affected. What ?lling material is best for restoration of the anatomic tooth form?",
+    "answers": [
+      {
+        "answer": "Light-cure composite",
+        "value": true
+      },
+      {
+        "answer": "Silicate cement",
+        "value": false
+      },
+      {
+        "answer": "Light-cure glass-ionomer cement",
+        "value": false
+      },
+      {
+        "answer": "Chemical-cure paste-paste composite",
+        "value": false
+      },
+      {
+        "answer": "Chemical-cure powder-liquid composite",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 29-year-old patient complains of acute paroxysmal pain in the upper jaw on the left, that gets worse during having cold food and irradiates into the ear and temple. A year ago she experienced intense pain in the 27 the tooth but didn’t consult a dentist. Three days ago there was the second attack of pain. Objectively: there is a deep carious cavity in the 27th tooth, interconnecting with the tooth cavity. Probing the open area causes acute pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute serous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute limited pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 26-year-old patient complains of whitish spots on the masticatory teeth, drawing of mouth during taking acidic food. The spots appeared about 3 months ago. Objectively: the cervical region of the 46, 36, 27 teeth exhibits some chalklike spots that can be easily stained with 2% methylene blue, probing reveals the surface roughness. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute initial caries",
+        "value": true
+      },
+      {
+        "answer": "Acute super?cial caries",
+        "value": false
+      },
+      {
+        "answer": "Enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Endemic ?uorosis",
+        "value": false
+      },
+      {
+        "answer": "Chronic super?cial caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 37-year-old patient complains about progressing throbbing pain in the 26 tooth. Objectively: the 26 tooth has a carious cavity ?lled with softened dentine, tooth cavity is closed, probing of the cavity ?oor is painless, percussion causes acute pain. There is I degree tooth mobility. Roentgenological changes are absent. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute serous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 44-year-old patient consulted a dentist about pain in the 36th tooth. X-ray examination revealed a breakage of an endodontic tool in the distal root. The root apex exhibits a well-de?ned area of bone tissue destruction (d = 5 mm) with clear margins. What method of treatment is most appropriate in this case?",
+    "answers": [
+      {
+        "answer": "Dental hemisection",
+        "value": true
+      },
+      {
+        "answer": "Root apex resection",
+        "value": false
+      },
+      {
+        "answer": "Conservative treatment",
+        "value": false
+      },
+      {
+        "answer": "Tooth replantation",
+        "value": false
+      },
+      {
+        "answer": "Root amputation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "X-ray examination of the maxillary alveolar process of a 35-year-old patient reveals a root fracture of the 11 tooth in its apical region. The tooth has been treated before, the canal is ?lled. The patient has a history of the tooth trauma. What method of treatment is indicated for this case?",
+    "answers": [
+      {
+        "answer": "Root apex resection",
+        "value": true
+      },
+      {
+        "answer": "Tooth extraction",
+        "value": false
+      },
+      {
+        "answer": "Tooth crowning",
+        "value": false
+      },
+      {
+        "answer": "Tooth replantation",
+        "value": false
+      },
+      {
+        "answer": "Root amputation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 21-year-old patient complains of a drop-shaped bulge in the cervical region. Objectively: there is an enamel droplet of about 2 mm in diameter on the vestibular surface of the 33 tooth. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Enamel hyperplasia",
+        "value": true
+      },
+      {
+        "answer": "Enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Fluorosis",
+        "value": false
+      },
+      {
+        "answer": "Supernumerary tooth",
+        "value": false
+      },
+      {
+        "answer": "Marble-bone disease",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 27-year-old patient complains about a light brown spot in the upper  foretooth. Objectively: the 23 tooth has a single light brown spot in the cervical region. Probing shows smooth surface. The tooth is nonresponsive to cold and probing. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic initial caries",
+        "value": true
+      },
+      {
+        "answer": "Fluorosis",
+        "value": false
+      },
+      {
+        "answer": "Local enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Acute initial caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic super?cial caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 38-year-old patient complains of discomfort, occasional sensation of tearing in the 17 tooth, infrequent pain during eating hot food that lasts for 10-20 minutes. Objectively: the 17 tooth is ?lled with composite materials, the tooth is slightly darker than the other ones. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic granulating pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic concrementous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Recurrent caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 16-year-old girl consulted a dentist about a cosmetic defect on her front teeth, namely some dark spots and dentin defects. The spots were detected immediately after teeth eruption, the defects developed with the lapse of time. The patient was diagnosed with erosive form of dental ?uorosis of the 16, 11, 12, 22, 26, 31,32,36,41,42,46teeth.Selectamethod of treatment:",
+    "answers": [
+      {
+        "answer": "Restoration",
+        "value": true
+      },
+      {
+        "answer": "Remineralization",
+        "value": false
+      },
+      {
+        "answer": "Prosthetics",
+        "value": false
+      },
+      {
+        "answer": "Surgical treatment",
+        "value": false
+      },
+      {
+        "answer": "Regular surveillance",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains about paroxysmal upper jaw toothache on the left that is getting worse at night. Toothache intensi?es also under stimulation and irradiates to the left eye and temple. Similar attacks were noted three months ago, the patient didn’t undergo any treatment. Objectively: the 15 tooth has a deep carious cavity communicating with the tooth cavity. Probing causes acute pain at the point of communication, vertical percussion is slightly painful, horizontal one is painless. Mucous membrane in the projection of root apex of the 15 tooth is unchanged, its palpation is painless. Thermal probe causes acute pain, the pain attack is longlasting. Electroodontodiagnosis is 60 microampere. X-ray picture shows slight widening of periodontal ?ssure at the root apex of the 15 tooth. What is the most probable diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute generalized pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 22-year-old patient undergoes treatmentforacutedeepcariesofthe26th tooth. The pulp-capping material of choice is Ca(OH)2/salicylate cement 'Life', the constant ?lling material is ligh-cure condensable composite 'Solitaire-2'. The pulp cap should be covered with:",
+    "answers": [
+      {
+        "answer": "Glass-ionomer cement",
+        "value": true
+      },
+      {
+        "answer": "Adhesive composite system",
+        "value": false
+      },
+      {
+        "answer": "Insulating varnish",
+        "value": false
+      },
+      {
+        "answer": "Phosphate cement",
+        "value": false
+      },
+      {
+        "answer": "Zinc-eugenol cement",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 14-year-old child complains about acute spontaneous spasmodic pain in an upper jaw tooth on the right. The pain has been lasting for 3 days, it is throbbing, irradiating to the temple, getting worse at night. Objectively: surface of the 15 tooth exhibits a carious cavity within parapulpar dentine. Dentine is softened, of greyish colour. Probing of the whole cavity ?oor is painful, percussion of the 15 tooth is painless. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute focal pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 18-year-old patient complains of severe pain caused by cold food in the 11 tooth. A day before he had a crown break off of the 11 tooth. Examination revealed an oblique fracture of the 11 tooth crown with the opening of the tooth cavity, probing causes acute pain, comparative percussion is painful, there is minor tooth mobility. What treatment should be administered?",
+    "answers": [
+      {
+        "answer": "Vital extirpation",
+        "value": true
+      },
+      {
+        "answer": "Devital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Biologic method",
+        "value": false
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      },
+      {
+        "answer": "Devital amputation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A girl is 13 years old. She lives in an area where ?uoride concentration in the drinking water is at the rate of 1,6 mg/l. Dental examination revealed some chalklike spots on the vestibular surfaces of all her teeth. The white coloration is more intense in the centre and less on the periphery. There is light-brown pigmentation in the region of the central incisors along the cutting edge. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Dental fluorosis",
+        "value": true
+      },
+      {
+        "answer": "Acute initial caries",
+        "value": false
+      },
+      {
+        "answer": "Systemic enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Stainton-Capdepont syndrome",
+        "value": false
+      },
+      {
+        "answer": "Amelogenesis imperfect",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "174. A 47-year-old patient complains of persistent ache in the 27 tooth, that gets worse when biting. Objectively: skin colour is normal, the face is symmetrical, the mouth opens without any dif?culties, alveolar mucosa at the level of 27 tooth is edematous and hyperemic. The 27 tooth presents a deep carious cavity communicating with the pulp chamber. Percussion of the 27 tooth causes acute pain. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of acute periodontitis of the 27 tooth",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent maxillary periostitis in the region of the 27 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periodontitis of the 27 tooh",
+        "value": false
+      },
+      {
+        "answer": "Acute generalized purulent pulpitis of the 27 tooth",
+        "value": false
+      },
+      {
+        "answer": "Chronic odontogenic left-sided maxillary sinusitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient consulted a dental surgeon about extraction of the roots of the 36 tooth. The tooth decayed long ago. Objectively: the crown of the 36 is destroyed by 2/3, percussion is painless, mucosa around the 36 tooth exhibits no evident pathological changes. X-ray picture of the alveolar process shows a roundish well-de?ned radiolucency near the apex of the medial root. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic granulomatous periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "On removing a dental plaque, a 19 year-old patient is found to have two white patches in the precervical region of the 11 and 21 teeth. After drying the patches increase in size. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Initial caries",
+        "value": true
+      },
+      {
+        "answer": "Fluorosis",
+        "value": false
+      },
+      {
+        "answer": "Local hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Enamel necrosis",
+        "value": false
+      },
+      {
+        "answer": "Amelogenesis imperfect",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 41-year-old patient complains of a cavity in the 26 tooth. Objectively: the 26 tooth exhibits a deep carious cavity, dentine is dense, pigmented, there is pain reaction to a cold stimulus, percussion and probing are painless. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic deep caries",
+        "value": true
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 14-year-old boy repeatedly visits a dentist to ?nish treatment of the 36 tooth for the exacerbation of chronic periodontitis. The complaints are absent. Objectively: occlusive dressing on the 36 tooth is preserved, tooth percussion is painless , mucous membrane of the 36 has no pathological changes, is painless on palpation. What material should be used for root canal ?lling in this case?",
+    "answers": [
+      {
+        "answer": "Sealer with a gutta-percha point",
+        "value": true
+      },
+      {
+        "answer": "Zinc-eugenol paste",
+        "value": false
+      },
+      {
+        "answer": "Resorcinol-formalin paste",
+        "value": false
+      },
+      {
+        "answer": "Calcium-containing paste",
+        "value": false
+      },
+      {
+        "answer": "Phosphate cement",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 12-year-old boy complains about short-term pain in a lower jaw tooth on the right caused by cold stimuli. Objectively: the 46 tooth has a carious cavity on the masticatory surface within the circumpulpar dentine which has no intercommunication with the dental cavity. The cavity ?oor and walls are coated with light softened dentine. Cold test causes short-standing pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute deep caries",
+        "value": true
+      },
+      {
+        "answer": "Acute median caries",
+        "value": false
+      },
+      {
+        "answer": "Acute localized pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 40-year-old male patient complains about pain of the 46 tooth during food intake, especially hot food, offensive breath when he sucks his tooth. Objectively: the face is symmetrical, masticatory surface of the 48 tooth has a deep carious cavity communicating with the dental cavity. X-ray picture shows widening of periodontal ?ssure at the root apex of the 46 tooth. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "During endodontic treatment of periodontitis a tool was broken in the middle third of the medial root. Choose the treatment method:",
+    "answers": [
+      {
+        "answer": "Medial root hemisection",
+        "value": true
+      },
+      {
+        "answer": "Medial root amputation",
+        "value": false
+      },
+      {
+        "answer": "Crown radicular separation",
+        "value": false
+      },
+      {
+        "answer": "Resection of medial root apex",
+        "value": false
+      },
+      {
+        "answer": "Tooth extraction",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 15-year-old girl complains about a cosmetic defect in the frontal teeth region. Objectively: enamel of the 11, 12, 21, 22, 31, 32, 41, 42 teeth is thin in the region of cutting edge, there is a sulcate enamel pit 1,5 mm wide which encircles the tooth and is parallel to the cutting edge. The cusps of the 16, 26, 36, 46 teeth are underdeveloped and have conical form. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Systemic hypoplasia",
+        "value": true
+      },
+      {
+        "answer": "Dentinogenesis imperfecta",
+        "value": false
+      },
+      {
+        "answer": "Enamel dysplasia",
+        "value": false
+      },
+      {
+        "answer": "Local hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Stainton-Capdepont dysplasia",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "Preventive examination of an 14-year old boy revealed some lusterless chalk like spots on the vestibular surface of the 11 and 21 teeth, which are localised in the precervical region. Subjective complaints are absent. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute initial caries",
+        "value": true
+      },
+      {
+        "answer": "White-spotted ?uorosis",
+        "value": false
+      },
+      {
+        "answer": "Local enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Acute super?cial caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic initial caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A patient complains about intensive throbbing toothache in his lower jaw on the left. He can’t show the aching tooth. It hurts all the time, the pain goes down sometimes, but it becomes stronger as affected by stimuli. Within the last hours the pain provoked by cold stimuli has somewhat reduced. Objectively: the 17 tooth has a carious cavity, probing causes no pain, the pulp chamber is closed. What method of treatment is indicated?",
+    "answers": [
+      {
+        "answer": "Vital extirpation",
+        "value": true
+      },
+      {
+        "answer": "Devital extirpation",
+        "value": false
+      },
+      {
+        "answer": "Devital amputation",
+        "value": false
+      },
+      {
+        "answer": "Biological method",
+        "value": false
+      },
+      {
+        "answer": "Vital amputation",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 46-year-old patient consulted a surgeon about constant acute pain in the upper jaw region on the left that is getting worse during teeth joining. The pain was noted 3 days ago. Objectively: the face is symmetrical, mouth opening is unlimited. The crown of the 26 tooth is half-destroyed. Probing of the carious cavity is painless. Percussion of the 26 tooth provokes acute pain. Mucous membrane of the alveolar process is edematic, hyperemic on the level of the 26 tooth. The 26 tooth was treated before. What is your provisional diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic periodontitis of the 26 tooth",
+        "value": true
+      },
+      {
+        "answer": "Acute purulent periodontitis of the 26 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute pulpitis of the 26 tooth",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periostitis of upper jaw of the 26 tooth on the left",
+        "value": false
+      },
+      {
+        "answer": "Periodontitis of the 26, 27, 28 teeth",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 42-year-old patient complains about acute constant pain that is getting worse when biting down on food, sensation of a recently erupted tooth on the right upper jaw. Examination of the 15 tooth revealed a deep carious cavity communicating with the dental cavity. Tooth percussion causes acute pain. Probing is painless. Mucous membrane in projection of the root apexis hyperemic, painful on palpation. X-ray picture shows no changes. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute albuminous periostitis",
+        "value": false
+      },
+      {
+        "answer": "Acute odontogenic  osteomyelitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A22-year-old patient complains about unaesthetic look of the 24 tooth from the moment of its eruption. Objectively: enamel of the 24 tooth is partly absent, the dentine is yellow. The 64 tooth was treated more than once when she was a child, but because of frequent exacerbations, edemas and gingival ?stula the 64 tooth was extracted when she was 9 years old. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Localised hypoplasia",
+        "value": true
+      },
+      {
+        "answer": "Initial caries",
+        "value": false
+      },
+      {
+        "answer": "Fluorosis",
+        "value": false
+      },
+      {
+        "answer": "Systemic hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Enamel aplasia",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 31-year-old patient complains about pain in the upper jaw tooth caused by sweet and cold food, that was ?rst registered one month ago. Objectively: the 26 tooth has a carious cavity within mantle dentine. Dentine of its walls is softened. Probing along the enamel-dentine junction is painful. Percussion is painless. Thermodiagnosis causes pain, that quickly disappear  after elimination of stimulus. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute median caries",
+        "value": true
+      },
+      {
+        "answer": "Acute initial caries",
+        "value": false
+      },
+      {
+        "answer": "Pulp hyperaemia",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 28-year-old woman has been treated for pulpitis by method of devital extirpation. Arsenic paste was left in the 15 tooth. The patient came to see a dentist for the second time only on the fourth day after  the rprevious visit. She was diagnosed with toxic periodontitis. What is the most optimal agent for treatment of root canal in this case?",
+    "answers": [
+      {
+        "answer": "Unithiol",
+        "value": true
+      },
+      {
+        "answer": "Cresophene",
+        "value": false
+      },
+      {
+        "answer": "Tripsin",
+        "value": false
+      },
+      {
+        "answer": "Eugenol",
+        "value": false
+      },
+      {
+        "answer": "Hydrocortisone emulsion",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 33-year-old patient complains about a carious cavity. Objectively: the 16 tooth is discoloured and has a deep carious cavity communicating with the dental cavity. Probing, percussion cause no pain. Electroodontodiagnosis is 100 microampere. X –ray picture shows widening of periodontal ?ssure. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic deep caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-oldpatientcomplainsabout constant dull pain in the 25 tooth that is getting worse when biting down on food. Objectively: masticatory surface of the 25 tooth has a carious cavity communicating with the dental cavity. The purulent discharges from the canal followed the probing. What method of diagnostics should be applied to con?rm the diagnosis?",
+    "answers": [
+      {
+        "answer": "X-ray examination",
+        "value": true
+      },
+      {
+        "answer": "Electric pulp test",
+        "value": false
+      },
+      {
+        "answer": "Thermal test",
+        "value": false
+      },
+      {
+        "answer": "Bacteriological examination",
+        "value": false
+      },
+      {
+        "answer": "Deep probing",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 34-year-old male patient complains about acute spasmodic pain in the region of his upper jaw on the left that is getting worse as affected by cold stimuli. Toothache irradiates to the ear and temple. He had acute toothache of the 37 tooth one year ago, but he didn’t consult a dentist. Pain recurred three days ago. Objectively: the 37 tooth has a carious cavity communicating with the dental cavity. Probing of the opened carious cavity is extremely painful. X-ray picture shows widening of periodontal ?ssure at the root apex of the 37 tooth. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic granulating periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 50-year-old patient complains about a cosmetic defect of the upper frontal teeth. After meticulous examination the patient was diagnosed with wedgeshaped defect of the 11, 12, 13, 21, 22, 23 teeth. What material should be chosen for the tooth ?lling?",
+    "answers": [
+      {
+        "answer": "Compomer restorativematerial",
+        "value": true
+      },
+      {
+        "answer": "Silicate cement",
+        "value": false
+      },
+      {
+        "answer": "Glass-ionomer cement",
+        "value": false
+      },
+      {
+        "answer": "Chemical-cure composite",
+        "value": false
+      },
+      {
+        "answer": "Silicophosphate cement",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 14-year-old boy complains about bleeding and pain in the 46 tooth during eating. He has a history of acute pain some time before. Objectively: there is a deep carious cavity (Black’s class II) communicating with the dental cavity, partially ?lled with overgrown pulp. Pulp tissue is bleeding, painful on touch. There is soft white dental deposit. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic hypertrophic pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic papillitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic simple pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 22-year-old patient complains about short-lasting spasmodic pain in the 26 tooth with long periods of pain absence. Objectively: the 26 tooth has a carious cavity in the masticatory surface, dental cavity is not opened. Probing causes pain in the pulp horn projection. Thermal stimuli cause sharp pain, percussion is painless. Regional lymph nodes are not palpable. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute circumscribed pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 67-year-old patient was diagnosed with cemental caries of the 35 tooth.What ?lling material should be chosen?",
+    "answers": [
+      {
+        "answer": "Glass-ionomer cement",
+        "value": true
+      },
+      {
+        "answer": "Silver amalgam",
+        "value": false
+      },
+      {
+        "answer": "Chemical-cure composite material",
+        "value": false
+      },
+      {
+        "answer": "Silidont",
+        "value": false
+      },
+      {
+        "answer": "Silicin",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 20-year-old patient complains about a carious cavity in the 44 tooth. Objectively: the 44 tooth has a deep carious cavity in the masticatory surface, the dentine is dense and pigmented. Probing, percussion cause no pain. Electroodontodiagnosis is 12 microampere. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic deep caries",
+        "value": true
+      },
+      {
+        "answer": "Chronic median caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute deep caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 27-year-old patient complains about a light brown spot in the upper foretooth. Objectively: the 23 tooth has a single light brown spot in the cervical region. Probing shows smooth surface. The tooth is nonresponsive to cold and probing. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic initial caries",
+        "value": true
+      },
+      {
+        "answer": "Fluorosis",
+        "value": false
+      },
+      {
+        "answer": "Local enamel hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Acute initial caries",
+        "value": false
+      },
+      {
+        "answer": "Chronic super?cial caries",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 60-year-old patient  underwents sanitation of the oral cavity before an operation on account of cataract. After examination the patient was diagnosed with chronic median caries of the 22tooth (Black’s class V). What ?lling material should NOTbe used in this patient?",
+    "answers": [
+      {
+        "answer": "Light-cure microhybrid material",
+        "value": true
+      },
+      {
+        "answer": "Chemical-cure microhybrid material",
+        "value": false
+      },
+      {
+        "answer": "Chemical-cure glass-ionomer cement",
+        "value": false
+      },
+      {
+        "answer": "Silicate cement",
+        "value": false
+      },
+      {
+        "answer": "Chemical-cure macro?lled composite",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 28-year-old patient complains about constant localised pain that is getting worse when biting down on food. Objectively: the 36 tooth has a carious cavity communicating with the dental cavity. Probing of the carious cavity causes no pain, percussion is painful, X-ray picture shows no changes. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute serous periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 23-year-old patient complains about a carious cavity in the 26 tooth. Objectively: the 26 tooth has a deep carious cavity communicating with the dental cavity. Probing, percussion cause no pain. There is a ?stula on the gingival in the region of root apex projection of the 26 tooth. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic granulating periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic granulomatous periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A19-year-old patient complains about dull pain that is getting worse while pressing the tooth. The tooth was treated for pulpitis one mounth ago. Objectively: the 36 tooth is ?lled. Percussion causes acute pain. Mucous membrane is hyperemic and edematic. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute serous periodontitis",
+        "value": true
+      },
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute suppurative pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 13-year-old boy complains about pain in the upper jaw caused by warm and hot stimuli, offensive breath when he sucks his tooth. Objectively: the 24 tooth is changed in color, there is a deep carious cavity communicating with the tooth cavity. Deep probing is painful. Percussion causes no pain. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Chronic gangrenous pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Chronic periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Chronic ?brous pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A dentist ?lls a Black class II carious cavity in the 36 tooth of a 35-year-old man by sandwich method in one of?ce visit. What glass-ionomer cement should be chosen as basic liner in this case?",
+    "answers": [
+      {
+        "answer": "Hybrid",
+        "value": true
+      },
+      {
+        "answer": "Water-hardening",
+        "value": false
+      },
+      {
+        "answer": "Classical",
+        "value": false
+      },
+      {
+        "answer": "Condensable",
+        "value": false
+      },
+      {
+        "answer": "Reinforced",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 36-year-old male patient complains about an aesthetic defect of upper frontal teeth. In past history: she undergoes regular check-up in the endocrinological department on account of thyrotoxicosis. Enamel defects appeared several years ago and since that have been gradually expanding. Examination revealed that the 12, 11, 21, 22 teeth had transverse oval enamel defects on the vestibular surfaces. Probing and cold test is painless. Floor of the defects is smooth, glossy and hard. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Erosion of hard tissues",
+        "value": true
+      },
+      {
+        "answer": "Acute super?cial caries",
+        "value": false
+      },
+      {
+        "answer": "Wedge-shaped defects",
+        "value": false
+      },
+      {
+        "answer": "Systemic hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Necrosis of hard tissues",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 18-year-old girl complains about acute spontaneous pain in an upper jaw tooth on the right. The pain has been lasting for 3 days, it is throbbing, irradiating to the temple, getting worse at night. Objectively: surface of the 15 tooth exhibits a carious cavity within parapulpar dentine. Dentine is softened, of greyish colour. Probing of the whole cavity ?oor is painful, percussion of the 15 tooth is painless. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent pulpitis",
+        "value": true
+      },
+      {
+        "answer": "Acute diffuse pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute focal pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute periodontitis",
+        "value": false
+      },
+      {
+        "answer": "Exacerbation of chronic periodontitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-old man has a medium deep carious cavity in the 37 tooth (Black’s class II). For its ?lling a dentist chose technique of layer-by-layer restoration. What composite should be coating the ?oor and walls of the carious cavity in order to form super adaptive initial layer?",
+    "answers": [
+      {
+        "answer": "Flowable",
+        "value": true
+      },
+      {
+        "answer": "Condensable",
+        "value": false
+      },
+      {
+        "answer": "Macro?lled",
+        "value": false
+      },
+      {
+        "answer": "Microhybrid",
+        "value": false
+      },
+      {
+        "answer": "Micro?lled",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 38-year-old patient consulted a dentist about aching pain in the region of the 48 tooth that is getting worse when biting down on food. Body temperature rise up to 37,6oC and aggravation of general condition is present. Objectively : insigni?cant swelling of retromolar region as well as hyperaemia of mucous membrane. The 48 tooth is covered with occlusal pad. It is painful on palpation. Purulent discharges are present. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Acute purulent pericoronitis",
+        "value": true
+      },
+      {
+        "answer": "Acute pulpitis",
+        "value": false
+      },
+      {
+        "answer": "Acute periodontitis of the 48 tooth",
+        "value": false
+      },
+      {
+        "answer": "Aphthous stomatitis",
+        "value": false
+      },
+      {
+        "answer": "Acute purulent periostitis",
+        "value": false
+      }
+    ]
+  },
+  {
+    "question": "A 14-year-old girl complains about an aesthetic defect in form of white spots on her teeth. Fluorine concentration in the drinking water in the area of her residence is 2 mg/l. Objectively: vestibular surfaces of all teeth are covered with ill-de?ned white spots. What is the most likely diagnosis?",
+    "answers": [
+      {
+        "answer": "Fluorosis",
+        "value": true
+      },
+      {
+        "answer": "Local hypoplasia",
+        "value": false
+      },
+      {
+        "answer": "Multiple caries",
+        "value": false
+      },
+      {
+        "answer": "Amelogenesis imperfect",
+        "value": false
+      },
+      {
+        "answer": "Systemic hypoplasia",
         "value": false
       }
     ]

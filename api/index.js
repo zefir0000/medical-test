@@ -9,3 +9,12 @@ export const getServices = async (slug) => {
     console.error(e)
   }
 }
+
+export const getData = async () => {
+  try {
+    const themaOne = thema;
+    return themaOne
+  } catch (e) {
+    console.error(e)
+  }
+}
